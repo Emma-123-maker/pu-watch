@@ -15,55 +15,40 @@ jobs:
           flutter-version: '3.22.0'
           channel: 'stable'
       
-      - name: Fix missing Flutter files
+      - name: Fix missing files
         run: |
-          cd pu-watch
           flutter config --enable-web
-          flutter create . --platforms=web --project-name pu_watch
+          flutter create . --project-name pu_watch --platforms=web,android --overwrite
       
       - name: Install dependencies
-        run: |
-          cd pu-watch
-          flutter pub get
+        run: flutter pub get
       
       - name: Build Web
-        run: |
-          cd pu-watch
-          flutter build web --release --base-href /pu-watch/
+        run: flutter build web --release --base-href /pu-watch/
       
-      - name: Deploy to GitHub Pages
+      - name: Deploy to Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./pu-watch/build/web
+          publish_dir: ./build/web
 
   build-apk:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
       - uses: subosito/flutter-action@v2
         with:
           flutter-version: '3.22.0'
           channel: 'stable'
-      
-      - name: Fix missing Android files
+      - name: Fix missing files
         run: |
-          cd pu-watch
-          flutter create . --platforms=android --project-name pu_watch
-      
+          flutter create . --project-name pu_watch --platforms=android --overwrite
       - name: Install dependencies
-        run: |
-          cd pu-watch
-          flutter pub get
-      
+        run: flutter pub get
       - name: Build APK
-        run: |
-          cd pu-watch
-          flutter build apk --release
-      
+        run: flutter build apk --release
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: pu-watch-apk
-          path: pu-watch/build/app/outputs/flutter-apk/app-release.apk
+          path: build/app/outputs/flutter-apk/app-release.apk
