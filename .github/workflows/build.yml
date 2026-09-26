@@ -8,43 +8,45 @@ jobs:
   build-web:
     runs-on: ubuntu-latest
     steps:
-            - uses: actions/checkout@v4
-            - uses: subosito/flutter-action@v2
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
         with:
           flutter-version: '3.22.0'
           channel: 'stable'
-            - name: Build Web
+      - name: Prepare assets
+        run: |
+          mkdir -p pu-watch/assets/data
+          cp assets/data/pu_sample.json pu-watch/assets/data/ || true
+      - name: Build Web
         run: |
           cd pu-watch
           flutter config --enable-web
           flutter create . --platforms=web --project-name pu_watch
-          mkdir -p assets/data
-          cp -r ../assets/data/* assets/data/ || echo "no root assets"
-          cp -r assets/data ../assets/data 2>/dev/null || true
           flutter pub get
           flutter build web --release --base-href /pu-watch/
-            - name: Deploy
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./pu-watch/build/web
-
   build-apk:
     runs-on: ubuntu-latest
     steps:
-            - uses: actions/checkout@v4
-            - uses: subosito/flutter-action@v2
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
         with:
           flutter-version: '3.22.0'
           channel: 'stable'
-            - name: Build APK
+      - name: Prepare assets
+        run: |
+          mkdir -p pu-watch/assets/data
+          cp assets/data/pu_sample.json pu-watch/assets/data/ || true
+      - name: Build APK
         run: |
           cd pu-watch
-          mkdir -p assets/data
-          cp -r ../assets/data/* assets/data/ || echo "no root assets"
           flutter pub get
           flutter build apk --release
-            - name: Upload APK
+      - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: pu-watch-apk
