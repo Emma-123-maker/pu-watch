@@ -76945,7 +76945,10 @@ A.afQ.prototype={
 $2(a,b){this.a.xf(a,b)},
 $S:463}
 A.afR.prototype={
-$2(a,b){var s=null,r=J.bg(this.a.e,b),q=J.aB(r),p=A.cy(A.o(q.h(r,"pu_code"))+" - "+A.o(q.h(r,"pu_name")),s,s,s,s,s,s)
+$2(a,b){var s=null,r=J.bg(this.a.e,b),q=J.aB(r),p=A.o(q.h(r,"pu_code")),o=q.h(r,"pu_name")
+if(o==null)o=q.h(r,"name")
+if(o==null)o=q.h(r,"polling_unit_name")
+p=A.cy(p+" - "+A.o(o==null?"PU":o),s,s,s,s,s,s)
 return A.a0R(s,new A.afP(),A.cy(A.o(q.h(r,"lga"))+", "+A.o(q.h(r,"ward")),s,s,s,s,s,s),p)},
 $S:464}
 A.afP.prototype={
