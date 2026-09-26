@@ -1,7 +1,0 @@
-[
-  {"state": "Akwa Ibom", "lga": "Uyo", "ward": "Ewet", "pu_name": "Primary School, Eniong Offot", "pu_code": "03/01/01/001", "lat": 5.0381, "lng": 7.9323},
-  {"state": "Akwa Ibom", "lga": "Uyo", "ward": "Ewet", "pu_name": "Methodist Primary School, Anua", "pu_code": "03/01/01/002", "lat": 5.0400, "lng": 7.9350},
-  {"state": "Akwa Ibom", "lga": "Uyo", "ward": "Offot", "pu_name": "Town Hall, Offot", "pu_code": "03/01/02/005", "lat": 5.0201, "lng": 7.9100},
-  {"state": "Akwa Ibom", "lga": "Etinan", "ward": "Etinan Urban I", "pu_name": "Central School, Etinan", "pu_code": "03/05/01/003", "lat": 4.9990, "lng": 7.8512},
-  {"state": "Akwa Ibom", "lga": "Ikot Ekpene", "ward": "Ikot Ekpene I", "pu_name": "Convent Primary School", "pu_code": "03/10/01/001", "lat": 5.1816, "lng": 7.7144}
-]
