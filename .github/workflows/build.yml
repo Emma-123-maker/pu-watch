@@ -17,20 +17,25 @@ jobs:
       
       - name: Fix missing Flutter files
         run: |
+          cd pu-watch
           flutter config --enable-web
-          flutter create . --platforms=web
+          flutter create . --platforms=web --project-name pu_watch
       
       - name: Install dependencies
-        run: flutter pub get
+        run: |
+          cd pu-watch
+          flutter pub get
       
       - name: Build Web
-        run: flutter build web --release --base-href /pu-watch/
+        run: |
+          cd pu-watch
+          flutter build web --release --base-href /pu-watch/
       
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build/web
+          publish_dir: ./pu-watch/build/web
 
   build-apk:
     runs-on: ubuntu-latest
@@ -44,16 +49,21 @@ jobs:
       
       - name: Fix missing Android files
         run: |
-          flutter create . --platforms=android
+          cd pu-watch
+          flutter create . --platforms=android --project-name pu_watch
       
       - name: Install dependencies
-        run: flutter pub get
+        run: |
+          cd pu-watch
+          flutter pub get
       
       - name: Build APK
-        run: flutter build apk --release
+        run: |
+          cd pu-watch
+          flutter build apk --release
       
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: pu-watch-apk
-          path: build/app/outputs/flutter-apk/app-release.apk
+          path: pu-watch/build/app/outputs/flutter-apk/app-release.apk
