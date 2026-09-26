@@ -20,3 +20,5 @@ flutter:
   uses-material-design: true
   assets:
     - assets/data/pu_sample.json
+    - assets/data/states_index.json
+    - assets/data/states/
