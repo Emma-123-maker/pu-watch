@@ -16,6 +16,8 @@ jobs:
       - name: Build Web
         run: |
           cd pu-watch
+          flutter config --enable-web
+          flutter create . --platforms=web --project-name pu_watch
           flutter pub get
           flutter build web --release --base-href /pu-watch/
       - name: Deploy
