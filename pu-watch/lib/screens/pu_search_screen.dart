@@ -91,7 +91,7 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
         Expanded(child: ListView.builder(itemCount: filtered.length, itemBuilder: (_, i) {
           var pu = filtered[i];
           return ListTile(
-            title: Text("${pu['pu_code']} - ${pu['pu_name']}"),
+            title: Text("${pu['pu_code']} - ${pu['pu_name'] ?? pu['name'] ?? pu['polling_unit_name'] ?? 'PU'}"),
             subtitle: Text("${pu['lga']}, ${pu['ward']}"),
             onTap: () {
               // You can navigate to check-in here
