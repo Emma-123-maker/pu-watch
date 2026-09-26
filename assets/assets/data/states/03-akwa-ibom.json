@@ -1,0 +1,7 @@
+[
+  {"code": "03/01/01/001", "pu_code": "03/01/01/001", "name": "QIC Primary School, Ewet", "polling_unit": "QIC Primary School, Ewet", "ward": "Ewet", "lga": "Uyo", "state": "Akwa Ibom"},
+  {"code": "03/01/01/002", "pu_code": "03/01/01/002", "name": "St. Patrick School, Ewet", "polling_unit": "St. Patrick School, Ewet", "ward": "Ewet", "lga": "Uyo", "state": "Akwa Ibom"},
+  {"code": "03/01/02/001", "pu_code": "03/01/02/001", "name": "Community Hall, Ikot Oku Ikono", "polling_unit": "Community Hall, Ikot Oku Ikono", "ward": "Ikot Oku Ikono", "lga": "Uyo", "state": "Akwa Ibom"},
+  {"code": "03/02/01/001", "pu_code": "03/02/01/001", "name": "Primary School, Eket Town", "polling_unit": "Primary School, Eket Town", "ward": "Eket 1", "lga": "Eket", "state": "Akwa Ibom"},
+  {"code": "03/03/01/001", "pu_code": "03/03/01/001", "name": "Town Hall, Ikot Abasi", "polling_unit": "Town Hall, Ikot Abasi", "ward": "Ikot Abasi 1", "lga": "Ikot Abasi", "state": "Akwa Ibom"}
+]
