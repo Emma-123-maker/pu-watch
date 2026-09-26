@@ -1,39 +1,28 @@
 name: Build PU-Watch
-
 permissions:
   contents: write
-
 on:
   push:
     branches: [ main ]
-
 jobs:
   build-web:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
       - uses: subosito/flutter-action@v2
         with:
           flutter-version: '3.22.0'
           channel: 'stable'
-      
-      - name: Fix missing files
-        run: |
-          flutter config --enable-web
-          flutter create . --project-name pu_watch --platforms=web,android --overwrite
-      
-      - name: Install dependencies
-        run: flutter pub get
-      
       - name: Build Web
-        run: flutter build web --release --base-href /pu-watch/
-      
-      - name: Deploy to Pages
+        run: |
+          cd pu-watch
+          flutter pub get
+          flutter build web --release --base-href /pu-watch/
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build/web
+          publish_dir: ./pu-watch/build/web
 
   build-apk:
     runs-on: ubuntu-latest
@@ -43,15 +32,13 @@ jobs:
         with:
           flutter-version: '3.22.0'
           channel: 'stable'
-      - name: Fix missing files
-        run: |
-          flutter create . --project-name pu_watch --platforms=android --overwrite
-      - name: Install dependencies
-        run: flutter pub get
       - name: Build APK
-        run: flutter build apk --release
+        run: |
+          cd pu-watch
+          flutter pub get
+          flutter build apk --release
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: pu-watch-apk
-          path: build/app/outputs/flutter-apk/app-release.apk
+          path: pu-watch/build/app/outputs/flutter-apk/app-release.apk
