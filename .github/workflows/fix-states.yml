@@ -1,0 +1,51 @@
+name: Fix All State Data
+on: workflow_dispatch
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fix states
+        run: |
+          node << 'NODE'
+          const https = require('https');
+          const fs = require('fs');
+          const states = [
+            ["01","abia","Abia"],["02","adamawa","Adamawa"],["03","akwa-ibom","Akwa Ibom"],
+            ["04","anambra","Anambra"],["05","bauchi","Bauchi"],["06","bayelsa","Bayelsa"],
+            ["07","benue","Benue"],["08","borno","Borno"],["09","cross-river","Cross River"],
+            ["10","delta","Delta"],["11","ebonyi","Ebonyi"],["12","edo","Edo"],
+            ["13","ekiti","Ekiti"],["14","enugu","Enugu"],["15","gombe","Gombe"],
+            ["16","imo","Imo"],["17","jigawa","Jigawa"],["18","kaduna","Kaduna"],
+            ["19","kano","Kano"],["20","katsina","Katsina"],["21","kebbi","Kebbi"],
+            ["22","kogi","Kogi"],["23","kwara","Kwara"],["24","lagos","Lagos"],
+            ["25","nasarawa","Nasarawa"],["26","niger","Niger"],["27","ogun","Ogun"],
+            ["28","ondo","Ondo"],["29","osun","Osun"],["30","oyo","Oyo"],
+            ["31","plateau","Plateau"],["32","rivers","Rivers"],["33","sokoto","Sokoto"],
+            ["34","taraba","Taraba"],["35","yobe","Yobe"],["36","zamfara","Zamfara"],
+            ["37","federal-capital-territory","FCT"]
+          ];
+          function fetchJson(url){return new Promise((res,rej)=>{https.get(url,r=>{let d='';r.on('data',c=>d+=c);r.on('end',()=>res(JSON.parse(d)))}).on('error',rej)})}
+          (async()=>{
+            for(const [code,file,stateName] of states){
+              console.log('Fetching '+stateName);
+              const url=`https://raw.githubusercontent.com/JayCodist/inec-polling-units-scraper/main/results/${file}.json`;
+              try{
+                const data=await fetchJson(url);
+                let out=[];
+                for(const lga of data.lgas){for(const w of lga.wards){for(const pu of w.pollingUnits){out.push({pu_code:pu.delimitation,pu_name:pu.name,name:pu.name,lga:lga.name,ward:w.name,state:stateName,state_code:code})}}}
+                const target=`pu-watch/assets/data/states/${code}-${file}.json`;
+                fs.mkdirSync(require('path').dirname(target),{recursive:true});
+                fs.writeFileSync(target, JSON.stringify(out,null,2));
+                console.log(`Wrote ${out.length} PUs to ${target}`);
+              }catch(e){console.error('Failed '+stateName, e.message)}
+            }
+          })();
+          NODE
+      - name: Commit
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
+          git add pu-watch/assets/data/states/
+          git commit -m "fix: real PU data for all states" || echo "no changes"
+          git push
