@@ -1,15 +1,20 @@
 name: Fix All State Data
 on: workflow_dispatch
+permissions:
+  contents: write
 jobs:
   fix:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Fix states
         run: |
           node << 'NODE'
           const https = require('https');
           const fs = require('fs');
+          const path = require('path');
           const states = [
             ["01","abia","Abia"],["02","adamawa","Adamawa"],["03","akwa-ibom","Akwa Ibom"],
             ["04","anambra","Anambra"],["05","bauchi","Bauchi"],["06","bayelsa","Bayelsa"],
@@ -25,7 +30,7 @@ jobs:
             ["34","taraba","Taraba"],["35","yobe","Yobe"],["36","zamfara","Zamfara"],
             ["37","federal-capital-territory","FCT"]
           ];
-          function fetchJson(url){return new Promise((res,rej)=>{https.get(url,r=>{let d='';r.on('data',c=>d+=c);r.on('end',()=>res(JSON.parse(d)))}).on('error',rej)})}
+          function fetchJson(url){return new Promise((res,rej)=>{https.get(url,r=>{let d='';r.on('data',c=>d+=c);r.on('end',()=>{try{res(JSON.parse(d))}catch(e){rej(e)}})}).on('error',rej)})}
           (async()=>{
             for(const [code,file,stateName] of states){
               console.log('Fetching '+stateName);
@@ -35,9 +40,12 @@ jobs:
                 let out=[];
                 for(const lga of data.lgas){for(const w of lga.wards){for(const pu of w.pollingUnits){out.push({pu_code:pu.delimitation,pu_name:pu.name,name:pu.name,lga:lga.name,ward:w.name,state:stateName,state_code:code})}}}
                 const target=`pu-watch/assets/data/states/${code}-${file}.json`;
-                fs.mkdirSync(require('path').dirname(target),{recursive:true});
+                const target2=`assets/data/states/${code}-${file}.json`;
+                fs.mkdirSync(path.dirname(target),{recursive:true});
+                fs.mkdirSync(path.dirname(target2),{recursive:true});
                 fs.writeFileSync(target, JSON.stringify(out,null,2));
-                console.log(`Wrote ${out.length} PUs to ${target}`);
+                fs.writeFileSync(target2, JSON.stringify(out,null,2));
+                console.log(`Wrote ${out.length} to ${target}`);
               }catch(e){console.error('Failed '+stateName, e.message)}
             }
           })();
@@ -46,6 +54,6 @@ jobs:
         run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
-          git add pu-watch/assets/data/states/
+          git add -A
           git commit -m "fix: real PU data for all states" || echo "no changes"
           git push
