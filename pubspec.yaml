@@ -13,7 +13,10 @@ dependencies:
   url_launcher: ^6.2.0
   cupertino_icons: ^1.0.5
 
+dev_dependencies:
+  flutter_lints: ^3.0.0
+
 flutter:
   uses-material-design: true
   assets:
-    - assets/data/
+    - assets/data/pu_sample.json
