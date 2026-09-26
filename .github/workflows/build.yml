@@ -29,6 +29,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./pu-watch/build/web
+
   build-apk:
     runs-on: ubuntu-latest
     steps:
@@ -41,6 +42,11 @@ jobs:
         run: |
           mkdir -p pu-watch/assets/data
           cp assets/data/pu_sample.json pu-watch/assets/data/ || true
+      - name: Recreate Android project
+        run: |
+          cd pu-watch
+          rm -rf android
+          flutter create . --platforms=android --project-name pu_watch
       - name: Build APK
         run: |
           cd pu-watch
