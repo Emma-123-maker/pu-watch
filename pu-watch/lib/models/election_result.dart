@@ -1,4 +1,4 @@
-// lib/models/election_result.dart - GENERIC FOR ALL ELECTIONS
+import 'dart:collection';
 
 enum ElectionType {
   presidential,
@@ -13,13 +13,39 @@ enum ElectionType {
 extension ElectionTypeLabel on ElectionType {
   String get label {
     switch (this) {
-      case ElectionType.presidential: return "Presidential";
-      case ElectionType.senatorial: return "Senatorial";
-      case ElectionType.houseOfReps: return "House of Reps";
-      case ElectionType.governorship: return "Governorship";
-      case ElectionType.stateAssembly: return "State Assembly";
-      case ElectionType.chairmanship: return "LGA Chairmanship";
-      case ElectionType.councillorship: return "Councillorship";
+      case ElectionType.presidential:
+        return "Presidential";
+      case ElectionType.senatorial:
+        return "Senatorial";
+      case ElectionType.houseOfReps:
+        return "House of Reps";
+      case ElectionType.governorship:
+        return "Governorship";
+      case ElectionType.stateAssembly:
+        return "State House of Assembly";
+      case ElectionType.chairmanship:
+        return "LGA Chairmanship";
+      case ElectionType.councillorship:
+        return "Ward Councillorship";
+    }
+  }
+
+  String get ecForm {
+    switch (this) {
+      case ElectionType.presidential:
+        return "EC8A";
+      case ElectionType.senatorial:
+        return "EC8A(II) - Senate";
+      case ElectionType.houseOfReps:
+        return "EC8A(III) - HoR";
+      case ElectionType.governorship:
+        return "EC8B - Governorship";
+      case ElectionType.stateAssembly:
+        return "EC8B(II) - Assembly";
+      case ElectionType.chairmanship:
+        return "EC8C - Chairmanship";
+      case ElectionType.councillorship:
+        return "EC8C(II) - Councillorship";
     }
   }
 }
@@ -29,13 +55,39 @@ class ElectionResult {
   String lga;
   String ward;
   String stateCode;
-  ElectionType electionType; // NEW - which election is this?
+  ElectionType electionType;
   int accredited;
-  Map<String, int> partyVotes; // NEW - generic, no hardcoded apc/adc
+  Map<String, int> partyVotes;
   int others;
   String photoPath;
   DateTime timestamp;
   bool synced;
+
+  static const List<String> allParties = [
+    "AA",
+    "AAC",
+    "ADC",
+    "ADP",
+    "APC",
+    "APGA",
+    "APM",
+    "APP",
+    "A",
+    "BP",
+    "LP",
+    "NNPP",
+    "NDC",
+    "NRM",
+    "PDP",
+    "PRP",
+    "SDP",
+    "YPP",
+    "ZLP"
+  ];
+
+  static Map<String, String> get partyLabels {
+    return {for (var p in allParties) p: p};
+  }
 
   ElectionResult({
     required this.puCode,
@@ -49,49 +101,52 @@ class ElectionResult {
     required this.photoPath,
     required this.timestamp,
     this.synced = false,
-  }) : partyVotes = partyVotes ?? { for (var p in allParties) p: 0 };
-
-  // All 18 INEC parties - NO CANDIDATE NAMES
-  static const List<String> allParties = [
-    "AA","AAC","ADC","ADP","APC","APGA","APM","APP","A",
-    "BP","LP","NNPP","NDC","NRM","PDP","PRP","SDP","YPP","ZLP"
-  ];
-
-  // For UI - just party code, no name
-  static const Map<String, String> partyLabels = {
-    for (var p in allParties) p: p
-  };
+  }) : partyVotes = partyVotes?? {for (var p in allParties) p: 0};
 
   int get totalCounted => partyVotes.values.fold(0, (s, v) => s + v) + others;
 
   Map<String, dynamic> toJson() => {
-    'puCode': puCode,
-    'lga': lga,
-    'ward': ward,
-    'stateCode': stateCode,
-    'electionType': electionType.name,
-    'accredited': accredited,
-    'partyVotes': partyVotes,
-    'others': others,
-    'photoPath': photoPath,
-    'timestamp': timestamp.toIso8601String(),
-    'synced': synced,
-  };
+        'puCode': puCode,
+        'lga': lga,
+        'ward': ward,
+        'stateCode': stateCode,
+        'electionType': electionType.name,
+        'accredited': accredited,
+        'partyVotes': partyVotes,
+        'others': others,
+        'photoPath': photoPath,
+        'timestamp': timestamp.toIso8601String(),
+        'synced': synced,
+      };
 
-  factory ElectionResult.fromJson(Map json) => ElectionResult(
-    puCode: json['puCode'] ?? '',
-    lga: json['lga'] ?? '',
-    ward: json['ward'] ?? '',
-    stateCode: json['stateCode'] ?? '',
-    electionType: ElectionType.values.firstWhere(
-      (e) => e.name == json['electionType'], 
-      orElse: () => ElectionType.presidential
-    ),
-    accredited: json['accredited'] ?? 0,
-    partyVotes: Map<String, int>.from(json['partyVotes'] ?? {}),
-    others: json['others'] ?? 0,
-    photoPath: json['photoPath'] ?? '',
-    timestamp: DateTime.tryParse(json['timestamp'] ?? '') ?? DateTime.now(),
-    synced: json['synced'] ?? false,
-  );
+  factory ElectionResult.fromJson(Map json) {
+    final String typeName = json['electionType']?? 'presidential';
+    final ElectionType type = ElectionType.values.firstWhere(
+      (e) => e.name == typeName,
+      orElse: () => ElectionType.presidential,
+    );
+    Map<String, int> votes = {};
+    if (json['partyVotes']!= null) {
+      votes = Map<String, int>.from(json['partyVotes']);
+    } else {
+      // backward compat for old apc, adc fields
+      for (var p in allParties) {
+        votes[p] = json[p.toLowerCase()]?? 0;
+      }
+    }
+    return ElectionResult(
+      puCode: json['puCode']?? '',
+      lga: json['lga']?? '',
+      ward: json['ward']?? '',
+      stateCode: json['stateCode']?? '',
+      electionType: type,
+      accredited: json['accredited']?? 0,
+      partyVotes: votes,
+      others: json['others']?? 0,
+      photoPath: json['photoPath']?? '',
+      timestamp:
+          DateTime.tryParse(json['timestamp']?? '')?? DateTime.now(),
+      synced: json['synced']?? false,
+    );
+  }
 }
