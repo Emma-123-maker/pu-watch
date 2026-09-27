@@ -19,37 +19,38 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
+      - name: Find Flutter project
+        id: find
+        run: |
+          echo "Listing files..."
+          ls -la
+          echo "--- finding pubspec.yaml ---"
+          find . -name "pubspec.yaml" | head -20
+          DIR=$(dirname $(find . -name "pubspec.yaml" | head -1))
+          echo "PROJECT_DIR=$DIR" >> $GITHUB_ENV
+          echo "Found project in $DIR"
+
       - uses: subosito/flutter-action@v2
         with:
           channel: 'stable'
           flutter-version: '3.22.0'
-      - run: flutter pub get
-      - run: flutter build web --release --base-href "/pu-watch/"
+
+      - name: Pub get
+        working-directory: ${{ env.PROJECT_DIR }}
+        run: flutter pub get
+
+      - name: Build web
+        working-directory: ${{ env.PROJECT_DIR }}
+        run: flutter build web --release --base-href "/pu-watch/"
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './build/web'
-
-  build-apk:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: subosito/flutter-action@v2
-        with:
-          channel: 'stable'
-          flutter-version: '3.22.0'
-      - uses: actions/setup-java@v4
-        with:
-          distribution: 'zulu'
-          java-version: '17'
-      - run: flutter pub get
-      - run: flutter build apk --release
-      - uses: actions/upload-artifact@v4
-        with:
-          name: pu-watch-apk
-          path: build/app/outputs/flutter-apk/app-release.apk
+          path: ${{ env.PROJECT_DIR }}/build/web
 
   deploy:
     environment:
