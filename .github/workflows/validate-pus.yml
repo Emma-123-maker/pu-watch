@@ -1,0 +1,45 @@
+name: Lock PU Database - No Null Allowed
+on:
+  push:
+    paths:
+      - '**/assets/data/states/*.json'
+      - '**/*.json'
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for null PUs
+        run: |
+          python3 << 'PY'
+          import json, glob, sys
+          files = glob.glob("**/assets/data/states/*.json", recursive=True)
+          failed = False
+          total_nulls = 0
+          for path in files:
+              try:
+                  with open(path, 'r', encoding='utf-8') as f:
+                      content = f.read()
+                      data = json.loads(content)
+                  for i, item in enumerate(data):
+                      if not isinstance(item, dict):
+                          continue
+                      name = str(item.get('pu_name') or item.get('name') or '').lower()
+                      code = str(item.get('pu_code') or item.get('code') or '').lower()
+                      if 'null' in name or 'null' in code or name.strip() == '' or code.strip() == '':
+                          print(f"❌ NULL FOUND in {path} at index {i}: {item}")
+                          failed = True
+                          total_nulls += 1
+              except Exception as e:
+                  print(f"⚠️ Could not check {path}: {e}")
+          
+          if failed:
+              print(f"\n🔒 BLOCKED! Found {total_nulls} null/invalid PUs. Push rejected!")
+              print("Fix your JSON before pushing!")
+              sys.exit(1)
+          else:
+              print(f"✅ LOCK ACTIVE! Checked {len(files)} files — 0 null PUs found. Database is clean!")
+          PY
