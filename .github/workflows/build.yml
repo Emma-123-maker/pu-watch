@@ -3,24 +3,35 @@ on:
   push:
     branches: [ main ]
   workflow_dispatch:
+
 permissions:
   contents: read
   pages: write
   id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   build-web:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
+
       - name: Find project
         run: |
           DIR=$(dirname $(find . -name "pubspec.yaml" | head -1))
           echo "PROJECT_DIR=$DIR" >> $GITHUB_ENV
+          echo "Found in $DIR"
+
       - uses: subosito/flutter-action@v2
         with:
-          channel: 'stable'
-          flutter-version: '3.22.0'
-      - name: Build PWA
+          channel: stable
+          flutter-version: '3.24.5'
+          cache: true
+
+      - name: Build PWA - 2027 Final (18 parties)
         working-directory: ${{ env.PROJECT_DIR }}
         run: |
           flutter config --enable-web
@@ -30,13 +41,13 @@ jobs:
           fi
           cat > web/manifest.json <<'JSON'
           {
-            "name": "Find Your PU - INEC Polling Units",
-            "short_name": "Find PU",
+            "name": "PU-Watch 2027 - INEC Results",
+            "short_name": "PU-Watch",
             "start_url": "/pu-watch/",
             "display": "standalone",
             "background_color": "#2E7D32",
             "theme_color": "#2E7D32",
-            "description": "Quickly find your INEC Polling Unit",
+            "description": "Track 2027: NDC Obi, ADC Atiku, APM Makinde, AAC Sowore + 14 others",
             "orientation": "portrait-primary",
             "icons": [
               { "src": "icons/Icon-192.png", "sizes": "192x192", "type": "image/png" },
@@ -47,15 +58,17 @@ jobs:
           }
           JSON
           flutter build web --release --pwa-strategy offline-first --base-href "/pu-watch/"
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ${{ env.PROJECT_DIR }}/build/web
+
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     needs: build-web
     steps:
       - id: deployment
