@@ -1,0 +1,34 @@
+name: Clean Null PUs
+
+on:
+  workflow_dispatch:
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Clean null entries from all state files
+        run: |
+          for file in data/*.json public/data/*.json src/data/*.json; do
+            if [ -f "$file" ]; then
+              echo "Cleaning $file"
+              # Remove objects where name is null, "null - PU", empty, or code is null
+              jq '[ .[] | select(.name != null and .pu_name != null and .PU != null) | select(.name != "null - PU" and .pu_name != "null - PU" and .name != "null" and .pu_name != "null" and .name != "" and .pu_name != "") ]' "$file" > tmp.json && mv tmp.json "$file"
+              # Also handle if file is object with PUs array
+              jq 'if has("pus") then .pus = (.pus | map(select(.name != null and .pu_name != null and .name != "null - PU" and .pu_name != "null - PU"))) else . end | if has("data") then .data = (.data | map(select(.name != null and .pu_name != null and .name != "null - PU" and .pu_name != "null - PU"))) else . end' "$file" > tmp2.json && mv tmp2.json "$file" || true
+            fi
+          done
+          echo "Cleaned counts:"
+          wc -l data/*.json 2>/dev/null || wc -l public/data/*.json 2>/dev/null || true
+
+      - name: Commit cleaned files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "Clean null PU entries" || echo "No changes"
+          git push
