@@ -15,7 +15,7 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
   List<Map<String, dynamic>> _allPUs = [];
   List<Map<String, dynamic>> _filteredPUs = [];
   bool _isLoading = true;
-  String _loadedFrom = 'dummy';
+  String _info = '';
 
   @override
   void initState() {
@@ -31,135 +31,106 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
     super.dispose();
   }
 
-  String _get(Map<String, dynamic> m, List<String> keys) {
+  String _g(Map<String, dynamic> m, List<String> keys) {
     for (var k in keys) {
-      if (m.containsKey(k) && m[k]!= null && m[k].toString().trim().isNotEmpty) {
-        return m[k].toString().trim();
-      }
+      if (m[k]!= null && m[k].toString().trim().isNotEmpty) return m[k].toString().trim();
     }
     return '';
   }
 
   Map<String, dynamic> _normalize(Map<String, dynamic> raw) {
-    final code = _get(raw, ['pu_code','code','PU_CODE','puCode','id','PUcode','delimitation']);
-    final name = _get(raw, ['pu_name','name','PU_NAME','polling_unit_name','puName']);
-    final lga = _get(raw, ['lga','lgaName','lga_name','LGA','LGA_NAME']);
-    final ward = _get(raw, ['ward','wardName','ward_name','WARD','WARD_NAME','reg_area']);
-    final state = _get(raw, ['state','stateName','state_name','STATE','STATE_NAME','stateCode']);
-    final stateCode = _get(raw, ['stateCode','state_code','state_code_id','STATE_CODE']);
-
     return {
-      'pu_code': code.isNotEmpty? code : 'PU',
-      'code': code.isNotEmpty? code : 'PU',
-      'pu_name': name.isNotEmpty? name : code,
-      'name': name.isNotEmpty? name : code,
-      'lga': lga,
-      'lgaName': lga,
-      'ward': ward,
-      'wardName': ward,
-      'state': state,
-      'stateName': state,
-      'stateCode': stateCode.isNotEmpty? stateCode : state,
-      // keep all original fields too
+      'pu_code': _g(raw, ['pu_code','code','PU_CODE','id','delimitation','puCode']),
+      'code': _g(raw, ['pu_code','code','PU_CODE','id']),
+      'pu_name': _g(raw, ['pu_name','name','PU_NAME','puName','polling_unit_name']),
+      'name': _g(raw, ['pu_name','name','PU_NAME','puName']),
+      'lga': _g(raw, ['lga','lgaName','lga_name','LGA']),
+      'ward': _g(raw, ['ward','wardName','ward_name','WARD','reg_area']),
+      'state': _g(raw, ['state','stateName','state_name','STATE','stateCode']),
+      'stateCode': _g(raw, ['stateCode','state_code','STATE_CODE','state']),
      ...raw,
     };
   }
 
   Future<void> _loadPUs() async {
-    // List of possible file locations - add yours here
-    final candidates = [
-      'assets/pu_data.json',
-      'assets/data/pu_data.json',
-      'assets/pus.json',
-      'assets/data/pus.json',
-      'assets/oyo_pus.json',
-      'assets/data/oyo_pus.json',
-      'assets/polling_units.json',
-      'assets/data/polling_units.json',
-      'assets/data.json',
-    ];
+    List<Map<String, dynamic>> all = [];
 
-    for (var path in candidates) {
-      try {
-        final jsonString = await rootBundle.loadString(path);
-        final dynamic decoded = jsonDecode(jsonString);
-        List<dynamic> list;
-        if (decoded is List) {
-          list = decoded;
-        } else if (decoded is Map && decoded.containsKey('data')) {
-          list = decoded['data'] as List;
-        } else if (decoded is Map && decoded.containsKey('polling_units')) {
-          list = decoded['polling_units'] as List;
-        } else {
-          continue;
-        }
-
-        final normalized = list.map((e) => _normalize(Map<String, dynamic>.from(e as Map))).toList();
-
-        if (normalized.isNotEmpty) {
-          setState(() {
-            _allPUs = normalized;
-            _filteredPUs = normalized;
-            _isLoading = false;
-            _loadedFrom = '$path (${normalized.length} PUs)';
-          });
-          return;
-        }
-      } catch (_) {
-        // try next path
-      }
+    // 1. Load pu_sample.json - your main file
+    try {
+      final s = await rootBundle.loadString('assets/data/pu_sample.json');
+      final d = jsonDecode(s);
+      List list = d is List? d : (d['data']?? d['polling_units']?? []);
+      all.addAll(list.map((e) => _normalize(Map<String, dynamic>.from(e))));
+      _info = 'pu_sample.json: ${all.length}';
+    } catch (e) {
+      _info = 'pu_sample.json failed: $e';
     }
 
-    // Fallback - your 3 Ibadan North PUs
-    final List<Map<String, dynamic>> dummyData = [
-      {
-        'pu_code': '30-08-04-001',
-        'pu_name': 'LEA PRIMARY SCHOOL, EMIR PALACE',
-        'lga': 'IBADAN NORTH', 'ward': 'WARD 04', 'state': 'OYO', 'stateCode': '30',
-      },
-      {
-        'pu_code': '30-08-04-002',
-        'pu_name': 'OPEN SPACE, MARKET SQUARE',
-        'lga': 'IBADAN NORTH', 'ward': 'WARD 04', 'state': 'OYO', 'stateCode': '30',
-      },
-      {
-        'pu_code': '30-08-05-001',
-        'pu_name': 'COMMUNITY HALL, AGUIYI',
-        'lga': 'IBADAN NORTH', 'ward': 'WARD 05', 'state': 'OYO', 'stateCode': '30',
-      },
-    ].map((e) => _normalize(e)).toList();
+    // 2. Also try states_index.json + all state files if sample is small
+    if (all.length < 100) {
+      try {
+        final indexStr = await rootBundle.loadString('assets/data/states_index.json');
+        final indexData = jsonDecode(indexStr);
+        List states = indexData is List? indexData : (indexData['states']?? []);
+
+        for (var st in states) {
+          String code = '';
+          if (st is Map) code = _g(Map<String, dynamic>.from(st), ['code','stateCode','id']);
+          if (st is String) code = st;
+          if (code.isEmpty) continue;
+
+          final paths = [
+            'assets/data/states/$code.json',
+            'assets/data/states/${code.toLowerCase()}.json',
+            'assets/data/states/${code.toUpperCase()}.json',
+            'assets/data/states/30.json', // Oyo fallback
+          ];
+
+          for (var p in paths) {
+            try {
+              final s = await rootBundle.loadString(p);
+              final d = jsonDecode(s);
+              List list = d is List? d : (d['data']?? d['pus']?? []);
+              final norm = list.map((e) => _normalize(Map<String, dynamic>.from(e))).toList();
+              if (norm.isNotEmpty) {
+                all.addAll(norm);
+                break;
+              }
+            } catch (_) {}
+          }
+        }
+        if (all.length > 3) _info = 'states/ folder: ${all.length} PUs';
+      } catch (_) {}
+    }
+
+    if (all.isEmpty) {
+      all = [
+        _normalize({'pu_code':'30-08-04-001','pu_name':'LEA PRIMARY SCHOOL, EMIR PALACE','lga':'IBADAN NORTH','ward':'WARD 04','state':'OYO','stateCode':'30'}),
+        _normalize({'pu_code':'30-08-04-002','pu_name':'OPEN SPACE, MARKET SQUARE','lga':'IBADAN NORTH','ward':'WARD 04','state':'OYO'}),
+        _normalize({'pu_code':'30-08-05-001','pu_name':'COMMUNITY HALL, AGUIYI','lga':'IBADAN NORTH','ward':'WARD 05','state':'OYO'}),
+      ];
+      _info = 'Using dummy (assets not found)';
+    }
 
     setState(() {
-      _allPUs = dummyData;
-      _filteredPUs = dummyData;
+      _allPUs = all;
+      _filteredPUs = all;
       _isLoading = false;
-      _loadedFrom = 'dummy (3 PUs) - add your JSON to assets/';
     });
   }
 
   void _onSearchChanged() {
-    final query = _searchController.text.toLowerCase().trim();
-    if (query.isEmpty) {
-      setState(() => _filteredPUs = _allPUs);
-      return;
-    }
+    final q = _searchController.text.toLowerCase().trim();
+    if (q.isEmpty) { setState(() => _filteredPUs = _allPUs); return; }
     setState(() {
       _filteredPUs = _allPUs.where((pu) {
-        final code = (pu['pu_code']?? '').toString().toLowerCase();
-        final name = (pu['pu_name']?? '').toString().toLowerCase();
-        final lga = (pu['lga']?? '').toString().toLowerCase();
-        final ward = (pu['ward']?? '').toString().toLowerCase();
-        final state = (pu['state']?? '').toString().toLowerCase();
-        return code.contains(query) || name.contains(query) || lga.contains(query) || ward.contains(query) || state.contains(query);
+        return pu.values.join(' ').toLowerCase().contains(q);
       }).toList();
     });
   }
 
   void _openPU(Map<String, dynamic> pu) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(builder: (context) => PUDetailScreen(pu: Map<String, dynamic>.from(pu))),
-    );
+    Navigator.push(context, MaterialPageRoute(builder: (_) => PUDetailScreen(pu: Map<String, dynamic>.from(pu))));
   }
 
   @override
@@ -176,43 +147,29 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
                 labelText: 'Search by PU code, name, LGA, ward',
                 prefixIcon: const Icon(Icons.search),
                 border: const OutlineInputBorder(),
-                suffixIcon: _searchController.text.isNotEmpty
-                   ? IconButton(icon: const Icon(Icons.clear), onPressed: () => _searchController.clear())
-                    : null,
+                suffixIcon: _searchController.text.isNotEmpty? IconButton(icon: const Icon(Icons.clear), onPressed: ()=> _searchController.clear()): null,
               ),
             ),
           ),
-          Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 12),
-            child: Align(alignment: Alignment.centerLeft, child: Text(_loadedFrom, style: const TextStyle(fontSize: 10, color: Colors.grey))),
-          ),
+          Padding(padding: const EdgeInsets.symmetric(horizontal: 12), child: Align(alignment: Alignment.centerLeft, child: Text(_info, style: const TextStyle(fontSize: 10, color: Colors.grey)))),
           const SizedBox(height: 4),
-          if (_isLoading)
-            const Expanded(child: Center(child: CircularProgressIndicator()))
-          else
-            Expanded(
-              child: _filteredPUs.isEmpty
-                 ? const Center(child: Text('No PU found'))
-                  : ListView.separated(
-                      itemCount: _filteredPUs.length,
-                      separatorBuilder: (_, __) => const Divider(height: 1),
-                      itemBuilder: (context, index) {
-                        final pu = _filteredPUs[index];
-                        final code = pu['pu_code']?? 'PU';
-                        final name = pu['pu_name']?? code;
-                        final lga = pu['lga']?? '';
-                        final ward = pu['ward']?? '';
-                        final state = pu['state']?? pu['stateCode']?? '';
-                        return ListTile(
-                          title: Text(code.toString(), style: const TextStyle(fontWeight: FontWeight.bold)),
-                          subtitle: Text('$name\n$state / $lga / $ward'),
-                          isThreeLine: true,
-                          trailing: const Icon(Icons.chevron_right),
-                          onTap: () => _openPU(pu),
-                        );
-                      },
-                    ),
+          if (_isLoading) const Expanded(child: Center(child: CircularProgressIndicator()))
+          else Expanded(
+            child: ListView.separated(
+              itemCount: _filteredPUs.length,
+              separatorBuilder: (_,__)=> const Divider(height:1),
+              itemBuilder: (context, i) {
+                final pu = _filteredPUs[i];
+                return ListTile(
+                  title: Text(pu['pu_code'].toString(), style: const TextStyle(fontWeight: FontWeight.bold)),
+                  subtitle: Text('${pu['pu_name']}\n${pu['state']} / ${pu['lga']} / ${pu['ward']}'),
+                  isThreeLine: true,
+                  trailing: const Icon(Icons.chevron_right),
+                  onTap: ()=> _openPU(pu),
+                );
+              },
             ),
+          ),
         ],
       ),
     );
