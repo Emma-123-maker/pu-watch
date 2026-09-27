@@ -1,267 +1,168 @@
-import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import '../widgets/state_dropdown.dart';
-import 'pu_detail_screen.dart'; // <-- NEW
+import 'pu_detail_screen.dart';
 
 class PUSearchScreen extends StatefulWidget {
   const PUSearchScreen({super.key});
+
   @override
   State<PUSearchScreen> createState() => _PUSearchScreenState();
 }
 
 class _PUSearchScreenState extends State<PUSearchScreen> {
-  List allPUs = [];
-  List filtered = [];
-  String currentStateCode = '03';
-  String currentStateName = 'Akwa Ibom';
-
-  String searchQuery = '';
-  String? selectedLGA;
-  String? selectedWard;
-  List<String> lgaList = [];
-  List<String> wardList = [];
-  final searchCtrl = TextEditingController();
+  final TextEditingController _searchController = TextEditingController();
+  List<Map<String, dynamic>> _allPUs = [];
+  List<Map<String, dynamic>> _filteredPUs = [];
+  bool _isLoading = true;
 
   @override
   void initState() {
     super.initState();
-    loadPU();
+    _loadPUs();
+    _searchController.addListener(_onSearchChanged);
   }
 
-  List _cleanPUs(List data) {
-    return data.where((pu) {
-      final n = (pu['pu_name']?? pu['name']?? pu['polling_unit_name']?? '').toString().toLowerCase().trim();
-      final c = (pu['pu_code']?? pu['code']?? '').toString().toLowerCase().trim();
-      if (n.isEmpty || c.isEmpty) return false;
-      if (n == 'null' || c == 'null') return false;
-      if (n.contains('null - pu')) return false;
-      return true;
-    }).toList();
+  @override
+  void dispose() {
+    _searchController.removeListener(_onSearchChanged);
+    _searchController.dispose();
+    super.dispose();
   }
 
-  void _rebuildFilterOptions() {
-    var lgas = allPUs.map((e) => e['lga'].toString()).toSet().toList()..sort();
-    List<String> wards;
-    if (selectedLGA!= null) {
-      wards = allPUs.where((e) => e['lga'].toString() == selectedLGA).map((e) => e['ward'].toString()).toSet().toList()..sort();
-    } else {
-      wards = allPUs.map((e) => e['ward'].toString()).toSet().toList()..sort();
-    }
+  // Load your PU data - replace with your real JSON/assets if you have it
+  Future<void> _loadPUs() async {
+    // TODO: Replace with your real PU list from assets/data
+    // Example structure expected by PUDetailScreen
+    final List<Map<String, dynamic>> dummyData = [
+      {
+        'pu_code': '30-08-04-001',
+        'code': '30-08-04-001',
+        'pu_name': 'LEA PRIMARY SCHOOL, EMIR PALACE',
+        'name': 'LEA PRIMARY SCHOOL, EMIR PALACE',
+        'lga': 'IBADAN NORTH',
+        'ward': 'WARD 04',
+        'state': 'OYO',
+        'stateCode': '30',
+      },
+      {
+        'pu_code': '30-08-04-002',
+        'code': '30-08-04-002',
+        'pu_name': 'OPEN SPACE, MARKET SQUARE',
+        'name': 'OPEN SPACE, MARKET SQUARE',
+        'lga': 'IBADAN NORTH',
+        'ward': 'WARD 04',
+        'state': 'OYO',
+        'stateCode': '30',
+      },
+      {
+        'pu_code': '30-08-05-001',
+        'code': '30-08-05-001',
+        'pu_name': 'COMMUNITY HALL, AGUIYI',
+        'name': 'COMMUNITY HALL, AGUIYI',
+        'lga': 'IBADAN NORTH',
+        'ward': 'WARD 05',
+        'state': 'OYO',
+        'stateCode': '30',
+      },
+    ];
+
     setState(() {
-      lgaList = lgas;
-      wardList = wards;
+      _allPUs = dummyData;
+      _filteredPUs = dummyData;
+      _isLoading = false;
     });
   }
 
-  void applyFilters() {
+  void _onSearchChanged() {
+    final query = _searchController.text.toLowerCase().trim();
+    if (query.isEmpty) {
+      setState(() {
+        _filteredPUs = _allPUs;
+      });
+      return;
+    }
     setState(() {
-      filtered = allPUs.where((pu) {
-        final q = searchQuery.toLowerCase();
-        bool okSearch = q.isEmpty ||
-            pu['pu_code'].toString().toLowerCase().contains(q) ||
-            pu['pu_name'].toString().toLowerCase().contains(q) ||
-            pu['lga'].toString().toLowerCase().contains(q) ||
-            pu['ward'].toString().toLowerCase().contains(q);
-        bool okLGA = selectedLGA == null || pu['lga'].toString() == selectedLGA;
-        bool okWard = selectedWard == null || pu['ward'].toString() == selectedWard;
-        return okSearch && okLGA && okWard;
+      _filteredPUs = _allPUs.where((pu) {
+        final code = (pu['pu_code']?? pu['code']?? '').toString().toLowerCase();
+        final name = (pu['pu_name']?? pu['name']?? '').toString().toLowerCase();
+        final lga = (pu['lga']?? '').toString().toLowerCase();
+        final ward = (pu['ward']?? '').toString().toLowerCase();
+        return code.contains(query) ||
+            name.contains(query) ||
+            lga.contains(query) ||
+            ward.contains(query);
       }).toList();
     });
   }
 
-  Future<void> loadPU() async {
-    try {
-      String path = 'assets/data/states/03-akwa-ibom.json';
-      String data = await rootBundle.loadString(path);
-      setState(() {
-        allPUs = _cleanPUs(json.decode(data));
-        selectedLGA = null;
-        selectedWard = null;
-      });
-      _rebuildFilterOptions();
-      applyFilters();
-    } catch (e) {
-      String data = await rootBundle.loadString('assets/data/pu_sample.json');
-      setState(() {
-        allPUs = _cleanPUs(json.decode(data));
-        selectedLGA = null;
-        selectedWard = null;
-      });
-      _rebuildFilterOptions();
-      applyFilters();
-    }
-  }
-
-  Future<void> loadPUForState(String code, String name) async {
-    try {
-      String slug = name.toLowerCase().replaceAll(' ', '-');
-      if (slug.contains('fct')) slug = 'fct-abuja';
-      String fileName = 'assets/data/states/$code-$slug.json';
-      String data = await rootBundle.loadString(fileName);
-      setState(() {
-        allPUs = _cleanPUs(json.decode(data));
-        currentStateCode = code;
-        currentStateName = name;
-        selectedLGA = null;
-        selectedWard = null;
-        searchQuery = '';
-        searchCtrl.clear();
-      });
-      _rebuildFilterOptions();
-      applyFilters();
-    } catch (e) {
-      setState(() {
-        allPUs = [];
-        filtered = [];
-        lgaList = [];
-        wardList = [];
-        currentStateCode = code;
-        currentStateName = name;
-        selectedLGA = null;
-        selectedWard = null;
-        searchQuery = '';
-        searchCtrl.clear();
-      });
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('⚠️ Data for $name not yet added.'),
-            backgroundColor: Colors.orange[800],
-          ),
-        );
-      }
-    }
-  }
-
-  void search(String q) {
-    searchQuery = q;
-    applyFilters();
+  void _openPU(Map<String, dynamic> pu) {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => PUDetailScreen(
+          pu: Map<String, dynamic>.from(pu),
+        ),
+      ),
+    );
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Find Your PU'), backgroundColor: Colors.green[800]),
-      body: Column(children: [
-        Padding(padding: EdgeInsets.all(12), child: StateDropdown(
-          onStateSelected: (code, name) {
-            loadPUForState(code, name);
-          },
-        )),
-        Padding(padding: EdgeInsets.all(12), child: TextField(
-          controller: searchCtrl,
-          onChanged: search,
-          decoration: InputDecoration(
-            hintText: 'Search PU code, name, LGA...',
-            border: OutlineInputBorder(),
-            prefixIcon: Icon(Icons.search),
-            suffixIcon: searchQuery.isNotEmpty
-              ? IconButton(icon: Icon(Icons.clear), onPressed: () {
-                    searchCtrl.clear();
-                    search('');
-                  })
-                : null,
-          ),
-        )),
-        Padding(
-          padding: EdgeInsets.symmetric(horizontal: 12),
-          child: Row(
-            children: [
-              Expanded(
-                child: DropdownButtonFormField<String>(
-                  value: selectedLGA,
-                  isExpanded: true,
-                  decoration: InputDecoration(labelText: 'LGA', border: OutlineInputBorder(), contentPadding: EdgeInsets.symmetric(horizontal: 10, vertical: 8)),
-                  items: [
-                    DropdownMenuItem(value: null, child: Text('All LGAs')),
-                  ...lgaList.map((l) => DropdownMenuItem(value: l, child: Text(l, overflow: TextOverflow.ellipsis))).toList()
-                  ],
-                  onChanged: (v) {
-                    setState(() {
-                      selectedLGA = v;
-                      selectedWard = null;
-                    });
-                    _rebuildFilterOptions();
-                    applyFilters();
-                  },
-                ),
-              ),
-              SizedBox(width: 8),
-              Expanded(
-                child: DropdownButtonFormField<String>(
-                  value: selectedWard,
-                  isExpanded: true,
-                  decoration: InputDecoration(labelText: 'Ward', border: OutlineInputBorder(), contentPadding: EdgeInsets.symmetric(horizontal: 10, vertical: 8)),
-                  items: [
-                    DropdownMenuItem(value: null, child: Text('All Wards')),
-                  ...wardList.map((w) => DropdownMenuItem(value: w, child: Text(w, overflow: TextOverflow.ellipsis))).toList()
-                  ],
-                  onChanged: (v) {
-                    setState(() => selectedWard = v);
-                    applyFilters();
-                  },
-                ),
-              ),
-            ],
-          ),
-        ),
-        Padding(
-          padding: EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-          child: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: [
-              Text('$currentStateName: ${filtered.length} PUs', style: TextStyle(fontWeight: FontWeight.bold)),
-              if (selectedLGA!= null || selectedWard!= null)
-                TextButton(onPressed: () {
-                  setState(() {
-                    selectedLGA = null;
-                    selectedWard = null;
-                  });
-                  _rebuildFilterOptions();
-                  applyFilters();
-                }, child: Text('Clear')),
-            ],
-          ),
-        ),
-        if (filtered.isEmpty)
+      appBar: AppBar(
+        title: const Text('PU-Watch 2027 - Search PU'),
+      ),
+      body: Column(
+        children: [
           Padding(
-            padding: EdgeInsets.all(20),
-            child: Column(
-              children: [
-                Icon(Icons.location_off, size: 48, color: Colors.grey),
-                SizedBox(height: 10),
-                Text('No PU data for $currentStateName yet', style: TextStyle(color: Colors.grey[600])),
-              ],
+            padding: const EdgeInsets.all(12),
+            child: TextField(
+              controller: _searchController,
+              decoration: InputDecoration(
+                labelText: 'Search by PU code, name, LGA, ward',
+                prefixIcon: const Icon(Icons.search),
+                border: const OutlineInputBorder(),
+                suffixIcon: _searchController.text.isNotEmpty
+                   ? IconButton(
+                        icon: const Icon(Icons.clear),
+                        onPressed: () {
+                          _searchController.clear();
+                        },
+                      )
+                    : null,
+              ),
             ),
           ),
-        Expanded(child: ListView.builder(itemCount: filtered.length, itemBuilder: (_, i) {
-          var pu = filtered[i];
-          return Card(
-            margin: EdgeInsets.symmetric(horizontal: 12, vertical: 4),
-            child: ListTile(
-              title: Text('${pu['pu_code']} - ${pu['pu_name']?? pu['polling_unit_name']?? 'PU'}', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
-              subtitle: Text('${pu['lga']}, ${pu['ward']}'),
-              trailing: Row(
-                mainAxisSize: MainAxisSize.min,
-                children: [
-                  Icon(Icons.camera_alt, size: 16, color: Colors.green[800]),
-                  SizedBox(width: 4),
-                  Icon(Icons.arrow_forward_ios, size: 12),
-                ],
-              ),
-              // 🔥 THIS IS THE NEW PART
-              onTap: () {
-                Navigator.push(context, MaterialPageRoute(builder: (_) => PUDetailScreen(
-                  pu: Map<String, dynamic>.from(pu),
-                  stateCode: currentStateCode,
-                  stateName: currentStateName,
-                )));
-              },
+          if (_isLoading)
+            const Expanded(
+              child: Center(child: CircularProgressIndicator()),
+            )
+          else
+            Expanded(
+              child: _filteredPUs.isEmpty
+                 ? const Center(child: Text('No PU found'))
+                  : ListView.separated(
+                      itemCount: _filteredPUs.length,
+                      separatorBuilder: (_, __) => const Divider(height: 1),
+                      itemBuilder: (context, index) {
+                        final pu = _filteredPUs[index];
+                        final code = pu['pu_code']?? pu['code']?? 'PU';
+                        final name = pu['pu_name']?? pu['name']?? code;
+                        final lga = pu['lga']?? '';
+                        final ward = pu['ward']?? '';
+                        final state = pu['state']?? '';
+                        return ListTile(
+                          title: Text(code.toString(),
+                              style: const TextStyle(fontWeight: FontWeight.bold)),
+                          subtitle: Text('$name\n$state / $lga / $ward'),
+                          isThreeLine: true,
+                          trailing: const Icon(Icons.chevron_right),
+                          onTap: () => _openPU(pu),
+                        );
+                      },
+                    ),
             ),
-          );
-        }))
-      ]),
+        ],
+      ),
     );
   }
 }
