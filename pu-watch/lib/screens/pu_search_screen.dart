@@ -21,18 +21,30 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
     loadPU();
   }
 
+  // 🔒 Helper to clean nulls
+  List _cleanPUs(List data) {
+    return data.where((pu) {
+      final n = (pu['pu_name'] ?? pu['name'] ?? pu['polling_unit_name'] ?? '').toString().toLowerCase().trim();
+      final c = (pu['pu_code'] ?? pu['code'] ?? '').toString().toLowerCase().trim();
+      if (n.isEmpty || c.isEmpty) return false;
+      if (n == 'null' || c == 'null') return false;
+      if (n.contains('null - pu')) return false;
+      return true;
+    }).toList();
+  }
+
   Future<void> loadPU() async {
     try {
       String path = 'assets/data/states/03-akwa-ibom.json';
       String data = await rootBundle.loadString(path);
       setState(() {
-        allPUs = json.decode(data);
+        allPUs = _cleanPUs(json.decode(data));
         filtered = allPUs;
       });
     } catch (e) {
       String data = await rootBundle.loadString('assets/data/pu_sample.json');
       setState(() {
-        allPUs = json.decode(data);
+        allPUs = _cleanPUs(json.decode(data));
         filtered = allPUs;
       });
     }
@@ -45,7 +57,7 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
       String fileName = 'assets/data/states/$code-$slug.json';
       String data = await rootBundle.loadString(fileName);
       setState(() {
-        allPUs = json.decode(data);
+        allPUs = _cleanPUs(json.decode(data));
         filtered = allPUs;
         currentStateCode = code;
         currentStateName = name;
