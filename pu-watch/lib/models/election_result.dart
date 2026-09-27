@@ -2,24 +2,24 @@ class ElectionResult {
   String puCode; String lga; String ward; String stateCode;
   int accredited;
   // Final 18 INEC parties 2027
-  int apc; // Tinubu
-  int adc; // Atiku + Amaechi
-  int ndc; // Peter Obi + Kwankwaso
-  int apm; // Seyi Makinde + Daura
-  int aac; // Sowore + Magashi
-  int pdp; // Sandy Onor
-  int aa; // Rufai Omo-Aje
-  int adp; // Aliyu Abbas-Bin
-  int app; // Kabiru Yusuf
-  int bp; // Sunday Adenuga
-  int dla; // Moses Adebisi
-  int lp; // Sunday Okereke (not Obi anymore)
-  int ndp; // Ada Okwori - female
-  int nrm; // Nkem Okereke - female
-  int prp; // Donald Duke
-  int sdp; // Adebayo
-  int ypp; // Peter Agada
-  int zlp; // Daniel Nwanyanwu
+  int apc; 
+  int adc;
+  int ndc;
+  int apm;
+  int aac;
+  int pdp;
+  int aa; 
+  int adp;
+  int app;
+  int bp;
+  int dla;
+  int lp;
+  int ndp;
+  int nrm; 
+  int prp; 
+  int sdp;
+  int ypp; 
+  int zlp; 
   int others;
   String photoPath; DateTime timestamp; bool synced;
 
