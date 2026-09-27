@@ -1,8 +1,6 @@
 name: Clean Null PUs
-
 on:
   workflow_dispatch:
-
 jobs:
   clean:
     runs-on: ubuntu-latest
@@ -10,25 +8,62 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Clean null entries from all state files
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Deep clean nulls with Python
         run: |
-          for file in data/*.json public/data/*.json src/data/*.json; do
-            if [ -f "$file" ]; then
-              echo "Cleaning $file"
-              # Remove objects where name is null, "null - PU", empty, or code is null
-              jq '[ .[] | select(.name != null and .pu_name != null and .PU != null) | select(.name != "null - PU" and .pu_name != "null - PU" and .name != "null" and .pu_name != "null" and .name != "" and .pu_name != "") ]' "$file" > tmp.json && mv tmp.json "$file"
-              # Also handle if file is object with PUs array
-              jq 'if has("pus") then .pus = (.pus | map(select(.name != null and .pu_name != null and .name != "null - PU" and .pu_name != "null - PU"))) else . end | if has("data") then .data = (.data | map(select(.name != null and .pu_name != null and .name != "null - PU" and .pu_name != "null - PU"))) else . end' "$file" > tmp2.json && mv tmp2.json "$file" || true
-            fi
-          done
-          echo "Cleaned counts:"
-          wc -l data/*.json 2>/dev/null || wc -l public/data/*.json 2>/dev/null || true
-
-      - name: Commit cleaned files
+          python3 << 'PY'
+          import json, os, glob
+          paths = glob.glob("**/*.json", recursive=True)
+          cleaned = 0
+          for p in paths:
+            if ".github" in p or "node_modules" in p:
+              continue
+            try:
+              with open(p, 'r', encoding='utf-8', errors='ignore') as f:
+                data = json.load(f)
+              orig_len = len(data) if isinstance(data, list) else 0
+              # Case 1: list of PUs
+              if isinstance(data, list):
+                new_data = []
+                for item in data:
+                  s = str(item).lower()
+                  if "null - pu" in s: continue
+                  if isinstance(item, dict):
+                    code = str(item.get("code","") or item.get("PU","") or item.get("pu_code","") or item.get("name",""))
+                    if code.strip().lower() in ["null", "null - pu", ""]:
+                      continue
+                    # check pu_name fields
+                    pu_name = str(item.get("pu_name","") or item.get("name","") or item.get("PU_NAME",""))
+                    if "null" == pu_name.strip().lower() or "null - pu" in pu_name.lower():
+                      continue
+                  new_data.append(item)
+                if len(new_data)!= orig_len:
+                  print(f"{p}: {orig_len} -> {len(new_data)}")
+                  with open(p, 'w') as out:
+                    json.dump(new_data, out)
+                  cleaned += 1
+              # Case 2: dict with data/pus key
+              elif isinstance(data, dict):
+                for key in ["pus","data","PUs","polling_units"]:
+                  if key in data and isinstance(data[key], list):
+                    before = len(data[key])
+                    data[key] = [x for x in data[key] if "null - pu" not in str(x).lower()]
+                    after = len(data[key])
+                    if before!= after:
+                      print(f"{p}[{key}]: {before}->{after}")
+                      with open(p, 'w') as out:
+                        json.dump(data, out)
+                      cleaned+=1
+            except Exception as e:
+              print(f"skip {p}: {e}")
+          print(f"Done cleaned {cleaned} files")
+          PY
+      - name: Commit
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add -A
-          git commit -m "Clean null PU entries" || echo "No changes"
+          git commit -m "Deep clean null PU V2" || echo "no diff"
           git push
