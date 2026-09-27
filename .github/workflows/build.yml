@@ -3,16 +3,13 @@ on:
   push:
     branches: [ main ]
   workflow_dispatch:
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
   group: "pages"
   cancel-in-progress: false
-
 jobs:
   build-web:
     runs-on: ubuntu-24.04
@@ -27,7 +24,7 @@ jobs:
           channel: stable
           flutter-version: '3.24.5'
           cache: true
-      - name: Build PWA - 2027 Final
+      - name: Build PWA
         working-directory: ${{ env.PROJECT_DIR }}
         run: |
           flutter config --enable-web
@@ -55,12 +52,13 @@ jobs:
           channel: stable
           flutter-version: '3.24.5'
           cache: true
-      - name: Build APK 2027 - NDC Obi / ADC Atiku / APM Makinde / AAC Sowore
+      - name: FIX GRADLE + BUILD APK
         working-directory: ${{ env.PROJECT_DIR }}
         run: |
-          flutter config --enable-android
+          rm -rf android
+          flutter create . --platforms=android --project-name=pu_watch
           flutter pub get
-          flutter build apk --release
+          flutter build apk --release --verbose
       - uses: actions/upload-artifact@v4
         with:
           name: pu-watch-apk-2027
