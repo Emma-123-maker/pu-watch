@@ -8,34 +8,37 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Deep clean nulls EVERYWHERE
+      - name: Clean real null PUs
         run: |
           python3 << 'PY'
-          import glob
-          print("=== SEARCHING ALL FILES FOR null - PU ===")
-          cleaned=0
-          for path in glob.glob("**/*", recursive=True):
-            if ".git/" in path: continue
-            if not path.endswith((".dart",".json",".js",".ts")): continue
-            try:
-              with open(path, 'r', encoding='utf-8', errors='ignore') as f:
-                text = f.read()
-              if "null - pu" in text.lower():
-                print(f"FOUND in: {path}")
-                # remove lines containing null - pu
-                lines = text.splitlines()
-                new_lines = [l for l in lines if "null - pu" not in l.lower()]
-                if len(new_lines) < len(lines):
-                  print(f"  CLEAN {path}: {len(lines)} -> {len(new_lines)} lines")
-                  open(path,'w',encoding='utf-8').write("\n".join(new_lines))
-                  cleaned+=1
-            except: pass
-          print(f"=== DONE cleaned {cleaned} files ===")
+          import json, glob, os
+          files = glob.glob("**/13-ekiti.json", recursive=True) + glob.glob("**/ekiti.json", recursive=True)
+          print(f"Found files: {files}")
+          for path in files:
+            with open(path, 'r', encoding='utf-8') as f:
+              data = json.load(f)
+            original = len(data) if isinstance(data, list) else 1
+            # Filter out null/empty PU names
+            if isinstance(data, list):
+              cleaned = [x for x in data if x and str(x).lower() != 'null' and 'null' not in str(x).lower() and x.get('pu_name') if str(x.get('pu_name')).lower() != 'null' and str(x.get('pu_name')).strip() != '']
+              # simpler fallback if structure is just strings
+              if len(cleaned) == 0 and original > 0:
+                # try list of dicts with different keys
+                cleaned = [x for x in data if isinstance(x, dict) and any(v and str(v).lower()!='null' and str(v).strip()!='' for v in x.values())]
+                if len(cleaned)==0:
+                  cleaned = [x for x in data if isinstance(x,str) and x.lower()!='null' and 'null - pu' not in x.lower()]
+            else:
+              cleaned = data
+            print(f"{path}: {original} -> {len(cleaned) if isinstance(cleaned,list) else 'ok'}")
+            if isinstance(data, list):
+              with open(path, 'w', encoding='utf-8') as f:
+                json.dump(cleaned, f, indent=2, ensure_ascii=False)
+          print("DONE")
           PY
       - name: Commit
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add -A
-          git commit -m "V5 clean ALL file types" || echo "nothing"
+          git commit -m "V6 kill real null PUs in Ekiti" || echo "nothing"
           git push
