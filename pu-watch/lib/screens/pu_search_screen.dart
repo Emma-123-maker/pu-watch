@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import '../widgets/state_dropdown.dart';
+import 'pu_detail_screen.dart'; // <-- NEW
 
 class PUSearchScreen extends StatefulWidget {
   const PUSearchScreen({super.key});
@@ -110,7 +111,6 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
       _rebuildFilterOptions();
       applyFilters();
     } catch (e) {
-      // FIX: Clear list and show correct state name instead of keeping old state
       setState(() {
         allPUs = [];
         filtered = [];
@@ -126,7 +126,7 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text('⚠️ Data for $name not yet added. Add assets/data/states/$code-${name.toLowerCase().replaceAll(' ', '-')}.json'),
+            content: Text('⚠️ Data for $name not yet added.'),
             backgroundColor: Colors.orange[800],
           ),
         );
@@ -157,7 +157,7 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
             border: OutlineInputBorder(),
             prefixIcon: Icon(Icons.search),
             suffixIcon: searchQuery.isNotEmpty
-               ? IconButton(icon: Icon(Icons.clear), onPressed: () {
+              ? IconButton(icon: Icon(Icons.clear), onPressed: () {
                     searchCtrl.clear();
                     search('');
                   })
@@ -175,7 +175,7 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
                   decoration: InputDecoration(labelText: 'LGA', border: OutlineInputBorder(), contentPadding: EdgeInsets.symmetric(horizontal: 10, vertical: 8)),
                   items: [
                     DropdownMenuItem(value: null, child: Text('All LGAs')),
-                   ...lgaList.map((l) => DropdownMenuItem(value: l, child: Text(l, overflow: TextOverflow.ellipsis))).toList()
+                  ...lgaList.map((l) => DropdownMenuItem(value: l, child: Text(l, overflow: TextOverflow.ellipsis))).toList()
                   ],
                   onChanged: (v) {
                     setState(() {
@@ -195,7 +195,7 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
                   decoration: InputDecoration(labelText: 'Ward', border: OutlineInputBorder(), contentPadding: EdgeInsets.symmetric(horizontal: 10, vertical: 8)),
                   items: [
                     DropdownMenuItem(value: null, child: Text('All Wards')),
-                   ...wardList.map((w) => DropdownMenuItem(value: w, child: Text(w, overflow: TextOverflow.ellipsis))).toList()
+                  ...wardList.map((w) => DropdownMenuItem(value: w, child: Text(w, overflow: TextOverflow.ellipsis))).toList()
                   ],
                   onChanged: (v) {
                     setState(() => selectedWard = v);
@@ -232,17 +232,33 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
                 Icon(Icons.location_off, size: 48, color: Colors.grey),
                 SizedBox(height: 10),
                 Text('No PU data for $currentStateName yet', style: TextStyle(color: Colors.grey[600])),
-                SizedBox(height: 5),
-                Text('Add file: assets/data/states/$currentStateCode-${currentStateName.toLowerCase().replaceAll(' ', '-')}.json', style: TextStyle(fontSize: 12, color: Colors.grey)),
               ],
             ),
           ),
         Expanded(child: ListView.builder(itemCount: filtered.length, itemBuilder: (_, i) {
           var pu = filtered[i];
-          return ListTile(
-            title: Text('${pu['pu_code']} - ${pu['pu_name']?? pu['polling_unit_name']?? 'PU'}'),
-            subtitle: Text('${pu['lga']}, ${pu['ward']}'),
-            trailing: Icon(Icons.arrow_forward_ios, size: 12),
+          return Card(
+            margin: EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+            child: ListTile(
+              title: Text('${pu['pu_code']} - ${pu['pu_name']?? pu['polling_unit_name']?? 'PU'}', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14)),
+              subtitle: Text('${pu['lga']}, ${pu['ward']}'),
+              trailing: Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Icon(Icons.camera_alt, size: 16, color: Colors.green[800]),
+                  SizedBox(width: 4),
+                  Icon(Icons.arrow_forward_ios, size: 12),
+                ],
+              ),
+              // 🔥 THIS IS THE NEW PART
+              onTap: () {
+                Navigator.push(context, MaterialPageRoute(builder: (_) => PUDetailScreen(
+                  pu: Map<String, dynamic>.from(pu),
+                  stateCode: currentStateCode,
+                  stateName: currentStateName,
+                )));
+              },
+            ),
           );
         }))
       ]),
