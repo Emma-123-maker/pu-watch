@@ -25,4 +25,3 @@ Built with Flutter + Firebase.
 ### Founder
 Emma - Corper NG
 
-deploy real PUs
