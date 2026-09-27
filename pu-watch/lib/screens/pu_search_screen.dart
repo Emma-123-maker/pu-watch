@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import './widgets/state_dropdown.dart';
+import '../widgets/state_dropdown.dart';
 
 class PUSearchScreen extends StatefulWidget {
   const PUSearchScreen({super.key});
