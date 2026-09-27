@@ -27,7 +27,7 @@ jobs:
           channel: stable
           flutter-version: '3.24.5'
           cache: true
-      - name: Build PWA
+      - name: Build PWA - 2027 Final
         working-directory: ${{ env.PROJECT_DIR }}
         run: |
           flutter config --enable-web
@@ -55,19 +55,16 @@ jobs:
           channel: stable
           flutter-version: '3.24.5'
           cache: true
-      - name: Fix Android and Build APK 2027
+      - name: Build APK 2027 - NDC Obi / ADC Atiku / APM Makinde / AAC Sowore
         working-directory: ${{ env.PROJECT_DIR }}
         run: |
-          rm -rf android
-          flutter create --platforms android --project-name pu_watch .
           flutter config --enable-android
           flutter pub get
           flutter build apk --release
-          flutter build apk --release --split-per-abi
       - uses: actions/upload-artifact@v4
         with:
           name: pu-watch-apk-2027
-          path: ${{ env.PROJECT_DIR }}/build/app/outputs/flutter-apk/*.apk
+          path: ${{ env.PROJECT_DIR }}/build/app/outputs/flutter-apk/app-release.apk
           retention-days: 30
 
   deploy:
