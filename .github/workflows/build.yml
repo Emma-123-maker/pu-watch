@@ -20,7 +20,7 @@ jobs:
         with:
           channel: 'stable'
           flutter-version: '3.22.0'
-      - name: Build
+      - name: Build PWA
         working-directory: ${{ env.PROJECT_DIR }}
         run: |
           flutter config --enable-web
@@ -28,7 +28,25 @@ jobs:
           if [ ! -f "web/index.html" ]; then
             flutter create --project-name pu_watch --platforms web .
           fi
-          flutter build web --release --base-href "/pu-watch/"
+          cat > web/manifest.json <<'JSON'
+          {
+            "name": "Find Your PU - INEC Polling Units",
+            "short_name": "Find PU",
+            "start_url": "/pu-watch/",
+            "display": "standalone",
+            "background_color": "#2E7D32",
+            "theme_color": "#2E7D32",
+            "description": "Quickly find your INEC Polling Unit",
+            "orientation": "portrait-primary",
+            "icons": [
+              { "src": "icons/Icon-192.png", "sizes": "192x192", "type": "image/png" },
+              { "src": "icons/Icon-512.png", "sizes": "512x512", "type": "image/png" },
+              { "src": "icons/Icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+              { "src": "icons/Icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+            ]
+          }
+          JSON
+          flutter build web --release --pwa-strategy offline-first --base-href "/pu-watch/"
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
