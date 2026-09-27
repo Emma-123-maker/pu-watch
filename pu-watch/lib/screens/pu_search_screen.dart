@@ -39,28 +39,26 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
       });
     }
   }
-
-  Future<void> loadPUsForState(String code, String name) async {
-    try {
-      // map code to file name
-      String fileName = 'assets/data/states/03-akwa-ibom.json';
-      if (code == '03') fileName = 'assets/data/states/03-akwa-ibom.json';
-      // Add more as you create them:
-      // if (code == '25') fileName = 'assets/data/states/25-lagos.json';
-
-      String data = await rootBundle.loadString(fileName);
-      setState(() {
-        allPUs = json.decode(data);
-        filtered = allPUs;
-        currentStateCode = code;
-        currentStateName = name;
-      });
-    } catch (e) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text("State file not yet created: $code - $name. Using Akwa Ibom for now.")),
-      );
-    }
+  
+  Future<void> loadPUForState(String code, String name) async {
+   try {
+     String slug = name.toLowerCase().replaceAll(' ', '-');
+     if (name.toLowerCase().contains('fct')) slug = 'fct-abuja';
+     String fileName = 'assets/data/states/${code.toLowerCase()}-$slug.json';
+     String data = await rootBundle.loadString(fileName);
+     setState(() {
+       allPUs = json.decode(data);
+       filtered = allPUs;
+       currentStateCode = code;
+       currentStateName = name;
+     });
+   } catch (e) {
+     ScaffoldMessenger.of(context).showSnackBar(
+       SnackBar(content: Text('Data for $name not added yet. Using sample.')),
+     );
+   }
   }
+  
 
   void search(String q) {
     setState(() {
