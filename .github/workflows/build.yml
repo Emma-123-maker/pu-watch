@@ -23,22 +23,26 @@ jobs:
       - name: Find Flutter project
         id: find
         run: |
-          echo "Listing files..."
-          ls -la
-          echo "--- finding pubspec.yaml ---"
-          find . -name "pubspec.yaml" | head -20
           DIR=$(dirname $(find . -name "pubspec.yaml" | head -1))
           echo "PROJECT_DIR=$DIR" >> $GITHUB_ENV
-          echo "Found project in $DIR"
+          echo "Project in $DIR"
+          ls -la $DIR
 
       - uses: subosito/flutter-action@v2
         with:
           channel: 'stable'
           flutter-version: '3.22.0'
 
-      - name: Pub get
+      - name: Enable web
         working-directory: ${{ env.PROJECT_DIR }}
-        run: flutter pub get
+        run: |
+          flutter config --enable-web
+          flutter pub get
+          if [ ! -f "web/index.html" ]; then
+            echo "web folder missing, creating..."
+            flutter create . --platforms=web
+          fi
+          flutter pub get
 
       - name: Build web
         working-directory: ${{ env.PROJECT_DIR }}
