@@ -8,37 +8,46 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Clean real null PUs
+      - name: Clean ALL states
         run: |
           python3 << 'PY'
-          import json, glob, os
-          files = glob.glob("**/13-ekiti.json", recursive=True) + glob.glob("**/ekiti.json", recursive=True)
-          print(f"Found files: {files}")
+          import json, glob
+          files = glob.glob("**/assets/data/states/*.json", recursive=True)
+          print(f"Found {len(files)} state files")
+          total_removed = 0
           for path in files:
-            with open(path, 'r', encoding='utf-8') as f:
-              data = json.load(f)
-            original = len(data) if isinstance(data, list) else 1
-            # Filter out null/empty PU names
-            if isinstance(data, list):
-              cleaned = [x for x in data if x and str(x).lower() != 'null' and 'null' not in str(x).lower() and x.get('pu_name') if str(x.get('pu_name')).lower() != 'null' and str(x.get('pu_name')).strip() != '']
-              # simpler fallback if structure is just strings
-              if len(cleaned) == 0 and original > 0:
-                # try list of dicts with different keys
-                cleaned = [x for x in data if isinstance(x, dict) and any(v and str(v).lower()!='null' and str(v).strip()!='' for v in x.values())]
-                if len(cleaned)==0:
-                  cleaned = [x for x in data if isinstance(x,str) and x.lower()!='null' and 'null - pu' not in x.lower()]
-            else:
-              cleaned = data
-            print(f"{path}: {original} -> {len(cleaned) if isinstance(cleaned,list) else 'ok'}")
-            if isinstance(data, list):
-              with open(path, 'w', encoding='utf-8') as f:
-                json.dump(cleaned, f, indent=2, ensure_ascii=False)
-          print("DONE")
+              try:
+                  with open(path, 'r', encoding='utf-8') as f:
+                      data = json.load(f)
+                  if not isinstance(data, list): continue
+                  orig = len(data)
+                  # keep only valid PUs
+                  cleaned = []
+                  for item in data:
+                      if not isinstance(item, dict): continue
+                      # check common keys
+                      name = str(item.get('pu_name') or item.get('name') or item.get('polling_unit') or '').strip()
+                      code = str(item.get('pu_code') or item.get('code') or '').strip()
+                      if not name: continue
+                      if name.lower() == 'null': continue
+                      if 'null - pu' in name.lower(): continue
+                      if not code: continue
+                      if code.lower() == 'null': continue
+                      cleaned.append(item)
+                  removed = orig - len(cleaned)
+                  if removed > 0:
+                      print(f"{path}: {orig} -> {len(cleaned)} (-{removed})")
+                      total_removed += removed
+                      with open(path, 'w', encoding='utf-8') as f:
+                          json.dump(cleaned, f, indent=2, ensure_ascii=False)
+              except Exception as e:
+                  print(f"Skip {path}: {e}")
+          print(f"TOTAL REMOVED: {total_removed} null PUs from all states!")
           PY
       - name: Commit
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add -A
-          git commit -m "V6 kill real null PUs in Ekiti" || echo "nothing"
+          git commit -m "V7 clean ALL states null PUs" || echo "nothing"
           git push
