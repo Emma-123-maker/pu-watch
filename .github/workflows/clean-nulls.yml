@@ -8,62 +8,46 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Deep clean nulls with Python
+      - name: Find and clean
         run: |
+          echo "=== FINDING ALL JSON ==="
+          find. -name "*.json" -type f | head -n 100
+          echo "=== CLEANING ==="
           python3 << 'PY'
-          import json, os, glob
-          paths = glob.glob("**/*.json", recursive=True)
-          cleaned = 0
-          for p in paths:
-            if ".github" in p or "node_modules" in p:
-              continue
+          import json, glob, os
+          for path in glob.glob("**/*.json", recursive=True):
+            if ".git" in path: continue
             try:
-              with open(p, 'r', encoding='utf-8', errors='ignore') as f:
-                data = json.load(f)
-              orig_len = len(data) if isinstance(data, list) else 0
-              # Case 1: list of PUs
+              with open(path, 'r', encoding='utf-8') as f:
+                txt = f.read()
+              if "null - PU" not in txt.lower():
+                continue
+              print(f"FOUND null in: {path}")
+              data = json.loads(txt)
+              def is_null_item(x):
+                s = str(x).lower()
+                return "null - pu" in s or s.strip() == "null"
+
               if isinstance(data, list):
-                new_data = []
-                for item in data:
-                  s = str(item).lower()
-                  if "null - pu" in s: continue
-                  if isinstance(item, dict):
-                    code = str(item.get("code","") or item.get("PU","") or item.get("pu_code","") or item.get("name",""))
-                    if code.strip().lower() in ["null", "null - pu", ""]:
-                      continue
-                    # check pu_name fields
-                    pu_name = str(item.get("pu_name","") or item.get("name","") or item.get("PU_NAME",""))
-                    if "null" == pu_name.strip().lower() or "null - pu" in pu_name.lower():
-                      continue
-                  new_data.append(item)
-                if len(new_data)!= orig_len:
-                  print(f"{p}: {orig_len} -> {len(new_data)}")
-                  with open(p, 'w') as out:
-                    json.dump(new_data, out)
-                  cleaned += 1
-              # Case 2: dict with data/pus key
+                new_data = [i for i in data if not is_null_item(i) and "null - pu" not in str(i).lower()]
+                if len(new_data)!= len(data):
+                  print(f" {path}: {len(data)} -> {len(new_data)}")
+                  open(path,'w').write(json.dumps(new_data))
               elif isinstance(data, dict):
-                for key in ["pus","data","PUs","polling_units"]:
-                  if key in data and isinstance(data[key], list):
-                    before = len(data[key])
-                    data[key] = [x for x in data[key] if "null - pu" not in str(x).lower()]
-                    after = len(data[key])
-                    if before!= after:
-                      print(f"{p}[{key}]: {before}->{after}")
-                      with open(p, 'w') as out:
-                        json.dump(data, out)
-                      cleaned+=1
+                for k in list(data.keys()):
+                  if isinstance(data[k], list):
+                    before=len(data[k])
+                    data[k]=[i for i in data[k] if "null - pu" not in str(i).lower()]
+                    if len(data[k])!=before:
+                      print(f" {path}[{k}]: {before}->{len(data[k])}")
+                      open(path,'w').write(json.dumps(data))
             except Exception as e:
-              print(f"skip {p}: {e}")
-          print(f"Done cleaned {cleaned} files")
+              print(f"Error {path}: {e}")
           PY
       - name: Commit
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add -A
-          git commit -m "Deep clean null PU V2" || echo "no diff"
+          git commit -m "V3 final null kill" || echo "no change"
           git push
