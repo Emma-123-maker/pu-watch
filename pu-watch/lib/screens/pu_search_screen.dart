@@ -15,12 +15,12 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
   String currentStateCode = '03';
   String currentStateName = 'Akwa Ibom';
 
-  // FILTER STATE
   String searchQuery = '';
   String? selectedLGA;
   String? selectedWard;
   List<String> lgaList = [];
   List<String> wardList = [];
+  final searchCtrl = TextEditingController();
 
   @override
   void initState() {
@@ -28,11 +28,10 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
     loadPU();
   }
 
-  // 🔒 Helper to clean nulls
   List _cleanPUs(List data) {
     return data.where((pu) {
-      final n = (pu['pu_name'] ?? pu['name'] ?? pu['polling_unit_name'] ?? '').toString().toLowerCase().trim();
-      final c = (pu['pu_code'] ?? pu['code'] ?? '').toString().toLowerCase().trim();
+      final n = (pu['pu_name']?? pu['name']?? pu['polling_unit_name']?? '').toString().toLowerCase().trim();
+      final c = (pu['pu_code']?? pu['code']?? '').toString().toLowerCase().trim();
       if (n.isEmpty || c.isEmpty) return false;
       if (n == 'null' || c == 'null') return false;
       if (n.contains('null - pu')) return false;
@@ -43,7 +42,7 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
   void _rebuildFilterOptions() {
     var lgas = allPUs.map((e) => e['lga'].toString()).toSet().toList()..sort();
     List<String> wards;
-    if (selectedLGA != null) {
+    if (selectedLGA!= null) {
       wards = allPUs.where((e) => e['lga'].toString() == selectedLGA).map((e) => e['ward'].toString()).toSet().toList()..sort();
     } else {
       wards = allPUs.map((e) => e['ward'].toString()).toSet().toList()..sort();
@@ -63,10 +62,8 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
             pu['pu_name'].toString().toLowerCase().contains(q) ||
             pu['lga'].toString().toLowerCase().contains(q) ||
             pu['ward'].toString().toLowerCase().contains(q);
-
         bool okLGA = selectedLGA == null || pu['lga'].toString() == selectedLGA;
         bool okWard = selectedWard == null || pu['ward'].toString() == selectedWard;
-
         return okSearch && okLGA && okWard;
       }).toList();
     });
@@ -108,13 +105,32 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
         selectedLGA = null;
         selectedWard = null;
         searchQuery = '';
+        searchCtrl.clear();
       });
       _rebuildFilterOptions();
       applyFilters();
     } catch (e) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text('Data for $name not yet added. Add file $code-${name.toLowerCase()}.json')),
-      );
+      // FIX: Clear list and show correct state name instead of keeping old state
+      setState(() {
+        allPUs = [];
+        filtered = [];
+        lgaList = [];
+        wardList = [];
+        currentStateCode = code;
+        currentStateName = name;
+        selectedLGA = null;
+        selectedWard = null;
+        searchQuery = '';
+        searchCtrl.clear();
+      });
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('⚠️ Data for $name not yet added. Add assets/data/states/$code-${name.toLowerCase().replaceAll(' ', '-')}.json'),
+            backgroundColor: Colors.orange[800],
+          ),
+        );
+      }
     }
   }
 
@@ -134,17 +150,20 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
           },
         )),
         Padding(padding: EdgeInsets.all(12), child: TextField(
+          controller: searchCtrl,
           onChanged: search,
           decoration: InputDecoration(
             hintText: 'Search PU code, name, LGA...',
             border: OutlineInputBorder(),
             prefixIcon: Icon(Icons.search),
             suffixIcon: searchQuery.isNotEmpty
-                ? IconButton(icon: Icon(Icons.clear), onPressed: () { search(''); })
+               ? IconButton(icon: Icon(Icons.clear), onPressed: () {
+                    searchCtrl.clear();
+                    search('');
+                  })
                 : null,
           ),
         )),
-        // LGA + WARD FILTERS
         Padding(
           padding: EdgeInsets.symmetric(horizontal: 12),
           child: Row(
@@ -156,7 +175,7 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
                   decoration: InputDecoration(labelText: 'LGA', border: OutlineInputBorder(), contentPadding: EdgeInsets.symmetric(horizontal: 10, vertical: 8)),
                   items: [
                     DropdownMenuItem(value: null, child: Text('All LGAs')),
-                    ...lgaList.map((l) => DropdownMenuItem(value: l, child: Text(l, overflow: TextOverflow.ellipsis))).toList()
+                   ...lgaList.map((l) => DropdownMenuItem(value: l, child: Text(l, overflow: TextOverflow.ellipsis))).toList()
                   ],
                   onChanged: (v) {
                     setState(() {
@@ -176,7 +195,7 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
                   decoration: InputDecoration(labelText: 'Ward', border: OutlineInputBorder(), contentPadding: EdgeInsets.symmetric(horizontal: 10, vertical: 8)),
                   items: [
                     DropdownMenuItem(value: null, child: Text('All Wards')),
-                    ...wardList.map((w) => DropdownMenuItem(value: w, child: Text(w, overflow: TextOverflow.ellipsis))).toList()
+                   ...wardList.map((w) => DropdownMenuItem(value: w, child: Text(w, overflow: TextOverflow.ellipsis))).toList()
                   ],
                   onChanged: (v) {
                     setState(() => selectedWard = v);
@@ -193,7 +212,7 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               Text('$currentStateName: ${filtered.length} PUs', style: TextStyle(fontWeight: FontWeight.bold)),
-              if (selectedLGA != null || selectedWard != null)
+              if (selectedLGA!= null || selectedWard!= null)
                 TextButton(onPressed: () {
                   setState(() {
                     selectedLGA = null;
@@ -205,10 +224,23 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
             ],
           ),
         ),
+        if (filtered.isEmpty)
+          Padding(
+            padding: EdgeInsets.all(20),
+            child: Column(
+              children: [
+                Icon(Icons.location_off, size: 48, color: Colors.grey),
+                SizedBox(height: 10),
+                Text('No PU data for $currentStateName yet', style: TextStyle(color: Colors.grey[600])),
+                SizedBox(height: 5),
+                Text('Add file: assets/data/states/$currentStateCode-${currentStateName.toLowerCase().replaceAll(' ', '-')}.json', style: TextStyle(fontSize: 12, color: Colors.grey)),
+              ],
+            ),
+          ),
         Expanded(child: ListView.builder(itemCount: filtered.length, itemBuilder: (_, i) {
           var pu = filtered[i];
           return ListTile(
-            title: Text('${pu['pu_code']} - ${pu['pu_name'] ?? pu['polling_unit_name'] ?? 'PU'}'),
+            title: Text('${pu['pu_code']} - ${pu['pu_name']?? pu['polling_unit_name']?? 'PU'}'),
             subtitle: Text('${pu['lga']}, ${pu['ward']}'),
             trailing: Icon(Icons.arrow_forward_ios, size: 12),
           );
