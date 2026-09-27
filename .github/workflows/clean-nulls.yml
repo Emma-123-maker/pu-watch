@@ -8,46 +8,54 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Find and clean
+      - name: Deep clean nulls
         run: |
-          echo "=== FINDING ALL JSON ==="
-          find. -name "*.json" -type f | head -n 100
-          echo "=== CLEANING ==="
           python3 << 'PY'
           import json, glob, os
+          print("=== STARTING CLEAN ===")
+          count=0
           for path in glob.glob("**/*.json", recursive=True):
             if ".git" in path: continue
+            if ".github" in path: continue
             try:
               with open(path, 'r', encoding='utf-8') as f:
-                txt = f.read()
-              if "null - PU" not in txt.lower():
+                text = f.read()
+              if "null - pu" not in text.lower():
                 continue
-              print(f"FOUND null in: {path}")
-              data = json.loads(txt)
-              def is_null_item(x):
-                s = str(x).lower()
-                return "null - pu" in s or s.strip() == "null"
-
+              print(f"FOUND in: {path}")
+              data = json.loads(text)
+              original = 0
               if isinstance(data, list):
-                new_data = [i for i in data if not is_null_item(i) and "null - pu" not in str(i).lower()]
-                if len(new_data)!= len(data):
-                  print(f" {path}: {len(data)} -> {len(new_data)}")
-                  open(path,'w').write(json.dumps(new_data))
+                original = len(data)
+                new_data = []
+                for item in data:
+                  if "null - pu" in str(item).lower():
+                    continue
+                  new_data.append(item)
+                if len(new_data) < original:
+                  print(f" CLEAN {path}: {original} -> {len(new_data)}")
+                  with open(path, 'w', encoding='utf-8') as out:
+                    json.dump(new_data, out)
+                  count+=1
               elif isinstance(data, dict):
-                for k in list(data.keys()):
-                  if isinstance(data[k], list):
-                    before=len(data[k])
-                    data[k]=[i for i in data[k] if "null - pu" not in str(i).lower()]
-                    if len(data[k])!=before:
-                      print(f" {path}[{k}]: {before}->{len(data[k])}")
-                      open(path,'w').write(json.dumps(data))
+                for k,v in data.items():
+                  if isinstance(v, list):
+                    before=len(v)
+                    v2=[x for x in v if "null - pu" not in str(x).lower()]
+                    if len(v2)<before:
+                      print(f" CLEAN {path}[{k}]: {before}->{len(v2)}")
+                      data[k]=v2
+                      with open(path, 'w', encoding='utf-8') as out:
+                        json.dump(data, out)
+                      count+=1
             except Exception as e:
-              print(f"Error {path}: {e}")
+              print(f"ERR {path}: {e}")
+          print(f"=== DONE cleaned {count} files ===")
           PY
-      - name: Commit
+      - name: Commit if changed
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add -A
-          git commit -m "V3 final null kill" || echo "no change"
+          git commit -m "V4 fix find typo - deep clean nulls" || echo "nothing to commit"
           git push
