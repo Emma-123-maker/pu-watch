@@ -18,51 +18,54 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
-
       - name: Find project
         run: |
           DIR=$(dirname $(find . -name "pubspec.yaml" | head -1))
           echo "PROJECT_DIR=$DIR" >> $GITHUB_ENV
-          echo "Found in $DIR"
-
       - uses: subosito/flutter-action@v2
         with:
           channel: stable
           flutter-version: '3.24.5'
           cache: true
-
-      - name: Build PWA - 2027 Final (18 parties)
+      - name: Build PWA - 2027 Final
         working-directory: ${{ env.PROJECT_DIR }}
         run: |
           flutter config --enable-web
           flutter pub get
-          if [ ! -f "web/index.html" ]; then
-            flutter create --project-name pu_watch --platforms web .
-          fi
-          cat > web/manifest.json <<'JSON'
-          {
-            "name": "PU-Watch 2027 - INEC Results",
-            "short_name": "PU-Watch",
-            "start_url": "/pu-watch/",
-            "display": "standalone",
-            "background_color": "#2E7D32",
-            "theme_color": "#2E7D32",
-            "description": "Track 2027: NDC Obi, ADC Atiku, APM Makinde, AAC Sowore + 14 others",
-            "orientation": "portrait-primary",
-            "icons": [
-              { "src": "icons/Icon-192.png", "sizes": "192x192", "type": "image/png" },
-              { "src": "icons/Icon-512.png", "sizes": "512x512", "type": "image/png" },
-              { "src": "icons/Icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
-              { "src": "icons/Icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
-            ]
-          }
-          JSON
           flutter build web --release --pwa-strategy offline-first --base-href "/pu-watch/"
-
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ${{ env.PROJECT_DIR }}/build/web
+
+  build-apk:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Find project
+        run: |
+          DIR=$(dirname $(find . -name "pubspec.yaml" | head -1))
+          echo "PROJECT_DIR=$DIR" >> $GITHUB_ENV
+      - uses: actions/setup-java@v4
+        with:
+          distribution: 'zulu'
+          java-version: '17'
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: '3.24.5'
+          cache: true
+      - name: Build APK - 2027 (Obi NDC, Atiku ADC, Makinde APM, Sowore AAC)
+        working-directory: ${{ env.PROJECT_DIR }}
+        run: |
+          flutter config --enable-android
+          flutter pub get
+          flutter build apk --release --split-per-abi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pu-watch-apk-2027
+          path: ${{ env.PROJECT_DIR }}/build/app/outputs/flutter-apk/*.apk
+          retention-days: 30
 
   deploy:
     environment:
