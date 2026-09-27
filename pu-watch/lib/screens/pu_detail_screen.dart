@@ -2,14 +2,15 @@ import 'package:flutter/material.dart';
 import '../models/election_result.dart';
 import 'package:image_picker/image_picker.dart';
 
-class PuDetailScreen extends StatefulWidget {
+// CLASS NAME MUST BE PUDetailScreen - capital PU - to match pu_search_screen.dart
+class PUDetailScreen extends StatefulWidget {
   final String puCode;
   final String lga;
   final String ward;
   final String stateCode;
   final String puName;
 
-  const PuDetailScreen({
+  const PUDetailScreen({
     super.key,
     required this.puCode,
     required this.lga,
@@ -19,10 +20,10 @@ class PuDetailScreen extends StatefulWidget {
   });
 
   @override
-  State<PuDetailScreen> createState() => _PuDetailScreenState();
+  State<PUDetailScreen> createState() => _PUDetailScreenState();
 }
 
-class _PuDetailScreenState extends State<PuDetailScreen> {
+class _PUDetailScreenState extends State<PUDetailScreen> {
   ElectionType _selectedElection = ElectionType.presidential;
   final Map<String, TextEditingController> _controllers = {
     for (var p in ElectionResult.allParties) p: TextEditingController()
@@ -34,9 +35,7 @@ class _PuDetailScreenState extends State<PuDetailScreen> {
 
   @override
   void dispose() {
-    for (var c in _controllers.values) {
-      c.dispose();
-    }
+    for (var c in _controllers.values) c.dispose();
     _accreditedController.dispose();
     _othersController.dispose();
     super.dispose();
@@ -44,13 +43,10 @@ class _PuDetailScreenState extends State<PuDetailScreen> {
 
   Future<void> _pickImage() async {
     final XFile? file = await _picker.pickImage(source: ImageSource.camera, imageQuality: 70);
-    if (file!= null) {
-      setState(() => _imagePath = file.path);
-    }
+    if (file!= null) setState(() => _imagePath = file.path);
   }
 
   void _saveResult() {
-    // Build generic partyVotes - NO candidate names
     final Map<String, int> votes = {
       for (var p in ElectionResult.allParties)
         p: int.tryParse(_controllers[p]!.text)?? 0,
@@ -70,9 +66,6 @@ class _PuDetailScreenState extends State<PuDetailScreen> {
       synced: false,
     );
 
-    // TODO: save to local Hive / SQLite
-    // Hive.box('results').put('${result.puCode}_${result.electionType.name}', result.toJson());
-
     ScaffoldMessenger.of(context).showSnackBar(
       SnackBar(content: Text("Saved ${result.electionType.label} for ${result.puCode} (Offline)")),
     );
@@ -82,15 +75,20 @@ class _PuDetailScreenState extends State<PuDetailScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(widget.puCode),
-        subtitle: Text(widget.puName),
+        // FIXED: AppBar has no subtitle param - use Column in title
+        title: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(widget.puCode, style: const TextStyle(fontSize: 16)),
+            Text(widget.puName, style: const TextStyle(fontSize: 12, fontWeight: FontWeight.normal)),
+          ],
+        ),
       ),
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(12),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // 1. ELECTION TYPE SELECTOR - THIS IS NEW FOR ALL ELECTIONS
             Card(
               child: Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
@@ -99,10 +97,7 @@ class _PuDetailScreenState extends State<PuDetailScreen> {
                   isExpanded: true,
                   underline: const SizedBox(),
                   items: ElectionType.values
-                     .map((e) => DropdownMenuItem(
-                            value: e,
-                            child: Text("${e.label} - ${e.ecForm}"),
-                          ))
+                     .map((e) => DropdownMenuItem(value: e, child: Text("${e.label} - ${e.ecForm}")))
                      .toList(),
                   onChanged: (v) {
                     if (v!= null) setState(() => _selectedElection = v);
@@ -111,10 +106,8 @@ class _PuDetailScreenState extends State<PuDetailScreen> {
               ),
             ),
             const SizedBox(height: 8),
-            Text(
-              "Party Scores - ${_selectedElection.label}",
-              style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
-            ),
+            Text("Party Scores - ${_selectedElection.label}",
+                style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
             const SizedBox(height: 8),
             TextField(
               controller: _accreditedController,
@@ -122,7 +115,6 @@ class _PuDetailScreenState extends State<PuDetailScreen> {
               decoration: const InputDecoration(labelText: "Accredited Voters *", border: OutlineInputBorder()),
             ),
             const SizedBox(height: 12),
-            // 2. GENERIC PARTIES - NO TINUBU / ATIKU / OBI NAMES
             GridView.count(
               crossAxisCount: 2,
               shrinkWrap: true,
@@ -135,20 +127,12 @@ class _PuDetailScreenState extends State<PuDetailScreen> {
                   TextField(
                     controller: _controllers[party],
                     keyboardType: TextInputType.number,
-                    decoration: InputDecoration(
-                      labelText: party,
-                      border: const OutlineInputBorder(),
-                      isDense: true,
-                    ),
+                    decoration: InputDecoration(labelText: party, border: const OutlineInputBorder(), isDense: true),
                   ),
                 TextField(
                   controller: _othersController,
                   keyboardType: TextInputType.number,
-                  decoration: const InputDecoration(
-                    labelText: "Others / Invalid",
-                    border: OutlineInputBorder(),
-                    isDense: true,
-                  ),
+                  decoration: const InputDecoration(labelText: "Others / Invalid", border: OutlineInputBorder(), isDense: true),
                 ),
               ],
             ),
