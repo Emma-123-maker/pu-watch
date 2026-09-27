@@ -23,8 +23,12 @@ jobs:
           channel: stable
           flutter-version: '3.32.5'
           cache: true
-      - working-directory: ${{ env.PROJECT_DIR }}
+      - name: Build PWA 2027
+        working-directory: ${{ env.PROJECT_DIR }}
         run: |
+          if [ ! -f web/index.html ]; then
+            flutter create --platforms=web --project-name=pu_watch --org com.puwatch.app .
+          fi
           flutter config --enable-web
           flutter pub get
           flutter build web --release --pwa-strategy offline-first --base-href "/pu-watch/"
@@ -52,8 +56,9 @@ jobs:
       - name: FIX GRADLE + BUILD APK 2027
         working-directory: ${{ env.PROJECT_DIR }}
         run: |
-          rm -rf android
-          flutter create --platforms=android --project-name=pu_watch --org com.puwatch.app .
+          if [ ! -d android ]; then
+            flutter create --platforms=android --project-name=pu_watch --org com.puwatch.app .
+          fi
           flutter pub get
           flutter build apk --release
       - uses: actions/upload-artifact@v4
