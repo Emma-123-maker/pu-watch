@@ -1,9 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 import 'screens/pu_search_screen.dart';
 import 'screens/check_in_screen.dart';
 import 'screens/help_support_screen.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  // 🔒 Offline init
+  await Hive.initFlutter();
+  await Hive.openBox('checkins_queue');
   runApp(PUWatchApp());
 }
 
@@ -13,7 +18,10 @@ class PUWatchApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'PU-Watch',
-      theme: ThemeData(primarySwatch: Colors.green),
+      theme: ThemeData(
+        primarySwatch: Colors.green,
+        scaffoldBackgroundColor: Colors.grey[50],
+      ),
       home: HomeShell(),
     );
   }
@@ -36,6 +44,7 @@ class _HomeShellState extends State<HomeShell> {
         currentIndex: idx,
         selectedItemColor: Colors.green[800],
         onTap: (i) => setState(() => idx = i),
+        type: BottomNavigationBarType.fixed,
         items: [
           BottomNavigationBarItem(icon: Icon(Icons.search), label: "Find PU"),
           BottomNavigationBarItem(icon: Icon(Icons.location_on), label: "Check-In"),
