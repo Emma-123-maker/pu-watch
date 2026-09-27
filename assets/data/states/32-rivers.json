@@ -333,12 +333,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ABUA-ODUAL",
-    "ward": "ABUA I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/01/02/001",
     "pu_name": "EFIBIRI TOWN HALL I",
     "name": "EFIBIRI TOWN HALL I",
@@ -423,12 +417,6 @@
     "pu_code": "32/01/02/010",
     "pu_name": "ARUKWO II, DISPENSARY HALL ARUKWO",
     "name": "ARUKWO II, DISPENSARY HALL ARUKWO",
-    "lga": "ABUA-ODUAL",
-    "ward": "ABUA II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ABUA-ODUAL",
     "ward": "ABUA II",
     "state": "Rivers",
@@ -579,12 +567,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ABUA-ODUAL",
-    "ward": "ABUA III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/01/04/001",
     "pu_name": "AMALEM TOWN HALL",
     "name": "AMALEM TOWN HALL",
@@ -651,12 +633,6 @@
     "pu_code": "32/01/04/008",
     "pu_name": "AMALEM NEW TOWN HALL",
     "name": "AMALEM NEW TOWN HALL",
-    "lga": "ABUA-ODUAL",
-    "ward": "ABUA  IV",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ABUA-ODUAL",
     "ward": "ABUA  IV",
     "state": "Rivers",
@@ -816,12 +792,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ABUA-ODUAL",
-    "ward": "EMUGHAN  I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/01/06/001",
     "pu_name": "AMINIGBOKO UKWO HALL",
     "name": "AMINIGBOKO UKWO HALL",
@@ -924,12 +894,6 @@
     "pu_code": "32/01/06/012",
     "pu_name": "CPS HALL II AMINIGBOKO I",
     "name": "CPS HALL II AMINIGBOKO I",
-    "lga": "ABUA-ODUAL",
-    "ward": "EMUGHAN  II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ABUA-ODUAL",
     "ward": "EMUGHAN  II",
     "state": "Rivers",
@@ -1074,12 +1038,6 @@
     "pu_code": "32/01/07/016",
     "pu_name": "OGBOKUMA TOWN HALL IV",
     "name": "OGBOKUMA TOWN HALL IV",
-    "lga": "ABUA-ODUAL",
-    "ward": "OTAPHA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ABUA-ODUAL",
     "ward": "OTAPHA",
     "state": "Rivers",
@@ -1275,12 +1233,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ABUA-ODUAL",
-    "ward": "OKPEDEN",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/01/09/001",
     "pu_name": "STATE SCHOOL HALL, AGADA I",
     "name": "STATE SCHOOL HALL, AGADA I",
@@ -1392,12 +1344,6 @@
     "pu_code": "32/01/09/013",
     "pu_name": "ADADA TOWN HALL, ADADA",
     "name": "ADADA TOWN HALL, ADADA",
-    "lga": "ABUA-ODUAL",
-    "ward": "AGADA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ABUA-ODUAL",
     "ward": "AGADA",
     "state": "Rivers",
@@ -1548,12 +1494,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ABUA-ODUAL",
-    "ward": "EMELEGO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/01/11/001",
     "pu_name": "TOWN HALL, ANYU OBOSI",
     "name": "TOWN HALL, ANYU OBOSI",
@@ -1647,12 +1587,6 @@
     "pu_code": "32/01/11/011",
     "pu_name": "STATE SCHOOL HALL/EMAGO II",
     "name": "STATE SCHOOL HALL/EMAGO II",
-    "lga": "ABUA-ODUAL",
-    "ward": "EMAGO-KUGBO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ABUA-ODUAL",
     "ward": "EMAGO-KUGBO",
     "state": "Rivers",
@@ -1797,12 +1731,6 @@
     "pu_code": "32/01/12/016",
     "pu_name": "STATE SCHOOL HALL OTEWEL TOWN HALL",
     "name": "STATE SCHOOL HALL OTEWEL TOWN HALL",
-    "lga": "ABUA-ODUAL",
-    "ward": "AKANI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ABUA-ODUAL",
     "ward": "AKANI",
     "state": "Rivers",
@@ -1998,12 +1926,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ABUA-ODUAL",
-    "ward": "ANYU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/02/01/001",
     "pu_name": "ODIGWE TOWN HALL (TOWN SQUARE I)",
     "name": "ODIGWE TOWN HALL (TOWN SQUARE I)",
@@ -2094,12 +2016,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AHOADA EAST",
-    "ward": "AHOADA I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/02/02/001",
     "pu_name": "IGURU HALL, IGBU-OGBOR",
     "name": "IGURU HALL, IGBU-OGBOR",
@@ -2157,12 +2073,6 @@
     "pu_code": "32/02/02/007",
     "pu_name": "AHOADA MAIN PARK",
     "name": "AHOADA MAIN PARK",
-    "lga": "AHOADA EAST",
-    "ward": "AHOADA II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AHOADA EAST",
     "ward": "AHOADA II",
     "state": "Rivers",
@@ -2244,12 +2154,6 @@
     "pu_code": "32/02/03/009",
     "pu_name": "EYEKELE HALL (ODIEMELU/LOCATION III)",
     "name": "EYEKELE HALL (ODIEMELU/LOCATION III)",
-    "lga": "AHOADA EAST",
-    "ward": "AHOADA III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AHOADA EAST",
     "ward": "AHOADA III",
     "state": "Rivers",
@@ -2463,12 +2367,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AHOADA EAST",
-    "ward": "AHOADA  IV",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/02/05/001",
     "pu_name": "MARKET SQUARE EDEOHA",
     "name": "MARKET SQUARE EDEOHA",
@@ -2631,12 +2529,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AHOADA EAST",
-    "ward": "UPPATA I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/02/06/001",
     "pu_name": "ODIEREKA TOWN HALL, OCHIGBA",
     "name": "ODIEREKA TOWN HALL, OCHIGBA",
@@ -2763,12 +2655,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AHOADA EAST",
-    "ward": "UPPATA II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/02/07/001",
     "pu_name": "IGBU-EBOH, ULA-UPATA TOWN HALL",
     "name": "IGBU-EBOH, ULA-UPATA TOWN HALL",
@@ -2880,12 +2766,6 @@
     "pu_code": "32/02/07/013",
     "pu_name": "STATE SCHOOL IHUIKE",
     "name": "STATE SCHOOL IHUIKE",
-    "lga": "AHOADA EAST",
-    "ward": "UPPATA  III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AHOADA EAST",
     "ward": "UPPATA  III",
     "state": "Rivers",
@@ -3018,12 +2898,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AHOADA EAST",
-    "ward": "UPPATA  IV",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/02/09/001",
     "pu_name": "TOWN HALL OGBELE",
     "name": "TOWN HALL OGBELE",
@@ -3135,12 +3009,6 @@
     "pu_code": "32/02/09/013",
     "pu_name": "AGBA PLAY GROUND (AGBA LAYOUT, OBUMEZE)",
     "name": "AGBA PLAY GROUND (AGBA LAYOUT, OBUMEZE)",
-    "lga": "AHOADA EAST",
-    "ward": "UPPATA  V",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AHOADA EAST",
     "ward": "UPPATA  V",
     "state": "Rivers",
@@ -3282,12 +3150,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AHOADA EAST",
-    "ward": "UPPATA  VI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/02/11/001",
     "pu_name": "MARKET SQUARE ODIEMERENYI (TOWN HALL I, ODIEMERENYI)",
     "name": "MARKET SQUARE ODIEMERENYI (TOWN HALL I, ODIEMERENYI)",
@@ -3405,12 +3267,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AHOADA EAST",
-    "ward": "AKOH  I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/02/12/001",
     "pu_name": "TOWN HALL, IHUGBUGO",
     "name": "TOWN HALL, IHUGBUGO",
@@ -3495,12 +3351,6 @@
     "pu_code": "32/02/12/010",
     "pu_name": "OPEN SPACE AT PALACE GATE IHUGBOGO",
     "name": "OPEN SPACE AT PALACE GATE IHUGBOGO",
-    "lga": "AHOADA EAST",
-    "ward": "AKOH  II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AHOADA EAST",
     "ward": "AKOH  II",
     "state": "Rivers",
@@ -3660,12 +3510,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AHOADA EAST",
-    "ward": "AKOH  III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/03/01/001",
     "pu_name": "TOWN HALL, AKINIMA",
     "name": "TOWN HALL, AKINIMA",
@@ -3777,12 +3621,6 @@
     "pu_code": "32/03/01/013",
     "pu_name": "NEW MODEL TOWN HALL AKINIMA",
     "name": "NEW MODEL TOWN HALL AKINIMA",
-    "lga": "AHOADA WEST",
-    "ward": "EDIRO I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AHOADA WEST",
     "ward": "EDIRO I",
     "state": "Rivers",
@@ -3909,12 +3747,6 @@
     "pu_code": "32/03/02/014",
     "pu_name": "SOKARI PLAYGROUND ORUAMA",
     "name": "SOKARI PLAYGROUND ORUAMA",
-    "lga": "AHOADA WEST",
-    "ward": "EDIRO II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AHOADA WEST",
     "ward": "EDIRO II",
     "state": "Rivers",
@@ -4059,12 +3891,6 @@
     "pu_code": "32/03/03/016",
     "pu_name": "COM HEATH CENTRE, ODAWU",
     "name": "COM HEATH CENTRE, ODAWU",
-    "lga": "AHOADA WEST",
-    "ward": "JOINKRAMA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AHOADA WEST",
     "ward": "JOINKRAMA",
     "state": "Rivers",
@@ -4341,12 +4167,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AHOADA WEST",
-    "ward": "OKARKI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/03/05/001",
     "pu_name": "TOWN HALL, OKOGBE",
     "name": "TOWN HALL, OKOGBE",
@@ -4545,12 +4365,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AHOADA WEST",
-    "ward": "IGBUDUYA I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/03/06/001",
     "pu_name": "TOWN HALL, IDU-EKPEYE",
     "name": "TOWN HALL, IDU-EKPEYE",
@@ -4650,12 +4464,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AHOADA WEST",
-    "ward": "IGBUDUYA II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/03/07/001",
     "pu_name": "TOWN HALL, ODIOLUJI/ELE-UMA",
     "name": "TOWN HALL, ODIOLUJI/ELE-UMA",
@@ -4731,12 +4539,6 @@
     "pu_code": "32/03/07/009",
     "pu_name": "OGWEZE TOWN HALL EMEZI II",
     "name": "OGWEZE TOWN HALL EMEZI II",
-    "lga": "AHOADA WEST",
-    "ward": "IGBUDUYA III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AHOADA WEST",
     "ward": "IGBUDUYA III",
     "state": "Rivers",
@@ -4842,12 +4644,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AHOADA WEST",
-    "ward": "IGBUDUYA IV",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/03/09/001",
     "pu_name": "TOWN HALL, ODIEREKE-UBIE",
     "name": "TOWN HALL, ODIEREKE-UBIE",
@@ -4929,12 +4725,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AHOADA WEST",
-    "ward": "UBIE I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/03/10/001",
     "pu_name": "ODIHIOKPU HALL, UBETA",
     "name": "ODIHIOKPU HALL, UBETA",
@@ -4983,12 +4773,6 @@
     "pu_code": "32/03/10/006",
     "pu_name": "YOUTH CENTRE ODHIWU",
     "name": "YOUTH CENTRE ODHIWU",
-    "lga": "AHOADA WEST",
-    "ward": "UBIE II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AHOADA WEST",
     "ward": "UBIE II",
     "state": "Rivers",
@@ -5184,12 +4968,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AHOADA WEST",
-    "ward": "UBIE III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/03/12/001",
     "pu_name": "TOWN HALL, ULA-UBIE",
     "name": "TOWN HALL, ULA-UBIE",
@@ -5265,12 +5043,6 @@
     "pu_code": "32/03/12/009",
     "pu_name": "WOMEN HALL EWOMUEGAH ULA-UBIE",
     "name": "WOMEN HALL EWOMUEGAH ULA-UBIE",
-    "lga": "AHOADA WEST",
-    "ward": "UBIE IV",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AHOADA WEST",
     "ward": "UBIE IV",
     "state": "Rivers",
@@ -5370,12 +5142,6 @@
     "pu_code": "32/04/01/011",
     "pu_name": "SEKIBO GATE OPEN SPACE",
     "name": "SEKIBO GATE OPEN SPACE",
-    "lga": "AKUKU TORU",
-    "ward": "MANUEL  I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AKUKU TORU",
     "ward": "MANUEL  I",
     "state": "Rivers",
@@ -5490,12 +5256,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AKUKU TORU",
-    "ward": "MANUEL  II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/04/03/001",
     "pu_name": "BLACK DUKE HALL I",
     "name": "BLACK DUKE HALL I",
@@ -5589,12 +5349,6 @@
     "pu_code": "32/04/03/011",
     "pu_name": "G.B.O.",
     "name": "G.B.O.",
-    "lga": "AKUKU TORU",
-    "ward": "MANUEL  III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AKUKU TORU",
     "ward": "MANUEL  III",
     "state": "Rivers",
@@ -5709,12 +5463,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AKUKU TORU",
-    "ward": "BRIGGS I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/04/05/001",
     "pu_name": "ALABRABA POLO, MAIN ALBRABA I",
     "name": "ALABRABA POLO, MAIN ALBRABA I",
@@ -5817,12 +5565,6 @@
     "pu_code": "32/04/05/012",
     "pu_name": "ANABRABA WATER FRONT",
     "name": "ANABRABA WATER FRONT",
-    "lga": "AKUKU TORU",
-    "ward": "BRIGGS II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AKUKU TORU",
     "ward": "BRIGGS II",
     "state": "Rivers",
@@ -5937,12 +5679,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AKUKU TORU",
-    "ward": "BRIGGS III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/04/07/001",
     "pu_name": "GEORGEWILL PLAY GROUND, MAIN GEORGEWILL",
     "name": "GEORGEWILL PLAY GROUND, MAIN GEORGEWILL",
@@ -6033,12 +5769,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AKUKU TORU",
-    "ward": "GEORGEWILL I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/04/08/001",
     "pu_name": "KALA AKPANA HALL",
     "name": "KALA AKPANA HALL",
@@ -6111,12 +5841,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AKUKU TORU",
-    "ward": "GEORGEWILL II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/04/09/001",
     "pu_name": "ROMEO'S GATE, REMEO'S COMPOUND",
     "name": "ROMEO'S GATE, REMEO'S COMPOUND",
@@ -6183,12 +5907,6 @@
     "pu_code": "32/04/09/008",
     "pu_name": "AJAKA WATER SIDE",
     "name": "AJAKA WATER SIDE",
-    "lga": "AKUKU TORU",
-    "ward": "GEORGWILL III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AKUKU TORU",
     "ward": "GEORGWILL III",
     "state": "Rivers",
@@ -6279,12 +5997,6 @@
     "pu_code": "32/04/10/010",
     "pu_name": "DANAGOGOS GATE OPEN SPACE",
     "name": "DANAGOGOS GATE OPEN SPACE",
-    "lga": "AKUKU TORU",
-    "ward": "JACK I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AKUKU TORU",
     "ward": "JACK I",
     "state": "Rivers",
@@ -6393,12 +6105,6 @@
     "pu_code": "32/04/11/012",
     "pu_name": "MAIKIPUYE'S GATE PLAY GROUND",
     "name": "MAIKIPUYE'S GATE PLAY GROUND",
-    "lga": "AKUKU TORU",
-    "ward": "JACK II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AKUKU TORU",
     "ward": "JACK II",
     "state": "Rivers",
@@ -6522,12 +6228,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AKUKU TORU",
-    "ward": "JACK III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/04/13/001",
     "pu_name": "NYEMONI SCHOOL, ABONNEMA, BRIGGS NEW LAYOUT",
     "name": "NYEMONI SCHOOL, ABONNEMA, BRIGGS NEW LAYOUT",
@@ -6594,12 +6294,6 @@
     "pu_code": "32/04/13/008",
     "pu_name": "NEW LAYOUT SQUARE, BRIGGS",
     "name": "NEW LAYOUT SQUARE, BRIGGS",
-    "lga": "AKUKU TORU",
-    "ward": "ALISE GROUP",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AKUKU TORU",
     "ward": "ALISE GROUP",
     "state": "Rivers",
@@ -6708,12 +6402,6 @@
     "pu_code": "32/04/14/012",
     "pu_name": "TEINGIA SQUARE",
     "name": "TEINGIA SQUARE",
-    "lga": "AKUKU TORU",
-    "ward": "OBONOMA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AKUKU TORU",
     "ward": "OBONOMA",
     "state": "Rivers",
@@ -6972,12 +6660,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AKUKU TORU",
-    "ward": "KULA  I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/04/16/001",
     "pu_name": "IBIAPU AMA, MIZE KIRI",
     "name": "IBIAPU AMA, MIZE KIRI",
@@ -7215,12 +6897,6 @@
     "pu_code": "32/04/16/027",
     "pu_name": "LUCKYLAND COMMUNITY PLAY GROUND",
     "name": "LUCKYLAND COMMUNITY PLAY GROUND",
-    "lga": "AKUKU TORU",
-    "ward": "KULA  II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "AKUKU TORU",
     "ward": "KULA  II",
     "state": "Rivers",
@@ -7569,12 +7245,6 @@
     "state_code": "32"
   },
   {
-    "lga": "AKUKU TORU",
-    "ward": "NORTH/SOUTH GROUP",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/05/01/001",
     "pu_name": "SAINI COMPOUND, SQUARE",
     "name": "SAINI COMPOUND, SQUARE",
@@ -7908,12 +7578,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ANDONI",
-    "ward": "NGO  TOWN",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/05/02/001",
     "pu_name": "C.P.S. UNYENGALA",
     "name": "C.P.S. UNYENGALA",
@@ -8088,12 +7752,6 @@
     "pu_code": "32/05/02/020",
     "pu_name": "AMA AWAJIGBANA VILLAGE SQUARE",
     "name": "AMA AWAJIGBANA VILLAGE SQUARE",
-    "lga": "ANDONI",
-    "ward": "UNYEN GALA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ANDONI",
     "ward": "UNYEN GALA",
     "state": "Rivers",
@@ -8325,12 +7983,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ANDONI",
-    "ward": "AGWUT-OBOLO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/05/04/001",
     "pu_name": "OTUOKOROLO",
     "name": "OTUOKOROLO",
@@ -8532,12 +8184,6 @@
     "pu_code": "32/05/04/023",
     "pu_name": "OTUOKPU RUKPU II",
     "name": "OTUOKPU RUKPU II",
-    "lga": "ANDONI",
-    "ward": "EKEDE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ANDONI",
     "ward": "EKEDE",
     "state": "Rivers",
@@ -8886,12 +8532,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ANDONI",
-    "ward": "IKURU  TOWN",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/05/06/001",
     "pu_name": "C.P.S. II UNYEADA, OTUO COMPOUND",
     "name": "C.P.S. II UNYEADA, OTUO COMPOUND",
@@ -9012,12 +8652,6 @@
     "pu_code": "32/05/06/014",
     "pu_name": "USABAMUNG ATTENG SQUARE",
     "name": "USABAMUNG ATTENG SQUARE",
-    "lga": "ANDONI",
-    "ward": "UNYEADA I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ANDONI",
     "ward": "UNYEADA I",
     "state": "Rivers",
@@ -9204,12 +8838,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ANDONI",
-    "ward": "UNYEADA II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/05/08/001",
     "pu_name": "C.P.S. AJAKAJAK",
     "name": "C.P.S. AJAKAJAK",
@@ -9348,12 +8976,6 @@
     "pu_code": "32/05/08/016",
     "pu_name": "OKPURUAPU VILLAGE SQUARE",
     "name": "OKPURUAPU VILLAGE SQUARE",
-    "lga": "ANDONI",
-    "ward": "SAMANGA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ANDONI",
     "ward": "SAMANGA",
     "state": "Rivers",
@@ -9711,12 +9333,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ANDONI",
-    "ward": "ASARAMA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/05/10/001",
     "pu_name": "NTEGUN/USENDE VILLAGE SQUARE",
     "name": "NTEGUN/USENDE VILLAGE SQUARE",
@@ -9888,12 +9504,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ANDONI",
-    "ward": "ATABA  I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/05/11/001",
     "pu_name": "EGWE ISIYORK/OKAMA VILLAGE SQUARE",
     "name": "EGWE ISIYORK/OKAMA VILLAGE SQUARE",
@@ -10014,12 +9624,6 @@
     "pu_code": "32/05/11/014",
     "pu_name": "AYAWU VILLAGE SQUARE",
     "name": "AYAWU VILLAGE SQUARE",
-    "lga": "ANDONI",
-    "ward": "ATABA  II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ANDONI",
     "ward": "ATABA  II",
     "state": "Rivers",
@@ -10233,12 +9837,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ASARI-TORU",
-    "ward": "BUGUMA SOUTH",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/06/02/001",
     "pu_name": "LAWSON POLO",
     "name": "LAWSON POLO",
@@ -10377,12 +9975,6 @@
     "pu_code": "32/06/02/016",
     "pu_name": "AYANTE",
     "name": "AYANTE",
-    "lga": "ASARI-TORU",
-    "ward": "BUGUMA SOUTH EAST",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ASARI-TORU",
     "ward": "BUGUMA SOUTH EAST",
     "state": "Rivers",
@@ -10632,12 +10224,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ASARI-TORU",
-    "ward": "BUGUMA  EAST I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/06/04/001",
     "pu_name": "PANKIN COMPOUND",
     "name": "PANKIN COMPOUND",
@@ -10737,12 +10323,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ASARI-TORU",
-    "ward": "BUGUMA  EAST II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/06/05/001",
     "pu_name": "EFEREBO COMPOUND I",
     "name": "EFEREBO COMPOUND I",
@@ -10836,12 +10416,6 @@
     "pu_code": "32/06/05/011",
     "pu_name": "KAMA MEMORIAL HALL",
     "name": "KAMA MEMORIAL HALL",
-    "lga": "ASARI-TORU",
-    "ward": "BUGUMA  SOUTH  WEST",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ASARI-TORU",
     "ward": "BUGUMA  SOUTH  WEST",
     "state": "Rivers",
@@ -10983,12 +10557,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ASARI-TORU",
-    "ward": "BUGUMA  NORTH EAST",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/06/07/001",
     "pu_name": "FRED HORSEFALL COMPOUND I",
     "name": "FRED HORSEFALL COMPOUND I",
@@ -11118,12 +10686,6 @@
     "pu_code": "32/06/07/015",
     "pu_name": "FRED HORSEFALL COMPOUND",
     "name": "FRED HORSEFALL COMPOUND",
-    "lga": "ASARI-TORU",
-    "ward": "BUGUMA WEST",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ASARI-TORU",
     "ward": "BUGUMA WEST",
     "state": "Rivers",
@@ -11268,12 +10830,6 @@
     "pu_code": "32/06/08/016",
     "pu_name": "JACKREECE MEMORIAL HALL",
     "name": "JACKREECE MEMORIAL HALL",
-    "lga": "ASARI-TORU",
-    "ward": "BUGUMA NORTH WEST I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ASARI-TORU",
     "ward": "BUGUMA NORTH WEST I",
     "state": "Rivers",
@@ -11433,12 +10989,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ASARI-TORU",
-    "ward": "BUGUMA NORTH  WEST II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/06/10/001",
     "pu_name": "ATIEGOBA MEMORIAL HALL I",
     "name": "ATIEGOBA MEMORIAL HALL I",
@@ -11523,12 +11073,6 @@
     "pu_code": "32/06/10/010",
     "pu_name": "TOMI KEIMIEYE II",
     "name": "TOMI KEIMIEYE II",
-    "lga": "ASARI-TORU",
-    "ward": "BUGUMA EAST  WEST",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ASARI-TORU",
     "ward": "BUGUMA EAST  WEST",
     "state": "Rivers",
@@ -11994,12 +11538,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ASARI-TORU",
-    "ward": "ISIA GROUP I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/06/12/001",
     "pu_name": "EGWERE MEMORIAL HALL",
     "name": "EGWERE MEMORIAL HALL",
@@ -12111,12 +11649,6 @@
     "pu_code": "32/06/12/013",
     "pu_name": "IDO TOWN HALL, ESUKU POLO",
     "name": "IDO TOWN HALL, ESUKU POLO",
-    "lga": "ASARI-TORU",
-    "ward": "ISIA GROUP II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ASARI-TORU",
     "ward": "ISIA GROUP II",
     "state": "Rivers",
@@ -12357,12 +11889,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ASARI-TORU",
-    "ward": "WEST CENTAL GROUP",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/07/01/001",
     "pu_name": "COAL BEACH",
     "name": "COAL BEACH",
@@ -12471,12 +11997,6 @@
     "state_code": "32"
   },
   {
-    "lga": "BONNY",
-    "ward": "ORO-IGWE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/07/02/001",
     "pu_name": "COMPOUND SQUARE, ALLISON OPUWERI",
     "name": "COMPOUND SQUARE, ALLISON OPUWERI",
@@ -12570,12 +12090,6 @@
     "pu_code": "32/07/02/011",
     "pu_name": "OPEN SPACE HEALTH CENTRE SAND FIELD",
     "name": "OPEN SPACE HEALTH CENTRE SAND FIELD",
-    "lga": "BONNY",
-    "ward": "COURT/ ADA ALLISON",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "BONNY",
     "ward": "COURT/ ADA ALLISON",
     "state": "Rivers",
@@ -12711,12 +12225,6 @@
     "pu_code": "32/07/03/015",
     "pu_name": "OPEN SQUARE BY BOBO HALLIDAY",
     "name": "OPEN SQUARE BY BOBO HALLIDAY",
-    "lga": "BONNY",
-    "ward": "OROSIRIRI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "BONNY",
     "ward": "OROSIRIRI",
     "state": "Rivers",
@@ -12861,12 +12369,6 @@
     "pu_code": "32/07/04/016",
     "pu_name": "OPEN SPACE BY GT KURUBO OFF NEW JERUSALEM",
     "name": "OPEN SPACE BY GT KURUBO OFF NEW JERUSALEM",
-    "lga": "BONNY",
-    "ward": "NEW LAYOUT",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "BONNY",
     "ward": "NEW LAYOUT",
     "state": "Rivers",
@@ -13125,12 +12627,6 @@
     "state_code": "32"
   },
   {
-    "lga": "BONNY",
-    "ward": "FINIMA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/07/06/001",
     "pu_name": "VILLAGE SQUARE, AKIAMA",
     "name": "VILLAGE SQUARE, AKIAMA",
@@ -13302,12 +12798,6 @@
     "state_code": "32"
   },
   {
-    "lga": "BONNY",
-    "ward": "ABALAMABIE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/07/07/001",
     "pu_name": "C.P.S. DEMA SCHOOL SQUARE",
     "name": "C.P.S. DEMA SCHOOL SQUARE",
@@ -13374,12 +12864,6 @@
     "pu_code": "32/07/07/008",
     "pu_name": "ARU-WARI OPEN SPACE DEMA-ABBEY",
     "name": "ARU-WARI OPEN SPACE DEMA-ABBEY",
-    "lga": "BONNY",
-    "ward": "DEMA ABBEY",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "BONNY",
     "ward": "DEMA ABBEY",
     "state": "Rivers",
@@ -13470,12 +12954,6 @@
     "pu_code": "32/07/08/010",
     "pu_name": "TOWN HALL. OGBUKUPOLO",
     "name": "TOWN HALL. OGBUKUPOLO",
-    "lga": "BONNY",
-    "ward": "DAN JUMBO/ BERESIRI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "BONNY",
     "ward": "DAN JUMBO/ BERESIRI",
     "state": "Rivers",
@@ -13599,12 +13077,6 @@
     "state_code": "32"
   },
   {
-    "lga": "BONNY",
-    "ward": "NANABIE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/07/10/001",
     "pu_name": "VILLAGE SQUARE, FAKPA I & II",
     "name": "VILLAGE SQUARE, FAKPA I & II",
@@ -13722,12 +13194,6 @@
     "state_code": "32"
   },
   {
-    "lga": "BONNY",
-    "ward": "OLOMA AYAMINIMA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/07/11/001",
     "pu_name": "PETERSIDE I, CPS HALL",
     "name": "PETERSIDE I, CPS HALL",
@@ -13776,12 +13242,6 @@
     "pu_code": "32/07/11/006",
     "pu_name": "GBARAMA/DAGBADIRI, VILLAGE SQUARE",
     "name": "GBARAMA/DAGBADIRI, VILLAGE SQUARE",
-    "lga": "BONNY",
-    "ward": "PETERSIDE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "BONNY",
     "ward": "PETERSIDE",
     "state": "Rivers",
@@ -13905,12 +13365,6 @@
     "state_code": "32"
   },
   {
-    "lga": "BONNY",
-    "ward": "KALAIBIAMA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/08/01/001",
     "pu_name": "INDIA YELLOWE COMPOUND",
     "name": "INDIA YELLOWE COMPOUND",
@@ -13965,12 +13419,6 @@
     "state_code": "32"
   },
   {
-    "lga": "DEGEMA",
-    "ward": "BAKANA  I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/08/02/001",
     "pu_name": "MARION BRAIDE COMPOUND",
     "name": "MARION BRAIDE COMPOUND",
@@ -14007,12 +13455,6 @@
     "state_code": "32"
   },
   {
-    "lga": "DEGEMA",
-    "ward": "BAKANA  II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/08/03/001",
     "pu_name": "LULU BRAIDE POLO",
     "name": "LULU BRAIDE POLO",
@@ -14043,12 +13485,6 @@
     "pu_code": "32/08/03/004",
     "pu_name": "LULU BRAIDE POLO",
     "name": "LULU BRAIDE POLO",
-    "lga": "DEGEMA",
-    "ward": "BAKANA  III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "DEGEMA",
     "ward": "BAKANA  III",
     "state": "Rivers",
@@ -14121,12 +13557,6 @@
     "pu_code": "32/08/04/008",
     "pu_name": "MAIN BRAIDE POLO II",
     "name": "MAIN BRAIDE POLO II",
-    "lga": "DEGEMA",
-    "ward": "BAKANA  IV",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "DEGEMA",
     "ward": "BAKANA  IV",
     "state": "Rivers",
@@ -14250,12 +13680,6 @@
     "state_code": "32"
   },
   {
-    "lga": "DEGEMA",
-    "ward": "BAKANA V",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/08/06/001",
     "pu_name": "DAVIES COMPOUND, DAVIES I & II",
     "name": "DAVIES COMPOUND, DAVIES I & II",
@@ -14322,12 +13746,6 @@
     "pu_code": "32/08/06/008",
     "pu_name": "JOE-JIM COMPOUND II",
     "name": "JOE-JIM COMPOUND II",
-    "lga": "DEGEMA",
-    "ward": "BAKANA   VI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "DEGEMA",
     "ward": "BAKANA   VI",
     "state": "Rivers",
@@ -14451,12 +13869,6 @@
     "state_code": "32"
   },
   {
-    "lga": "DEGEMA",
-    "ward": "TOMBIA  I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/08/08/001",
     "pu_name": "TOWN HALL, EKPEYE/DOKUBO/AWOYE",
     "name": "TOWN HALL, EKPEYE/DOKUBO/AWOYE",
@@ -14532,12 +13944,6 @@
     "pu_code": "32/08/08/009",
     "pu_name": "AYI SQUARE",
     "name": "AYI SQUARE",
-    "lga": "DEGEMA",
-    "ward": "TOMBIA  II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "DEGEMA",
     "ward": "TOMBIA  II",
     "state": "Rivers",
@@ -14628,12 +14034,6 @@
     "pu_code": "32/08/09/010",
     "pu_name": "OWIYE MEMORIAL HALL, TOMBIA",
     "name": "OWIYE MEMORIAL HALL, TOMBIA",
-    "lga": "DEGEMA",
-    "ward": "TOMBIA  III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "DEGEMA",
     "ward": "TOMBIA  III",
     "state": "Rivers",
@@ -14739,12 +14139,6 @@
     "state_code": "32"
   },
   {
-    "lga": "DEGEMA",
-    "ward": "TOMBIA IV",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/08/11/001",
     "pu_name": "CONSULATE FILED, DR-FARM/ JNR STAFF QTRS/COURT BANK",
     "name": "CONSULATE FILED, DR-FARM/ JNR STAFF QTRS/COURT BANK",
@@ -14793,12 +14187,6 @@
     "pu_code": "32/08/11/006",
     "pu_name": "JUDICIARY QUARTERS",
     "name": "JUDICIARY QUARTERS",
-    "lga": "DEGEMA",
-    "ward": "DEGEMA  I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "DEGEMA",
     "ward": "DEGEMA  I",
     "state": "Rivers",
@@ -14949,12 +14337,6 @@
     "state_code": "32"
   },
   {
-    "lga": "DEGEMA",
-    "ward": "DEGEMA  II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/08/13/001",
     "pu_name": "OGBOLO COMPOUND",
     "name": "OGBOLO COMPOUND",
@@ -15003,12 +14385,6 @@
     "pu_code": "32/08/13/006",
     "pu_name": "STATE SCHOOL FILED, OKAKIRI",
     "name": "STATE SCHOOL FILED, OKAKIRI",
-    "lga": "DEGEMA",
-    "ward": "DEGEMA  III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "DEGEMA",
     "ward": "DEGEMA  III",
     "state": "Rivers",
@@ -15204,12 +14580,6 @@
     "state_code": "32"
   },
   {
-    "lga": "DEGEMA",
-    "ward": "OBUAMA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/08/15/001",
     "pu_name": "AYAMA SQUARE",
     "name": "AYAMA SQUARE",
@@ -15294,12 +14664,6 @@
     "pu_code": "32/08/15/010",
     "pu_name": "STATE SCHOOL FILED R/A-ELUGBE",
     "name": "STATE SCHOOL FILED R/A-ELUGBE",
-    "lga": "DEGEMA",
-    "ward": "BUKUMA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "DEGEMA",
     "ward": "BUKUMA",
     "state": "Rivers",
@@ -15444,12 +14808,6 @@
     "pu_code": "32/08/16/016",
     "pu_name": "JIKE - AMA SQUARE, BILLE KINGDOM",
     "name": "JIKE - AMA SQUARE, BILLE KINGDOM",
-    "lga": "DEGEMA",
-    "ward": "BILLE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "DEGEMA",
     "ward": "BILLE",
     "state": "Rivers",
@@ -15603,12 +14961,6 @@
     "pu_code": "32/08/17/017",
     "pu_name": "ODUBO MAIN HALL",
     "name": "ODUBO MAIN HALL",
-    "lga": "DEGEMA",
-    "ward": "KE/OLD BAKANA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "DEGEMA",
     "ward": "KE/OLD BAKANA",
     "state": "Rivers",
@@ -15831,12 +15183,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ELEME",
-    "ward": "ALESA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/09/02/001",
     "pu_name": "TOWN HALL, ALUNGWA",
     "name": "TOWN HALL, ALUNGWA",
@@ -16029,12 +15375,6 @@
     "pu_code": "32/09/02/022",
     "pu_name": "OPEN SPACE EKEKOLOR EXTENSION BY LIQUID GOLD ROAD",
     "name": "OPEN SPACE EKEKOLOR EXTENSION BY LIQUID GOLD ROAD",
-    "lga": "ELEME",
-    "ward": "ALODE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ELEME",
     "ward": "ALODE",
     "state": "Rivers",
@@ -16242,12 +15582,6 @@
     "pu_code": "32/09/03/024",
     "pu_name": "AGBI OPEN SPACE",
     "name": "AGBI OPEN SPACE",
-    "lga": "ELEME",
-    "ward": "OGALE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ELEME",
     "ward": "OGALE",
     "state": "Rivers",
@@ -16515,12 +15849,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ELEME",
-    "ward": "EBUBU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/09/05/001",
     "pu_name": "OPEN SPACE, ETA",
     "name": "OPEN SPACE, ETA",
@@ -16560,12 +15888,6 @@
     "pu_code": "32/09/05/005",
     "pu_name": "SHOOL HALL, I-A- ETA 2",
     "name": "SHOOL HALL, I-A- ETA 2",
-    "lga": "ELEME",
-    "ward": "EKPORO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ELEME",
     "ward": "EKPORO",
     "state": "Rivers",
@@ -16656,12 +15978,6 @@
     "pu_code": "32/09/06/010",
     "pu_name": "OPEN SPACE NLE",
     "name": "OPEN SPACE NLE",
-    "lga": "ELEME",
-    "ward": "ETEO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ELEME",
     "ward": "ETEO",
     "state": "Rivers",
@@ -17010,12 +16326,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ELEME",
-    "ward": "ONNE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/09/08/001",
     "pu_name": "TOWN HALL, OGOLOGBAA",
     "name": "TOWN HALL, OGOLOGBAA",
@@ -17286,12 +16596,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ELEME",
-    "ward": "AGBONCHIA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/09/09/001",
     "pu_name": "TOWN HALL, NWIDAA",
     "name": "TOWN HALL, NWIDAA",
@@ -17466,12 +16770,6 @@
     "pu_code": "32/09/09/020",
     "pu_name": "OPEN SPACE NWOSU",
     "name": "OPEN SPACE NWOSU",
-    "lga": "ELEME",
-    "ward": "AKPAJO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ELEME",
     "ward": "AKPAJO",
     "state": "Rivers",
@@ -17757,12 +17055,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ELEME",
-    "ward": "ALETO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/10/01/001",
     "pu_name": "OPEN SPACE, OKPOROWO EAST",
     "name": "OPEN SPACE, OKPOROWO EAST",
@@ -17997,12 +17289,6 @@
     "state_code": "32"
   },
   {
-    "lga": "EMOHUA",
-    "ward": "OGBAKIRI  I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/10/02/001",
     "pu_name": "ODUOHA VILLAGE OPEN SPACE",
     "name": "ODUOHA VILLAGE OPEN SPACE",
@@ -18150,12 +17436,6 @@
     "pu_code": "32/10/02/017",
     "pu_name": "RUMUAGWOR HALL IKWUKIRI VILLAGE",
     "name": "RUMUAGWOR HALL IKWUKIRI VILLAGE",
-    "lga": "EMOHUA",
-    "ward": "OGBAKIRI  II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "EMOHUA",
     "ward": "OGBAKIRI  II",
     "state": "Rivers",
@@ -18408,12 +17688,6 @@
     "pu_code": "32/10/03/028",
     "pu_name": "AKPA HALL",
     "name": "AKPA HALL",
-    "lga": "EMOHUA",
-    "ward": "EMOHUA I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "EMOHUA",
     "ward": "EMOHUA I",
     "state": "Rivers",
@@ -18681,12 +17955,6 @@
     "state_code": "32"
   },
   {
-    "lga": "EMOHUA",
-    "ward": "EMOHUA  II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/10/05/001",
     "pu_name": "OMUECHI HALL",
     "name": "OMUECHI HALL",
@@ -18825,12 +18093,6 @@
     "pu_code": "32/10/05/016",
     "pu_name": "OMUOKPU/OMUWINIKE HALL II",
     "name": "OMUOKPU/OMUWINIKE HALL II",
-    "lga": "EMOHUA",
-    "ward": "OBELLE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "EMOHUA",
     "ward": "OBELLE",
     "state": "Rivers",
@@ -19026,12 +18288,6 @@
     "state_code": "32"
   },
   {
-    "lga": "EMOHUA",
-    "ward": "IBAA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/10/07/001",
     "pu_name": "CIVIL CENTRE HALL, MGBUOLUA",
     "name": "CIVIL CENTRE HALL, MGBUOLUA",
@@ -19221,12 +18477,6 @@
     "state_code": "32"
   },
   {
-    "lga": "EMOHUA",
-    "ward": "RUNDELE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/10/08/001",
     "pu_name": "TOWN HALL, IMOGU I",
     "name": "TOWN HALL, IMOGU I",
@@ -19338,12 +18588,6 @@
     "pu_code": "32/10/08/013",
     "pu_name": "WOSUMAH HALL, EKWUTCHE(TOWN HALL,EKWUTCHE)",
     "name": "WOSUMAH HALL, EKWUTCHE(TOWN HALL,EKWUTCHE)",
-    "lga": "EMOHUA",
-    "ward": "RUMUEKPE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "EMOHUA",
     "ward": "RUMUEKPE",
     "state": "Rivers",
@@ -19524,12 +18768,6 @@
     "pu_code": "32/10/09/020",
     "pu_name": "OMUDIKE OMUOHIA HALL",
     "name": "OMUDIKE OMUOHIA HALL",
-    "lga": "EMOHUA",
-    "ward": "ELELE ALIMINI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "EMOHUA",
     "ward": "ELELE ALIMINI",
     "state": "Rivers",
@@ -19725,12 +18963,6 @@
     "state_code": "32"
   },
   {
-    "lga": "EMOHUA",
-    "ward": "OMUDIOGA/ AKPADU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/10/11/001",
     "pu_name": "UMORDU OPEN SPACE",
     "name": "UMORDU OPEN SPACE",
@@ -19911,12 +19143,6 @@
     "state_code": "32"
   },
   {
-    "lga": "EMOHUA",
-    "ward": "EGBEDA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/10/12/001",
     "pu_name": "AKANU OPEN SPACE",
     "name": "AKANU OPEN SPACE",
@@ -20028,12 +19254,6 @@
     "pu_code": "32/10/12/013",
     "pu_name": "OMUORUKWO HALL",
     "name": "OMUORUKWO HALL",
-    "lga": "EMOHUA",
-    "ward": "UBIMINI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "EMOHUA",
     "ward": "UBIMINI",
     "state": "Rivers",
@@ -20187,12 +19407,6 @@
     "pu_code": "32/10/13/017",
     "pu_name": "RUMUEKE HALL, MGBUOKPORO",
     "name": "RUMUEKE HALL, MGBUOKPORO",
-    "lga": "EMOHUA",
-    "ward": "ODEGU  I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "EMOHUA",
     "ward": "ODEGU  I",
     "state": "Rivers",
@@ -20355,12 +19569,6 @@
     "pu_code": "32/10/14/018",
     "pu_name": "ONU AGBARAKWU HALL. RUMUDOGO II",
     "name": "ONU AGBARAKWU HALL. RUMUDOGO II",
-    "lga": "EMOHUA",
-    "ward": "ODEGU  II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "EMOHUA",
     "ward": "ODEGU  II",
     "state": "Rivers",
@@ -20547,12 +19755,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ETCHE",
-    "ward": "AFARA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/11/02/001",
     "pu_name": "UMUEKEZE",
     "name": "UMUEKEZE",
@@ -20637,12 +19839,6 @@
     "pu_code": "32/11/02/010",
     "pu_name": "UMUOSHIE WATER SIDE, EGBU",
     "name": "UMUOSHIE WATER SIDE, EGBU",
-    "lga": "ETCHE",
-    "ward": "EGBU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ETCHE",
     "ward": "EGBU",
     "state": "Rivers",
@@ -21045,12 +20241,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ETCHE",
-    "ward": "IGBO I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/11/04/001",
     "pu_name": "CHOKOCHO I",
     "name": "CHOKOCHO I",
@@ -21186,12 +20376,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ETCHE",
-    "ward": "IGBO II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/11/05/001",
     "pu_name": "UMUANYAGU TOWN HALL",
     "name": "UMUANYAGU TOWN HALL",
@@ -21318,12 +20502,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ETCHE",
-    "ward": "IGBO III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/11/06/001",
     "pu_name": "OPIRO TOWN HALL",
     "name": "OPIRO TOWN HALL",
@@ -21441,12 +20619,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ETCHE",
-    "ward": "EGWI/OPIRO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/11/07/001",
     "pu_name": "UMUOJI/UMUOJI WATER SIDE",
     "name": "UMUOJI/UMUOJI WATER SIDE",
@@ -21495,12 +20667,6 @@
     "pu_code": "32/11/07/006",
     "pu_name": "UMUOKIRI",
     "name": "UMUOKIRI",
-    "lga": "ETCHE",
-    "ward": "NIHI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ETCHE",
     "ward": "NIHI",
     "state": "Rivers",
@@ -21573,12 +20739,6 @@
     "pu_code": "32/11/08/008",
     "pu_name": "UMU-AMANU/UMUOKWARA",
     "name": "UMU-AMANU/UMUOKWARA",
-    "lga": "ETCHE",
-    "ward": "ODUFOR",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ETCHE",
     "ward": "ODUFOR",
     "state": "Rivers",
@@ -21693,12 +20853,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ETCHE",
-    "ward": "OBIBI/AKWUKABI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/11/10/001",
     "pu_name": "UMUME/UMUNAWO I",
     "name": "UMUME/UMUNAWO I",
@@ -21747,12 +20901,6 @@
     "pu_code": "32/11/10/006",
     "pu_name": "UMUIMEKA",
     "name": "UMUIMEKA",
-    "lga": "ETCHE",
-    "ward": "OBITE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ETCHE",
     "ward": "OBITE",
     "state": "Rivers",
@@ -21894,12 +21042,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ETCHE",
-    "ward": "OKEHI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/11/12/001",
     "pu_name": "OJIA/UMUEGEONU VILLAGE SQUARE",
     "name": "OJIA/UMUEGEONU VILLAGE SQUARE",
@@ -22011,12 +21153,6 @@
     "pu_code": "32/11/12/013",
     "pu_name": "UMUNWACHI TOWN HALL",
     "name": "UMUNWACHI TOWN HALL",
-    "lga": "ETCHE",
-    "ward": "OZUZU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ETCHE",
     "ward": "OZUZU",
     "state": "Rivers",
@@ -22212,12 +21348,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ETCHE",
-    "ward": "ULAKWO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/11/14/001",
     "pu_name": "EZELAKA C.P.S/OBI",
     "name": "EZELAKA C.P.S/OBI",
@@ -22344,12 +21474,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ETCHE",
-    "ward": "IGBODO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/11/15/001",
     "pu_name": "AKWA I & II",
     "name": "AKWA I & II",
@@ -22449,12 +21573,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ETCHE",
-    "ward": "AKWA/ODOGWA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/11/16/001",
     "pu_name": "OKOMOKO AKPOKU STATE SCHOOL",
     "name": "OKOMOKO AKPOKU STATE SCHOOL",
@@ -22548,12 +21666,6 @@
     "pu_code": "32/11/16/011",
     "pu_name": "UMUDIM PLAY GROUND",
     "name": "UMUDIM PLAY GROUND",
-    "lga": "ETCHE",
-    "ward": "AKPOKU/UMUOYE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ETCHE",
     "ward": "AKPOKU/UMUOYE",
     "state": "Rivers",
@@ -22662,12 +21774,6 @@
     "pu_code": "32/11/17/012",
     "pu_name": "UMUKWEKE VILLAGE SQUARE",
     "name": "UMUKWEKE VILLAGE SQUARE",
-    "lga": "ETCHE",
-    "ward": "NDASHI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ETCHE",
     "ward": "NDASHI",
     "state": "Rivers",
@@ -22800,12 +21906,6 @@
     "state_code": "32"
   },
   {
-    "lga": "ETCHE",
-    "ward": "MBA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/11/19/001",
     "pu_name": "ISU/ORWU/OGIDA, ORWU STATE SCHOOL",
     "name": "ISU/ORWU/OGIDA, ORWU STATE SCHOOL",
@@ -22908,12 +22008,6 @@
     "pu_code": "32/11/19/012",
     "pu_name": "UMUAGARA ORWU",
     "name": "UMUAGARA ORWU",
-    "lga": "ETCHE",
-    "ward": "OWU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "ETCHE",
     "ward": "OWU",
     "state": "Rivers",
@@ -23064,12 +22158,6 @@
     "state_code": "32"
   },
   {
-    "lga": "GOKANA",
-    "ward": "BODO I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/12/02/001",
     "pu_name": "STATE SCHOOL. I BODO, GIOGON BANK I",
     "name": "STATE SCHOOL. I BODO, GIOGON BANK I",
@@ -23196,12 +22284,6 @@
     "state_code": "32"
   },
   {
-    "lga": "GOKANA",
-    "ward": "BODO II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/12/03/001",
     "pu_name": "SAINT PIUS COLLEGE, KIMANA/KIZARA I",
     "name": "SAINT PIUS COLLEGE, KIMANA/KIZARA I",
@@ -23313,12 +22395,6 @@
     "pu_code": "32/12/03/013",
     "pu_name": "SAINT PIUS COLLEGE BARANWEZOR III",
     "name": "SAINT PIUS COLLEGE BARANWEZOR III",
-    "lga": "GOKANA",
-    "ward": "BODO III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "GOKANA",
     "ward": "BODO III",
     "state": "Rivers",
@@ -23514,12 +22590,6 @@
     "state_code": "32"
   },
   {
-    "lga": "GOKANA",
-    "ward": "B-DERE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/12/05/001",
     "pu_name": "C.P.S. I K-DERE, GIOGON KAABON I",
     "name": "C.P.S. I K-DERE, GIOGON KAABON I",
@@ -23631,12 +22701,6 @@
     "pu_code": "32/12/05/013",
     "pu_name": "SEASIDE KPAKOLO'S COMPOUND",
     "name": "SEASIDE KPAKOLO'S COMPOUND",
-    "lga": "GOKANA",
-    "ward": "K-DERE I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "GOKANA",
     "ward": "K-DERE I",
     "state": "Rivers",
@@ -23760,12 +22824,6 @@
     "state_code": "32"
   },
   {
-    "lga": "GOKANA",
-    "ward": "K-DERE II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/12/07/001",
     "pu_name": "STATE SCHOOL I BOMU, BOGOSA",
     "name": "STATE SCHOOL I BOMU, BOGOSA",
@@ -23868,12 +22926,6 @@
     "pu_code": "32/12/07/012",
     "pu_name": "C.P.S II BOMU SAAGERENWA II",
     "name": "C.P.S II BOMU SAAGERENWA II",
-    "lga": "GOKANA",
-    "ward": "BOMU I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "GOKANA",
     "ward": "BOMU I",
     "state": "Rivers",
@@ -24009,12 +23061,6 @@
     "pu_code": "32/12/08/015",
     "pu_name": "C.P.S. BOMU, GIO-GIOOR II",
     "name": "C.P.S. BOMU, GIO-GIOOR II",
-    "lga": "GOKANA",
-    "ward": "BOMU II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "GOKANA",
     "ward": "BOMU II",
     "state": "Rivers",
@@ -24246,12 +23292,6 @@
     "state_code": "32"
   },
   {
-    "lga": "GOKANA",
-    "ward": "KPOR/LEWE/GBE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/12/10/001",
     "pu_name": "C.S.S. MOGHO, GION/BAR/NIBIA I",
     "name": "C.S.S. MOGHO, GION/BAR/NIBIA I",
@@ -24399,12 +23439,6 @@
     "pu_code": "32/12/10/017",
     "pu_name": "TOWN PRIMARY SCHOOL, MOGHO, GIO GUOTE II",
     "name": "TOWN PRIMARY SCHOOL, MOGHO, GIO GUOTE II",
-    "lga": "GOKANA",
-    "ward": "MOGHO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "GOKANA",
     "ward": "MOGHO",
     "state": "Rivers",
@@ -24609,12 +23643,6 @@
     "state_code": "32"
   },
   {
-    "lga": "GOKANA",
-    "ward": "NWEOL/GIOKO/BARAKO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/12/12/001",
     "pu_name": "C.P.S BIARA, GION KAAKIRI I",
     "name": "C.P.S BIARA, GION KAAKIRI I",
@@ -24717,12 +23745,6 @@
     "pu_code": "32/12/12/012",
     "pu_name": "C.P.S BIARA GION NWEZOR II",
     "name": "C.P.S BIARA GION NWEZOR II",
-    "lga": "GOKANA",
-    "ward": "BIARA I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "GOKANA",
     "ward": "BIARA I",
     "state": "Rivers",
@@ -24909,12 +23931,6 @@
     "state_code": "32"
   },
   {
-    "lga": "GOKANA",
-    "ward": "DERKEN/DEEYOR/NWERIBIARA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/12/14/001",
     "pu_name": "C.S.S. YEGHE, KORO-UE I",
     "name": "C.S.S. YEGHE, KORO-UE I",
@@ -25023,12 +24039,6 @@
     "state_code": "32"
   },
   {
-    "lga": "GOKANA",
-    "ward": "YEGHE II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/12/15/001",
     "pu_name": "C.P.S BOGHO,GIOGON BANK",
     "name": "C.P.S BOGHO,GIOGON BANK",
@@ -25113,12 +24123,6 @@
     "pu_code": "32/12/15/010",
     "pu_name": "C.P.S.BUA.YEGHE NUGBE III",
     "name": "C.P.S.BUA.YEGHE NUGBE III",
-    "lga": "GOKANA",
-    "ward": "YEGHE I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "GOKANA",
     "ward": "YEGHE I",
     "state": "Rivers",
@@ -25269,12 +24273,6 @@
     "state_code": "32"
   },
   {
-    "lga": "GOKANA",
-    "ward": "BERA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/12/17/001",
     "pu_name": "C.P.S. II BIARA. LUUZOR",
     "name": "C.P.S. II BIARA. LUUZOR",
@@ -25350,12 +24348,6 @@
     "pu_code": "32/12/17/009",
     "pu_name": "C. P .S. VI BIARA KENKUM II",
     "name": "C. P .S. VI BIARA KENKUM II",
-    "lga": "GOKANA",
-    "ward": "BIARA II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "GOKANA",
     "ward": "BIARA II",
     "state": "Rivers",
@@ -25509,12 +24501,6 @@
     "pu_code": "32/13/01/017",
     "pu_name": "OGUNDU OPEN SPACE, ISIOKPO.",
     "name": "OGUNDU OPEN SPACE, ISIOKPO.",
-    "lga": "IKWERRE",
-    "ward": "ISIOKPO I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "IKWERRE",
     "ward": "ISIOKPO I",
     "state": "Rivers",
@@ -25695,12 +24681,6 @@
     "pu_code": "32/13/02/020",
     "pu_name": "OPEN SPACE, EZI-MPI PLAYGROUND, NKARAHIA. ISIOKPO II",
     "name": "OPEN SPACE, EZI-MPI PLAYGROUND, NKARAHIA. ISIOKPO II",
-    "lga": "IKWERRE",
-    "ward": "ISIOKPO II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "IKWERRE",
     "ward": "ISIOKPO II",
     "state": "Rivers",
@@ -26004,12 +24984,6 @@
     "state_code": "32"
   },
   {
-    "lga": "IKWERRE",
-    "ward": "ELELE I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/13/04/001",
     "pu_name": "ARMY SEC. SCHOOL ELELE I/GOVT.ARMY MAMMY MARKET A",
     "name": "ARMY SEC. SCHOOL ELELE I/GOVT.ARMY MAMMY MARKET A",
@@ -26289,12 +25263,6 @@
     "state_code": "32"
   },
   {
-    "lga": "IKWERRE",
-    "ward": "ELELE II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/13/05/001",
     "pu_name": "OMELE VILLAGE CENTRE, OMERELU",
     "name": "OMELE VILLAGE CENTRE, OMERELU",
@@ -26457,12 +25425,6 @@
     "state_code": "32"
   },
   {
-    "lga": "IKWERRE",
-    "ward": "OMERELU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/13/06/001",
     "pu_name": "UMUDIALA VILLAGE APANI",
     "name": "UMUDIALA VILLAGE APANI",
@@ -26589,12 +25551,6 @@
     "state_code": "32"
   },
   {
-    "lga": "IKWERRE",
-    "ward": "APANI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/13/07/001",
     "pu_name": "OMUTE PLAY GROUND, OMUANWA",
     "name": "OMUTE PLAY GROUND, OMUANWA",
@@ -26697,12 +25653,6 @@
     "pu_code": "32/13/07/012",
     "pu_name": "AMADI OMUZUA HALL",
     "name": "AMADI OMUZUA HALL",
-    "lga": "IKWERRE",
-    "ward": "UMUANWA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "IKWERRE",
     "ward": "UMUANWA",
     "state": "Rivers",
@@ -26928,12 +25878,6 @@
     "pu_code": "32/13/08/025",
     "pu_name": "OPEN SPACE, ST. CYPRIAN PRY. SCHOOL, OMUORDU, UBIMA",
     "name": "OPEN SPACE, ST. CYPRIAN PRY. SCHOOL, OMUORDU, UBIMA",
-    "lga": "IKWERRE",
-    "ward": "UBIMA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "IKWERRE",
     "ward": "UBIMA",
     "state": "Rivers",
@@ -27192,12 +26136,6 @@
     "state_code": "32"
   },
   {
-    "lga": "IKWERRE",
-    "ward": "OMAGWA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/13/10/001",
     "pu_name": "STATE SCHOOL IPO AMACHA",
     "name": "STATE SCHOOL IPO AMACHA",
@@ -27342,12 +26280,6 @@
     "state_code": "32"
   },
   {
-    "lga": "IKWERRE",
-    "ward": "OMADEME/IPO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/13/11/001",
     "pu_name": "OMUOKWU VILLAGE SQUARE, OZUAHA I",
     "name": "OMUOKWU VILLAGE SQUARE, OZUAHA I",
@@ -27441,12 +26373,6 @@
     "pu_code": "32/13/11/011",
     "pu_name": "OMUYAKPU JUNCTION, OZUAHA",
     "name": "OMUYAKPU JUNCTION, OZUAHA",
-    "lga": "IKWERRE",
-    "ward": "OZUAHA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "IKWERRE",
     "ward": "OZUAHA",
     "state": "Rivers",
@@ -27894,12 +26820,6 @@
     "state_code": "32"
   },
   {
-    "lga": "IKWERRE",
-    "ward": "IGWURUTA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/13/13/001",
     "pu_name": "OMUIKE ALUU",
     "name": "OMUIKE ALUU",
@@ -28242,12 +27162,6 @@
     "state_code": "32"
   },
   {
-    "lga": "IKWERRE",
-    "ward": "ALUU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/14/01/001",
     "pu_name": "MOTOR PARK",
     "name": "MOTOR PARK",
@@ -28482,12 +27396,6 @@
     "state_code": "32"
   },
   {
-    "lga": "KHANA",
-    "ward": "BORI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/14/02/001",
     "pu_name": "LUUKO",
     "name": "LUUKO",
@@ -28590,12 +27498,6 @@
     "pu_code": "32/14/02/012",
     "pu_name": "KUE IKINANEE",
     "name": "KUE IKINANEE",
-    "lga": "KHANA",
-    "ward": "ZAAKPORI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "KHANA",
     "ward": "ZAAKPORI",
     "state": "Rivers",
@@ -28791,12 +27693,6 @@
     "state_code": "32"
   },
   {
-    "lga": "KHANA",
-    "ward": "LLUEKU/NYOKURU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/14/04/001",
     "pu_name": "EETE AKPORO",
     "name": "EETE AKPORO",
@@ -28959,12 +27855,6 @@
     "state_code": "32"
   },
   {
-    "lga": "KHANA",
-    "ward": "SOGHO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/14/05/001",
     "pu_name": "BUAGO TOWN HALL",
     "name": "BUAGO TOWN HALL",
@@ -29067,12 +27957,6 @@
     "pu_code": "32/14/05/012",
     "pu_name": "ETEE EFEELOO",
     "name": "ETEE EFEELOO",
-    "lga": "KHANA",
-    "ward": "OKWALI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "KHANA",
     "ward": "OKWALI",
     "state": "Rivers",
@@ -29244,12 +28128,6 @@
     "pu_code": "32/14/06/019",
     "pu_name": "HEALTH CENTRE GBOR- KAANI",
     "name": "HEALTH CENTRE GBOR- KAANI",
-    "lga": "KHANA",
-    "ward": "KAANI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "KHANA",
     "ward": "KAANI",
     "state": "Rivers",
@@ -29472,12 +28350,6 @@
     "state_code": "32"
   },
   {
-    "lga": "KHANA",
-    "ward": "BARGHA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/14/08/001",
     "pu_name": "EEDU",
     "name": "EEDU",
@@ -29598,12 +28470,6 @@
     "pu_code": "32/14/08/014",
     "pu_name": "BARAKOR BUS STOP",
     "name": "BARAKOR BUS STOP",
-    "lga": "KHANA",
-    "ward": "TAABAA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "KHANA",
     "ward": "TAABAA",
     "state": "Rivers",
@@ -29808,12 +28674,6 @@
     "state_code": "32"
   },
   {
-    "lga": "KHANA",
-    "ward": "BEERI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/14/10/001",
     "pu_name": "DEEWII/COLLEGE",
     "name": "DEEWII/COLLEGE",
@@ -29934,12 +28794,6 @@
     "pu_code": "32/14/10/014",
     "pu_name": "DEH/ BARA",
     "name": "DEH/ BARA",
-    "lga": "KHANA",
-    "ward": "BANE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "KHANA",
     "ward": "BANE",
     "state": "Rivers",
@@ -30093,12 +28947,6 @@
     "pu_code": "32/14/11/017",
     "pu_name": "EETE GBAM KWAWA",
     "name": "EETE GBAM KWAWA",
-    "lga": "KHANA",
-    "ward": "KONO/KWAWA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "KHANA",
     "ward": "KONO/KWAWA",
     "state": "Rivers",
@@ -30279,12 +29127,6 @@
     "pu_code": "32/14/12/020",
     "pu_name": "EETE EMUMA",
     "name": "EETE EMUMA",
-    "lga": "KHANA",
-    "ward": "WIIYAA KARA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "KHANA",
     "ward": "WIIYAA KARA",
     "state": "Rivers",
@@ -30480,12 +29322,6 @@
     "state_code": "32"
   },
   {
-    "lga": "KHANA",
-    "ward": "BOUE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/14/14/001",
     "pu_name": "EETE KURUGHA",
     "name": "EETE KURUGHA",
@@ -30579,12 +29415,6 @@
     "pu_code": "32/14/14/011",
     "pu_name": "UEKUE BUS STOP",
     "name": "UEKUE BUS STOP",
-    "lga": "KHANA",
-    "ward": "UEGWERE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "KHANA",
     "ward": "UEGWERE",
     "state": "Rivers",
@@ -30810,12 +29640,6 @@
     "pu_code": "32/14/15/025",
     "pu_name": "EETE C.A.C WIIGAMAA",
     "name": "EETE C.A.C WIIGAMAA",
-    "lga": "KHANA",
-    "ward": "GWARA/KAA/EEKEN",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "KHANA",
     "ward": "GWARA/KAA/EEKEN",
     "state": "Rivers",
@@ -31056,12 +29880,6 @@
     "state_code": "32"
   },
   {
-    "lga": "KHANA",
-    "ward": "OPUOKO/KALAOKO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/14/17/001",
     "pu_name": "EETE BETEM I",
     "name": "EETE BETEM I",
@@ -31200,12 +30018,6 @@
     "pu_code": "32/14/17/016",
     "pu_name": "C.P.S. I BETEM",
     "name": "C.P.S. I BETEM",
-    "lga": "KHANA",
-    "ward": "SII/BETEM/KBAABBE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "KHANA",
     "ward": "SII/BETEM/KBAABBE",
     "state": "Rivers",
@@ -31419,12 +30231,6 @@
     "state_code": "32"
   },
   {
-    "lga": "KHANA",
-    "ward": "BAEN/KPEAN/DUBURO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/14/19/001",
     "pu_name": "KPAA",
     "name": "KPAA",
@@ -31581,12 +30387,6 @@
     "pu_code": "32/14/19/018",
     "pu_name": "EEPEE",
     "name": "EEPEE",
-    "lga": "KHANA",
-    "ward": "LORRE/LUEBE/KPAA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "KHANA",
     "ward": "LORRE/LUEBE/KPAA",
     "state": "Rivers",
@@ -32160,12 +30960,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OBIO/AKPOR",
-    "ward": "ORO-IGWE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/15/02/001",
     "pu_name": "MGBUESILARU OKPORO I",
     "name": "MGBUESILARU OKPORO I",
@@ -32637,12 +31431,6 @@
     "pu_code": "32/15/02/053",
     "pu_name": "OPEN SPACE BY OKEH STREET ELIOWHANI",
     "name": "OPEN SPACE BY OKEH STREET ELIOWHANI",
-    "lga": "OBIO/AKPOR",
-    "ward": "RUMUODARA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OBIO/AKPOR",
     "ward": "RUMUODARA",
     "state": "Rivers",
@@ -33198,12 +31986,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OBIO/AKPOR",
-    "ward": "RUMUOKWU (2B)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/15/04/001",
     "pu_name": "RUKPAKWADIMA, RUMUODOMAYA",
     "name": "RUKPAKWADIMA, RUMUODOMAYA",
@@ -33711,12 +32493,6 @@
     "pu_code": "32/15/04/057",
     "pu_name": "RUMUOBOCHI TOWN HALL II",
     "name": "RUMUOBOCHI TOWN HALL II",
-    "lga": "OBIO/AKPOR",
-    "ward": "RUMUODOMAYA (3A)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OBIO/AKPOR",
     "ward": "RUMUODOMAYA (3A)",
     "state": "Rivers",
@@ -34455,12 +33231,6 @@
     "pu_code": "32/15/05/082",
     "pu_name": "FRONT GATE PAMO UNIVERSITY",
     "name": "FRONT GATE PAMO UNIVERSITY",
-    "lga": "OBIO/AKPOR",
-    "ward": "ELELENWO (3B)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OBIO/AKPOR",
     "ward": "ELELENWO (3B)",
     "state": "Rivers",
@@ -35349,12 +34119,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OBIO/AKPOR",
-    "ward": "WORJI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/15/07/001",
     "pu_name": "PLAY GROUND, RUKPAKWULUSI I",
     "name": "PLAY GROUND, RUKPAKWULUSI I",
@@ -36120,12 +34884,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OBIO/AKPOR",
-    "ward": "RUMUOKORO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/15/08/001",
     "pu_name": "STATE SCHOOL I, RUMUOMASI I",
     "name": "STATE SCHOOL I, RUMUOMASI I",
@@ -36633,12 +35391,6 @@
     "pu_code": "32/15/08/057",
     "pu_name": "OPEN SPACE BY MATER JUNCTION FIRST BANK, RUMUOMASI",
     "name": "OPEN SPACE BY MATER JUNCTION FIRST BANK, RUMUOMASI",
-    "lga": "OBIO/AKPOR",
-    "ward": "RUMUOMASI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OBIO/AKPOR",
     "ward": "RUMUOMASI",
     "state": "Rivers",
@@ -37341,12 +36093,6 @@
     "pu_code": "32/15/09/078",
     "pu_name": "OPEN SPACE BY BIBLE FAITH CHURCH BY ELIOPARANWO ROAD",
     "name": "OPEN SPACE BY BIBLE FAITH CHURCH BY ELIOPARANWO ROAD",
-    "lga": "OBIO/AKPOR",
-    "ward": "RUMUEME (7A)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OBIO/AKPOR",
     "ward": "RUMUEME (7A)",
     "state": "Rivers",
@@ -38298,12 +37044,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OBIO/AKPOR",
-    "ward": "RUMUEME (7B)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/15/11/001",
     "pu_name": "C.P.S. AYAMAYA, RUMUEME",
     "name": "C.P.S. AYAMAYA, RUMUEME",
@@ -38541,12 +37281,6 @@
     "pu_code": "32/15/11/027",
     "pu_name": "OPEN SPACE IN FRONT OF NO.30 KPAKANI RD RUMUEME.",
     "name": "OPEN SPACE IN FRONT OF NO.30 KPAKANI RD RUMUEME.",
-    "lga": "OBIO/AKPOR",
-    "ward": "RUMUEME (7C)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OBIO/AKPOR",
     "ward": "RUMUEME (7C)",
     "state": "Rivers",
@@ -39186,12 +37920,6 @@
     "pu_code": "32/15/12/071",
     "pu_name": "OPEN SPACE BY CHURCH OF MISSION CHURCH, OHIA RUMUOKE STREET NKPOLU",
     "name": "OPEN SPACE BY CHURCH OF MISSION CHURCH, OHIA RUMUOKE STREET NKPOLU",
-    "lga": "OBIO/AKPOR",
-    "ward": "RUMUIGBO (8A)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OBIO/AKPOR",
     "ward": "RUMUIGBO (8A)",
     "state": "Rivers",
@@ -39846,12 +38574,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OBIO/AKPOR",
-    "ward": "RUMUKWUTA (8B)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/15/14/001",
     "pu_name": "ELIKPOKWUODU PLAY GROUND, RUKPOKOU",
     "name": "ELIKPOKWUODU PLAY GROUND, RUKPOKOU",
@@ -40467,12 +39189,6 @@
     "pu_code": "32/15/14/069",
     "pu_name": "AVUHA PLAYGROUND, RUMUCHIORLU",
     "name": "AVUHA PLAYGROUND, RUMUCHIORLU",
-    "lga": "OBIO/AKPOR",
-    "ward": "RUKPOKU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OBIO/AKPOR",
     "ward": "RUKPOKU",
     "state": "Rivers",
@@ -41307,12 +40023,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OBIO/AKPOR",
-    "ward": "CHOBA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/15/16/001",
     "pu_name": "RUMUKPALAWUDA TOWN HALL, OGBOGORO",
     "name": "RUMUKPALAWUDA TOWN HALL, OGBOGORO",
@@ -42078,12 +40788,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OBIO/AKPOR",
-    "ward": "OZUOBA/OGBOGORO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/15/17/001",
     "pu_name": "C.O.E, RUMUOLUMENI",
     "name": "C.O.E, RUMUOLUMENI",
@@ -42588,12 +41292,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OBIO/AKPOR",
-    "ward": "RUMUOLUMENI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/16/01/001",
     "pu_name": "GIAKOR STREET,OMOKU UMU-OBA",
     "name": "GIAKOR STREET,OMOKU UMU-OBA",
@@ -42759,12 +41457,6 @@
     "pu_code": "32/16/01/019",
     "pu_name": "OPEN SQUARE, KINGS AND QUEENS ST BY TOBI ST,OBULHOKO.",
     "name": "OPEN SQUARE, KINGS AND QUEENS ST BY TOBI ST,OBULHOKO.",
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "OMOKU  TOWN I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OGBA/EGBEMA/NDONI",
     "ward": "OMOKU  TOWN I",
     "state": "Rivers",
@@ -42942,12 +41634,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "OMOKU  TOWN II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/16/03/001",
     "pu_name": "AHIA ORIE PLAY GROUND, UMUAGBURU",
     "name": "AHIA ORIE PLAY GROUND, UMUAGBURU",
@@ -43095,12 +41781,6 @@
     "pu_code": "32/16/03/017",
     "pu_name": "UMU-ISOMA OPEN SPACE BEHIND POLICE STATION BY EZE-NWADEI ST, OBIETI 1.",
     "name": "UMU-ISOMA OPEN SPACE BEHIND POLICE STATION BY EZE-NWADEI ST, OBIETI 1.",
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "OMUKU TOWN  (OBIETI)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OGBA/EGBEMA/NDONI",
     "ward": "OMUKU TOWN  (OBIETI)",
     "state": "Rivers",
@@ -43305,12 +41985,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "OMOKU TOWN IV (USOMINI)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/16/05/001",
     "pu_name": "TOWN HALL OBOR I",
     "name": "TOWN HALL OBOR I",
@@ -43473,12 +42147,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "OBRIKOM",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/16/06/001",
     "pu_name": "TOWN HALL KREIGANI I",
     "name": "TOWN HALL KREIGANI I",
@@ -43581,12 +42249,6 @@
     "pu_code": "32/16/06/012",
     "pu_name": "VILLAGE SQUARE, ALINSOKANU",
     "name": "VILLAGE SQUARE, ALINSOKANU",
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "USOMINI SOUTH KREIGANI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OGBA/EGBEMA/NDONI",
     "ward": "USOMINI SOUTH KREIGANI",
     "state": "Rivers",
@@ -43767,12 +42429,6 @@
     "pu_code": "32/16/07/020",
     "pu_name": "OPEN SQUARE ALI-UGBILA BY UJU RD, EGBADA.",
     "name": "OPEN SQUARE ALI-UGBILA BY UJU RD, EGBADA.",
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "IGBURU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OGBA/EGBEMA/NDONI",
     "ward": "IGBURU",
     "state": "Rivers",
@@ -43995,12 +42651,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "EGI I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/16/09/001",
     "pu_name": "PRIMARY SCHOOL HALL OHALU-ELU",
     "name": "PRIMARY SCHOOL HALL OHALU-ELU",
@@ -44130,12 +42780,6 @@
     "pu_code": "32/16/09/015",
     "pu_name": "POWER HOUSE BY UBETA RD, OBOBURU.",
     "name": "POWER HOUSE BY UBETA RD, OBOBURU.",
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "EGI  II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OGBA/EGBEMA/NDONI",
     "ward": "EGI  II",
     "state": "Rivers",
@@ -44307,12 +42951,6 @@
     "pu_code": "32/16/10/019",
     "pu_name": "OPEN SPACE BY PROF DAN OGUM JUNCTION OFF OBURUHIE RD, EREMA.",
     "name": "OPEN SPACE BY PROF DAN OGUM JUNCTION OFF OBURUHIE RD, EREMA.",
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "EGI III (EREMA)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OGBA/EGBEMA/NDONI",
     "ward": "EGI III (EREMA)",
     "state": "Rivers",
@@ -44562,12 +43200,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "EGBEMA I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/16/12/001",
     "pu_name": "COMMUNITY GIRL'S SCHOOL AGGAH I",
     "name": "COMMUNITY GIRL'S SCHOOL AGGAH I",
@@ -44706,12 +43338,6 @@
     "pu_code": "32/16/12/016",
     "pu_name": "OPEN SPACE NEW IDEA RD BY SAFAR JUNCTION, AGGAH.",
     "name": "OPEN SPACE NEW IDEA RD BY SAFAR JUNCTION, AGGAH.",
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "EGBEMA II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OGBA/EGBEMA/NDONI",
     "ward": "EGBEMA II",
     "state": "Rivers",
@@ -44883,12 +43509,6 @@
     "pu_code": "32/16/13/019",
     "pu_name": "OPEN SPACE OGBE-UKWU QUARTERS IV",
     "name": "OPEN SPACE OGBE-UKWU QUARTERS IV",
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "NDONI I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OGBA/EGBEMA/NDONI",
     "ward": "NDONI I",
     "state": "Rivers",
@@ -45156,12 +43776,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "NDONI II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/16/15/001",
     "pu_name": "IME- OBODO I",
     "name": "IME- OBODO I",
@@ -45336,12 +43950,6 @@
     "pu_code": "32/16/15/020",
     "pu_name": "PLAY GROUND, UTUOCHI III",
     "name": "PLAY GROUND, UTUOCHI III",
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "NDONI  III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OGBA/EGBEMA/NDONI",
     "ward": "NDONI  III",
     "state": "Rivers",
@@ -45573,12 +44181,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "OMOKU TOWN V",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/16/17/001",
     "pu_name": "PRI. SCH. HALL, OBUKEGI I",
     "name": "PRI. SCH. HALL, OBUKEGI I",
@@ -45705,12 +44307,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGBA/EGBEMA/NDONI",
-    "ward": "EGI IV",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/17/01/001",
     "pu_name": "COMPOUND HALL KUNE",
     "name": "COMPOUND HALL KUNE",
@@ -45813,12 +44409,6 @@
     "pu_code": "32/17/01/012",
     "pu_name": "OPEN SPACE, OWI-YA KUNE",
     "name": "OPEN SPACE, OWI-YA KUNE",
-    "lga": "OGU/BOLO",
-    "ward": "OGU  I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OGU/BOLO",
     "ward": "OGU  I",
     "state": "Rivers",
@@ -45933,12 +44523,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGU/BOLO",
-    "ward": "OGU  II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/17/03/001",
     "pu_name": "OPEN SPACE, LOKO I",
     "name": "OPEN SPACE, LOKO I",
@@ -46047,12 +44631,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGU/BOLO",
-    "ward": "OGU  III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/17/04/001",
     "pu_name": "OPEN SPACE INUMA I",
     "name": "OPEN SPACE INUMA I",
@@ -46146,12 +44724,6 @@
     "pu_code": "32/17/04/011",
     "pu_name": "OPEN SPACE NGBEKA",
     "name": "OPEN SPACE NGBEKA",
-    "lga": "OGU/BOLO",
-    "ward": "OGU  IV",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OGU/BOLO",
     "ward": "OGU  IV",
     "state": "Rivers",
@@ -46284,12 +44856,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGU/BOLO",
-    "ward": "OGU  V",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/17/06/001",
     "pu_name": "SCHOOL HALL , IKPO -AMA I",
     "name": "SCHOOL HALL , IKPO -AMA I",
@@ -46383,12 +44949,6 @@
     "pu_code": "32/17/06/011",
     "pu_name": "TOWN HALL, OPU-AMA",
     "name": "TOWN HALL, OPU-AMA",
-    "lga": "OGU/BOLO",
-    "ward": "OGU  VI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OGU/BOLO",
     "ward": "OGU  VI",
     "state": "Rivers",
@@ -46512,12 +45072,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGU/BOLO",
-    "ward": "BOLO I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/17/08/001",
     "pu_name": "OPEN SPACE, ORUMA",
     "name": "OPEN SPACE, ORUMA",
@@ -46635,12 +45189,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGU/BOLO",
-    "ward": "BOLO II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/17/09/001",
     "pu_name": "OPEN SPACE , ASEMINA NGOLAKA I",
     "name": "OPEN SPACE , ASEMINA NGOLAKA I",
@@ -46707,12 +45255,6 @@
     "pu_code": "32/17/09/008",
     "pu_name": "FAMILY HALL",
     "name": "FAMILY HALL",
-    "lga": "OGU/BOLO",
-    "ward": "BOLO III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OGU/BOLO",
     "ward": "BOLO III",
     "state": "Rivers",
@@ -46818,12 +45360,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGU/BOLO",
-    "ward": "BOLO  IV",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/17/11/001",
     "pu_name": "SCHOOL HALL, WAKAMA I",
     "name": "SCHOOL HALL, WAKAMA I",
@@ -46887,12 +45423,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OGU/BOLO",
-    "ward": "WAKAMA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/17/12/001",
     "pu_name": "OPEN SPACE, PEREFI",
     "name": "OPEN SPACE, PEREFI",
@@ -46950,12 +45480,6 @@
     "pu_code": "32/17/12/007",
     "pu_name": "OPEN SPACE , NYIGISIKA",
     "name": "OPEN SPACE , NYIGISIKA",
-    "lga": "OGU/BOLO",
-    "ward": "ELE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OGU/BOLO",
     "ward": "ELE",
     "state": "Rivers",
@@ -47064,12 +45588,6 @@
     "pu_code": "32/18/01/012",
     "pu_name": "OPULA COMPOUND, ALA",
     "name": "OPULA COMPOUND, ALA",
-    "lga": "OKRIKA",
-    "ward": "OKRIKA  I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OKRIKA",
     "ward": "OKRIKA  I",
     "state": "Rivers",
@@ -47238,12 +45756,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OKRIKA",
-    "ward": "OKRIKA  II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/18/03/001",
     "pu_name": "OPEN FIELD EDEREME",
     "name": "OPEN FIELD EDEREME",
@@ -47346,12 +45858,6 @@
     "pu_code": "32/18/03/012",
     "pu_name": "PAUL DATORUDIKI COMPOUND",
     "name": "PAUL DATORUDIKI COMPOUND",
-    "lga": "OKRIKA",
-    "ward": "OKRIKA  III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OKRIKA",
     "ward": "OKRIKA  III",
     "state": "Rivers",
@@ -47469,12 +45975,6 @@
     "pu_code": "32/18/04/013",
     "pu_name": "32 UNION HOUSE GREAM POLO, ODOGOROBIE",
     "name": "32 UNION HOUSE GREAM POLO, ODOGOROBIE",
-    "lga": "OKRIKA",
-    "ward": "OKRIKA  IV",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OKRIKA",
     "ward": "OKRIKA  IV",
     "state": "Rivers",
@@ -47724,12 +46224,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OKRIKA",
-    "ward": "OKRIKA  V",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/18/06/001",
     "pu_name": "PELEBO ISAKA ISLAND",
     "name": "PELEBO ISAKA ISLAND",
@@ -47973,12 +46467,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OKRIKA",
-    "ward": "OKRIKA VI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/18/07/001",
     "pu_name": "BOME/OPUMBU-IBAKA",
     "name": "BOME/OPUMBU-IBAKA",
@@ -48096,12 +46584,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OKRIKA",
-    "ward": "OKRIKA VII",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/18/08/001",
     "pu_name": "OGAN, ABESA/JOHN",
     "name": "OGAN, ABESA/JOHN",
@@ -48204,12 +46686,6 @@
     "pu_code": "32/18/08/012",
     "pu_name": "OGAN AMA, TAMUNO/BOMASEIDIMA",
     "name": "OGAN AMA, TAMUNO/BOMASEIDIMA",
-    "lga": "OKRIKA",
-    "ward": "OGAN",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OKRIKA",
     "ward": "OGAN",
     "state": "Rivers",
@@ -48369,12 +46845,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OKRIKA",
-    "ward": "KALIO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/18/10/001",
     "pu_name": "OKOLOBO LAYOUT",
     "name": "OKOLOBO LAYOUT",
@@ -48429,12 +46899,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OKRIKA",
-    "ward": "OGOLOMA I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/18/11/001",
     "pu_name": "IBANIME SQUARE",
     "name": "IBANIME SQUARE",
@@ -48474,12 +46938,6 @@
     "pu_code": "32/18/11/005",
     "pu_name": "OGULEME SQUARE",
     "name": "OGULEME SQUARE",
-    "lga": "OKRIKA",
-    "ward": "OGOLOMA II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OKRIKA",
     "ward": "OGOLOMA II",
     "state": "Rivers",
@@ -48552,12 +47010,6 @@
     "pu_code": "32/18/12/008",
     "pu_name": "KOKO AGBAKA SQUARE",
     "name": "KOKO AGBAKA SQUARE",
-    "lga": "OKRIKA",
-    "ward": "OGOLOMA III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OKRIKA",
     "ward": "OGOLOMA III",
     "state": "Rivers",
@@ -48657,12 +47109,6 @@
     "pu_code": "32/19/01/011",
     "pu_name": "UMUEBIE IV TOWN HALL",
     "name": "UMUEBIE IV TOWN HALL",
-    "lga": "OMUMA",
-    "ward": "EBERI-DIKEOMUUO COMMUNITY",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OMUMA",
     "ward": "EBERI-DIKEOMUUO COMMUNITY",
     "state": "Rivers",
@@ -48789,12 +47235,6 @@
     "pu_code": "32/19/02/014",
     "pu_name": "VILLAGE CENTRE, UMUOKPURUKPU",
     "name": "VILLAGE CENTRE, UMUOKPURUKPU",
-    "lga": "OMUMA",
-    "ward": "ARIRANIIRI/OWU-AHIA COMMUNITY",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OMUMA",
     "ward": "ARIRANIIRI/OWU-AHIA COMMUNITY",
     "state": "Rivers",
@@ -48981,12 +47421,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OMUMA",
-    "ward": "OBIOHIA COMMUNITY",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/19/04/001",
     "pu_name": "UMUEKE I VILLAGE HALL",
     "name": "UMUEKE I VILLAGE HALL",
@@ -49104,12 +47538,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OMUMA",
-    "ward": "OHIMOGHO COMMUNITY",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/19/05/001",
     "pu_name": "STATE SCHOOL AMAJI, UMUNWAJIE",
     "name": "STATE SCHOOL AMAJI, UMUNWAJIE",
@@ -49203,12 +47631,6 @@
     "pu_code": "32/19/05/011",
     "pu_name": "UMUOBASI-UKWU TOWN HALL",
     "name": "UMUOBASI-UKWU TOWN HALL",
-    "lga": "OMUMA",
-    "ward": "OYORO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OMUMA",
     "ward": "OYORO",
     "state": "Rivers",
@@ -49350,12 +47772,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OMUMA",
-    "ward": "OFEH COMMUNITY",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/19/07/001",
     "pu_name": "STATE SCHOOL I UMUOYERE III",
     "name": "STATE SCHOOL I UMUOYERE III",
@@ -49476,12 +47892,6 @@
     "pu_code": "32/19/07/014",
     "pu_name": "TOWN HALL UMUMBRA",
     "name": "TOWN HALL UMUMBRA",
-    "lga": "OMUMA",
-    "ward": "UMUOGBA I COMMUNITY",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OMUMA",
     "ward": "UMUOGBA I COMMUNITY",
     "state": "Rivers",
@@ -49902,12 +48312,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OMUMA",
-    "ward": "UMUOGBA II COMMUNITY",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/19/09/001",
     "pu_name": "STATE SCHOOL, UMUOKWA",
     "name": "STATE SCHOOL, UMUOKWA",
@@ -49992,12 +48396,6 @@
     "pu_code": "32/19/09/010",
     "pu_name": "UMUWA II TOWN HALL",
     "name": "UMUWA II TOWN HALL",
-    "lga": "OMUMA",
-    "ward": "OBIBI/AJULOKE COMMUNITY",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OMUMA",
     "ward": "OBIBI/AJULOKE COMMUNITY",
     "state": "Rivers",
@@ -50115,12 +48513,6 @@
     "pu_code": "32/19/10/013",
     "pu_name": "UMUERIM IV TOWN HALL",
     "name": "UMUERIM IV TOWN HALL",
-    "lga": "OMUMA",
-    "ward": "UMUAJULOKE COMMUNITY",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OMUMA",
     "ward": "UMUAJULOKE COMMUNITY",
     "state": "Rivers",
@@ -50280,12 +48672,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OPOBO/NEKORO",
-    "ward": "KALAIBIAMA I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/20/02/001",
     "pu_name": "MAIN GATE STEWART COMP. HALL",
     "name": "MAIN GATE STEWART COMP. HALL",
@@ -50406,12 +48792,6 @@
     "pu_code": "32/20/02/014",
     "pu_name": "COMP. SQUARE, OPEN SPACE EPPELEMA TILIBO",
     "name": "COMP. SQUARE, OPEN SPACE EPPELEMA TILIBO",
-    "lga": "OPOBO/NEKORO",
-    "ward": "KALAIBIAMA II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OPOBO/NEKORO",
     "ward": "KALAIBIAMA II",
     "state": "Rivers",
@@ -50598,12 +48978,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OPOBO/NEKORO",
-    "ward": "DIEPIRI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/20/04/001",
     "pu_name": "COMP. SQUARE OPEN SPACE, OPOBO TOWN",
     "name": "COMP. SQUARE OPEN SPACE, OPOBO TOWN",
@@ -50697,12 +49071,6 @@
     "pu_code": "32/20/04/011",
     "pu_name": "MAIN GATE COMMUNITY HALL, JOHN COOKEY",
     "name": "MAIN GATE COMMUNITY HALL, JOHN COOKEY",
-    "lga": "OPOBO/NEKORO",
-    "ward": "UKONU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OPOBO/NEKORO",
     "ward": "UKONU",
     "state": "Rivers",
@@ -50811,12 +49179,6 @@
     "pu_code": "32/20/05/012",
     "pu_name": "COMP. SQUARE OPEN SPACE, MININI EPPELLE",
     "name": "COMP. SQUARE OPEN SPACE, MININI EPPELLE",
-    "lga": "OPOBO/NEKORO",
-    "ward": "DAPPAYE AMA-KIRI I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OPOBO/NEKORO",
     "ward": "DAPPAYE AMA-KIRI I",
     "state": "Rivers",
@@ -50961,12 +49323,6 @@
     "pu_code": "32/20/06/016",
     "pu_name": "MAIN GATE COMP. HALL, BUPO",
     "name": "MAIN GATE COMP. HALL, BUPO",
-    "lga": "OPOBO/NEKORO",
-    "ward": "DAPPAYE AMA-KIRI II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OPOBO/NEKORO",
     "ward": "DAPPAYE AMA-KIRI II",
     "state": "Rivers",
@@ -51225,12 +49581,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OPOBO/NEKORO",
-    "ward": "JAJA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/20/08/001",
     "pu_name": "VILLAGE SQUARE OPEN SPACE, KALASUNJU",
     "name": "VILLAGE SQUARE OPEN SPACE, KALASUNJU",
@@ -51339,12 +49689,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OPOBO/NEKORO",
-    "ward": "QUEENS TOWN KALAMA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/20/09/001",
     "pu_name": "CHIEF COUNCIL AMAYANABO'S PALACE",
     "name": "CHIEF COUNCIL AMAYANABO'S PALACE",
@@ -51411,12 +49755,6 @@
     "pu_code": "32/20/09/008",
     "pu_name": "OPEN SPACE, WARI-OBODU NKORO I",
     "name": "OPEN SPACE, WARI-OBODU NKORO I",
-    "lga": "OPOBO/NEKORO",
-    "ward": "NKORO I",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OPOBO/NEKORO",
     "ward": "NKORO I",
     "state": "Rivers",
@@ -51504,12 +49842,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OPOBO/NEKORO",
-    "ward": "NKORO II",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/20/11/001",
     "pu_name": "PRIMARY SCHOOL AFAKANI, NKORO",
     "name": "PRIMARY SCHOOL AFAKANI, NKORO",
@@ -51567,12 +49899,6 @@
     "pu_code": "32/20/11/007",
     "pu_name": "COMP. SQUARE OPEN SPACE, ALABO P. TARIBO, BARA",
     "name": "COMP. SQUARE OPEN SPACE, ALABO P. TARIBO, BARA",
-    "lga": "OPOBO/NEKORO",
-    "ward": "NKORO III",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OPOBO/NEKORO",
     "ward": "NKORO III",
     "state": "Rivers",
@@ -51759,12 +50085,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OYIGBO",
-    "ward": "OKOLOMA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/21/02/001",
     "pu_name": "SCHOOL HALL, C.P.SOBEAKPU",
     "name": "SCHOOL HALL, C.P.SOBEAKPU",
@@ -51936,12 +50256,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OYIGBO",
-    "ward": "OBEAKPU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/21/03/001",
     "pu_name": "NGWURO SQUARE",
     "name": "NGWURO SQUARE",
@@ -52080,12 +50394,6 @@
     "pu_code": "32/21/03/016",
     "pu_name": "OPEN SPACE NGWURO SQUARE",
     "name": "OPEN SPACE NGWURO SQUARE",
-    "lga": "OYIGBO",
-    "ward": "EGBURU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OYIGBO",
     "ward": "EGBURU",
     "state": "Rivers",
@@ -52236,12 +50544,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OYIGBO",
-    "ward": "UMUAGBAI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/21/05/001",
     "pu_name": "MGBU MARKET SQUARE",
     "name": "MGBU MARKET SQUARE",
@@ -52290,12 +50592,6 @@
     "pu_code": "32/21/05/006",
     "pu_name": "OPEN SPACE EKEATOR, MARIHU.",
     "name": "OPEN SPACE EKEATOR, MARIHU.",
-    "lga": "OYIGBO",
-    "ward": "AZUOGU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OYIGBO",
     "ward": "AZUOGU",
     "state": "Rivers",
@@ -52386,12 +50682,6 @@
     "pu_code": "32/21/06/010",
     "pu_name": "BELLE HALL",
     "name": "BELLE HALL",
-    "lga": "OYIGBO",
-    "ward": "OBETE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OYIGBO",
     "ward": "OBETE",
     "state": "Rivers",
@@ -52527,12 +50817,6 @@
     "pu_code": "32/21/07/015",
     "pu_name": "OPEN SPACE BY NWAMBU STREET, OBEAMA.",
     "name": "OPEN SPACE BY NWAMBU STREET, OBEAMA.",
-    "lga": "OYIGBO",
-    "ward": "ASA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OYIGBO",
     "ward": "ASA",
     "state": "Rivers",
@@ -52875,12 +51159,6 @@
     "pu_code": "32/21/08/038",
     "pu_name": "OPEN SPACE SHELL MARKET",
     "name": "OPEN SPACE SHELL MARKET",
-    "lga": "OYIGBO",
-    "ward": "OYIGBO WEST",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OYIGBO",
     "ward": "OYIGBO WEST",
     "state": "Rivers",
@@ -53301,12 +51579,6 @@
     "state_code": "32"
   },
   {
-    "lga": "OYIGBO",
-    "ward": "OYIGBO CENTRAL",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/21/10/001",
     "pu_name": "TOWN HALL UMUSOYA",
     "name": "TOWN HALL UMUSOYA",
@@ -53580,12 +51852,6 @@
     "pu_code": "32/21/10/031",
     "pu_name": "OPEN SPACE IGBEOKPURU UMUNWARIE",
     "name": "OPEN SPACE IGBEOKPURU UMUNWARIE",
-    "lga": "OYIGBO",
-    "ward": "KOMKOM",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "OYIGBO",
     "ward": "KOMKOM",
     "state": "Rivers",
@@ -54042,12 +52308,6 @@
     "state_code": "32"
   },
   {
-    "lga": "PORT HARCOURT",
-    "ward": "OROMINEKE/EZIMGBU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/22/02/001",
     "pu_name": "OROGBUM CIVIC CENTER I",
     "name": "OROGBUM CIVIC CENTER I",
@@ -54402,12 +52662,6 @@
     "pu_code": "32/22/02/040",
     "pu_name": "OPEN SPACE BY OKWORI STREET JUNCTION (UP UP JESUS MINISTRY)",
     "name": "OPEN SPACE BY OKWORI STREET JUNCTION (UP UP JESUS MINISTRY)",
-    "lga": "PORT HARCOURT",
-    "ward": "OROGBUM",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "PORT HARCOURT",
     "ward": "OROGBUM",
     "state": "Rivers",
@@ -54786,12 +53040,6 @@
     "pu_code": "32/22/03/042",
     "pu_name": "AMADI FLAT POLICE POST XI BY HERBERT MACAULEY",
     "name": "AMADI FLAT POLICE POST XI BY HERBERT MACAULEY",
-    "lga": "PORT HARCOURT",
-    "ward": "OROABALI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "PORT HARCOURT",
     "ward": "OROABALI",
     "state": "Rivers",
@@ -55251,12 +53499,6 @@
     "pu_code": "32/22/04/051",
     "pu_name": "UPE OROGBUM SCHOOL XI PRY 2B",
     "name": "UPE OROGBUM SCHOOL XI PRY 2B",
-    "lga": "PORT HARCOURT",
-    "ward": "OGBUNABALI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "PORT HARCOURT",
     "ward": "OGBUNABALI",
     "state": "Rivers",
@@ -56145,12 +54387,6 @@
     "state_code": "32"
   },
   {
-    "lga": "PORT HARCOURT",
-    "ward": "PORT HARCOURT TOWNSHIP",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/22/06/001",
     "pu_name": "ST. JUDE'S PRIMARY SCHOOL I",
     "name": "ST. JUDE'S PRIMARY SCHOOL I",
@@ -56658,12 +54894,6 @@
     "pu_code": "32/22/06/057",
     "pu_name": "INFORMATION CENTER II",
     "name": "INFORMATION CENTER II",
-    "lga": "PORT HARCOURT",
-    "ward": "PORT HARCOURT TOWNSHIP VI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "PORT HARCOURT",
     "ward": "PORT HARCOURT TOWNSHIP VI",
     "state": "Rivers",
@@ -57345,12 +55575,6 @@
     "state_code": "32"
   },
   {
-    "lga": "PORT HARCOURT",
-    "ward": "PORT HARCOURT VII",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/22/08/001",
     "pu_name": "ST. JOHN'S COLLEGE I",
     "name": "ST. JOHN'S COLLEGE I",
@@ -57579,12 +55803,6 @@
     "pu_code": "32/22/08/026",
     "pu_name": "OPEN SPACE BY KINIKANWO",
     "name": "OPEN SPACE BY KINIKANWO",
-    "lga": "PORT HARCOURT",
-    "ward": "OCHIRI/RUMUKALAGBOR",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "PORT HARCOURT",
     "ward": "OCHIRI/RUMUKALAGBOR",
     "state": "Rivers",
@@ -57846,12 +56064,6 @@
     "pu_code": "32/22/09/029",
     "pu_name": "OPEN SPACE BY AMADI STREET I",
     "name": "OPEN SPACE BY AMADI STREET I",
-    "lga": "PORT HARCOURT",
-    "ward": "OROWORUKWO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "PORT HARCOURT",
     "ward": "OROWORUKWO",
     "state": "Rivers",
@@ -58542,12 +56754,6 @@
     "state_code": "32"
   },
   {
-    "lga": "PORT HARCOURT",
-    "ward": "NKPOLU OROWORUKWO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/22/11/001",
     "pu_name": "RUMUWOJI HALL SPACE I",
     "name": "RUMUWOJI HALL SPACE I",
@@ -58845,12 +57051,6 @@
     "state_code": "32"
   },
   {
-    "lga": "PORT HARCOURT",
-    "ward": "RUMUWOJI (ONE)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/22/12/001",
     "pu_name": "RUMUWOJI HALL (OPEN SPCAE ) I",
     "name": "RUMUWOJI HALL (OPEN SPCAE ) I",
@@ -58953,12 +57153,6 @@
     "pu_code": "32/22/12/012",
     "pu_name": "RUMUWOJI HALL OPEN SPACE BY POST OFFICE XII",
     "name": "RUMUWOJI HALL OPEN SPACE BY POST OFFICE XII",
-    "lga": "PORT HARCOURT",
-    "ward": "RUMUWOJI (TWO)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "PORT HARCOURT",
     "ward": "RUMUWOJI (TWO)",
     "state": "Rivers",
@@ -59181,12 +57375,6 @@
     "state_code": "32"
   },
   {
-    "lga": "PORT HARCOURT",
-    "ward": "RUMUWOJI (THREE)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/22/14/001",
     "pu_name": "MGBUNDUKWU HALL I",
     "name": "MGBUNDUKWU HALL I",
@@ -59343,12 +57531,6 @@
     "pu_code": "32/22/14/018",
     "pu_name": "IGWE HALL II",
     "name": "IGWE HALL II",
-    "lga": "PORT HARCOURT",
-    "ward": "MGBUNDUKWU (ONE)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "PORT HARCOURT",
     "ward": "MGBUNDUKWU (ONE)",
     "state": "Rivers",
@@ -59547,12 +57729,6 @@
     "pu_code": "32/22/15/022",
     "pu_name": "LUMUMBA/ECHUE II",
     "name": "LUMUMBA/ECHUE II",
-    "lga": "PORT HARCOURT",
-    "ward": "MGBUNDUKWU (TWO)",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "PORT HARCOURT",
     "ward": "MGBUNDUKWU (TWO)",
     "state": "Rivers",
@@ -59760,12 +57936,6 @@
     "pu_code": "32/22/16/023",
     "pu_name": "RUMUOBIEKWE HALL I",
     "name": "RUMUOBIEKWE HALL I",
-    "lga": "PORT HARCOURT",
-    "ward": "RUMUOBIEKWE WARD",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "PORT HARCOURT",
     "ward": "RUMUOBIEKWE WARD",
     "state": "Rivers",
@@ -60009,12 +58179,6 @@
     "pu_code": "32/22/17/027",
     "pu_name": "KENNETH COMMERCIAL SCHOOL VIII",
     "name": "KENNETH COMMERCIAL SCHOOL VIII",
-    "lga": "PORT HARCOURT",
-    "ward": "DIOBU",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "PORT HARCOURT",
     "ward": "DIOBU",
     "state": "Rivers",
@@ -60411,12 +58575,6 @@
     "pu_code": "32/22/18/044",
     "pu_name": "SALVATION MINISTRY OPEN SPACE",
     "name": "SALVATION MINISTRY OPEN SPACE",
-    "lga": "PORT HARCOURT",
-    "ward": "NKPOLU OROWORUKWO TWO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "PORT HARCOURT",
     "ward": "NKPOLU OROWORUKWO TWO",
     "state": "Rivers",
@@ -61146,12 +59304,6 @@
     "pu_code": "32/22/19/081",
     "pu_name": "OPEN SPACE OCHIRI HALL BY ELEKAHIA RD",
     "name": "OPEN SPACE OCHIRI HALL BY ELEKAHIA RD",
-    "lga": "PORT HARCOURT",
-    "ward": "ELEKAHIA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "PORT HARCOURT",
     "ward": "ELEKAHIA",
     "state": "Rivers",
@@ -62355,12 +60507,6 @@
     "state_code": "32"
   },
   {
-    "lga": "PORT HARCOURT",
-    "ward": "ABULOMA/AMADI-AMA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/23/01/001",
     "pu_name": "COUNCIL SECRETARIT, SAAKPENWA",
     "name": "COUNCIL SECRETARIT, SAAKPENWA",
@@ -62463,12 +60609,6 @@
     "pu_code": "32/23/01/012",
     "pu_name": "KEGBARA OPEN SPACE, BOTEM",
     "name": "KEGBARA OPEN SPACE, BOTEM",
-    "lga": "TAI",
-    "ward": "BOTEM/GBENEO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "TAI",
     "ward": "BOTEM/GBENEO",
     "state": "Rivers",
@@ -62619,12 +60759,6 @@
     "state_code": "32"
   },
   {
-    "lga": "TAI",
-    "ward": "KPITE",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/23/03/001",
     "pu_name": "GBENE GINIWA SQARE OPEN SPACE, KOROKORO",
     "name": "GBENE GINIWA SQARE OPEN SPACE, KOROKORO",
@@ -62709,12 +60843,6 @@
     "pu_code": "32/23/03/010",
     "pu_name": "UEKEN TOWN HALL, UEKEN",
     "name": "UEKEN TOWN HALL, UEKEN",
-    "lga": "TAI",
-    "ward": "KOROKORO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "TAI",
     "ward": "KOROKORO",
     "state": "Rivers",
@@ -62919,12 +61047,6 @@
     "state_code": "32"
   },
   {
-    "lga": "TAI",
-    "ward": "KOROMA/HORO",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/23/05/001",
     "pu_name": "C.P.S. BARA-ALUE",
     "name": "C.P.S. BARA-ALUE",
@@ -63051,12 +61173,6 @@
     "state_code": "32"
   },
   {
-    "lga": "TAI",
-    "ward": "KIRA/BOROBARA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/23/06/001",
     "pu_name": "TOWN SQUARE, GIO I",
     "name": "TOWN SQUARE, GIO I",
@@ -63141,12 +61257,6 @@
     "pu_code": "32/23/06/010",
     "pu_name": "C.P.S CLASS ROOM, KPORGHOR",
     "name": "C.P.S CLASS ROOM, KPORGHOR",
-    "lga": "TAI",
-    "ward": "GIO/KPORGHOR/GBAM",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "TAI",
     "ward": "GIO/KPORGHOR/GBAM",
     "state": "Rivers",
@@ -63369,12 +61479,6 @@
     "state_code": "32"
   },
   {
-    "lga": "TAI",
-    "ward": "NONWA",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/23/08/001",
     "pu_name": "BARAYIRA TOWN SQUARE",
     "name": "BARAYIRA TOWN SQUARE",
@@ -63501,12 +61605,6 @@
     "state_code": "32"
   },
   {
-    "lga": "TAI",
-    "ward": "OYIGBO WEST",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "pu_code": "32/23/09/001",
     "pu_name": "C.P.S I SIBUE CLASS ROOM BUNU",
     "name": "C.P.S I SIBUE CLASS ROOM BUNU",
@@ -63582,12 +61680,6 @@
     "pu_code": "32/23/09/009",
     "pu_name": "KEGBARA OPEN SPACE, BUNU",
     "name": "KEGBARA OPEN SPACE, BUNU",
-    "lga": "TAI",
-    "ward": "BUBU/BARA/KANI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "TAI",
     "ward": "BUBU/BARA/KANI",
     "state": "Rivers",
@@ -63678,12 +61770,6 @@
     "pu_code": "32/23/10/010",
     "pu_name": "TENGBAN OPEN SPACE, KAANIBAN",
     "name": "TENGBAN OPEN SPACE, KAANIBAN",
-    "lga": "TAI",
-    "ward": "BAN-OGOI",
-    "state": "Rivers",
-    "state_code": "32"
-  },
-  {
     "lga": "TAI",
     "ward": "BAN-OGOI",
     "state": "Rivers",

@@ -207,12 +207,6 @@
     "state_code": "22"
   },
   {
-    "lga": "ADAVI",
-    "ward": "OKUNCHI/OZURI/ONIEKA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/01/02/001",
     "pu_name": "LGEA SCHOOL OGAMINANA I",
     "name": "LGEA SCHOOL OGAMINANA I",
@@ -411,12 +405,6 @@
     "state_code": "22"
   },
   {
-    "lga": "ADAVI",
-    "ward": "OGAMINANA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/01/03/001",
     "pu_name": "NEAR SUBERU OKINO I",
     "name": "NEAR SUBERU OKINO I",
@@ -534,12 +522,6 @@
     "state_code": "22"
   },
   {
-    "lga": "ADAVI",
-    "ward": "IRUVUCHEBA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/01/04/001",
     "pu_name": "NEAR AHERUVO'S COMPOUND I",
     "name": "NEAR AHERUVO'S COMPOUND I",
@@ -633,12 +615,6 @@
     "pu_code": "22/01/04/011",
     "pu_name": "OPEN SPACE NEAR ALH. ADAEMOH'S COMPOUND",
     "name": "OPEN SPACE NEAR ALH. ADAEMOH'S COMPOUND",
-    "lga": "ADAVI",
-    "ward": "IDANUHUA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "ADAVI",
     "ward": "IDANUHUA",
     "state": "Kogi",
@@ -774,12 +750,6 @@
     "pu_code": "22/01/05/015",
     "pu_name": "COMM. SEC SCHOOL ADAVI-EBA",
     "name": "COMM. SEC SCHOOL ADAVI-EBA",
-    "lga": "ADAVI",
-    "ward": "ADAVI-EBA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "ADAVI",
     "ward": "ADAVI-EBA",
     "state": "Kogi",
@@ -942,12 +912,6 @@
     "pu_code": "22/01/06/018",
     "pu_name": "OPEN SPACE OPP. OBARO'S HOUSE",
     "name": "OPEN SPACE OPP. OBARO'S HOUSE",
-    "lga": "ADAVI",
-    "ward": "KUROKO I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "ADAVI",
     "ward": "KUROKO I",
     "state": "Kogi",
@@ -1161,12 +1125,6 @@
     "state_code": "22"
   },
   {
-    "lga": "ADAVI",
-    "ward": "KUROKO II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/01/08/001",
     "pu_name": "LGEA SCHOOL OSISI I",
     "name": "LGEA SCHOOL OSISI I",
@@ -1374,12 +1332,6 @@
     "state_code": "22"
   },
   {
-    "lga": "ADAVI",
-    "ward": "INO ZIOMI/IPAKU/OSISI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/01/09/001",
     "pu_name": "LGEA SCHOOL ENYIDUDU I",
     "name": "LGEA SCHOOL ENYIDUDU I",
@@ -1527,12 +1479,6 @@
     "pu_code": "22/01/09/017",
     "pu_name": "OPEN SPACE UNDER BIG TREE NEAR ISAH ONOKU COMP.EBEGOGO IKARAWORO",
     "name": "OPEN SPACE UNDER BIG TREE NEAR ISAH ONOKU COMP.EBEGOGO IKARAWORO",
-    "lga": "ADAVI",
-    "ward": "IKARAWORO/IDOBANYERE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "ADAVI",
     "ward": "IKARAWORO/IDOBANYERE",
     "state": "Kogi",
@@ -1944,12 +1890,6 @@
     "state_code": "22"
   },
   {
-    "lga": "ADAVI",
-    "ward": "NAGAZI FARM CENTRE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/01/11/001",
     "pu_name": "LGEA ANG SCHOOL EGGE I",
     "name": "LGEA ANG SCHOOL EGGE I",
@@ -2007,12 +1947,6 @@
     "pu_code": "22/01/11/007",
     "pu_name": "LGEA SCHOOL IRIVUOCHINOMI III",
     "name": "LGEA SCHOOL IRIVUOCHINOMI III",
-    "lga": "ADAVI",
-    "ward": "EGE/IRUVOCHINOMI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "ADAVI",
     "ward": "EGE/IRUVOCHINOMI",
     "state": "Kogi",
@@ -2091,12 +2025,6 @@
     "state_code": "22"
   },
   {
-    "lga": "AJAOKUTA",
-    "ward": "EBIYA NORTH",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/02/02/001",
     "pu_name": "TOWN HALL/ AREA EBIYA I",
     "name": "TOWN HALL/ AREA EBIYA I",
@@ -2151,12 +2079,6 @@
     "state_code": "22"
   },
   {
-    "lga": "AJAOKUTA",
-    "ward": "EBIYA SOUTH",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/02/03/001",
     "pu_name": "OPEN SPACE I EGANYI",
     "name": "OPEN SPACE I EGANYI",
@@ -2202,12 +2124,6 @@
     "state_code": "22"
   },
   {
-    "lga": "AJAOKUTA",
-    "ward": "ABODI/PATESI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/02/04/001",
     "pu_name": "BESIDE ORERE ABAGI SQUARE",
     "name": "BESIDE ORERE ABAGI SQUARE",
@@ -2238,12 +2154,6 @@
     "pu_code": "22/02/04/004",
     "pu_name": "MARKET SQUARE INEYERE",
     "name": "MARKET SQUARE INEYERE",
-    "lga": "AJAOKUTA",
-    "ward": "ICHUWA/UPAJA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "AJAOKUTA",
     "ward": "ICHUWA/UPAJA",
     "state": "Kogi",
@@ -2295,12 +2205,6 @@
     "state_code": "22"
   },
   {
-    "lga": "AJAOKUTA",
-    "ward": "BADOKO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/02/06/001",
     "pu_name": "OPEN SPACE OGIGIRI",
     "name": "OPEN SPACE OGIGIRI",
@@ -2346,12 +2250,6 @@
     "state_code": "22"
   },
   {
-    "lga": "AJAOKUTA",
-    "ward": "OGIGIRI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/02/07/001",
     "pu_name": "OLD MARKET GARAGE ADOGO",
     "name": "OLD MARKET GARAGE ADOGO",
@@ -2391,12 +2289,6 @@
     "pu_code": "22/02/07/005",
     "pu_name": "CIVIC CENTER OLD MARKET ADOGO",
     "name": "CIVIC CENTER OLD MARKET ADOGO",
-    "lga": "AJAOKUTA",
-    "ward": "ADOGO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "AJAOKUTA",
     "ward": "ADOGO",
     "state": "Kogi",
@@ -2457,12 +2349,6 @@
     "state_code": "22"
   },
   {
-    "lga": "AJAOKUTA",
-    "ward": "ACHAGANA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/02/09/001",
     "pu_name": "OPEN SPACE  ODONU",
     "name": "OPEN SPACE  ODONU",
@@ -2499,12 +2385,6 @@
     "state_code": "22"
   },
   {
-    "lga": "AJAOKUTA",
-    "ward": "ODONU/UNOSI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/02/10/001",
     "pu_name": "OPEN SPACE  UNDER A TREE OMGBO",
     "name": "OPEN SPACE  UNDER A TREE OMGBO",
@@ -2526,12 +2406,6 @@
     "pu_code": "22/02/10/003",
     "pu_name": "LGEA SCHOOL OMGBO II",
     "name": "LGEA SCHOOL OMGBO II",
-    "lga": "AJAOKUTA",
-    "ward": "OMGBO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "AJAOKUTA",
     "ward": "OMGBO",
     "state": "Kogi",
@@ -2601,12 +2475,6 @@
     "state_code": "22"
   },
   {
-    "lga": "AJAOKUTA",
-    "ward": "ADOGU/APAMIRA/OGODO UHUOVENE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/02/12/001",
     "pu_name": "LGEA SCHOOL I UPAKE",
     "name": "LGEA SCHOOL I UPAKE",
@@ -2646,12 +2514,6 @@
     "pu_code": "22/02/12/005",
     "pu_name": "INEYERE VILLAGE",
     "name": "INEYERE VILLAGE",
-    "lga": "AJAOKUTA",
-    "ward": "OBANGEDE/OHUNENE/UKOKO INYE'RE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "AJAOKUTA",
     "ward": "OBANGEDE/OHUNENE/UKOKO INYE'RE",
     "state": "Kogi",
@@ -2724,12 +2586,6 @@
     "pu_code": "22/02/13/008",
     "pu_name": "INFRONT OF FG ASSISTED BOREHOLE OLD AJAOKUTA",
     "name": "INFRONT OF FG ASSISTED BOREHOLE OLD AJAOKUTA",
-    "lga": "AJAOKUTA",
-    "ward": "OLD AJAOKUTA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "AJAOKUTA",
     "ward": "OLD AJAOKUTA",
     "state": "Kogi",
@@ -3411,12 +3267,6 @@
     "state_code": "22"
   },
   {
-    "lga": "AJAOKUTA",
-    "ward": "GANAGA/TOWNSHIP",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/03/01/001",
     "pu_name": "OPULEGA, BESIDE ROUND ABOUT",
     "name": "OPULEGA, BESIDE ROUND ABOUT",
@@ -3858,12 +3708,6 @@
     "state_code": "22"
   },
   {
-    "lga": "ANKPA",
-    "ward": "ANKPA TOWNSHIP",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/03/02/001",
     "pu_name": "EGBECHE, L.G.E.A SCHOOL",
     "name": "EGBECHE, L.G.E.A SCHOOL",
@@ -4083,12 +3927,6 @@
     "pu_code": "22/03/02/025",
     "pu_name": "OJACHADU II EFOKO O/S",
     "name": "OJACHADU II EFOKO O/S",
-    "lga": "ANKPA",
-    "ward": "ANKPA SUBURB  I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "ANKPA",
     "ward": "ANKPA SUBURB  I",
     "state": "Kogi",
@@ -4329,12 +4167,6 @@
     "state_code": "22"
   },
   {
-    "lga": "ANKPA",
-    "ward": "ANKPA SUBURB II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/03/04/001",
     "pu_name": "EJEGBO, L.G.E.A. SCHOOL",
     "name": "EJEGBO, L.G.E.A. SCHOOL",
@@ -4569,12 +4401,6 @@
     "state_code": "22"
   },
   {
-    "lga": "ANKPA",
-    "ward": "ANKPA  I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/03/05/001",
     "pu_name": "ALLOR, COURT PREMISES",
     "name": "ALLOR, COURT PREMISES",
@@ -4749,12 +4575,6 @@
     "pu_code": "22/03/05/020",
     "pu_name": "OJOGADO OBOJI O/S",
     "name": "OJOGADO OBOJI O/S",
-    "lga": "ANKPA",
-    "ward": "ANKPA II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "ANKPA",
     "ward": "ANKPA II",
     "state": "Kogi",
@@ -5040,12 +4860,6 @@
     "state_code": "22"
   },
   {
-    "lga": "ANKPA",
-    "ward": "ENJEMA  I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/03/07/001",
     "pu_name": "UKPOLOBIA/OJEKE",
     "name": "UKPOLOBIA/OJEKE",
@@ -5211,12 +5025,6 @@
     "pu_code": "22/03/07/019",
     "pu_name": "ODOBI AFOR O/S",
     "name": "ODOBI AFOR O/S",
-    "lga": "ANKPA",
-    "ward": "ENJEMA II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "ANKPA",
     "ward": "ENJEMA II",
     "state": "Kogi",
@@ -5430,12 +5238,6 @@
     "state_code": "22"
   },
   {
-    "lga": "ANKPA",
-    "ward": "ENJEMA  III",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/03/09/001",
     "pu_name": "AGUMAGU, L.G.E.A. SCHOOL",
     "name": "AGUMAGU, L.G.E.A. SCHOOL",
@@ -5607,12 +5409,6 @@
     "state_code": "22"
   },
   {
-    "lga": "ANKPA",
-    "ward": "ENJEMA  IV",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/03/10/001",
     "pu_name": "AKUNU, L.G.E.A SCHOOL AKUNU",
     "name": "AKUNU, L.G.E.A SCHOOL AKUNU",
@@ -5751,12 +5547,6 @@
     "pu_code": "22/03/10/016",
     "pu_name": "LGEA SCHOOL, OFANO, OPEN SPACE",
     "name": "LGEA SCHOOL, OFANO, OPEN SPACE",
-    "lga": "ANKPA",
-    "ward": "OJOKU  I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "ANKPA",
     "ward": "OJOKU  I",
     "state": "Kogi",
@@ -5907,12 +5697,6 @@
     "state_code": "22"
   },
   {
-    "lga": "ANKPA",
-    "ward": "OJOKU II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/03/12/001",
     "pu_name": "OJEJE EFOFE, OPEN SPACE",
     "name": "OJEJE EFOFE, OPEN SPACE",
@@ -6021,12 +5805,6 @@
     "state_code": "22"
   },
   {
-    "lga": "ANKPA",
-    "ward": "OJOKU  III",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/03/13/001",
     "pu_name": "AWO AKPALI LGEA SCHOOL",
     "name": "AWO AKPALI LGEA SCHOOL",
@@ -6111,12 +5889,6 @@
     "pu_code": "22/03/13/010",
     "pu_name": "AWO OFU OKUME, OPEN SPACE",
     "name": "AWO OFU OKUME, OPEN SPACE",
-    "lga": "ANKPA",
-    "ward": "OJOKU IV",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "ANKPA",
     "ward": "OJOKU IV",
     "state": "Kogi",
@@ -6294,12 +6066,6 @@
     "state_code": "22"
   },
   {
-    "lga": "BASSA",
-    "ward": "AKUBA  I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/04/02/001",
     "pu_name": "ODENYI LGEA SCHOOL ODENYI",
     "name": "ODENYI LGEA SCHOOL ODENYI",
@@ -6471,12 +6237,6 @@
     "state_code": "22"
   },
   {
-    "lga": "BASSA",
-    "ward": "AKUBA  II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/04/03/001",
     "pu_name": "AKAKANA I LGEA SCHOOL, AKAKANA",
     "name": "AKAKANA I LGEA SCHOOL, AKAKANA",
@@ -6630,12 +6390,6 @@
     "state_code": "22"
   },
   {
-    "lga": "BASSA",
-    "ward": "AYEDE/AKAKANA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/04/04/001",
     "pu_name": "KPANCHE I LGEA SCHOOL KPANCHE",
     "name": "KPANCHE I LGEA SCHOOL KPANCHE",
@@ -6693,12 +6447,6 @@
     "pu_code": "22/04/04/007",
     "pu_name": "COMMUNITY HALL, KPANCHE",
     "name": "COMMUNITY HALL, KPANCHE",
-    "lga": "BASSA",
-    "ward": "OZONGULO/KPANCHE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "BASSA",
     "ward": "OZONGULO/KPANCHE",
     "state": "Kogi",
@@ -6816,12 +6564,6 @@
     "pu_code": "22/04/05/013",
     "pu_name": "KPOKUDU PRIMARY HEALTH CENTRE, KPOKUDU",
     "name": "KPOKUDU PRIMARY HEALTH CENTRE, KPOKUDU",
-    "lga": "BASSA",
-    "ward": "IKENDE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "BASSA",
     "ward": "IKENDE",
     "state": "Kogi",
@@ -6999,12 +6741,6 @@
     "state_code": "22"
   },
   {
-    "lga": "BASSA",
-    "ward": "GBOLOKO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/04/07/001",
     "pu_name": "GBOBE OPEN SPACE GBOBE",
     "name": "GBOBE OPEN SPACE GBOBE",
@@ -7122,12 +6858,6 @@
     "state_code": "22"
   },
   {
-    "lga": "BASSA",
-    "ward": "KPATA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/04/08/001",
     "pu_name": "EFORO LGEA SCHOOL, EFORO",
     "name": "EFORO LGEA SCHOOL, EFORO",
@@ -7209,12 +6939,6 @@
     "state_code": "22"
   },
   {
-    "lga": "BASSA",
-    "ward": "EFORO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/04/09/001",
     "pu_name": "MOZUM SABON GARI LGEA SCHOOL MOZUM",
     "name": "MOZUM SABON GARI LGEA SCHOOL MOZUM",
@@ -7287,12 +7011,6 @@
     "state_code": "22"
   },
   {
-    "lga": "BASSA",
-    "ward": "MOZUM",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/04/10/001",
     "pu_name": "OZUGBE  I LGEA SCHOOL, OZUGBE",
     "name": "OZUGBE  I LGEA SCHOOL, OZUGBE",
@@ -7341,12 +7059,6 @@
     "pu_code": "22/04/10/006",
     "pu_name": "PHC, BIROKO",
     "name": "PHC, BIROKO",
-    "lga": "BASSA",
-    "ward": "OZUGBE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "BASSA",
     "ward": "OZUGBE",
     "state": "Kogi",
@@ -7581,12 +7293,6 @@
     "pu_code": "22/05/01/026",
     "pu_name": "UDABA DEKINA GRA II",
     "name": "UDABA DEKINA GRA II",
-    "lga": "DEKINA",
-    "ward": "DEKINA TOWN",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "DEKINA",
     "ward": "DEKINA TOWN",
     "state": "Kogi",
@@ -7890,12 +7596,6 @@
     "state_code": "22"
   },
   {
-    "lga": "DEKINA",
-    "ward": "IYALE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/05/03/001",
     "pu_name": "EMEWE OPADA I OPEN SPACE",
     "name": "EMEWE OPADA I OPEN SPACE",
@@ -8094,12 +7794,6 @@
     "state_code": "22"
   },
   {
-    "lga": "DEKINA",
-    "ward": "EMEWE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/05/04/001",
     "pu_name": "ODU OGBOYAGA MARKET SQUARE",
     "name": "ODU OGBOYAGA MARKET SQUARE",
@@ -8211,12 +7905,6 @@
     "pu_code": "22/05/04/013",
     "pu_name": "OPEN SPACE OFE OBOBO",
     "name": "OPEN SPACE OFE OBOBO",
-    "lga": "DEKINA",
-    "ward": "ODU  I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "DEKINA",
     "ward": "ODU  I",
     "state": "Kogi",
@@ -8415,12 +8103,6 @@
     "pu_code": "22/05/05/022",
     "pu_name": "OPEN SPACE OKABO II",
     "name": "OPEN SPACE OKABO II",
-    "lga": "DEKINA",
-    "ward": "ODU  II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "DEKINA",
     "ward": "ODU  II",
     "state": "Kogi",
@@ -8841,12 +8523,6 @@
     "state_code": "22"
   },
   {
-    "lga": "DEKINA",
-    "ward": "ABOCHO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/05/07/001",
     "pu_name": "ENIJI ANEFU OPEN SPACE",
     "name": "ENIJI ANEFU OPEN SPACE",
@@ -9126,12 +8802,6 @@
     "state_code": "22"
   },
   {
-    "lga": "DEKINA",
-    "ward": "OGBABEDE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/05/08/001",
     "pu_name": "BARRACK I MOTOR PARK EGUME",
     "name": "BARRACK I MOTOR PARK EGUME",
@@ -9393,12 +9063,6 @@
     "state_code": "22"
   },
   {
-    "lga": "DEKINA",
-    "ward": "ADUMU EGUME",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/05/09/001",
     "pu_name": "OJIKPADALA , OPEN SPACE",
     "name": "OJIKPADALA , OPEN SPACE",
@@ -9528,12 +9192,6 @@
     "pu_code": "22/05/09/015",
     "pu_name": "OPEN SPACE AGBEJI OGANE",
     "name": "OPEN SPACE AGBEJI OGANE",
-    "lga": "DEKINA",
-    "ward": "OJIKPADALA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "DEKINA",
     "ward": "OJIKPADALA",
     "state": "Kogi",
@@ -10224,12 +9882,6 @@
     "state_code": "22"
   },
   {
-    "lga": "DEKINA",
-    "ward": "ANYIGBA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/05/11/001",
     "pu_name": "OKURA OLAFIA MARKET SQUARE",
     "name": "OKURA OLAFIA MARKET SQUARE",
@@ -10377,12 +10029,6 @@
     "pu_code": "22/05/11/017",
     "pu_name": "OPEN SPACE RIVER SIDE OKURA OLAFIA",
     "name": "OPEN SPACE RIVER SIDE OKURA OLAFIA",
-    "lga": "DEKINA",
-    "ward": "OKURA OLAFIA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "DEKINA",
     "ward": "OKURA OLAFIA",
     "state": "Kogi",
@@ -10578,12 +10224,6 @@
     "state_code": "22"
   },
   {
-    "lga": "DEKINA",
-    "ward": "OGANE INIGU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/06/01/001",
     "pu_name": "IHILE/OMAKENE/OMAGBOGWU, OPEN SPACE",
     "name": "IHILE/OMAKENE/OMAGBOGWU, OPEN SPACE",
@@ -10746,12 +10386,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IBAJI",
-    "ward": "ODEKE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/06/02/001",
     "pu_name": "UJEH TOWN UJEH TOWN HALL",
     "name": "UJEH TOWN UJEH TOWN HALL",
@@ -10905,12 +10539,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IBAJI",
-    "ward": "UJEH",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/06/03/001",
     "pu_name": "EJOFE - TOWN HALL EJOFE",
     "name": "EJOFE - TOWN HALL EJOFE",
@@ -11040,12 +10668,6 @@
     "pu_code": "22/06/03/015",
     "pu_name": "IYAJA, TOWN HALL IKAKA",
     "name": "IYAJA, TOWN HALL IKAKA",
-    "lga": "IBAJI",
-    "ward": "IYANO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IBAJI",
     "ward": "IYANO",
     "state": "Kogi",
@@ -11205,12 +10827,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IBAJI",
-    "ward": "AKPANYO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/06/05/001",
     "pu_name": "OBOMI OGUDUHI - OPEN SPACE",
     "name": "OBOMI OGUDUHI - OPEN SPACE",
@@ -11313,12 +10929,6 @@
     "pu_code": "22/06/05/012",
     "pu_name": "IGBOLIGBO OKPALOMU NEAR OKPALA OKPALOMU",
     "name": "IGBOLIGBO OKPALOMU NEAR OKPALA OKPALOMU",
-    "lga": "IBAJI",
-    "ward": "UNALE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IBAJI",
     "ward": "UNALE",
     "state": "Kogi",
@@ -11499,12 +11109,6 @@
     "pu_code": "22/06/06/020",
     "pu_name": "IYAGBA III OPEN SPACE ECHENO",
     "name": "IYAGBA III OPEN SPACE ECHENO",
-    "lga": "IBAJI",
-    "ward": "OJILA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IBAJI",
     "ward": "OJILA",
     "state": "Kogi",
@@ -11727,12 +11331,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IBAJI",
-    "ward": "EJULE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/06/08/001",
     "pu_name": "AYAH I - OKWEHI TOWN HALL OCHATA",
     "name": "AYAH I - OKWEHI TOWN HALL OCHATA",
@@ -11904,12 +11502,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IBAJI",
-    "ward": "AYAH",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/06/09/001",
     "pu_name": "ELELE ATIKO - ELELE PUBLIC SQUARE",
     "name": "ELELE ATIKO - ELELE PUBLIC SQUARE",
@@ -12054,12 +11646,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IBAJI",
-    "ward": "ANALO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/06/10/001",
     "pu_name": "ATIKO - TOWN HALL ATIKO OGANE",
     "name": "ATIKO - TOWN HALL ATIKO OGANE",
@@ -12198,12 +11784,6 @@
     "pu_code": "22/06/10/016",
     "pu_name": "LGEA PRIMARY SCHOOL MANEJO",
     "name": "LGEA PRIMARY SCHOOL MANEJO",
-    "lga": "IBAJI",
-    "ward": "ONYEDEGA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IBAJI",
     "ward": "ONYEDEGA",
     "state": "Kogi",
@@ -12372,12 +11952,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IDAH",
-    "ward": "IGALAOGBA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/07/02/001",
     "pu_name": "UBOMU/OYIFU, OPEN SPACE UBOMU",
     "name": "UBOMU/OYIFU, OPEN SPACE UBOMU",
@@ -12459,12 +12033,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IDAH",
-    "ward": "OWOLI APA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/07/03/001",
     "pu_name": "AGAIDOKO, OPEN SPACE, AGAIDOKO",
     "name": "AGAIDOKO, OPEN SPACE, AGAIDOKO",
@@ -12540,12 +12108,6 @@
     "pu_code": "22/07/03/009",
     "pu_name": "OPEN SPACE IGECHEBA",
     "name": "OPEN SPACE IGECHEBA",
-    "lga": "IDAH",
-    "ward": "IGECHEBA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IDAH",
     "ward": "IGECHEBA",
     "state": "Kogi",
@@ -12705,12 +12267,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IDAH",
-    "ward": "UKWAJA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/07/05/001",
     "pu_name": "OPEN SPACE, EFULU",
     "name": "OPEN SPACE, EFULU",
@@ -12759,12 +12315,6 @@
     "pu_code": "22/07/05/006",
     "pu_name": "OPEN SPACE, OFUKPOJU",
     "name": "OPEN SPACE, OFUKPOJU",
-    "lga": "IDAH",
-    "ward": "OGEGELE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IDAH",
     "ward": "OGEGELE",
     "state": "Kogi",
@@ -12855,12 +12405,6 @@
     "pu_code": "22/07/06/010",
     "pu_name": "AGRIC FARM CENTRE",
     "name": "AGRIC FARM CENTRE",
-    "lga": "IDAH",
-    "ward": "EDE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IDAH",
     "ward": "EDE",
     "state": "Kogi",
@@ -12969,12 +12513,6 @@
     "pu_code": "22/07/07/012",
     "pu_name": "BESIDE LONA RESTAURANT",
     "name": "BESIDE LONA RESTAURANT",
-    "lga": "IDAH",
-    "ward": "SABON GARI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IDAH",
     "ward": "SABON GARI",
     "state": "Kogi",
@@ -13101,12 +12639,6 @@
     "pu_code": "22/07/08/014",
     "pu_name": "OPEN SPACE, UBIGA AGOJEJU",
     "name": "OPEN SPACE, UBIGA AGOJEJU",
-    "lga": "IDAH",
-    "ward": "EGA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IDAH",
     "ward": "EGA",
     "state": "Kogi",
@@ -13248,12 +12780,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IDAH",
-    "ward": "UGWODA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/07/10/001",
     "pu_name": "OPEN SPACE, MAMEREBO/OYAMU",
     "name": "OPEN SPACE, MAMEREBO/OYAMU",
@@ -13344,12 +12870,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IDAH",
-    "ward": "ICHALA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/08/01/001",
     "pu_name": "UMOCHINA I, LGEA SCH. UMOCHINA",
     "name": "UMOCHINA I, LGEA SCH. UMOCHINA",
@@ -13407,12 +12927,6 @@
     "pu_code": "22/08/01/007",
     "pu_name": "UMUCHINA III LGEA SCHOOL UMUCHINA",
     "name": "UMUCHINA III LGEA SCHOOL UMUCHINA",
-    "lga": "IGALAMELA/ODOLU",
-    "ward": "AVRUGO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IGALAMELA/ODOLU",
     "ward": "AVRUGO",
     "state": "Kogi",
@@ -13485,12 +12999,6 @@
     "pu_code": "22/08/02/008",
     "pu_name": "OPEN SPACE, OKPANABILI",
     "name": "OPEN SPACE, OKPANABILI",
-    "lga": "IGALAMELA/ODOLU",
-    "ward": "EKWULOKO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IGALAMELA/ODOLU",
     "ward": "EKWULOKO",
     "state": "Kogi",
@@ -13605,12 +13113,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IGALAMELA/ODOLU",
-    "ward": "ODOLU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/08/04/001",
     "pu_name": "UNENE/ALLA OGUGU/UGWAKA/OKOTOBO, OPEN SPACE, UNENE",
     "name": "UNENE/ALLA OGUGU/UGWAKA/OKOTOBO, OPEN SPACE, UNENE",
@@ -13650,12 +13152,6 @@
     "pu_code": "22/08/04/005",
     "pu_name": "UGWOGWO, OPEN SPACE",
     "name": "UGWOGWO, OPEN SPACE",
-    "lga": "IGALAMELA/ODOLU",
-    "ward": "OJI-AJI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IGALAMELA/ODOLU",
     "ward": "OJI-AJI",
     "state": "Kogi",
@@ -13806,12 +13302,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IGALAMELA/ODOLU",
-    "ward": "AKPANYA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/08/06/001",
     "pu_name": "OPEN SPACE, IGOLIJO",
     "name": "OPEN SPACE, IGOLIJO",
@@ -13869,12 +13359,6 @@
     "pu_code": "22/08/06/007",
     "pu_name": "IN FRONT OF THE COMMUNITY TOWN HALL AMAKA",
     "name": "IN FRONT OF THE COMMUNITY TOWN HALL AMAKA",
-    "lga": "IGALAMELA/ODOLU",
-    "ward": "UBELE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IGALAMELA/ODOLU",
     "ward": "UBELE",
     "state": "Kogi",
@@ -14205,12 +13689,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IGALAMELA/ODOLU",
-    "ward": "AJAKA  I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/08/08/001",
     "pu_name": "ACSS/UGBATUGBA, OPEN SPACE, UGBATUGBA I",
     "name": "ACSS/UGBATUGBA, OPEN SPACE, UGBATUGBA I",
@@ -14400,12 +13878,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IGALAMELA/ODOLU",
-    "ward": "AJAKA  II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/08/09/001",
     "pu_name": "APATA/NEW IYEGWU, OPEN SPACE APATA",
     "name": "APATA/NEW IYEGWU, OPEN SPACE APATA",
@@ -14526,12 +13998,6 @@
     "pu_code": "22/08/09/014",
     "pu_name": "PRIMARY HEALTH CARE UWOWO ATE OPEN SPACE",
     "name": "PRIMARY HEALTH CARE UWOWO ATE OPEN SPACE",
-    "lga": "IGALAMELA/ODOLU",
-    "ward": "OFORACHI I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IGALAMELA/ODOLU",
     "ward": "OFORACHI I",
     "state": "Kogi",
@@ -14664,12 +14130,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IGALAMELA/ODOLU",
-    "ward": "OFORACHI II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/09/01/001",
     "pu_name": "OPEN SPACE BY NILO QUARTERS AIYEGUNLE",
     "name": "OPEN SPACE BY NILO QUARTERS AIYEGUNLE",
@@ -14727,12 +14187,6 @@
     "pu_code": "22/09/01/007",
     "pu_name": "OPEN SPACE BY ILUHAFON GBEDE",
     "name": "OPEN SPACE BY ILUHAFON GBEDE",
-    "lga": "IJUMU",
-    "ward": "AIYEGUNLE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IJUMU",
     "ward": "AIYEGUNLE",
     "state": "Kogi",
@@ -14847,12 +14301,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IJUMU",
-    "ward": "AIYETORO  I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/09/03/001",
     "pu_name": "OPEN SPACE BY TOWN HALL AIYETORO",
     "name": "OPEN SPACE BY TOWN HALL AIYETORO",
@@ -14952,12 +14400,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IJUMU",
-    "ward": "AIYETORO  II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/09/04/001",
     "pu_name": "OPEN SPACE / AYEH",
     "name": "OPEN SPACE / AYEH",
@@ -15006,12 +14448,6 @@
     "pu_code": "22/09/04/006",
     "pu_name": "OPEN SPACE NEAR ILGEA SCH. IYAH",
     "name": "OPEN SPACE NEAR ILGEA SCH. IYAH",
-    "lga": "IJUMU",
-    "ward": "IYAH/AYEH",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IJUMU",
     "ward": "IYAH/AYEH",
     "state": "Kogi",
@@ -15108,12 +14544,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IJUMU",
-    "ward": "ODOKORO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/09/06/001",
     "pu_name": "OPEN SPACE / ARIMAH",
     "name": "OPEN SPACE / ARIMAH",
@@ -15168,12 +14598,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IJUMU",
-    "ward": "AIYERE/ARIMAH",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/09/07/001",
     "pu_name": "OPEN SPACE , OKORO OGIDI",
     "name": "OPEN SPACE , OKORO OGIDI",
@@ -15210,12 +14634,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IJUMU",
-    "ward": "OGIDI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/09/08/001",
     "pu_name": "OPEN SPACE BY CENTRAL ORIGA",
     "name": "OPEN SPACE BY CENTRAL ORIGA",
@@ -15237,12 +14655,6 @@
     "pu_code": "22/09/08/003",
     "pu_name": "OPEN SPACE BESIDE PRIMARY HELATH CENTRE ILETEJU",
     "name": "OPEN SPACE BESIDE PRIMARY HELATH CENTRE ILETEJU",
-    "lga": "IJUMU",
-    "ward": "ILETEJU/ORIGA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IJUMU",
     "ward": "ILETEJU/ORIGA",
     "state": "Kogi",
@@ -15303,12 +14715,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IJUMU",
-    "ward": "OGALE/ADUGE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/09/10/001",
     "pu_name": "OPEN SPACE BY MARKET SITE ONAH QUARTERS",
     "name": "OPEN SPACE BY MARKET SITE ONAH QUARTERS",
@@ -15357,12 +14763,6 @@
     "pu_code": "22/09/10/006",
     "pu_name": "OPEN SPACE ODO-OTUN EGBEDA-EGGA",
     "name": "OPEN SPACE ODO-OTUN EGBEDA-EGGA",
-    "lga": "IJUMU",
-    "ward": "EGBEDA EGGA/OKEDAYO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IJUMU",
     "ward": "EGBEDA EGGA/OKEDAYO",
     "state": "Kogi",
@@ -15486,12 +14886,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IJUMU",
-    "ward": "IYARA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/09/12/001",
     "pu_name": "OPEN SPACE BY TOWN HALL",
     "name": "OPEN SPACE BY TOWN HALL",
@@ -15540,12 +14934,6 @@
     "pu_code": "22/09/12/006",
     "pu_name": "OPEN SPACE IFFE TEDO",
     "name": "OPEN SPACE IFFE TEDO",
-    "lga": "IJUMU",
-    "ward": "IFFE/IKOYI/OKEJUMU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IJUMU",
     "ward": "IFFE/IKOYI/OKEJUMU",
     "state": "Kogi",
@@ -15663,12 +15051,6 @@
     "pu_code": "22/09/13/013",
     "pu_name": "OPEN SPACE BY SALAU TEDO/FREE TOWN",
     "name": "OPEN SPACE BY SALAU TEDO/FREE TOWN",
-    "lga": "IJUMU",
-    "ward": "IYAMOYE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IJUMU",
     "ward": "IYAMOYE",
     "state": "Kogi",
@@ -15801,12 +15183,6 @@
     "state_code": "22"
   },
   {
-    "lga": "IJUMU",
-    "ward": "EKINRIN ADE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/09/15/001",
     "pu_name": "OPEN SPACE BY MARKET SITE ILOWE",
     "name": "OPEN SPACE BY MARKET SITE ILOWE",
@@ -15837,12 +15213,6 @@
     "pu_code": "22/09/15/004",
     "pu_name": "OPEN SPACE BY ST. MICHAEL PRIMARY SCHOOL IGBOLAIYERE",
     "name": "OPEN SPACE BY ST. MICHAEL PRIMARY SCHOOL IGBOLAIYERE",
-    "lga": "IJUMU",
-    "ward": "IBGOLAYERE/ILAERE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "IJUMU",
     "ward": "IBGOLAYERE/ILAERE",
     "state": "Kogi",
@@ -15957,12 +15327,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KABBA/BUNU",
-    "ward": "ASUTA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/10/02/001",
     "pu_name": "BESIDE OLORUNJO'S MECHANIC SHOP",
     "name": "BESIDE OLORUNJO'S MECHANIC SHOP",
@@ -16020,12 +15384,6 @@
     "pu_code": "22/10/02/007",
     "pu_name": "OPEN SPACE UNDER UMBRELLA TREE ODO - AKETE",
     "name": "OPEN SPACE UNDER UMBRELLA TREE ODO - AKETE",
-    "lga": "KABBA/BUNU",
-    "ward": "ODO-AKETE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "KABBA/BUNU",
     "ward": "ODO-AKETE",
     "state": "Kogi",
@@ -16149,12 +15507,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KABBA/BUNU",
-    "ward": "OKEKOKO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/10/04/001",
     "pu_name": "METHODIST SCH. KABBA METHO. SCH. KABBA",
     "name": "METHODIST SCH. KABBA METHO. SCH. KABBA",
@@ -16272,12 +15624,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KABBA/BUNU",
-    "ward": "ODOLU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/10/05/001",
     "pu_name": "ST. MARY PRIM SCH. ST. MARY PRIM SCH. KABBA",
     "name": "ST. MARY PRIM SCH. ST. MARY PRIM SCH. KABBA",
@@ -16362,12 +15708,6 @@
     "pu_code": "22/10/05/010",
     "pu_name": "BEHIND S.O.T UNDER WATER TANK",
     "name": "BEHIND S.O.T UNDER WATER TANK",
-    "lga": "KABBA/BUNU",
-    "ward": "AIYEWA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "KABBA/BUNU",
     "ward": "AIYEWA",
     "state": "Kogi",
@@ -16482,12 +15822,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KABBA/BUNU",
-    "ward": "AIYETEJU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/10/07/001",
     "pu_name": "AIYEDE-OTU, AIYEDE- OTU,",
     "name": "AIYEDE-OTU, AIYEDE- OTU,",
@@ -16578,12 +15912,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KABBA/BUNU",
-    "ward": "OTU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/10/08/001",
     "pu_name": "LGEA SCHOOL, AIYEDUN",
     "name": "LGEA SCHOOL, AIYEDUN",
@@ -16656,12 +15984,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KABBA/BUNU",
-    "ward": "EGBEDA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/10/09/001",
     "pu_name": "OHAKITI, OHAKITI",
     "name": "OHAKITI, OHAKITI",
@@ -16728,12 +16050,6 @@
     "pu_code": "22/10/09/008",
     "pu_name": "ST. PETER'S SCHOOL, OKEDAYO",
     "name": "ST. PETER'S SCHOOL, OKEDAYO",
-    "lga": "KABBA/BUNU",
-    "ward": "OKEDAYO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "KABBA/BUNU",
     "ward": "OKEDAYO",
     "state": "Kogi",
@@ -16815,12 +16131,6 @@
     "pu_code": "22/10/10/009",
     "pu_name": "OPEN SPACE OPPOSITE WATER TANK ITEDO",
     "name": "OPEN SPACE OPPOSITE WATER TANK ITEDO",
-    "lga": "KABBA/BUNU",
-    "ward": "AKUTUPA-KIRI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "KABBA/BUNU",
     "ward": "AKUTUPA-KIRI",
     "state": "Kogi",
@@ -16935,12 +16245,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KABBA/BUNU",
-    "ward": "AIYETORO-KIRI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/10/12/001",
     "pu_name": "L.G.E.A. SCHOOL, L.G.E.A. SCHOOL ILLAH",
     "name": "L.G.E.A. SCHOOL, L.G.E.A. SCHOOL ILLAH",
@@ -17016,12 +16320,6 @@
     "pu_code": "22/10/12/009",
     "pu_name": "OPEN SPACE, OPPOSITE WATER TANK UNDER PALM TREE",
     "name": "OPEN SPACE, OPPOSITE WATER TANK UNDER PALM TREE",
-    "lga": "KABBA/BUNU",
-    "ward": "ILUKE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "KABBA/BUNU",
     "ward": "ILUKE",
     "state": "Kogi",
@@ -17121,12 +16419,6 @@
     "pu_code": "22/10/13/011",
     "pu_name": "AJIGBA GRAMMAR SCHOOL,OLLE",
     "name": "AJIGBA GRAMMAR SCHOOL,OLLE",
-    "lga": "KABBA/BUNU",
-    "ward": "OLLE/OKE-OFIN",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "KABBA/BUNU",
     "ward": "OLLE/OKE-OFIN",
     "state": "Kogi",
@@ -17241,12 +16533,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KABBA/BUNU",
-    "ward": "ODO-APE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/10/15/001",
     "pu_name": "L.G.E.A. SCH., OKEBUKUN",
     "name": "L.G.E.A. SCH., OKEBUKUN",
@@ -17337,12 +16623,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KABBA/BUNU",
-    "ward": "OKEBUKUN",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/11/01/001",
     "pu_name": "LGEA CENTRAL SCH. COMPOUND, KOTONKARFE",
     "name": "LGEA CENTRAL SCH. COMPOUND, KOTONKARFE",
@@ -17415,12 +16695,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KOGI . K. K.",
-    "ward": "UKWO-KOTON KARFE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/11/02/001",
     "pu_name": "INFRONT OF BARBING SALOON ODARIKO, KOTONKARFE",
     "name": "INFRONT OF BARBING SALOON ODARIKO, KOTONKARFE",
@@ -17487,12 +16761,6 @@
     "pu_code": "22/11/02/008",
     "pu_name": "BASSA VILLAGE",
     "name": "BASSA VILLAGE",
-    "lga": "KOGI . K. K.",
-    "ward": "ODAKI-KOTON KARFE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "KOGI . K. K.",
     "ward": "ODAKI-KOTON KARFE",
     "state": "Kogi",
@@ -17643,12 +16911,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KOGI . K. K.",
-    "ward": "KOTONKARFE SOUTH EAST",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/11/04/001",
     "pu_name": "LGEA SCH. COMP., GIRINYA",
     "name": "LGEA SCH. COMP., GIRINYA",
@@ -17775,12 +17037,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KOGI . K. K.",
-    "ward": "GIRINYA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/11/05/001",
     "pu_name": "MARKET SQUARE, EDEKAKPO",
     "name": "MARKET SQUARE, EDEKAKPO",
@@ -17856,12 +17112,6 @@
     "pu_code": "22/11/05/009",
     "pu_name": "LGEA SCH. COMP. IGANUMA",
     "name": "LGEA SCH. COMP. IGANUMA",
-    "lga": "KOGI . K. K.",
-    "ward": "IRENODU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "KOGI . K. K.",
     "ward": "IRENODU",
     "state": "Kogi",
@@ -17976,12 +17226,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KOGI . K. K.",
-    "ward": "AKPASU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/11/07/001",
     "pu_name": "MARKET SQUARE, ADINGERE",
     "name": "MARKET SQUARE, ADINGERE",
@@ -18063,12 +17307,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KOGI . K. K.",
-    "ward": "TAWARI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/11/08/001",
     "pu_name": "UNDER A TREE, GEGU EGBA VILLAGE",
     "name": "UNDER A TREE, GEGU EGBA VILLAGE",
@@ -18126,12 +17364,6 @@
     "pu_code": "22/11/08/007",
     "pu_name": "UNDER A TREE OPEN SPACE NEAR TRANFORMER GEGU EGBA VILLAGE",
     "name": "UNDER A TREE OPEN SPACE NEAR TRANFORMER GEGU EGBA VILLAGE",
-    "lga": "KOGI . K. K.",
-    "ward": "GEGU-BEKI NORTH",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "KOGI . K. K.",
     "ward": "GEGU-BEKI NORTH",
     "state": "Kogi",
@@ -18237,12 +17469,6 @@
     "state_code": "22"
   },
   {
-    "lga": "KOGI . K. K.",
-    "ward": "GEGU-BEKI SOUTH",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/11/10/001",
     "pu_name": "LGEA SCHOOL COMP., CHIKARA",
     "name": "LGEA SCHOOL COMP., CHIKARA",
@@ -18282,12 +17508,6 @@
     "pu_code": "22/11/10/005",
     "pu_name": "L.G.E.A PRIM. SCH ADUHO I",
     "name": "L.G.E.A PRIM. SCH ADUHO I",
-    "lga": "KOGI . K. K.",
-    "ward": "CHIKARA NORTH",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "KOGI . K. K.",
     "ward": "CHIKARA NORTH",
     "state": "Kogi",
@@ -18342,12 +17562,6 @@
     "pu_code": "22/11/11/006",
     "pu_name": "OPEN SPACE, ANGWA KWAKWA LAGBETA",
     "name": "OPEN SPACE, ANGWA KWAKWA LAGBETA",
-    "lga": "KOGI . K. K.",
-    "ward": "CHIKARA SOUTH",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "KOGI . K. K.",
     "ward": "CHIKARA SOUTH",
     "state": "Kogi",
@@ -19254,12 +18468,6 @@
     "state_code": "22"
   },
   {
-    "lga": "LOKOJA",
-    "ward": "LOKOJA - A",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/12/02/001",
     "pu_name": "KARAWORO SOUTH OPEN SPACE, NEAR PAPARANDA SQUARE",
     "name": "KARAWORO SOUTH OPEN SPACE, NEAR PAPARANDA SQUARE",
@@ -19440,12 +18648,6 @@
     "state_code": "22"
   },
   {
-    "lga": "LOKOJA",
-    "ward": "LOKOJA - B",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/12/03/001",
     "pu_name": "MAKERA/KUKUNDUFI/YASHI, OPEN SPACE, NEAR YASHI",
     "name": "MAKERA/KUKUNDUFI/YASHI, OPEN SPACE, NEAR YASHI",
@@ -19557,12 +18759,6 @@
     "pu_code": "22/12/03/013",
     "pu_name": "SHUGABA, OPEN SPACE",
     "name": "SHUGABA, OPEN SPACE",
-    "lga": "LOKOJA",
-    "ward": "LOKOJA - C",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "LOKOJA",
     "ward": "LOKOJA - C",
     "state": "Kogi",
@@ -19716,12 +18912,6 @@
     "pu_code": "22/12/04/017",
     "pu_name": "ANGWA KURA/DATTI OPEN SPACE",
     "name": "ANGWA KURA/DATTI OPEN SPACE",
-    "lga": "LOKOJA",
-    "ward": "LOKOJA - D",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "LOKOJA",
     "ward": "LOKOJA - D",
     "state": "Kogi",
@@ -19944,12 +19134,6 @@
     "state_code": "22"
   },
   {
-    "lga": "LOKOJA",
-    "ward": "LOKOJA - E",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/12/06/001",
     "pu_name": "AGINI/ BUZHI LGEA SCH.",
     "name": "AGINI/ BUZHI LGEA SCH.",
@@ -20034,12 +19218,6 @@
     "pu_code": "22/12/06/010",
     "pu_name": "MIZZA AREA, OPEN SPACE",
     "name": "MIZZA AREA, OPEN SPACE",
-    "lga": "LOKOJA",
-    "ward": "KUPA NORTH EAST",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "LOKOJA",
     "ward": "KUPA NORTH EAST",
     "state": "Kogi",
@@ -20193,12 +19371,6 @@
     "pu_code": "22/12/07/017",
     "pu_name": "SAMPI OPEN SPACE",
     "name": "SAMPI OPEN SPACE",
-    "lga": "LOKOJA",
-    "ward": "KUPA SOUTH WEST",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "LOKOJA",
     "ward": "KUPA SOUTH WEST",
     "state": "Kogi",
@@ -20646,12 +19818,6 @@
     "state_code": "22"
   },
   {
-    "lga": "LOKOJA",
-    "ward": "OWORO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/12/09/001",
     "pu_name": "ATUNGBELE AREA, OPEN SPACE, ATUNGBELE",
     "name": "ATUNGBELE AREA, OPEN SPACE, ATUNGBELE",
@@ -20805,12 +19971,6 @@
     "state_code": "22"
   },
   {
-    "lga": "LOKOJA",
-    "ward": "KAKANDA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/12/10/001",
     "pu_name": "EGGAN TIFAIN AREA, LGEA SCH. EGGAN",
     "name": "EGGAN TIFAIN AREA, LGEA SCH. EGGAN",
@@ -20865,12 +20025,6 @@
     "state_code": "22"
   },
   {
-    "lga": "LOKOJA",
-    "ward": "EGGAN",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/13/01/001",
     "pu_name": "ODOLE MOPA OKEDIYEYE SIGN BOARD",
     "name": "ODOLE MOPA OKEDIYEYE SIGN BOARD",
@@ -20907,12 +20061,6 @@
     "state_code": "22"
   },
   {
-    "lga": "MOPA MORO",
-    "ward": "ODOLE - 1",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/13/02/001",
     "pu_name": "OPEN SPACE, BAREKE",
     "name": "OPEN SPACE, BAREKE",
@@ -20943,12 +20091,6 @@
     "pu_code": "22/13/02/004",
     "pu_name": "ILETEJU GRA UNDER DOGORARO TREE - BAREKE",
     "name": "ILETEJU GRA UNDER DOGORARO TREE - BAREKE",
-    "lga": "MOPA MORO",
-    "ward": "ODOLE - 2",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "MOPA MORO",
     "ward": "ODOLE - 2",
     "state": "Kogi",
@@ -21027,12 +20169,6 @@
     "state_code": "22"
   },
   {
-    "lga": "MOPA MORO",
-    "ward": "ILETEJU - 1",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/13/04/001",
     "pu_name": "OKEBUKUN OPEN SPACE BY PUBLIC WELL",
     "name": "OKEBUKUN OPEN SPACE BY PUBLIC WELL",
@@ -21072,12 +20208,6 @@
     "pu_code": "22/13/04/005",
     "pu_name": "IJAGBE LGEA SCH. IJAGBE",
     "name": "IJAGBE LGEA SCH. IJAGBE",
-    "lga": "MOPA MORO",
-    "ward": "ILLETEJU  - 2",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "MOPA MORO",
     "ward": "ILLETEJU  - 2",
     "state": "Kogi",
@@ -21132,12 +20262,6 @@
     "pu_code": "22/13/05/006",
     "pu_name": "OPEN SPACE, ILAI VILLAGE II",
     "name": "OPEN SPACE, ILAI VILLAGE II",
-    "lga": "MOPA MORO",
-    "ward": "OKEAGI/ILAI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "MOPA MORO",
     "ward": "OKEAGI/ILAI",
     "state": "Kogi",
@@ -21216,12 +20340,6 @@
     "state_code": "22"
   },
   {
-    "lga": "MOPA MORO",
-    "ward": "OROKERE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/13/07/001",
     "pu_name": "OKEGADA AMURO MARKET OKEGADA",
     "name": "OKEGADA AMURO MARKET OKEGADA",
@@ -21267,12 +20385,6 @@
     "state_code": "22"
   },
   {
-    "lga": "MOPA MORO",
-    "ward": "TAKETE IDDE/OTAFUN",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/13/08/001",
     "pu_name": "AIYEDAYO VILLAGE MARKET SQUARE",
     "name": "AIYEDAYO VILLAGE MARKET SQUARE",
@@ -21303,12 +20415,6 @@
     "pu_code": "22/13/08/004",
     "pu_name": "ILOKE LGEA SCHOOL ILOKE",
     "name": "ILOKE LGEA SCHOOL ILOKE",
-    "lga": "MOPA MORO",
-    "ward": "AIYEDAYO/AIYEDARO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "MOPA MORO",
     "ward": "AIYEDAYO/AIYEDARO",
     "state": "Kogi",
@@ -21360,12 +20466,6 @@
     "state_code": "22"
   },
   {
-    "lga": "MOPA MORO",
-    "ward": "AGBAFOGUN",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/13/10/001",
     "pu_name": "OKEGADA AIYEDE MARKET OKEGADA",
     "name": "OKEGADA AIYEDE MARKET OKEGADA",
@@ -21396,12 +20496,6 @@
     "pu_code": "22/13/10/004",
     "pu_name": "AIYEDE KAJOLA MARKET AIYEDE",
     "name": "AIYEDE KAJOLA MARKET AIYEDE",
-    "lga": "MOPA MORO",
-    "ward": "AIYEDE/OKAGI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "MOPA MORO",
     "ward": "AIYEDE/OKAGI",
     "state": "Kogi",
@@ -21510,12 +20604,6 @@
     "pu_code": "22/14/01/012",
     "pu_name": "OPEN SPACE BEFORE MARKET SQU./IGWU",
     "name": "OPEN SPACE BEFORE MARKET SQU./IGWU",
-    "lga": "OFU",
-    "ward": "IGO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OFU",
     "ward": "IGO",
     "state": "Kogi",
@@ -21642,12 +20730,6 @@
     "pu_code": "22/14/02/014",
     "pu_name": "LGEA SCH. EGAGBE-NEBE",
     "name": "LGEA SCH. EGAGBE-NEBE",
-    "lga": "OFU",
-    "ward": "ALOMA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OFU",
     "ward": "ALOMA",
     "state": "Kogi",
@@ -21852,12 +20934,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OFU",
-    "ward": "EJULE ALLAH",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/14/04/001",
     "pu_name": "LGEA SCH. ITOBE/LGEA SCH. LABRAFU 1 & 2",
     "name": "LGEA SCH. ITOBE/LGEA SCH. LABRAFU 1 & 2",
@@ -22005,12 +21081,6 @@
     "pu_code": "22/14/04/017",
     "pu_name": "LGEA SCH. OJOH-OKPEJI",
     "name": "LGEA SCH. OJOH-OKPEJI",
-    "lga": "OFU",
-    "ward": "ITOBE/OKOKENYI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OFU",
     "ward": "ITOBE/OKOKENYI",
     "state": "Kogi",
@@ -22260,12 +21330,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OFU",
-    "ward": "UGWOLAWO  - I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/14/06/001",
     "pu_name": "NEAR GRINDING MILL AJOCHAI/UKPOLO OCHEJA,-ATE-AJO, OJOCHAI",
     "name": "NEAR GRINDING MILL AJOCHAI/UKPOLO OCHEJA,-ATE-AJO, OJOCHAI",
@@ -22341,12 +21405,6 @@
     "pu_code": "22/14/06/009",
     "pu_name": "LGEA PRI. SCH ONAJI",
     "name": "LGEA PRI. SCH ONAJI",
-    "lga": "OFU",
-    "ward": "UGWOLAWO  - 2",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OFU",
     "ward": "UGWOLAWO  - 2",
     "state": "Kogi",
@@ -22497,12 +21555,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OFU",
-    "ward": "ALOJI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/14/08/001",
     "pu_name": "LGEA SCH. AJEGWU/AJEGWU, OFOGEDE, HIAHIM, OFOKE",
     "name": "LGEA SCH. AJEGWU/AJEGWU, OFOGEDE, HIAHIM, OFOKE",
@@ -22596,12 +21648,6 @@
     "pu_code": "22/14/08/011",
     "pu_name": "LGEA PRI. SCH. OLADEBU",
     "name": "LGEA PRI. SCH. OLADEBU",
-    "lga": "OFU",
-    "ward": "OFOKE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OFU",
     "ward": "OFOKE",
     "state": "Kogi",
@@ -22896,12 +21942,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OFU",
-    "ward": "OCHADAMU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/14/10/001",
     "pu_name": "OPEN SPACE AT OJONE/OJONE, EMAKPS, OFANTE",
     "name": "OPEN SPACE AT OJONE/OJONE, EMAKPS, OFANTE",
@@ -23004,12 +22044,6 @@
     "pu_code": "22/14/10/012",
     "pu_name": "EGEDE",
     "name": "EGEDE",
-    "lga": "OFU",
-    "ward": "OGBONICHA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OFU",
     "ward": "OGBONICHA",
     "state": "Kogi",
@@ -23124,12 +22158,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OFU",
-    "ward": "IBOKO/EFAKWU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/15/01/001",
     "pu_name": "OPEN SPACE- ENI OGORI I",
     "name": "OPEN SPACE- ENI OGORI I",
@@ -23229,12 +22257,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OGORI MANGOGO",
-    "ward": "ENI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/15/02/001",
     "pu_name": "OPEN SPACE  OGORI GARAGE, OGORI",
     "name": "OPEN SPACE  OGORI GARAGE, OGORI",
@@ -23307,12 +22329,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OGORI MANGOGO",
-    "ward": "OSHOBANE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/15/03/001",
     "pu_name": "AT THE MATERNITY CENTRE, OGORI",
     "name": "AT THE MATERNITY CENTRE, OGORI",
@@ -23352,12 +22368,6 @@
     "pu_code": "22/15/03/005",
     "pu_name": "OPEN SPACE IV, OKIBO-OGORI",
     "name": "OPEN SPACE IV, OKIBO-OGORI",
-    "lga": "OGORI MANGOGO",
-    "ward": "OKIBO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OGORI MANGOGO",
     "ward": "OKIBO",
     "state": "Kogi",
@@ -23409,12 +22419,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OGORI MANGOGO",
-    "ward": "OKESI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/15/05/001",
     "pu_name": "OPEN SPACE I ILETEJU",
     "name": "OPEN SPACE I ILETEJU",
@@ -23445,12 +22449,6 @@
     "pu_code": "22/15/05/004",
     "pu_name": "OPEN SPACE ILETEJU IV, OGORI",
     "name": "OPEN SPACE ILETEJU IV, OGORI",
-    "lga": "OGORI MANGOGO",
-    "ward": "ILETEJU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OGORI MANGOGO",
     "ward": "ILETEJU",
     "state": "Kogi",
@@ -23496,12 +22494,6 @@
     "pu_code": "22/15/06/005",
     "pu_name": "OPEN SPACE AIYEROMI OGORI IV",
     "name": "OPEN SPACE AIYEROMI OGORI IV",
-    "lga": "OGORI MANGOGO",
-    "ward": "AIYEROMI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OGORI MANGOGO",
     "ward": "AIYEROMI",
     "state": "Kogi",
@@ -23589,12 +22581,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OGORI MANGOGO",
-    "ward": "UGUGU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/15/08/001",
     "pu_name": "OPEN SPACE - OBINOYIN-MAGONGO I",
     "name": "OPEN SPACE - OBINOYIN-MAGONGO I",
@@ -23676,12 +22662,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OGORI MANGOGO",
-    "ward": "OBINOYIN",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/15/09/001",
     "pu_name": "OPEN SPACE - OBATIGBEN - MAGONGO I",
     "name": "OPEN SPACE - OBATIGBEN - MAGONGO I",
@@ -23736,12 +22716,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OGORI MANGOGO",
-    "ward": "OBATGBEN",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/15/10/001",
     "pu_name": "OPEN SPACE - OTURU OPOWUROYE MAGONGO I",
     "name": "OPEN SPACE - OTURU OPOWUROYE MAGONGO I",
@@ -23781,12 +22755,6 @@
     "pu_code": "22/15/10/005",
     "pu_name": "OPEN SPACE - OTURU OPOWUROYE MAGONGO IV",
     "name": "OPEN SPACE - OTURU OPOWUROYE MAGONGO IV",
-    "lga": "OGORI MANGOGO",
-    "ward": "OTURU OPOWUROYE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OGORI MANGOGO",
     "ward": "OTURU OPOWUROYE",
     "state": "Kogi",
@@ -23991,12 +22959,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OKEHI",
-    "ward": "OBEIBA  I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/16/02/001",
     "pu_name": "OPEN SPACE NEAR OTARU CRESCENT",
     "name": "OPEN SPACE NEAR OTARU CRESCENT",
@@ -24126,12 +23088,6 @@
     "pu_code": "22/16/02/015",
     "pu_name": "OPEN SPACE NEAR MUSA BELLO'S HOUSE",
     "name": "OPEN SPACE NEAR MUSA BELLO'S HOUSE",
-    "lga": "OKEHI",
-    "ward": "OBEIBA  II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OKEHI",
     "ward": "OBEIBA  II",
     "state": "Kogi",
@@ -24327,12 +23283,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OKEHI",
-    "ward": "IKUEHI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/16/04/001",
     "pu_name": "GOVT. DAY SEC. SCH. OHUETA I",
     "name": "GOVT. DAY SEC. SCH. OHUETA I",
@@ -24444,12 +23394,6 @@
     "pu_code": "22/16/04/013",
     "pu_name": "OPEN SPACE NEAR OVAKU'S HOUSE II",
     "name": "OPEN SPACE NEAR OVAKU'S HOUSE II",
-    "lga": "OKEHI",
-    "ward": "OHUETA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OKEHI",
     "ward": "OHUETA",
     "state": "Kogi",
@@ -24636,12 +23580,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OKEHI",
-    "ward": "OBOROKE EBA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/16/06/001",
     "pu_name": "L.G.E.A SCHOOL OTUTU-EBA",
     "name": "L.G.E.A SCHOOL OTUTU-EBA",
@@ -24762,12 +23700,6 @@
     "pu_code": "22/16/06/014",
     "pu_name": "OPPOSITE POST OFFICE III",
     "name": "OPPOSITE POST OFFICE III",
-    "lga": "OKEHI",
-    "ward": "OBOROKE UVETE I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OKEHI",
     "ward": "OBOROKE UVETE I",
     "state": "Kogi",
@@ -24981,12 +23913,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OKEHI",
-    "ward": "EIKA / OHIZENYI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/16/08/001",
     "pu_name": "L.G.E.A SCHOOL OKAITO I",
     "name": "L.G.E.A SCHOOL OKAITO I",
@@ -25113,12 +24039,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OKEHI",
-    "ward": "OKAITO / USUNGWEN",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/16/09/001",
     "pu_name": "L.G.E.A SCHOOL OHUEPE I",
     "name": "L.G.E.A SCHOOL OHUEPE I",
@@ -25203,12 +24123,6 @@
     "pu_code": "22/16/09/010",
     "pu_name": "OPEN SPACE UBORO - UVETE",
     "name": "OPEN SPACE UBORO - UVETE",
-    "lga": "OKEHI",
-    "ward": "OHUEPE / OMAVI UBORO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OKEHI",
     "ward": "OHUEPE / OMAVI UBORO",
     "state": "Kogi",
@@ -25431,12 +24345,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OKEHI",
-    "ward": "OBANGEDE / UHUODO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/16/11/001",
     "pu_name": "OPEN SPACE JIMOH SIMPA'S COMP.",
     "name": "OPEN SPACE JIMOH SIMPA'S COMP.",
@@ -25539,12 +24447,6 @@
     "pu_code": "22/16/11/012",
     "pu_name": "L.G.E.A SCHOOL IRUVUSECHI IV",
     "name": "L.G.E.A SCHOOL IRUVUSECHI IV",
-    "lga": "OKEHI",
-    "ward": "OBOROKE UVETE - II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OKEHI",
     "ward": "OBOROKE UVETE - II",
     "state": "Kogi",
@@ -25938,12 +24840,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OKENE",
-    "ward": "BARIKI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/17/02/001",
     "pu_name": "OPEN SPACE BY IBRAHIM OLOKOBA I",
     "name": "OPEN SPACE BY IBRAHIM OLOKOBA I",
@@ -26118,12 +25014,6 @@
     "pu_code": "22/17/02/020",
     "pu_name": "G.R.A. II ALONG BARRACK ROAD NEAR NITEL",
     "name": "G.R.A. II ALONG BARRACK ROAD NEAR NITEL",
-    "lga": "OKENE",
-    "ward": "OBESSA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OKENE",
     "ward": "OBESSA",
     "state": "Kogi",
@@ -26418,12 +25308,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OKENE",
-    "ward": "ONYUKOKO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/17/04/001",
     "pu_name": "L.G.E.A PRIMARY SCHOOL INIKE I",
     "name": "L.G.E.A PRIMARY SCHOOL INIKE I",
@@ -26658,12 +25542,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OKENE",
-    "ward": "IDOJI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/17/05/001",
     "pu_name": "OPEN SPACE BY LATE OHIDA AREA",
     "name": "OPEN SPACE BY LATE OHIDA AREA",
@@ -26880,12 +25758,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OKENE",
-    "ward": "ORIETESU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/17/06/001",
     "pu_name": "L.G.E.A / R.C.M NORTH I",
     "name": "L.G.E.A / R.C.M NORTH I",
@@ -27060,12 +25932,6 @@
     "pu_code": "22/17/06/020",
     "pu_name": "OPEN SPACE ABERE AREA IDOGIDO",
     "name": "OPEN SPACE ABERE AREA IDOGIDO",
-    "lga": "OKENE",
-    "ward": "OTUTU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OKENE",
     "ward": "OTUTU",
     "state": "Kogi",
@@ -27414,12 +26280,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OKENE",
-    "ward": "OKENE-EBA / AGASSA/ AHACHE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/17/08/001",
     "pu_name": "LGEA PRIMARY SCHOOL - ARIGO I",
     "name": "LGEA PRIMARY SCHOOL - ARIGO I",
@@ -27600,12 +26460,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OKENE",
-    "ward": "OBEHIRA UVETE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/17/09/001",
     "pu_name": "LGEA PRIMARY SCHOOL-ITUAHI  I",
     "name": "LGEA PRIMARY SCHOOL-ITUAHI  I",
@@ -27771,12 +26625,6 @@
     "pu_code": "22/17/09/019",
     "pu_name": "NEAR ALI'S COMPOUND - OKENGWE",
     "name": "NEAR ALI'S COMPOUND - OKENGWE",
-    "lga": "OKENE",
-    "ward": "OBEHIRA EBA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OKENE",
     "ward": "OBEHIRA EBA",
     "state": "Kogi",
@@ -28080,12 +26928,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OKENE",
-    "ward": "ABUGA/OZUJA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/17/11/001",
     "pu_name": "R.C.C. SCHOOL - UPOGORO I",
     "name": "R.C.C. SCHOOL - UPOGORO I",
@@ -28161,12 +27003,6 @@
     "pu_code": "22/17/11/009",
     "pu_name": "OPEN SPACE BY SARKI COMPOUND",
     "name": "OPEN SPACE BY SARKI COMPOUND",
-    "lga": "OKENE",
-    "ward": "UPOGORO/ODENKU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OKENE",
     "ward": "UPOGORO/ODENKU",
     "state": "Kogi",
@@ -28398,12 +27234,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OLAMABORO",
-    "ward": "IMANE I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/18/02/001",
     "pu_name": "VILLAGE SQUARE, ACHIPU",
     "name": "VILLAGE SQUARE, ACHIPU",
@@ -28575,12 +27405,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OLAMABORO",
-    "ward": "IMANE II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/18/03/001",
     "pu_name": "OPEN SPACE, UKWAJA",
     "name": "OPEN SPACE, UKWAJA",
@@ -28710,12 +27534,6 @@
     "pu_code": "22/18/03/015",
     "pu_name": "GOVERNMENT SCIENCE SCHOOL IKEM",
     "name": "GOVERNMENT SCIENCE SCHOOL IKEM",
-    "lga": "OLAMABORO",
-    "ward": "OGUGU  I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OLAMABORO",
     "ward": "OGUGU  I",
     "state": "Kogi",
@@ -28860,12 +27678,6 @@
     "pu_code": "22/18/04/016",
     "pu_name": "OBERECHI HEALTH CENTER",
     "name": "OBERECHI HEALTH CENTER",
-    "lga": "OLAMABORO",
-    "ward": "OGUGU  II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OLAMABORO",
     "ward": "OGUGU  II",
     "state": "Kogi",
@@ -29070,12 +27882,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OLAMABORO",
-    "ward": "OGUGU III",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/18/06/001",
     "pu_name": "OPEN SPACE, OTAKUHI",
     "name": "OPEN SPACE, OTAKUHI",
@@ -29196,12 +28002,6 @@
     "pu_code": "22/18/06/014",
     "pu_name": "OPEN SPACE ATE-OGBA",
     "name": "OPEN SPACE ATE-OGBA",
-    "lga": "OLAMABORO",
-    "ward": "OLAMABORO I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OLAMABORO",
     "ward": "OLAMABORO I",
     "state": "Kogi",
@@ -29364,12 +28164,6 @@
     "pu_code": "22/18/07/018",
     "pu_name": "OPEN SPACE SABON GARI OFEJIJI",
     "name": "OPEN SPACE SABON GARI OFEJIJI",
-    "lga": "OLAMABORO",
-    "ward": "OLAMABORO II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OLAMABORO",
     "ward": "OLAMABORO II",
     "state": "Kogi",
@@ -29583,12 +28377,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OLAMABORO",
-    "ward": "OLAMABORO III",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/18/09/001",
     "pu_name": "LGEA SCHOOL IGAH OCHEBE, IGAH OCHEBE",
     "name": "LGEA SCHOOL IGAH OCHEBE, IGAH OCHEBE",
@@ -29724,12 +28512,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OLAMABORO",
-    "ward": "OLAMABORO IV",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/18/10/001",
     "pu_name": "LGEA SCHOOL INABE, INABE/EFOJA",
     "name": "LGEA SCHOOL INABE, INABE/EFOJA",
@@ -29787,12 +28569,6 @@
     "pu_code": "22/18/10/007",
     "pu_name": "INELE UGO MARKET SQUARE",
     "name": "INELE UGO MARKET SQUARE",
-    "lga": "OLAMABORO",
-    "ward": "OLAMABORO V",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OLAMABORO",
     "ward": "OLAMABORO V",
     "state": "Kogi",
@@ -30024,12 +28800,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OMALA",
-    "ward": "ABEJUKOLO  I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/19/02/001",
     "pu_name": "LGEA SCHOOL, IGAH-ONIFE",
     "name": "LGEA SCHOOL, IGAH-ONIFE",
@@ -30096,12 +28866,6 @@
     "pu_code": "22/19/02/008",
     "pu_name": "BESIDE OMAKWU'S HOUSE, GAGO AREA I, ECHA",
     "name": "BESIDE OMAKWU'S HOUSE, GAGO AREA I, ECHA",
-    "lga": "OMALA",
-    "ward": "ABEJUKOLO  II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OMALA",
     "ward": "ABEJUKOLO  II",
     "state": "Kogi",
@@ -30219,12 +28983,6 @@
     "pu_code": "22/19/03/013",
     "pu_name": "LGEA SCHOOL AGBENEMA, AGBENEMA/AJEJIMA",
     "name": "LGEA SCHOOL AGBENEMA, AGBENEMA/AJEJIMA",
-    "lga": "OMALA",
-    "ward": "OPODA/OFEJIJI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OMALA",
     "ward": "OPODA/OFEJIJI",
     "state": "Kogi",
@@ -30357,12 +29115,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OMALA",
-    "ward": "BAGANA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/19/05/001",
     "pu_name": "Q.I.C. SCHOOL OKPOTALA, OKPOTALA  I",
     "name": "Q.I.C. SCHOOL OKPOTALA, OKPOTALA  I",
@@ -30456,12 +29208,6 @@
     "pu_code": "22/19/05/011",
     "pu_name": "NEAR MADAKI'S HOUSE, OJUWO",
     "name": "NEAR MADAKI'S HOUSE, OJUWO",
-    "lga": "OMALA",
-    "ward": "OKPATALA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OMALA",
     "ward": "OKPATALA",
     "state": "Kogi",
@@ -30594,12 +29340,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OMALA",
-    "ward": "AKPACHA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/19/07/001",
     "pu_name": "VILLAGE SQUARE UDABA, UDABA/AJADOKPOJA",
     "name": "VILLAGE SQUARE UDABA, UDABA/AJADOKPOJA",
@@ -30720,12 +29460,6 @@
     "pu_code": "22/19/07/014",
     "pu_name": "LGEA SCHOOL AJOKPACHI, AJOKPACHI  II",
     "name": "LGEA SCHOOL AJOKPACHI, AJOKPACHI  II",
-    "lga": "OMALA",
-    "ward": "BAGAJI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "OMALA",
     "ward": "BAGAJI",
     "state": "Kogi",
@@ -30885,12 +29619,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OMALA",
-    "ward": "ICHEKE AJOPACHI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/19/09/001",
     "pu_name": "ALONG ELUBI ROAD, ADUMU OGODU",
     "name": "ALONG ELUBI ROAD, ADUMU OGODU",
@@ -31008,12 +29736,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OMALA",
-    "ward": "OGODU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/19/10/001",
     "pu_name": "NEAR MADAKI'S HOUSE, OJE",
     "name": "NEAR MADAKI'S HOUSE, OJE",
@@ -31104,12 +29826,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OMALA",
-    "ward": "OJI-AJI",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/19/11/001",
     "pu_name": "NEAR MOHAMMED ATACHU'S HOUSE, OJEGBE",
     "name": "NEAR MOHAMMED ATACHU'S HOUSE, OJEGBE",
@@ -31191,12 +29907,6 @@
     "state_code": "22"
   },
   {
-    "lga": "OMALA",
-    "ward": "OLLA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/20/01/001",
     "pu_name": "OKERE, NEAR OLD MARKET SQUARE",
     "name": "OKERE, NEAR OLD MARKET SQUARE",
@@ -31251,12 +29961,6 @@
     "state_code": "22"
   },
   {
-    "lga": "YAGBA EAST",
-    "ward": "IFE OLUKOTUN  I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/20/02/001",
     "pu_name": "AROKE, OPEN SPACE",
     "name": "AROKE, OPEN SPACE",
@@ -31305,12 +30009,6 @@
     "pu_code": "22/20/02/006",
     "pu_name": "ONA OPEN SPACE, BESIDE ALHAJI MUSA OWONAYIN STREET, ONA",
     "name": "ONA OPEN SPACE, BESIDE ALHAJI MUSA OWONAYIN STREET, ONA",
-    "lga": "YAGBA EAST",
-    "ward": "IFE OLUKOTUN  II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "YAGBA EAST",
     "ward": "IFE OLUKOTUN  II",
     "state": "Kogi",
@@ -31374,12 +30072,6 @@
     "pu_code": "22/20/03/007",
     "pu_name": "OKE-PONYAN, OKE AMPE OPEN SPACE.",
     "name": "OKE-PONYAN, OKE AMPE OPEN SPACE.",
-    "lga": "YAGBA EAST",
-    "ward": "PONYAN",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "YAGBA EAST",
     "ward": "PONYAN",
     "state": "Kogi",
@@ -31467,12 +30159,6 @@
     "state_code": "22"
   },
   {
-    "lga": "YAGBA EAST",
-    "ward": "ALU/IGBAGUN/ORANRE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/20/05/001",
     "pu_name": "OGBA OGUN IFE-AGA LGA DISPENSARY EJUKU",
     "name": "OGBA OGUN IFE-AGA LGA DISPENSARY EJUKU",
@@ -31512,12 +30198,6 @@
     "pu_code": "22/20/05/005",
     "pu_name": "OGBA OGUN II OPEN SPACE IDI-ISIN ODO ANKU",
     "name": "OGBA OGUN II OPEN SPACE IDI-ISIN ODO ANKU",
-    "lga": "YAGBA EAST",
-    "ward": "EJUKU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "YAGBA EAST",
     "ward": "EJUKU",
     "state": "Kogi",
@@ -31596,12 +30276,6 @@
     "state_code": "22"
   },
   {
-    "lga": "YAGBA EAST",
-    "ward": "JEGE/OKE/AGI OGBOM/ISAO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/20/07/001",
     "pu_name": "NEW LAYOUT MAKUTU, OPPOSITE  KAJOLA MARKET I",
     "name": "NEW LAYOUT MAKUTU, OPPOSITE  KAJOLA MARKET I",
@@ -31650,12 +30324,6 @@
     "pu_code": "22/20/07/006",
     "pu_name": "NEW LAYOUT, OPPOSITE ECWA CHURCH MAKUTU 1",
     "name": "NEW LAYOUT, OPPOSITE ECWA CHURCH MAKUTU 1",
-    "lga": "YAGBA EAST",
-    "ward": "MAKUTU I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "YAGBA EAST",
     "ward": "MAKUTU I",
     "state": "Kogi",
@@ -31737,12 +30405,6 @@
     "pu_code": "22/20/08/009",
     "pu_name": "INFRONT OF ST. KIZITO COLLEGE GATE, OKE-BUKUN, MAKUTU II",
     "name": "INFRONT OF ST. KIZITO COLLEGE GATE, OKE-BUKUN, MAKUTU II",
-    "lga": "YAGBA EAST",
-    "ward": "MAKUTU II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "YAGBA EAST",
     "ward": "MAKUTU II",
     "state": "Kogi",
@@ -31902,12 +30564,6 @@
     "state_code": "22"
   },
   {
-    "lga": "YAGBA EAST",
-    "ward": "ITEDO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/20/10/001",
     "pu_name": "OKEDORI ILAFIN I YELGEA SCHOOL ILAFIN",
     "name": "OKEDORI ILAFIN I YELGEA SCHOOL ILAFIN",
@@ -31989,12 +30645,6 @@
     "state_code": "22"
   },
   {
-    "lga": "YAGBA EAST",
-    "ward": "ILAFIN/IDOFIN/ODO - OGBA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/21/01/001",
     "pu_name": "NEAR DISPENSARY/OKE OJA/OFFE/OKEREPE",
     "name": "NEAR DISPENSARY/OKE OJA/OFFE/OKEREPE",
@@ -32061,12 +30711,6 @@
     "pu_code": "22/21/01/008",
     "pu_name": "OKEBUKUN, EJIBA",
     "name": "OKEBUKUN, EJIBA",
-    "lga": "YAGBA WEST",
-    "ward": "EJIBA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "YAGBA WEST",
     "ward": "EJIBA",
     "state": "Kogi",
@@ -32148,12 +30792,6 @@
     "pu_code": "22/21/02/009",
     "pu_name": "IDAU COMPOUND/ODO-ERI",
     "name": "IDAU COMPOUND/ODO-ERI",
-    "lga": "YAGBA WEST",
-    "ward": "ODO ERI OKOTO",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "YAGBA WEST",
     "ward": "ODO ERI OKOTO",
     "state": "Kogi",
@@ -32286,12 +30924,6 @@
     "state_code": "22"
   },
   {
-    "lga": "YAGBA WEST",
-    "ward": "ODO ERE OKE ERE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/21/04/001",
     "pu_name": "IPETU/FULANI/HAUSA/ ISANLU-ESSA",
     "name": "IPETU/FULANI/HAUSA/ ISANLU-ESSA",
@@ -32331,12 +30963,6 @@
     "pu_code": "22/21/04/005",
     "pu_name": "ILEOWA LOKE AREA, OKOLOKE/OKARA, OHUN",
     "name": "ILEOWA LOKE AREA, OKOLOKE/OKARA, OHUN",
-    "lga": "YAGBA WEST",
-    "ward": "ISAULU ESA/OKOLOKE/OKUNRAN",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "YAGBA WEST",
     "ward": "ISAULU ESA/OKOLOKE/OKUNRAN",
     "state": "Kogi",
@@ -32406,12 +31032,6 @@
     "state_code": "22"
   },
   {
-    "lga": "YAGBA WEST",
-    "ward": "IYAMERIN/IGBARUKU",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/21/06/001",
     "pu_name": "YWLGEA SCHOOL, ODO ARA/ODO-ARA",
     "name": "YWLGEA SCHOOL, ODO ARA/ODO-ARA",
@@ -32475,12 +31095,6 @@
     "state_code": "22"
   },
   {
-    "lga": "YAGBA WEST",
-    "ward": "ODO ARA OMI OGGA",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/21/07/001",
     "pu_name": "NEAR ADEYEMI'S HOUSE, OGBE/ODO PETU/OKORO/OKEOJA",
     "name": "NEAR ADEYEMI'S HOUSE, OGBE/ODO PETU/OKORO/OKEOJA",
@@ -32520,12 +31134,6 @@
     "pu_code": "22/21/07/005",
     "pu_name": "JAWONISI'S HOUSE AREA OGBE/IPA",
     "name": "JAWONISI'S HOUSE AREA OGBE/IPA",
-    "lga": "YAGBA WEST",
-    "ward": "OGBE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "YAGBA WEST",
     "ward": "OGBE",
     "state": "Kogi",
@@ -32604,12 +31212,6 @@
     "state_code": "22"
   },
   {
-    "lga": "YAGBA WEST",
-    "ward": "OKE EGBE  I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/21/09/001",
     "pu_name": "OPEN SPACE/EGBE TUNTUN",
     "name": "OPEN SPACE/EGBE TUNTUN",
@@ -32673,12 +31275,6 @@
     "state_code": "22"
   },
   {
-    "lga": "YAGBA WEST",
-    "ward": "OKE EGBE  II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/21/10/001",
     "pu_name": "MEKUN CINEMA HOUSE AREA/BAREKE/OPADA/IPO",
     "name": "MEKUN CINEMA HOUSE AREA/BAREKE/OPADA/IPO",
@@ -32724,12 +31320,6 @@
     "state_code": "22"
   },
   {
-    "lga": "YAGBA WEST",
-    "ward": "OKE EGBE  III",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/21/11/001",
     "pu_name": "OPEN SPACE/ODOFIN AREA  I",
     "name": "OPEN SPACE/ODOFIN AREA  I",
@@ -32769,12 +31359,6 @@
     "pu_code": "22/21/11/005",
     "pu_name": "YWLGEA SCHOOL AREA/ILEMILA",
     "name": "YWLGEA SCHOOL AREA/ILEMILA",
-    "lga": "YAGBA WEST",
-    "ward": "OKE EGBE  IV",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "YAGBA WEST",
     "ward": "OKE EGBE  IV",
     "state": "Kogi",
@@ -32829,12 +31413,6 @@
     "pu_code": "22/21/12/006",
     "pu_name": "OPEN SPACE, ODOYAGAN",
     "name": "OPEN SPACE, ODOYAGAN",
-    "lga": "YAGBA WEST",
-    "ward": "ODO EGBE  I",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "YAGBA WEST",
     "ward": "ODO EGBE  I",
     "state": "Kogi",
@@ -32913,12 +31491,6 @@
     "state_code": "22"
   },
   {
-    "lga": "YAGBA WEST",
-    "ward": "ODO EGBE  II",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "pu_code": "22/21/14/001",
     "pu_name": "OPEN SPACE, IJALU  I",
     "name": "OPEN SPACE, IJALU  I",
@@ -32985,12 +31557,6 @@
     "pu_code": "22/21/14/008",
     "pu_name": "OPEN SPACE, AJAFORONTI",
     "name": "OPEN SPACE, AJAFORONTI",
-    "lga": "YAGBA WEST",
-    "ward": "ODO  EGBE",
-    "state": "Kogi",
-    "state_code": "22"
-  },
-  {
     "lga": "YAGBA WEST",
     "ward": "ODO  EGBE",
     "state": "Kogi",

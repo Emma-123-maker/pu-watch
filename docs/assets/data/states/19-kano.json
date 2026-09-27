@@ -225,12 +225,6 @@
     "state_code": "19"
   },
   {
-    "lga": "AJINGI",
-    "ward": "AJINGI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/01/02/001",
     "pu_name": "ANCHACHA/KAUDAI, KAUDAI ROAD SIDE - (ROAD)",
     "name": "ANCHACHA/KAUDAI, KAUDAI ROAD SIDE - (ROAD)",
@@ -342,12 +336,6 @@
     "pu_code": "19/01/02/013",
     "pu_name": "YANBAKON FULANI, Y/FULANI PS",
     "name": "YANBAKON FULANI, Y/FULANI PS",
-    "lga": "AJINGI",
-    "ward": "BALARE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "AJINGI",
     "ward": "BALARE",
     "state": "Kano",
@@ -471,12 +459,6 @@
     "state_code": "19"
   },
   {
-    "lga": "AJINGI",
-    "ward": "CHULA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/01/04/001",
     "pu_name": "DABAWA G/YAMMA, D/K P.S.",
     "name": "DABAWA G/YAMMA, D/K P.S.",
@@ -579,12 +561,6 @@
     "pu_code": "19/01/04/012",
     "pu_name": "DABIN KANAWA DABAWA DISPENSARY",
     "name": "DABIN KANAWA DABAWA DISPENSARY",
-    "lga": "AJINGI",
-    "ward": "DABIN KANAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "AJINGI",
     "ward": "DABIN KANAWA",
     "state": "Kano",
@@ -729,12 +705,6 @@
     "pu_code": "19/01/05/016",
     "pu_name": "WURAWA PRI,SCH",
     "name": "WURAWA PRI,SCH",
-    "lga": "AJINGI",
-    "ward": "DUNDUN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "AJINGI",
     "ward": "DUNDUN",
     "state": "Kano",
@@ -912,12 +882,6 @@
     "state_code": "19"
   },
   {
-    "lga": "AJINGI",
-    "ward": "GAFASA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/01/07/001",
     "pu_name": "DABAWA Y/UNG. D/NEAR W/H HOUSE",
     "name": "DABAWA Y/UNG. D/NEAR W/H HOUSE",
@@ -1038,12 +1002,6 @@
     "pu_code": "19/01/07/014",
     "pu_name": "SABARU DISPENSARY",
     "name": "SABARU DISPENSARY",
-    "lga": "AJINGI",
-    "ward": "GURDUBA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "AJINGI",
     "ward": "GURDUBA",
     "state": "Kano",
@@ -1242,12 +1200,6 @@
     "pu_code": "19/01/08/022",
     "pu_name": "KUNKURAWA/MAKERA, KUNKURAWA P.S IV",
     "name": "KUNKURAWA/MAKERA, KUNKURAWA P.S IV",
-    "lga": "AJINGI",
-    "ward": "KUNKURAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "AJINGI",
     "ward": "KUNKURAWA",
     "state": "Kano",
@@ -1515,12 +1467,6 @@
     "state_code": "19"
   },
   {
-    "lga": "AJINGI",
-    "ward": "TORANKE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/01/10/001",
     "pu_name": "BADAWA/AGAMAWA, U/BAI P.S",
     "name": "BADAWA/AGAMAWA, U/BAI P.S",
@@ -1623,12 +1569,6 @@
     "pu_code": "19/01/10/012",
     "pu_name": "UNG. BAI UNG BAI P.S III",
     "name": "UNG. BAI UNG BAI P.S III",
-    "lga": "AJINGI",
-    "ward": "UNGAWAR BAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "AJINGI",
     "ward": "UNGAWAR BAI",
     "state": "Kano",
@@ -1800,12 +1740,6 @@
     "pu_code": "19/02/01/019",
     "pu_name": "UNGUWAR KUDU II",
     "name": "UNGUWAR KUDU II",
-    "lga": "ALBASU",
-    "ward": "ALBASU CENTRAL",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "ALBASU",
     "ward": "ALBASU CENTRAL",
     "state": "Kano",
@@ -1992,12 +1926,6 @@
     "state_code": "19"
   },
   {
-    "lga": "ALBASU",
-    "ward": "BATAIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/02/03/001",
     "pu_name": "CHAMARANA GARI I",
     "name": "CHAMARANA GARI I",
@@ -2064,12 +1992,6 @@
     "pu_code": "19/02/03/008",
     "pu_name": "DUJA III",
     "name": "DUJA III",
-    "lga": "ALBASU",
-    "ward": "CHAMARANA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "ALBASU",
     "ward": "CHAMARANA",
     "state": "Kano",
@@ -2232,12 +2154,6 @@
     "pu_code": "19/02/04/018",
     "pu_name": "FARAN TAMA II",
     "name": "FARAN TAMA II",
-    "lga": "ALBASU",
-    "ward": "DAHO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "ALBASU",
     "ward": "DAHO",
     "state": "Kano",
@@ -2409,12 +2325,6 @@
     "pu_code": "19/02/05/019",
     "pu_name": "UMBARA II",
     "name": "UMBARA II",
-    "lga": "ALBASU",
-    "ward": "FANDA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "ALBASU",
     "ward": "FANDA",
     "state": "Kano",
@@ -2610,12 +2520,6 @@
     "state_code": "19"
   },
   {
-    "lga": "ALBASU",
-    "ward": "FARAGAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/02/07/001",
     "pu_name": "AMINADAN",
     "name": "AMINADAN",
@@ -2805,12 +2709,6 @@
     "state_code": "19"
   },
   {
-    "lga": "ALBASU",
-    "ward": "GAGARAME",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/02/08/001",
     "pu_name": "HUNGU GARI I",
     "name": "HUNGU GARI I",
@@ -2931,12 +2829,6 @@
     "pu_code": "19/02/08/014",
     "pu_name": "ZANGON GALA IV",
     "name": "ZANGON GALA IV",
-    "lga": "ALBASU",
-    "ward": "HUNGU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "ALBASU",
     "ward": "HUNGU",
     "state": "Kano",
@@ -3135,12 +3027,6 @@
     "pu_code": "19/02/09/022",
     "pu_name": "DIGAWA II",
     "name": "DIGAWA II",
-    "lga": "ALBASU",
-    "ward": "SAYA-SAYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "ALBASU",
     "ward": "SAYA-SAYA",
     "state": "Kano",
@@ -3348,12 +3234,6 @@
     "pu_code": "19/02/10/023",
     "pu_name": "TSANGAYA ISLAMIYA III",
     "name": "TSANGAYA ISLAMIYA III",
-    "lga": "ALBASU",
-    "ward": "TSANGAYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "ALBASU",
     "ward": "TSANGAYA",
     "state": "Kano",
@@ -3621,12 +3501,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BAGWAI",
-    "ward": "BAGWAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/03/02/001",
     "pu_name": "DANGADA PRI. SCH. I (DANGADA C/GARI I)",
     "name": "DANGADA PRI. SCH. I (DANGADA C/GARI I)",
@@ -3765,12 +3639,6 @@
     "pu_code": "19/03/02/016",
     "pu_name": "DANGADA PRI. SCH.",
     "name": "DANGADA PRI. SCH.",
-    "lga": "BAGWAI",
-    "ward": "DANGADA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BAGWAI",
     "ward": "DANGADA",
     "state": "Kano",
@@ -3924,12 +3792,6 @@
     "pu_code": "19/03/03/017",
     "pu_name": "RIGAR FAKO PRI. SCH",
     "name": "RIGAR FAKO PRI. SCH",
-    "lga": "BAGWAI",
-    "ward": "GADANYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BAGWAI",
     "ward": "GADANYA",
     "state": "Kano",
@@ -4101,12 +3963,6 @@
     "pu_code": "19/03/04/019",
     "pu_name": "ANSARUDEEN ISLM. SCH.",
     "name": "ANSARUDEEN ISLM. SCH.",
-    "lga": "BAGWAI",
-    "ward": "GOGORI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BAGWAI",
     "ward": "GOGORI",
     "state": "Kano",
@@ -4293,12 +4149,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BAGWAI",
-    "ward": "KIYAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/03/06/001",
     "pu_name": "DAKATAWA I",
     "name": "DAKATAWA I",
@@ -4425,12 +4275,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BAGWAI",
-    "ward": "KWAJALI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/03/07/001",
     "pu_name": "BADODO PRI. SCH. I (BADODO C/GARI I)",
     "name": "BADODO PRI. SCH. I (BADODO C/GARI I)",
@@ -4551,12 +4395,6 @@
     "pu_code": "19/03/07/014",
     "pu_name": "GJSS RIMIN DAKO",
     "name": "GJSS RIMIN DAKO",
-    "lga": "BAGWAI",
-    "ward": "RIMIN DAKO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BAGWAI",
     "ward": "RIMIN DAKO",
     "state": "Kano",
@@ -4692,12 +4530,6 @@
     "pu_code": "19/03/08/015",
     "pu_name": "JARUMAWA PRI. SCH.",
     "name": "JARUMAWA PRI. SCH.",
-    "lga": "BAGWAI",
-    "ward": "ROMO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BAGWAI",
     "ward": "ROMO",
     "state": "Kano",
@@ -4842,12 +4674,6 @@
     "pu_code": "19/03/09/016",
     "pu_name": "UMBAWA PRI. SCH. II (UMBAWA II)",
     "name": "UMBAWA PRI. SCH. II (UMBAWA II)",
-    "lga": "BAGWAI",
-    "ward": "SARE-SARE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BAGWAI",
     "ward": "SARE-SARE",
     "state": "Kano",
@@ -5088,12 +4914,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BAGWAI",
-    "ward": "WURO BAGGA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/04/01/001",
     "pu_name": "ANADARIYA,  CIKIN GARI I",
     "name": "ANADARIYA,  CIKIN GARI I",
@@ -5124,12 +4944,6 @@
     "pu_code": "19/04/01/004",
     "pu_name": "TASHAR MARA II",
     "name": "TASHAR MARA II",
-    "lga": "BEBEJI",
-    "ward": "ANADARIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BEBEJI",
     "ward": "ANADARIYA",
     "state": "Kano",
@@ -5202,12 +5016,6 @@
     "pu_code": "19/04/02/008",
     "pu_name": "BAGUDA ASIBITI",
     "name": "BAGUDA ASIBITI",
-    "lga": "BEBEJI",
-    "ward": "BAGUDA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BEBEJI",
     "ward": "BAGUDA",
     "state": "Kano",
@@ -5547,12 +5355,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BEBEJI",
-    "ward": "BEBEJI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/04/04/001",
     "pu_name": "DAMAU, CIKIN GARI",
     "name": "DAMAU, CIKIN GARI",
@@ -5619,12 +5421,6 @@
     "pu_code": "19/04/04/008",
     "pu_name": "DAMAU ASIBITI",
     "name": "DAMAU ASIBITI",
-    "lga": "BEBEJI",
-    "ward": "DAMAU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BEBEJI",
     "ward": "DAMAU",
     "state": "Kano",
@@ -5748,12 +5544,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BEBEJI",
-    "ward": "DURMAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/04/06/001",
     "pu_name": "BAGAUDA",
     "name": "BAGAUDA",
@@ -5811,12 +5601,6 @@
     "pu_code": "19/04/06/007",
     "pu_name": "KATSINAWA",
     "name": "KATSINAWA",
-    "lga": "BEBEJI",
-    "ward": "GARGAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BEBEJI",
     "ward": "GARGAI",
     "state": "Kano",
@@ -5976,12 +5760,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BEBEJI",
-    "ward": "GWARMAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/04/08/001",
     "pu_name": "DAN DURUMI",
     "name": "DAN DURUMI",
@@ -6099,12 +5877,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BEBEJI",
-    "ward": "KOFA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/04/09/001",
     "pu_name": "BALLEN BOYI",
     "name": "BALLEN BOYI",
@@ -6204,12 +5976,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BEBEJI",
-    "ward": "KUKI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/04/10/001",
     "pu_name": "CUTAR BIKI",
     "name": "CUTAR BIKI",
@@ -6276,12 +6042,6 @@
     "pu_code": "19/04/10/008",
     "pu_name": "UNGUWAR YAKUBU II",
     "name": "UNGUWAR YAKUBU II",
-    "lga": "BEBEJI",
-    "ward": "RAHAMA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BEBEJI",
     "ward": "RAHAMA",
     "state": "Kano",
@@ -6423,12 +6183,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BEBEJI",
-    "ward": "RANKA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/04/12/001",
     "pu_name": "AGALAWA",
     "name": "AGALAWA",
@@ -6468,12 +6222,6 @@
     "pu_code": "19/04/12/005",
     "pu_name": "ZANGERE",
     "name": "ZANGERE",
-    "lga": "BEBEJI",
-    "ward": "RANTAN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BEBEJI",
     "ward": "RANTAN",
     "state": "Kano",
@@ -6561,12 +6309,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BEBEJI",
-    "ward": "TARIWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/04/14/001",
     "pu_name": "SABON GARI I",
     "name": "SABON GARI I",
@@ -6615,12 +6357,6 @@
     "pu_code": "19/04/14/006",
     "pu_name": "SABON GARI II",
     "name": "SABON GARI II",
-    "lga": "BEBEJI",
-    "ward": "WAK",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BEBEJI",
     "ward": "WAK",
     "state": "Kano",
@@ -6972,12 +6708,6 @@
     "pu_code": "19/05/01/039",
     "pu_name": "SABO KANAWA IV",
     "name": "SABO KANAWA IV",
-    "lga": "BICHI",
-    "ward": "BADUME",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BICHI",
     "ward": "BADUME",
     "state": "Kano",
@@ -7632,12 +7362,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BICHI",
-    "ward": "BICHI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/05/03/001",
     "pu_name": "DANZABUWA I",
     "name": "DANZABUWA I",
@@ -7863,12 +7587,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BICHI",
-    "ward": "DANZABUWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/05/04/001",
     "pu_name": "FAGOLO C/GARI I",
     "name": "FAGOLO C/GARI I",
@@ -7989,12 +7707,6 @@
     "pu_code": "19/05/04/014",
     "pu_name": "FAGOLO CIKIN GARI II",
     "name": "FAGOLO CIKIN GARI II",
-    "lga": "BICHI",
-    "ward": "FAGOLO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BICHI",
     "ward": "FAGOLO",
     "state": "Kano",
@@ -8157,12 +7869,6 @@
     "pu_code": "19/05/05/018",
     "pu_name": "LUGGE FULANI II",
     "name": "LUGGE FULANI II",
-    "lga": "BICHI",
-    "ward": "KAUKAU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BICHI",
     "ward": "KAUKAU",
     "state": "Kano",
@@ -8334,12 +8040,6 @@
     "pu_code": "19/05/06/019",
     "pu_name": "MARGA II",
     "name": "MARGA II",
-    "lga": "BICHI",
-    "ward": "KWAMARAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BICHI",
     "ward": "KWAMARAWA",
     "state": "Kano",
@@ -8535,12 +8235,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BICHI",
-    "ward": "KYALLI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/05/08/001",
     "pu_name": "ISLAMIYYA CENTRE (A'AWA I)",
     "name": "ISLAMIYYA CENTRE (A'AWA I)",
@@ -8712,12 +8406,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BICHI",
-    "ward": "MUNTSIRA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/05/09/001",
     "pu_name": "BUNBUR ABUKUR I",
     "name": "BUNBUR ABUKUR I",
@@ -8871,12 +8559,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BICHI",
-    "ward": "SAYE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/05/10/001",
     "pu_name": "OPPOSITE MASALLACHI (BANDUTSE)",
     "name": "OPPOSITE MASALLACHI (BANDUTSE)",
@@ -8997,12 +8679,6 @@
     "pu_code": "19/05/10/014",
     "pu_name": "BELLI II",
     "name": "BELLI II",
-    "lga": "BICHI",
-    "ward": "WAIRE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BICHI",
     "ward": "WAIRE",
     "state": "Kano",
@@ -9174,12 +8850,6 @@
     "pu_code": "19/05/11/019",
     "pu_name": "KANTAKARA II",
     "name": "KANTAKARA II",
-    "lga": "BICHI",
-    "ward": "YALLAMI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BICHI",
     "ward": "YALLAMI",
     "state": "Kano",
@@ -9378,12 +9048,6 @@
     "pu_code": "19/06/01/022",
     "pu_name": "UNGUWAR NAZARA",
     "name": "UNGUWAR NAZARA",
-    "lga": "BUNKURE",
-    "ward": "BARKUM",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BUNKURE",
     "ward": "BARKUM",
     "state": "Kano",
@@ -9732,12 +9396,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BUNKURE",
-    "ward": "BUNKURE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/06/03/001",
     "pu_name": "BONO CIKIN GARI",
     "name": "BONO CIKIN GARI",
@@ -9882,12 +9540,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BUNKURE",
-    "ward": "BONO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/06/04/001",
     "pu_name": "BARNAWA CIKIN GARI I",
     "name": "BARNAWA CIKIN GARI I",
@@ -10005,12 +9657,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BUNKURE",
-    "ward": "CHIRIN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/06/05/001",
     "pu_name": "BUNKAU",
     "name": "BUNKAU",
@@ -10104,12 +9750,6 @@
     "pu_code": "19/06/05/011",
     "pu_name": "HAYATUL ISLAMIYYA MAKUNTURI",
     "name": "HAYATUL ISLAMIYYA MAKUNTURI",
-    "lga": "BUNKURE",
-    "ward": "GAFAN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BUNKURE",
     "ward": "GAFAN",
     "state": "Kano",
@@ -10254,12 +9894,6 @@
     "pu_code": "19/06/06/016",
     "pu_name": "JALLORAWA ISLAMIYYA SCH.",
     "name": "JALLORAWA ISLAMIYYA SCH.",
-    "lga": "BUNKURE",
-    "ward": "GURJIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BUNKURE",
     "ward": "GURJIYA",
     "state": "Kano",
@@ -10437,12 +10071,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BUNKURE",
-    "ward": "GWAMMA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/06/08/001",
     "pu_name": "BADAWA KULLUWA I",
     "name": "BADAWA KULLUWA I",
@@ -10563,12 +10191,6 @@
     "pu_code": "19/06/08/014",
     "pu_name": "KULLUWA HEALTH CLINIC",
     "name": "KULLUWA HEALTH CLINIC",
-    "lga": "BUNKURE",
-    "ward": "KULLUWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BUNKURE",
     "ward": "KULLUWA",
     "state": "Kano",
@@ -10728,12 +10350,6 @@
     "state_code": "19"
   },
   {
-    "lga": "BUNKURE",
-    "ward": "KUMURYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/06/10/001",
     "pu_name": "BAKIN KASUWA",
     "name": "BAKIN KASUWA",
@@ -10881,12 +10497,6 @@
     "pu_code": "19/06/10/017",
     "pu_name": "TORANKAWA",
     "name": "TORANKAWA",
-    "lga": "BUNKURE",
-    "ward": "SANDA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "BUNKURE",
     "ward": "SANDA",
     "state": "Kano",
@@ -11244,12 +10854,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DALA",
-    "ward": "ADAKAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/07/02/001",
     "pu_name": "BAKIN RUWA, (FILIN AUDU IKEJA) I",
     "name": "BAKIN RUWA, (FILIN AUDU IKEJA) I",
@@ -11565,12 +11169,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DALA",
-    "ward": "BAKIN RUWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/07/03/001",
     "pu_name": "FILIN MAI ITACE I, OPEN SPACE I",
     "name": "FILIN MAI ITACE I, OPEN SPACE I",
@@ -11862,12 +11460,6 @@
     "pu_code": "19/07/03/033",
     "pu_name": "BAYAN DALA IV",
     "name": "BAYAN DALA IV",
-    "lga": "DALA",
-    "ward": "DALA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DALA",
     "ward": "DALA",
     "state": "Kano",
@@ -12228,12 +11820,6 @@
     "pu_code": "19/07/04/040",
     "pu_name": "TANKIN ALH. NUHU",
     "name": "TANKIN ALH. NUHU",
-    "lga": "DALA",
-    "ward": "DOGON NAMA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DALA",
     "ward": "DOGON NAMA",
     "state": "Kano",
@@ -13581,12 +13167,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DALA",
-    "ward": "GOBIRAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/07/06/001",
     "pu_name": "DALA S.P.S (DALA), P/BUIL I",
     "name": "DALA S.P.S (DALA), P/BUIL I",
@@ -14289,12 +13869,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DALA",
-    "ward": "GWAMMAJA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/07/07/001",
     "pu_name": "DALA G.S.P.S (GIRLS)- (MAKAFIN DALA) P/BUILD I",
     "name": "DALA G.S.P.S (GIRLS)- (MAKAFIN DALA) P/BUILD I",
@@ -14574,12 +14148,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DALA",
-    "ward": "KABUWAYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/07/08/001",
     "pu_name": "BAJINJIRE, (KANTUDU) O/SPACE I",
     "name": "BAJINJIRE, (KANTUDU) O/SPACE I",
@@ -14853,12 +14421,6 @@
     "pu_code": "19/07/08/031",
     "pu_name": "FALO",
     "name": "FALO",
-    "lga": "DALA",
-    "ward": "KANTUDU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DALA",
     "ward": "KANTUDU",
     "state": "Kano",
@@ -15468,12 +15030,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DALA",
-    "ward": "KOFAR MAZUGAL",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/07/10/001",
     "pu_name": "AUDU DAMBATTA G.S.S.- (K/RUWA B) P/BUILD I",
     "name": "AUDU DAMBATTA G.S.S.- (K/RUWA B) P/BUILD I",
@@ -15924,12 +15480,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DALA",
-    "ward": "KOFAR RUWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/07/11/001",
     "pu_name": "FILIN ISYAKU KALE-KALE /(MARARRABA) O/SPACE I",
     "name": "FILIN ISYAKU KALE-KALE /(MARARRABA) O/SPACE I",
@@ -16365,12 +15915,6 @@
     "pu_code": "19/07/11/049",
     "pu_name": "MAN LADAN",
     "name": "MAN LADAN",
-    "lga": "DALA",
-    "ward": "MADIGAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DALA",
     "ward": "MADIGAWA",
     "state": "Kano",
@@ -16971,12 +16515,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DALA",
-    "ward": "YALWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/08/01/001",
     "pu_name": "AJUMAWA, PRIMARY SCHOOL",
     "name": "AJUMAWA, PRIMARY SCHOOL",
@@ -17151,12 +16689,6 @@
     "pu_code": "19/08/01/020",
     "pu_name": "TSAMIYA II",
     "name": "TSAMIYA II",
-    "lga": "DANBATA",
-    "ward": "AJUMAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DANBATA",
     "ward": "AJUMAWA",
     "state": "Kano",
@@ -17568,12 +17100,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DANBATA",
-    "ward": "DANBATTA EAST",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/08/03/001",
     "pu_name": "ALFIGIR, OPEN SPACE",
     "name": "ALFIGIR, OPEN SPACE",
@@ -17853,12 +17379,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DANBATA",
-    "ward": "DANBATTA WEST",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/08/04/001",
     "pu_name": "BORODO, PRIMARY SCHOOL",
     "name": "BORODO, PRIMARY SCHOOL",
@@ -18066,12 +17586,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DANBATA",
-    "ward": "FAGWALAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/08/05/001",
     "pu_name": "BARO, OPEN SPACE",
     "name": "BARO, OPEN SPACE",
@@ -18225,12 +17739,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DANBATA",
-    "ward": "GORON MAJE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/08/06/001",
     "pu_name": "AMACHOKO, OPEN SPACE",
     "name": "AMACHOKO, OPEN SPACE",
@@ -18369,12 +17877,6 @@
     "pu_code": "19/08/06/016",
     "pu_name": "GWANDA III",
     "name": "GWANDA III",
-    "lga": "DANBATA",
-    "ward": "GWANDA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DANBATA",
     "ward": "GWANDA",
     "state": "Kano",
@@ -18624,12 +18126,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DANBATA",
-    "ward": "GWARABJAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/08/08/001",
     "pu_name": "AIYAWA, OPEN SPACE",
     "name": "AIYAWA, OPEN SPACE",
@@ -18810,12 +18306,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DANBATA",
-    "ward": "KORE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/08/09/001",
     "pu_name": "BIRJI -OPEN SPACE",
     "name": "BIRJI -OPEN SPACE",
@@ -18987,12 +18477,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DANBATA",
-    "ward": "SAIDAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/08/10/001",
     "pu_name": "CHIROMA, OPEN SPACE",
     "name": "CHIROMA, OPEN SPACE",
@@ -19140,12 +18624,6 @@
     "pu_code": "19/08/10/017",
     "pu_name": "UNGUWAR MAMMAN II",
     "name": "UNGUWAR MAMMAN II",
-    "lga": "DANBATA",
-    "ward": "SANSAN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DANBATA",
     "ward": "SANSAN",
     "state": "Kano",
@@ -19359,12 +18837,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI KUDU",
-    "ward": "DABAR KWARI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/09/02/001",
     "pu_name": "DANGWAYA D. VILLAGE",
     "name": "DANGWAYA D. VILLAGE",
@@ -19512,12 +18984,6 @@
     "pu_code": "19/09/02/017",
     "pu_name": "DANBAGINA PRI. SCH. II",
     "name": "DANBAGINA PRI. SCH. II",
-    "lga": "DAWAKI KUDU",
-    "ward": "DANBAGIWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DAWAKI KUDU",
     "ward": "DANBAGIWA",
     "state": "Kano",
@@ -19920,12 +19386,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI KUDU",
-    "ward": "DAWAKI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/09/04/001",
     "pu_name": "DAWAKIJI PS A/B I",
     "name": "DAWAKIJI PS A/B I",
@@ -20169,12 +19629,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI KUDU",
-    "ward": "DAWAKIJI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/09/05/001",
     "pu_name": "BAIDAWA",
     "name": "BAIDAWA",
@@ -20358,12 +19812,6 @@
     "pu_code": "19/09/05/021",
     "pu_name": "SHADAI I",
     "name": "SHADAI I",
-    "lga": "DAWAKI KUDU",
-    "ward": "DOSAN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DAWAKI KUDU",
     "ward": "DOSAN",
     "state": "Kano",
@@ -20586,12 +20034,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI KUDU",
-    "ward": "GANO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/09/07/001",
     "pu_name": "BAKIN TITI",
     "name": "BAKIN TITI",
@@ -20709,12 +20151,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI KUDU",
-    "ward": "GURJIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/09/08/001",
     "pu_name": "D/NAABBA A/B",
     "name": "D/NAABBA A/B",
@@ -20817,12 +20253,6 @@
     "pu_code": "19/09/08/012",
     "pu_name": "SIRE TOWN OFF TAMBUTU TOWN JIDO",
     "name": "SIRE TOWN OFF TAMBUTU TOWN JIDO",
-    "lga": "DAWAKI KUDU",
-    "ward": "JIDO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DAWAKI KUDU",
     "ward": "JIDO",
     "state": "Kano",
@@ -21144,12 +20574,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI KUDU",
-    "ward": "TAMBURAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/09/10/001",
     "pu_name": "CHAKAWA",
     "name": "CHAKAWA",
@@ -21456,12 +20880,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI KUDU",
-    "ward": "TSAKUWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/09/11/001",
     "pu_name": "BEHUN FULANI",
     "name": "BEHUN FULANI",
@@ -21546,12 +20964,6 @@
     "pu_code": "19/09/11/010",
     "pu_name": "UNGUWAR DUNIYA PRI. SCH. II",
     "name": "UNGUWAR DUNIYA PRI. SCH. II",
-    "lga": "DAWAKI KUDU",
-    "ward": "UNGUWAR DUNIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DAWAKI KUDU",
     "ward": "UNGUWAR DUNIYA",
     "state": "Kano",
@@ -21657,12 +21069,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI KUDU",
-    "ward": "YANBARAU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/09/13/001",
     "pu_name": "BADAWA I",
     "name": "BADAWA I",
@@ -21747,12 +21153,6 @@
     "pu_code": "19/09/13/010",
     "pu_name": "YANKATSARI CEN. PRI. SCH.",
     "name": "YANKATSARI CEN. PRI. SCH.",
-    "lga": "DAWAKI KUDU",
-    "ward": "YANKATSARI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DAWAKI KUDU",
     "ward": "YANKATSARI",
     "state": "Kano",
@@ -21885,12 +21285,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI KUDU",
-    "ward": "YARGAYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/09/15/001",
     "pu_name": "NASSARAWAR DOYA I",
     "name": "NASSARAWAR DOYA I",
@@ -21957,12 +21351,6 @@
     "pu_code": "19/09/15/008",
     "pu_name": "MAKERA TOWN",
     "name": "MAKERA TOWN",
-    "lga": "DAWAKI KUDU",
-    "ward": "ZOGARAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DAWAKI KUDU",
     "ward": "ZOGARAWA",
     "state": "Kano",
@@ -22122,12 +21510,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI TOFA",
-    "ward": "DAWAKI EAST",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/10/02/001",
     "pu_name": "ALKAUSARA",
     "name": "ALKAUSARA",
@@ -22239,12 +21621,6 @@
     "pu_code": "19/10/02/013",
     "pu_name": "BADAKO ISLAMIYYA",
     "name": "BADAKO ISLAMIYYA",
-    "lga": "DAWAKI TOFA",
-    "ward": "DAWAKI WEST",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DAWAKI TOFA",
     "ward": "DAWAKI WEST",
     "state": "Kano",
@@ -22575,12 +21951,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI TOFA",
-    "ward": "DAWANAU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/10/04/001",
     "pu_name": "DANGUGUWA CIKIN GARI I",
     "name": "DANGUGUWA CIKIN GARI I",
@@ -22710,12 +22080,6 @@
     "pu_code": "19/10/04/015",
     "pu_name": "UNGUWAR FARA II",
     "name": "UNGUWAR FARA II",
-    "lga": "DAWAKI TOFA",
-    "ward": "DAN GUGUWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DAWAKI TOFA",
     "ward": "DAN GUGUWA",
     "state": "Kano",
@@ -22875,12 +22239,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI TOFA",
-    "ward": "GANDUJE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/10/06/001",
     "pu_name": "DUNDAYE DAN AMAR I",
     "name": "DUNDAYE DAN AMAR I",
@@ -23019,12 +22377,6 @@
     "pu_code": "19/10/06/016",
     "pu_name": "YANRUTUN GARGARI",
     "name": "YANRUTUN GARGARI",
-    "lga": "DAWAKI TOFA",
-    "ward": "GARGARI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DAWAKI TOFA",
     "ward": "GARGARI",
     "state": "Kano",
@@ -23229,12 +22581,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI TOFA",
-    "ward": "JALLI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/10/08/001",
     "pu_name": "BURUN TUMAU I",
     "name": "BURUN TUMAU I",
@@ -23382,12 +22728,6 @@
     "pu_code": "19/10/08/017",
     "pu_name": "YAN KUNNI III",
     "name": "YAN KUNNI III",
-    "lga": "DAWAKI TOFA",
-    "ward": "KWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DAWAKI TOFA",
     "ward": "KWA",
     "state": "Kano",
@@ -23547,12 +22887,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI TOFA",
-    "ward": "MARKE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/10/10/001",
     "pu_name": "BASHIRGI",
     "name": "BASHIRGI",
@@ -23700,12 +23034,6 @@
     "pu_code": "19/10/10/017",
     "pu_name": "ZAURA CIKIN GARI II",
     "name": "ZAURA CIKIN GARI II",
-    "lga": "DAWAKI TOFA",
-    "ward": "TATTARAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DAWAKI TOFA",
     "ward": "TATTARAWA",
     "state": "Kano",
@@ -24045,12 +23373,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DAWAKI TOFA",
-    "ward": "TUMFAFI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/11/01/001",
     "pu_name": "DARIYA SHERE I",
     "name": "DARIYA SHERE I",
@@ -24108,12 +23430,6 @@
     "pu_code": "19/11/01/007",
     "pu_name": "MAITUWO",
     "name": "MAITUWO",
-    "lga": "DOGUWA",
-    "ward": "DARIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DOGUWA",
     "ward": "DARIYA",
     "state": "Kano",
@@ -24258,12 +23574,6 @@
     "pu_code": "19/11/02/016",
     "pu_name": "KAMPALA",
     "name": "KAMPALA",
-    "lga": "DOGUWA",
-    "ward": "DOGON KAWO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DOGUWA",
     "ward": "DOGON KAWO",
     "state": "Kano",
@@ -24486,12 +23796,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DOGUWA",
-    "ward": "DUGUWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/11/04/001",
     "pu_name": "DANKURU",
     "name": "DANKURU",
@@ -24708,12 +24012,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DOGUWA",
-    "ward": "FALGORE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/11/05/001",
     "pu_name": "AKWANTO",
     "name": "AKWANTO",
@@ -24816,12 +24114,6 @@
     "pu_code": "19/11/05/012",
     "pu_name": "YALWAN DANMUSA II",
     "name": "YALWAN DANMUSA II",
-    "lga": "DOGUWA",
-    "ward": "MARAKU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DOGUWA",
     "ward": "MARAKU",
     "state": "Kano",
@@ -25026,12 +24318,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DOGUWA",
-    "ward": "RAGADA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/11/07/001",
     "pu_name": "K/FADA",
     "name": "K/FADA",
@@ -25149,12 +24435,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DOGUWA",
-    "ward": "RIRIWAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/11/08/001",
     "pu_name": "DOKAR HUDU",
     "name": "DOKAR HUDU",
@@ -25263,12 +24543,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DOGUWA",
-    "ward": "TAGWAYE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/11/09/001",
     "pu_name": "BABBAR FADAMA",
     "name": "BABBAR FADAMA",
@@ -25359,12 +24633,6 @@
     "state_code": "19"
   },
   {
-    "lga": "DOGUWA",
-    "ward": "UNGUWAR NATSOHUWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/11/10/001",
     "pu_name": "DAURAWA",
     "name": "DAURAWA",
@@ -25440,12 +24708,6 @@
     "pu_code": "19/11/10/009",
     "pu_name": "GADAKO KURAMA",
     "name": "GADAKO KURAMA",
-    "lga": "DOGUWA",
-    "ward": "ZAINABI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "DOGUWA",
     "ward": "ZAINABI",
     "state": "Kano",
@@ -25965,12 +25227,6 @@
     "state_code": "19"
   },
   {
-    "lga": "FAGGE",
-    "ward": "FAGGE A",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/12/02/001",
     "pu_name": "BEIRUT RD I",
     "name": "BEIRUT RD I",
@@ -26439,12 +25695,6 @@
     "state_code": "19"
   },
   {
-    "lga": "FAGGE",
-    "ward": "FAGGE B",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/12/03/001",
     "pu_name": "KOFAR M. HAIDO I",
     "name": "KOFAR M. HAIDO I",
@@ -26670,12 +25920,6 @@
     "state_code": "19"
   },
   {
-    "lga": "FAGGE",
-    "ward": "FAGGE C",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/12/04/001",
     "pu_name": "GIDAN M/UNGUWA I",
     "name": "GIDAN M/UNGUWA I",
@@ -26895,12 +26139,6 @@
     "pu_code": "19/12/04/025",
     "pu_name": "GSS WAPA V",
     "name": "GSS WAPA V",
-    "lga": "FAGGE",
-    "ward": "FAGGE D",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "FAGGE",
     "ward": "FAGGE D",
     "state": "Kano",
@@ -27414,12 +26652,6 @@
     "pu_code": "19/12/05/057",
     "pu_name": "NATIONAL OPEN UNIVERSITY OF NIGERIA III",
     "name": "NATIONAL OPEN UNIVERSITY OF NIGERIA III",
-    "lga": "FAGGE",
-    "ward": "FAGGE E",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "FAGGE",
     "ward": "FAGGE E",
     "state": "Kano",
@@ -28245,12 +27477,6 @@
     "state_code": "19"
   },
   {
-    "lga": "FAGGE",
-    "ward": "KWACHIRI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/12/07/001",
     "pu_name": "GAWON ALI I",
     "name": "GAWON ALI I",
@@ -28650,12 +27876,6 @@
     "pu_code": "19/12/07/045",
     "pu_name": "GGSS SALEH MAI LEMO II",
     "name": "GGSS SALEH MAI LEMO II",
-    "lga": "FAGGE",
-    "ward": "RIJIYAR LEMO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "FAGGE",
     "ward": "RIJIYAR LEMO",
     "state": "Kano",
@@ -29283,12 +28503,6 @@
     "state_code": "19"
   },
   {
-    "lga": "FAGGE",
-    "ward": "SABONGARI EAST",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/12/09/001",
     "pu_name": "ANSARUDDEEN PR., SCH. I",
     "name": "ANSARUDDEEN PR., SCH. I",
@@ -29901,12 +29115,6 @@
     "state_code": "19"
   },
   {
-    "lga": "FAGGE",
-    "ward": "SABONGARI WEST",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/12/10/001",
     "pu_name": "KOFAR DAGACHI I",
     "name": "KOFAR DAGACHI I",
@@ -30195,12 +29403,6 @@
     "state_code": "19"
   },
   {
-    "lga": "FAGGE",
-    "ward": "YAMMATA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/13/01/001",
     "pu_name": "ASAYAYA",
     "name": "ASAYAYA",
@@ -30417,12 +29619,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GABASAWA",
-    "ward": "GABASAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/13/02/001",
     "pu_name": "BERU BARNAWA",
     "name": "BERU BARNAWA",
@@ -30558,12 +29754,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GABASAWA",
-    "ward": "GARUN DANGA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/13/03/001",
     "pu_name": "BARAWA",
     "name": "BARAWA",
@@ -30693,12 +29883,6 @@
     "pu_code": "19/13/03/015",
     "pu_name": "JODA CIKIN GARI II",
     "name": "JODA CIKIN GARI II",
-    "lga": "GABASAWA",
-    "ward": "JODA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GABASAWA",
     "ward": "JODA",
     "state": "Kano",
@@ -30849,12 +30033,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GABASAWA",
-    "ward": "KARMAMI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/13/05/001",
     "pu_name": "BADAWA, CIKIN GARI",
     "name": "BADAWA, CIKIN GARI",
@@ -30990,12 +30168,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GABASAWA",
-    "ward": "MEKIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/13/06/001",
     "pu_name": "JUGORON DANGAGE",
     "name": "JUGORON DANGAGE",
@@ -31062,12 +30234,6 @@
     "pu_code": "19/13/06/008",
     "pu_name": "WAILARE KUMBOTSO",
     "name": "WAILARE KUMBOTSO",
-    "lga": "GABASAWA",
-    "ward": "TARAUNI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GABASAWA",
     "ward": "TARAUNI",
     "state": "Kano",
@@ -31176,12 +30342,6 @@
     "pu_code": "19/13/07/012",
     "pu_name": "YAUTAR AREWA CIKIN GARI II",
     "name": "YAUTAR AREWA CIKIN GARI II",
-    "lga": "GABASAWA",
-    "ward": "YANTAR AREWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GABASAWA",
     "ward": "YANTAR AREWA",
     "state": "Kano",
@@ -31350,12 +30510,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GABASAWA",
-    "ward": "YAUTAR KUDU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/13/09/001",
     "pu_name": "GIDILO KUDU",
     "name": "GIDILO KUDU",
@@ -31431,12 +30585,6 @@
     "pu_code": "19/13/09/009",
     "pu_name": "YUMBU, CIKIN GARI",
     "name": "YUMBU, CIKIN GARI",
-    "lga": "GABASAWA",
-    "ward": "YUMBU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GABASAWA",
     "ward": "YUMBU",
     "state": "Kano",
@@ -31596,12 +30744,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GABASAWA",
-    "ward": "ZAKIRAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/13/11/001",
     "pu_name": "GUNDUWA/NASSARAWA",
     "name": "GUNDUWA/NASSARAWA",
@@ -31731,12 +30873,6 @@
     "pu_code": "19/13/11/015",
     "pu_name": "ZUGACHI GABAS II",
     "name": "ZUGACHI GABAS II",
-    "lga": "GABASAWA",
-    "ward": "ZUGACHI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GABASAWA",
     "ward": "ZUGACHI",
     "state": "Kano",
@@ -31914,12 +31050,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GARKO",
-    "ward": "DAL",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/14/02/001",
     "pu_name": "ADDAWA I",
     "name": "ADDAWA I",
@@ -32076,12 +31206,6 @@
     "pu_code": "19/14/02/018",
     "pu_name": "KATSINAWA IV",
     "name": "KATSINAWA IV",
-    "lga": "GARKO",
-    "ward": "GARIN ALI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GARKO",
     "ward": "GARIN ALI",
     "state": "Kano",
@@ -32421,12 +31545,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GARKO",
-    "ward": "GARKO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/14/04/001",
     "pu_name": "DAKARE",
     "name": "DAKARE",
@@ -32574,12 +31692,6 @@
     "pu_code": "19/14/04/017",
     "pu_name": "KUMFADA IV",
     "name": "KUMFADA IV",
-    "lga": "GARKO",
-    "ward": "GURJIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GARKO",
     "ward": "GURJIYA",
     "state": "Kano",
@@ -32739,12 +31851,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GARKO",
-    "ward": "KAFIN MALAMAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/14/06/001",
     "pu_name": "BINGIN KARI",
     "name": "BINGIN KARI",
@@ -32880,12 +31986,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GARKO",
-    "ward": "KATUMARI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/14/07/001",
     "pu_name": "BUDA HURUMI I",
     "name": "BUDA HURUMI I",
@@ -32997,12 +32097,6 @@
     "pu_code": "19/14/07/013",
     "pu_name": "BUDA HURUMI II",
     "name": "BUDA HURUMI II",
-    "lga": "GARKO",
-    "ward": "KWAS",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GARKO",
     "ward": "KWAS",
     "state": "Kano",
@@ -33207,12 +32301,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GARKO",
-    "ward": "RABA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/14/09/001",
     "pu_name": "KERA DUKAWA",
     "name": "KERA DUKAWA",
@@ -33393,12 +32481,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GARKO",
-    "ward": "SARINA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/14/10/001",
     "pu_name": "JIMFIRE",
     "name": "JIMFIRE",
@@ -33501,12 +32583,6 @@
     "pu_code": "19/14/10/012",
     "pu_name": "ZAKARAWA HURUMI III",
     "name": "ZAKARAWA HURUMI III",
-    "lga": "GARKO",
-    "ward": "ZAKARAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GARKO",
     "ward": "ZAKARAWA",
     "state": "Kano",
@@ -33711,12 +32787,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GARUN MALAM",
-    "ward": "CHIROMAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/15/02/001",
     "pu_name": "AGALAWA I",
     "name": "AGALAWA I",
@@ -33852,12 +32922,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GARUN MALAM",
-    "ward": "DORAWAR-SALLAU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/15/03/001",
     "pu_name": "FANKURUN I",
     "name": "FANKURUN I",
@@ -33942,12 +33006,6 @@
     "pu_code": "19/15/03/010",
     "pu_name": "YANABA II",
     "name": "YANABA II",
-    "lga": "GARUN MALAM",
-    "ward": "FANKURUN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GARUN MALAM",
     "ward": "FANKURUN",
     "state": "Kano",
@@ -34083,12 +33141,6 @@
     "pu_code": "19/15/04/015",
     "pu_name": "SABON GARI    II",
     "name": "SABON GARI    II",
-    "lga": "GARUN MALAM",
-    "ward": "GARUN BABBA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GARUN MALAM",
     "ward": "GARUN BABBA",
     "state": "Kano",
@@ -34248,12 +33300,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GARUN MALAM",
-    "ward": "GARUN MALAM",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/15/06/001",
     "pu_name": "JOBAWA CIKI",
     "name": "JOBAWA CIKI",
@@ -34347,12 +33393,6 @@
     "pu_code": "19/15/06/011",
     "pu_name": "JOBAWACIKI II",
     "name": "JOBAWACIKI II",
-    "lga": "GARUN MALAM",
-    "ward": "JOBAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GARUN MALAM",
     "ward": "JOBAWA",
     "state": "Kano",
@@ -34503,12 +33543,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GARUN MALAM",
-    "ward": "KADAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/15/08/001",
     "pu_name": "AGALWA I",
     "name": "AGALWA I",
@@ -34644,12 +33678,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GARUN MALAM",
-    "ward": "MAKWARO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/15/09/001",
     "pu_name": "CEDI GABAS",
     "name": "CEDI GABAS",
@@ -34761,12 +33789,6 @@
     "pu_code": "19/15/09/013",
     "pu_name": "YADAKWARI CIKI V",
     "name": "YADAKWARI CIKI V",
-    "lga": "GARUN MALAM",
-    "ward": "YAD AKWARI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GARUN MALAM",
     "ward": "YAD AKWARI",
     "state": "Kano",
@@ -34935,12 +33957,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GARUN MALAM",
-    "ward": "YALWAN  YADAKWARI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/16/01/001",
     "pu_name": "BALAN, CIKIN GARI",
     "name": "BALAN, CIKIN GARI",
@@ -35061,12 +34077,6 @@
     "pu_code": "19/16/01/014",
     "pu_name": "BALAN CIKIN GARI",
     "name": "BALAN CIKIN GARI",
-    "lga": "GAYA",
-    "ward": "BALAN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GAYA",
     "ward": "BALAN",
     "state": "Kano",
@@ -35469,12 +34479,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GAYA",
-    "ward": "GAYA AREWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/16/03/001",
     "pu_name": "ALAWA I",
     "name": "ALAWA I",
@@ -35817,12 +34821,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GAYA",
-    "ward": "GAYA KUDU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/16/04/001",
     "pu_name": "DARAI C/GARI",
     "name": "DARAI C/GARI",
@@ -35889,12 +34887,6 @@
     "pu_code": "19/16/04/008",
     "pu_name": "KADANI/ZANGO",
     "name": "KADANI/ZANGO",
-    "lga": "GAYA",
-    "ward": "GAMARYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GAYA",
     "ward": "GAMARYA",
     "state": "Kano",
@@ -35985,12 +34977,6 @@
     "pu_code": "19/16/05/010",
     "pu_name": "GAMOJI CIKIN GARI II",
     "name": "GAMOJI CIKIN GARI II",
-    "lga": "GAYA",
-    "ward": "GAMOJI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GAYA",
     "ward": "GAMOJI",
     "state": "Kano",
@@ -36204,12 +35190,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GAYA",
-    "ward": "KADEMI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/16/07/001",
     "pu_name": "JAMAR FULANI",
     "name": "JAMAR FULANI",
@@ -36366,12 +35346,6 @@
     "pu_code": "19/16/07/018",
     "pu_name": "MATSAWAR KUDU/AREWA",
     "name": "MATSAWAR KUDU/AREWA",
-    "lga": "GAYA",
-    "ward": "KAZURAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GAYA",
     "ward": "KAZURAWA",
     "state": "Kano",
@@ -36543,12 +35517,6 @@
     "pu_code": "19/16/08/019",
     "pu_name": "MADAKANCHI",
     "name": "MADAKANCHI",
-    "lga": "GAYA",
-    "ward": "MAIMAKAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GAYA",
     "ward": "MAIMAKAWA",
     "state": "Kano",
@@ -36753,12 +35721,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GAYA",
-    "ward": "SHAGOGO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/16/10/001",
     "pu_name": "AMARAWA I",
     "name": "AMARAWA I",
@@ -36852,12 +35814,6 @@
     "pu_code": "19/16/10/011",
     "pu_name": "WUDILAWA CIKIN GARI",
     "name": "WUDILAWA CIKIN GARI",
-    "lga": "GAYA",
-    "ward": "WUDILAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GAYA",
     "ward": "WUDILAWA",
     "state": "Kano",
@@ -37071,12 +36027,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GEZAWA",
-    "ward": "BABAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/17/02/001",
     "pu_name": "ANDAWA I",
     "name": "ANDAWA I",
@@ -37197,12 +36147,6 @@
     "pu_code": "19/17/02/014",
     "pu_name": "YAFATA OLD DISPENSARY",
     "name": "YAFATA OLD DISPENSARY",
-    "lga": "GEZAWA",
-    "ward": "GAWO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GEZAWA",
     "ward": "GAWO",
     "state": "Kano",
@@ -37410,12 +36354,6 @@
     "pu_code": "19/17/03/023",
     "pu_name": "YAN ZANGO III",
     "name": "YAN ZANGO III",
-    "lga": "GEZAWA",
-    "ward": "GEZAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GEZAWA",
     "ward": "GEZAWA",
     "state": "Kano",
@@ -37683,12 +36621,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GEZAWA",
-    "ward": "JOGANA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/17/05/001",
     "pu_name": "GANDU W. T. C., W. T. C.",
     "name": "GANDU W. T. C., W. T. C.",
@@ -37914,12 +36846,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GEZAWA",
-    "ward": "KETAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/17/06/001",
     "pu_name": "BARWA, PRIMARY SCHOOL",
     "name": "BARWA, PRIMARY SCHOOL",
@@ -38055,12 +36981,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GEZAWA",
-    "ward": "MESAR-TUDU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/17/07/001",
     "pu_name": "BARE-SAWABA, PRIMARY SCHOOL",
     "name": "BARE-SAWABA, PRIMARY SCHOOL",
@@ -38181,12 +37101,6 @@
     "pu_code": "19/17/07/014",
     "pu_name": "SARARIN GEZAWA ISLAMIYYA.",
     "name": "SARARIN GEZAWA ISLAMIYYA.",
-    "lga": "GEZAWA",
-    "ward": "SARARIN-GEZAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GEZAWA",
     "ward": "SARARIN-GEZAWA",
     "state": "Kano",
@@ -38508,12 +37422,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GEZAWA",
-    "ward": "TSAMIYA-BABBA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/17/09/001",
     "pu_name": "AMARAWA, C/GARI OPEN SPACE",
     "name": "AMARAWA, C/GARI OPEN SPACE",
@@ -38625,12 +37533,6 @@
     "pu_code": "19/17/09/013",
     "pu_name": "TUMBAU PRI. SCH. II",
     "name": "TUMBAU PRI. SCH. II",
-    "lga": "GEZAWA",
-    "ward": "TUMBAU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GEZAWA",
     "ward": "TUMBAU",
     "state": "Kano",
@@ -38793,12 +37695,6 @@
     "pu_code": "19/17/10/018",
     "pu_name": "GGASS WANGARA",
     "name": "GGASS WANGARA",
-    "lga": "GEZAWA",
-    "ward": "WANGARA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GEZAWA",
     "ward": "WANGARA",
     "state": "Kano",
@@ -38979,12 +37875,6 @@
     "pu_code": "19/17/11/020",
     "pu_name": "ZANGO PRI. SCH",
     "name": "ZANGO PRI. SCH",
-    "lga": "GEZAWA",
-    "ward": "ZANGO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GEZAWA",
     "ward": "ZANGO",
     "state": "Kano",
@@ -39315,12 +38205,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GWALE",
-    "ward": "DANDAGO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/18/02/001",
     "pu_name": "CHIRANCHI/FILIN CHIRANCHI I",
     "name": "CHIRANCHI/FILIN CHIRANCHI I",
@@ -39612,12 +38496,6 @@
     "pu_code": "19/18/02/033",
     "pu_name": "GIDAN MAI-UNGUWA",
     "name": "GIDAN MAI-UNGUWA",
-    "lga": "GWALE",
-    "ward": "DISO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GWALE",
     "ward": "DISO",
     "state": "Kano",
@@ -40461,12 +39339,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GWALE",
-    "ward": "DORAYI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/18/04/001",
     "pu_name": "GIDAN GALADIMA, PRIMARY SCHOOL I",
     "name": "GIDAN GALADIMA, PRIMARY SCHOOL I",
@@ -40845,12 +39717,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GWALE",
-    "ward": "GALADANCHI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/18/05/001",
     "pu_name": "DAUSAYI I",
     "name": "DAUSAYI I",
@@ -41115,12 +39981,6 @@
     "pu_code": "19/18/05/030",
     "pu_name": "WARURE PRI. SCH.. XII",
     "name": "WARURE PRI. SCH.. XII",
-    "lga": "GWALE",
-    "ward": "GORON DUTSE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GWALE",
     "ward": "GORON DUTSE",
     "state": "Kano",
@@ -41523,12 +40383,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GWALE",
-    "ward": "GWALE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/18/07/001",
     "pu_name": "AKWA RIJIYA I",
     "name": "AKWA RIJIYA I",
@@ -41730,12 +40584,6 @@
     "pu_code": "19/18/07/023",
     "pu_name": "SUDAWA ISLAMIYYA SCH.. (IV)",
     "name": "SUDAWA ISLAMIYYA SCH.. (IV)",
-    "lga": "GWALE",
-    "ward": "GYARANYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GWALE",
     "ward": "GYARANYA",
     "state": "Kano",
@@ -42309,12 +41157,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GWALE",
-    "ward": "KABUGA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/18/09/001",
     "pu_name": "JINGAU I",
     "name": "JINGAU I",
@@ -42579,12 +41421,6 @@
     "pu_code": "19/18/09/030",
     "pu_name": "BUHARI G.G.S.S.",
     "name": "BUHARI G.G.S.S.",
-    "lga": "GWALE",
-    "ward": "MANDAWARI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GWALE",
     "ward": "MANDAWARI",
     "state": "Kano",
@@ -43095,12 +41931,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GWALE",
-    "ward": "SANI MAI MAGGE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/19/01/001",
     "pu_name": "DAMUNAWA",
     "name": "DAMUNAWA",
@@ -43347,12 +42177,6 @@
     "pu_code": "19/19/01/028",
     "pu_name": "ZANGO VI",
     "name": "ZANGO VI",
-    "lga": "GWARZO",
-    "ward": "GETSO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GWARZO",
     "ward": "GETSO",
     "state": "Kano",
@@ -43674,12 +42498,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GWARZO",
-    "ward": "GWARZO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/19/03/001",
     "pu_name": "BADARI",
     "name": "BADARI",
@@ -43746,12 +42564,6 @@
     "pu_code": "19/19/03/008",
     "pu_name": "JAMA'A III",
     "name": "JAMA'A III",
-    "lga": "GWARZO",
-    "ward": "JAMA' A",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GWARZO",
     "ward": "JAMA' A",
     "state": "Kano",
@@ -43941,12 +42753,6 @@
     "pu_code": "19/19/04/021",
     "pu_name": "UNGUWAR NAIBI III",
     "name": "UNGUWAR NAIBI III",
-    "lga": "GWARZO",
-    "ward": "KARA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GWARZO",
     "ward": "KARA",
     "state": "Kano",
@@ -44190,12 +42996,6 @@
     "pu_code": "19/19/05/027",
     "pu_name": "ZANGO IV",
     "name": "ZANGO IV",
-    "lga": "GWARZO",
-    "ward": "KUTAMA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GWARZO",
     "ward": "KUTAMA",
     "state": "Kano",
@@ -44499,12 +43299,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GWARZO",
-    "ward": "LAKWAYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/19/07/001",
     "pu_name": "JANBARDE I",
     "name": "JANBARDE I",
@@ -44658,12 +43452,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GWARZO",
-    "ward": "MADADI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/19/08/001",
     "pu_name": "JAGA I",
     "name": "JAGA I",
@@ -44790,12 +43578,6 @@
     "state_code": "19"
   },
   {
-    "lga": "GWARZO",
-    "ward": "MAINIKA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/19/09/001",
     "pu_name": "BAGWAYAWA",
     "name": "BAGWAYAWA",
@@ -44889,12 +43671,6 @@
     "pu_code": "19/19/09/011",
     "pu_name": "BAGWAYAWA II",
     "name": "BAGWAYAWA II",
-    "lga": "GWARZO",
-    "ward": "SABON BIRNI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GWARZO",
     "ward": "SABON BIRNI",
     "state": "Kano",
@@ -45039,12 +43815,6 @@
     "pu_code": "19/19/10/016",
     "pu_name": "YALWA",
     "name": "YALWA",
-    "lga": "GWARZO",
-    "ward": "UNGUWAR TUDU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "GWARZO",
     "ward": "UNGUWAR TUDU",
     "state": "Kano",
@@ -45204,12 +43974,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KABO",
-    "ward": "DUGABAU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/20/02/001",
     "pu_name": "GABASAWA",
     "name": "GABASAWA",
@@ -45321,12 +44085,6 @@
     "pu_code": "19/20/02/013",
     "pu_name": "KANAWA ZANGO IV",
     "name": "KANAWA ZANGO IV",
-    "lga": "KABO",
-    "ward": "DURUN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KABO",
     "ward": "DURUN",
     "state": "Kano",
@@ -45471,12 +44229,6 @@
     "pu_code": "19/20/03/016",
     "pu_name": "TSAMAIMAI",
     "name": "TSAMAIMAI",
-    "lga": "KABO",
-    "ward": "GAMMO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KABO",
     "ward": "GAMMO",
     "state": "Kano",
@@ -45744,12 +44496,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KABO",
-    "ward": "GARO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/20/05/001",
     "pu_name": "BALAN I",
     "name": "BALAN I",
@@ -45966,12 +44712,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KABO",
-    "ward": "GODIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/20/06/001",
     "pu_name": "BUWAWA/ IDOBISA I",
     "name": "BUWAWA/ IDOBISA I",
@@ -46116,12 +44856,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KABO",
-    "ward": "GUDE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/20/07/001",
     "pu_name": "BAAWA",
     "name": "BAAWA",
@@ -46215,12 +44949,6 @@
     "pu_code": "19/20/07/011",
     "pu_name": "UNGUWAR KWARI",
     "name": "UNGUWAR KWARI",
-    "lga": "KABO",
-    "ward": "HAUWADE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KABO",
     "ward": "HAUWADE",
     "state": "Kano",
@@ -46506,12 +45234,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KABO",
-    "ward": "KABO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/20/09/001",
     "pu_name": "BASKORE/ LOMI I",
     "name": "BASKORE/ LOMI I",
@@ -46674,12 +45396,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KABO",
-    "ward": "KANWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/20/10/001",
     "pu_name": "KANAWA",
     "name": "KANAWA",
@@ -46791,12 +45507,6 @@
     "pu_code": "19/20/10/013",
     "pu_name": "TUDUN ROZO PRI. SCH.",
     "name": "TUDUN ROZO PRI. SCH.",
-    "lga": "KABO",
-    "ward": "MASANAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KABO",
     "ward": "MASANAWA",
     "state": "Kano",
@@ -46995,12 +45705,6 @@
     "pu_code": "19/21/01/023",
     "pu_name": "DARMA YOLAWA ISLAMIYYA",
     "name": "DARMA YOLAWA ISLAMIYYA",
-    "lga": "KANO MUNICIPAL",
-    "ward": "CHEDI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KANO MUNICIPAL",
     "ward": "CHEDI",
     "state": "Kano",
@@ -47262,12 +45966,6 @@
     "pu_code": "19/21/02/029",
     "pu_name": "WAJILA ISLAMIYYA KURAMAWA",
     "name": "WAJILA ISLAMIYYA KURAMAWA",
-    "lga": "KANO MUNICIPAL",
-    "ward": "DAN'AGUNDI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KANO MUNICIPAL",
     "ward": "DAN'AGUNDI",
     "state": "Kano",
@@ -47688,12 +46386,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KANO MUNICIPAL",
-    "ward": "GANDUN ALBASA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/21/04/001",
     "pu_name": "FILING BAKIN ZUWO I (BAKINZUWO K/GIDAN M/UNGUWA I)",
     "name": "FILING BAKIN ZUWO I (BAKINZUWO K/GIDAN M/UNGUWA I)",
@@ -47904,12 +46596,6 @@
     "pu_code": "19/21/04/024",
     "pu_name": "JAKARA HOSPITAL  MASU KWANI POST OFFICE",
     "name": "JAKARA HOSPITAL  MASU KWANI POST OFFICE",
-    "lga": "KANO MUNICIPAL",
-    "ward": "JAKARA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KANO MUNICIPAL",
     "ward": "JAKARA",
     "state": "Kano",
@@ -48564,12 +47250,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KANO MUNICIPAL",
-    "ward": "KANKAROFI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/21/06/001",
     "pu_name": "BB TALLE ISLAMIYYA I (AGADASAWA I)",
     "name": "BB TALLE ISLAMIYYA I (AGADASAWA I)",
@@ -49086,12 +47766,6 @@
     "pu_code": "19/21/06/058",
     "pu_name": "YOLA ISLAMIYYA P.S",
     "name": "YOLA ISLAMIYYA P.S",
-    "lga": "KANO MUNICIPAL",
-    "ward": "SHAHUCHI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KANO MUNICIPAL",
     "ward": "SHAHUCHI",
     "state": "Kano",
@@ -49854,12 +48528,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KANO MUNICIPAL",
-    "ward": "SHARADA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/21/08/001",
     "pu_name": "MAL. KAMALU ISLAMIYYA I (ALFINDIKI I)",
     "name": "MAL. KAMALU ISLAMIYYA I (ALFINDIKI I)",
@@ -50310,12 +48978,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KANO MUNICIPAL",
-    "ward": "SHESHE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/21/09/001",
     "pu_name": "MAZAN KWARAI I",
     "name": "MAZAN KWARAI I",
@@ -50544,12 +49206,6 @@
     "pu_code": "19/21/09/026",
     "pu_name": "ZANGON BARE BARI",
     "name": "ZANGON BARE BARI",
-    "lga": "KANO MUNICIPAL",
-    "ward": "TUDUN NUFAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KANO MUNICIPAL",
     "ward": "TUDUN NUFAWA",
     "state": "Kano",
@@ -50982,12 +49638,6 @@
     "pu_code": "19/21/10/048",
     "pu_name": "TUDUN WAZIRCHI FILIN K/KUDU",
     "name": "TUDUN WAZIRCHI FILIN K/KUDU",
-    "lga": "KANO MUNICIPAL",
-    "ward": "TUDUN WAZIRCHI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KANO MUNICIPAL",
     "ward": "TUDUN WAZIRCHI",
     "state": "Kano",
@@ -51480,12 +50130,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KANO MUNICIPAL",
-    "ward": "YAKASAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/21/12/001",
     "pu_name": "DUKAWA YAN'AWAKI S.P.S. I",
     "name": "DUKAWA YAN'AWAKI S.P.S. I",
@@ -51921,12 +50565,6 @@
     "pu_code": "19/21/12/049",
     "pu_name": "G.G.S.S.S UMMA ZARIA",
     "name": "G.G.S.S.S UMMA ZARIA",
-    "lga": "KANO MUNICIPAL",
-    "ward": "ZAITAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KANO MUNICIPAL",
     "ward": "ZAITAWA",
     "state": "Kano",
@@ -52536,12 +51174,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KANO MUNICIPAL",
-    "ward": "ZANGO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/22/01/001",
     "pu_name": "ALFAWA",
     "name": "ALFAWA",
@@ -52677,12 +51309,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KARAYE",
-    "ward": "DAURA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/22/02/001",
     "pu_name": "DAUSAWA",
     "name": "DAUSAWA",
@@ -52794,12 +51420,6 @@
     "pu_code": "19/22/02/013",
     "pu_name": "TUDUN JAMA'A III PRIMARY SCHOOL",
     "name": "TUDUN JAMA'A III PRIMARY SCHOOL",
-    "lga": "KARAYE",
-    "ward": "KAFIN DAFGA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KARAYE",
     "ward": "KAFIN DAFGA",
     "state": "Kano",
@@ -53103,12 +51723,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KARAYE",
-    "ward": "KARAYE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/22/04/001",
     "pu_name": "DAMBAZAU I",
     "name": "DAMBAZAU I",
@@ -53247,12 +51861,6 @@
     "pu_code": "19/22/04/016",
     "pu_name": "KURUGU III ISLAMIYYA",
     "name": "KURUGU III ISLAMIYYA",
-    "lga": "KARAYE",
-    "ward": "KURUGU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KARAYE",
     "ward": "KURUGU",
     "state": "Kano",
@@ -53448,12 +52056,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KARAYE",
-    "ward": "KWANYAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/22/06/001",
     "pu_name": "DANGAYAKI",
     "name": "DANGAYAKI",
@@ -53592,12 +52194,6 @@
     "pu_code": "19/22/06/016",
     "pu_name": "TUDUN KAYA SENIOR SECONDARY SCHOOL",
     "name": "TUDUN KAYA SENIOR SECONDARY SCHOOL",
-    "lga": "KARAYE",
-    "ward": "TUDUN KAYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KARAYE",
     "ward": "TUDUN KAYA",
     "state": "Kano",
@@ -53757,12 +52353,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KARAYE",
-    "ward": "TURAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/22/08/001",
     "pu_name": "JAMA'AR KOSA",
     "name": "JAMA'AR KOSA",
@@ -53856,12 +52446,6 @@
     "pu_code": "19/22/08/011",
     "pu_name": "TINKIS II PRIMARY SCHOOL",
     "name": "TINKIS II PRIMARY SCHOOL",
-    "lga": "KARAYE",
-    "ward": "UNGUWAR HAJJI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KARAYE",
     "ward": "UNGUWAR HAJJI",
     "state": "Kano",
@@ -54003,12 +52587,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KARAYE",
-    "ward": "YAMMEDI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/22/10/001",
     "pu_name": "BANGA I",
     "name": "BANGA I",
@@ -54117,12 +52695,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KARAYE",
-    "ward": "YOLA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/23/01/001",
     "pu_name": "CENTRAL PRIMAR SCHOOL I/DURBA KOFAR GARI",
     "name": "CENTRAL PRIMAR SCHOOL I/DURBA KOFAR GARI",
@@ -54225,12 +52797,6 @@
     "pu_code": "19/23/01/012",
     "pu_name": "SARARI II",
     "name": "SARARI II",
-    "lga": "KIBIYA",
-    "ward": "DURBA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KIBIYA",
     "ward": "DURBA",
     "state": "Kano",
@@ -54384,12 +52950,6 @@
     "pu_code": "19/23/02/017",
     "pu_name": "UNGUWAR KURE (II)",
     "name": "UNGUWAR KURE (II)",
-    "lga": "KIBIYA",
-    "ward": "FAMMAR",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KIBIYA",
     "ward": "FAMMAR",
     "state": "Kano",
@@ -54558,12 +53118,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KIBIYA",
-    "ward": "FASSI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/23/04/001",
     "pu_name": "KADIGAWA C/GARI",
     "name": "KADIGAWA C/GARI",
@@ -54630,12 +53184,6 @@
     "pu_code": "19/23/04/008",
     "pu_name": "KADIGAWA U/JARMAI",
     "name": "KADIGAWA U/JARMAI",
-    "lga": "KIBIYA",
-    "ward": "KADIGAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KIBIYA",
     "ward": "KADIGAWA",
     "state": "Kano",
@@ -54771,12 +53319,6 @@
     "pu_code": "19/23/05/015",
     "pu_name": "KAHU II",
     "name": "KAHU II",
-    "lga": "KIBIYA",
-    "ward": "KAHU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KIBIYA",
     "ward": "KAHU",
     "state": "Kano",
@@ -54927,12 +53469,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KIBIYA",
-    "ward": "KIBIYA  I",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/23/07/001",
     "pu_name": "J.S.S. KIBIYA I",
     "name": "J.S.S. KIBIYA I",
@@ -55044,12 +53580,6 @@
     "pu_code": "19/23/07/013",
     "pu_name": "KIBIYA IV",
     "name": "KIBIYA IV",
-    "lga": "KIBIYA",
-    "ward": "KIBIYA II",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KIBIYA",
     "ward": "KIBIYA II",
     "state": "Kano",
@@ -55203,12 +53733,6 @@
     "pu_code": "19/23/08/017",
     "pu_name": "NARIYA IV",
     "name": "NARIYA IV",
-    "lga": "KIBIYA",
-    "ward": "NARIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KIBIYA",
     "ward": "NARIYA",
     "state": "Kano",
@@ -55386,12 +53910,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KIBIYA",
-    "ward": "TARAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/23/10/001",
     "pu_name": "DUNKURAN DURBA I",
     "name": "DUNKURAN DURBA I",
@@ -55512,12 +54030,6 @@
     "pu_code": "19/23/10/014",
     "pu_name": "UNGUWAR KUNDU II",
     "name": "UNGUWAR KUNDU II",
-    "lga": "KIBIYA",
-    "ward": "UNGUWAR GAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KIBIYA",
     "ward": "UNGUWAR GAI",
     "state": "Kano",
@@ -55689,12 +54201,6 @@
     "pu_code": "19/24/01/019",
     "pu_name": "KARIMAWA II",
     "name": "KARIMAWA II",
-    "lga": "KIRU",
-    "ward": "BA'AWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KIRU",
     "ward": "BA'AWA",
     "state": "Kano",
@@ -55935,12 +54441,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KIRU",
-    "ward": "BADAFI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/24/03/001",
     "pu_name": "ACHILAFIYA",
     "name": "ACHILAFIYA",
@@ -56130,12 +54630,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KIRU",
-    "ward": "BARGONI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/24/04/001",
     "pu_name": "BAUDA KUDU",
     "name": "BAUDA KUDU",
@@ -56220,12 +54714,6 @@
     "pu_code": "19/24/04/010",
     "pu_name": "CHIROMAWA II",
     "name": "CHIROMAWA II",
-    "lga": "KIRU",
-    "ward": "BAUDA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KIRU",
     "ward": "BAUDA",
     "state": "Kano",
@@ -56349,12 +54837,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KIRU",
-    "ward": "DANGORA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/24/06/001",
     "pu_name": "DANSOSHIYA I",
     "name": "DANSOSHIYA I",
@@ -56445,12 +54927,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KIRU",
-    "ward": "DANSOHIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/24/07/001",
     "pu_name": "DASHI, C/GARI I",
     "name": "DASHI, C/GARI I",
@@ -56499,12 +54975,6 @@
     "pu_code": "19/24/07/006",
     "pu_name": "DASHI CIKI GARI II",
     "name": "DASHI CIKI GARI II",
-    "lga": "KIRU",
-    "ward": "DASHI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KIRU",
     "ward": "DASHI",
     "state": "Kano",
@@ -56568,12 +55038,6 @@
     "pu_code": "19/24/08/007",
     "pu_name": "RINGIN TINBAU II",
     "name": "RINGIN TINBAU II",
-    "lga": "KIRU",
-    "ward": "GALADIMAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KIRU",
     "ward": "GALADIMAWA",
     "state": "Kano",
@@ -56922,12 +55386,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KIRU",
-    "ward": "KIRU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/24/10/001",
     "pu_name": "DAN-RIGA",
     "name": "DAN-RIGA",
@@ -57054,12 +55512,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KIRU",
-    "ward": "KOGO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/24/11/001",
     "pu_name": "BADA",
     "name": "BADA",
@@ -57177,12 +55629,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KIRU",
-    "ward": "MARAKU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/24/12/001",
     "pu_name": "BABEDAWA",
     "name": "BABEDAWA",
@@ -57240,12 +55686,6 @@
     "pu_code": "19/24/12/007",
     "pu_name": "LAMIN KWAI II",
     "name": "LAMIN KWAI II",
-    "lga": "KIRU",
-    "ward": "TSAUDAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KIRU",
     "ward": "TSAUDAWA",
     "state": "Kano",
@@ -57381,12 +55821,6 @@
     "pu_code": "19/24/13/015",
     "pu_name": "YAKO GIRLS SEC SCH II",
     "name": "YAKO GIRLS SEC SCH II",
-    "lga": "KIRU",
-    "ward": "YAKO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KIRU",
     "ward": "YAKO",
     "state": "Kano",
@@ -57708,12 +56142,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KIRU",
-    "ward": "YALWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/24/15/001",
     "pu_name": "DANASHINA",
     "name": "DANASHINA",
@@ -57822,12 +56250,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KIRU",
-    "ward": "ZUWO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/25/01/001",
     "pu_name": "CHALLAWA PRIMARY SCHOOL",
     "name": "CHALLAWA PRIMARY SCHOOL",
@@ -57912,12 +56334,6 @@
     "pu_code": "19/25/01/010",
     "pu_name": "A. U. PRIMARY SCHOOL",
     "name": "A. U. PRIMARY SCHOOL",
-    "lga": "KUMBOTSO",
-    "ward": "CHALLAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KUMBOTSO",
     "ward": "CHALLAWA",
     "state": "Kano",
@@ -58284,12 +56700,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KUMBOTSO",
-    "ward": "CHIRANCHI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/25/03/001",
     "pu_name": "BAKIN WATARI, PRIMARY SCHOOL",
     "name": "BAKIN WATARI, PRIMARY SCHOOL",
@@ -58509,12 +56919,6 @@
     "pu_code": "19/25/03/025",
     "pu_name": "SAMEGU PRIMARY SCHOOL",
     "name": "SAMEGU PRIMARY SCHOOL",
-    "lga": "KUMBOTSO",
-    "ward": "DANBARE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KUMBOTSO",
     "ward": "DANBARE",
     "state": "Kano",
@@ -59124,12 +57528,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KUMBOTSO",
-    "ward": "DANMALIKI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/25/05/001",
     "pu_name": "BECHI PRIMARY SCHOOL I",
     "name": "BECHI PRIMARY SCHOOL I",
@@ -59598,12 +57996,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KUMBOTSO",
-    "ward": "GURINGAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/25/06/001",
     "pu_name": "GADAMA PRIMARY SCHOOL I",
     "name": "GADAMA PRIMARY SCHOOL I",
@@ -59793,12 +58185,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KUMBOTSO",
-    "ward": "KUMBOTSO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/25/07/001",
     "pu_name": "KUREKEN SANI PRIMARY SCHOOL",
     "name": "KUREKEN SANI PRIMARY SCHOOL",
@@ -59964,12 +58350,6 @@
     "pu_code": "19/25/07/019",
     "pu_name": "MAGADAWA PRIMARY SCHOOL",
     "name": "MAGADAWA PRIMARY SCHOOL",
-    "lga": "KUMBOTSO",
-    "ward": "KUREKEN SANI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KUMBOTSO",
     "ward": "KUREKEN SANI",
     "state": "Kano",
@@ -60258,12 +58638,6 @@
     "pu_code": "19/25/08/033",
     "pu_name": "ZARA PRIMARY SCHOOL",
     "name": "ZARA PRIMARY SCHOOL",
-    "lga": "KUMBOTSO",
-    "ward": "MARIRI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KUMBOTSO",
     "ward": "MARIRI",
     "state": "Kano",
@@ -60900,12 +59274,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KUMBOTSO",
-    "ward": "NA'IBAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/25/10/001",
     "pu_name": "DARAWA OPEN SPACE (DARAWA)",
     "name": "DARAWA OPEN SPACE (DARAWA)",
@@ -61446,12 +59814,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KUMBOTSO",
-    "ward": "PANSHEKARA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/25/11/001",
     "pu_name": "LIMAWA PRIMARY SCHOOL I",
     "name": "LIMAWA PRIMARY SCHOOL I",
@@ -61563,12 +59925,6 @@
     "pu_code": "19/25/11/013",
     "pu_name": "UNGUWAR RIMI HEALTH CARE",
     "name": "UNGUWAR RIMI HEALTH CARE",
-    "lga": "KUMBOTSO",
-    "ward": "UNGUWAR RIMI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KUMBOTSO",
     "ward": "UNGUWAR RIMI",
     "state": "Kano",
@@ -61701,12 +60057,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KUNCHI",
-    "ward": "BUMAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/26/02/001",
     "pu_name": "BELBELU GARI",
     "name": "BELBELU GARI",
@@ -61809,12 +60159,6 @@
     "pu_code": "19/26/02/012",
     "pu_name": "YANRUWATA",
     "name": "YANRUWATA",
-    "lga": "KUNCHI",
-    "ward": "GARIN SHEME",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KUNCHI",
     "ward": "GARIN SHEME",
     "state": "Kano",
@@ -61932,12 +60276,6 @@
     "pu_code": "19/26/03/013",
     "pu_name": "GWARMAI ISLAMIYYA PRI SCH C/GARI",
     "name": "GWARMAI ISLAMIYYA PRI SCH C/GARI",
-    "lga": "KUNCHI",
-    "ward": "GWARMAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KUNCHI",
     "ward": "GWARMAI",
     "state": "Kano",
@@ -62124,12 +60462,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KUNCHI",
-    "ward": "KASUWAR KUKA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/26/05/001",
     "pu_name": "DAN DAKAU CIKIN GARI",
     "name": "DAN DAKAU CIKIN GARI",
@@ -62247,12 +60579,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KUNCHI",
-    "ward": "KUNCHI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/26/06/001",
     "pu_name": "BASHE I",
     "name": "BASHE I",
@@ -62361,12 +60687,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KUNCHI",
-    "ward": "MATAN FADA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/26/07/001",
     "pu_name": "GALADIMAWA",
     "name": "GALADIMAWA",
@@ -62433,12 +60753,6 @@
     "pu_code": "19/26/07/008",
     "pu_name": "RIDAWA GARI",
     "name": "RIDAWA GARI",
-    "lga": "KUNCHI",
-    "ward": "RIDAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KUNCHI",
     "ward": "RIDAWA",
     "state": "Kano",
@@ -62538,12 +60852,6 @@
     "pu_code": "19/26/08/011",
     "pu_name": "TANGEL GARI",
     "name": "TANGEL GARI",
-    "lga": "KUNCHI",
-    "ward": "SHAMAKAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KUNCHI",
     "ward": "SHAMAKAWA",
     "state": "Kano",
@@ -62739,12 +61047,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KUNCHI",
-    "ward": "SHUWAKI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/26/10/001",
     "pu_name": "DANKWAI",
     "name": "DANKWAI",
@@ -62907,12 +61209,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KUNCHI",
-    "ward": "YANDADI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/27/01/001",
     "pu_name": "AZOREN WAJE I",
     "name": "AZOREN WAJE I",
@@ -63069,12 +61365,6 @@
     "pu_code": "19/27/01/018",
     "pu_name": "GORUBAWA II",
     "name": "GORUBAWA II",
-    "lga": "KURA",
-    "ward": "DALILI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KURA",
     "ward": "DALILI",
     "state": "Kano",
@@ -63324,12 +61614,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KURA",
-    "ward": "DAN HASSAN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/27/03/001",
     "pu_name": "BAWADA",
     "name": "BAWADA",
@@ -63537,12 +61821,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KURA",
-    "ward": "DUKAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/27/04/001",
     "pu_name": "DANDALI",
     "name": "DANDALI",
@@ -63681,12 +61959,6 @@
     "pu_code": "19/27/04/016",
     "pu_name": "NASARAWA GUNDUTSE",
     "name": "NASARAWA GUNDUTSE",
-    "lga": "KURA",
-    "ward": "GUNDUTSE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KURA",
     "ward": "GUNDUTSE",
     "state": "Kano",
@@ -63909,12 +62181,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KURA",
-    "ward": "KARFI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/27/06/001",
     "pu_name": "AGOLAS",
     "name": "AGOLAS",
@@ -64080,12 +62346,6 @@
     "pu_code": "19/27/06/019",
     "pu_name": "IMAWA KUDU II",
     "name": "IMAWA KUDU II",
-    "lga": "KURA",
-    "ward": "KOSAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KURA",
     "ward": "KOSAWA",
     "state": "Kano",
@@ -64266,12 +62526,6 @@
     "pu_code": "19/27/07/020",
     "pu_name": "NUFAWA III",
     "name": "NUFAWA III",
-    "lga": "KURA",
-    "ward": "KURA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "KURA",
     "ward": "KURA",
     "state": "Kano",
@@ -64620,12 +62874,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KURA",
-    "ward": "KURUNSUMAU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/27/09/001",
     "pu_name": "BUTALAWA I",
     "name": "BUTALAWA I",
@@ -64788,12 +63036,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KURA",
-    "ward": "RIGAR DUKA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/27/10/001",
     "pu_name": "AJURU I",
     "name": "AJURU I",
@@ -64920,12 +63162,6 @@
     "state_code": "19"
   },
   {
-    "lga": "KURA",
-    "ward": "TANAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/28/01/001",
     "pu_name": "BURJI AREWA/KAFIN HAUSAWA I",
     "name": "BURJI AREWA/KAFIN HAUSAWA I",
@@ -65016,12 +63252,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MADOBI",
-    "ward": "BURJI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/28/02/001",
     "pu_name": "CINKOSO, TUDUN MAGAJI I",
     "name": "CINKOSO, TUDUN MAGAJI I",
@@ -65085,12 +63315,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MADOBI",
-    "ward": "CINKOSO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/28/03/001",
     "pu_name": "GALINJA/KUTIYAWA",
     "name": "GALINJA/KUTIYAWA",
@@ -65139,12 +63363,6 @@
     "pu_code": "19/28/03/006",
     "pu_name": "YALWAR JARMAI",
     "name": "YALWAR JARMAI",
-    "lga": "MADOBI",
-    "ward": "GALINJA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MADOBI",
     "ward": "GALINJA",
     "state": "Kano",
@@ -65367,12 +63585,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MADOBI",
-    "ward": "GORA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/28/05/001",
     "pu_name": "KAFIN' AGUR GABAS I",
     "name": "KAFIN' AGUR GABAS I",
@@ -65439,12 +63651,6 @@
     "pu_code": "19/28/05/008",
     "pu_name": "RIGAR KUYAN/AGALAWA III",
     "name": "RIGAR KUYAN/AGALAWA III",
-    "lga": "MADOBI",
-    "ward": "KAFIN AGUR",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MADOBI",
     "ward": "KAFIN AGUR",
     "state": "Kano",
@@ -65586,12 +63792,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MADOBI",
-    "ward": "KANWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/28/07/001",
     "pu_name": "DAN'AUTA/UNGUWAR SHU'AIBU I",
     "name": "DAN'AUTA/UNGUWAR SHU'AIBU I",
@@ -65658,12 +63858,6 @@
     "pu_code": "19/28/07/008",
     "pu_name": "TUDUN KOYA",
     "name": "TUDUN KOYA",
-    "lga": "MADOBI",
-    "ward": "KAURA MATA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MADOBI",
     "ward": "KAURA MATA",
     "state": "Kano",
@@ -65877,12 +64071,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MADOBI",
-    "ward": "KUBARACI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/28/09/001",
     "pu_name": "MALAMAI I",
     "name": "MALAMAI I",
@@ -66075,12 +64263,6 @@
     "pu_code": "19/28/09/022",
     "pu_name": "NINGAWA/DARE MUDU",
     "name": "NINGAWA/DARE MUDU",
-    "lga": "MADOBI",
-    "ward": "KWANKWASO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MADOBI",
     "ward": "KWANKWASO",
     "state": "Kano",
@@ -66330,12 +64512,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MADOBI",
-    "ward": "MADOBI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/28/11/001",
     "pu_name": "RIKADAWA KALO I",
     "name": "RIKADAWA KALO I",
@@ -66480,12 +64656,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MADOBI",
-    "ward": "RIKADAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/28/12/001",
     "pu_name": "YAKUN BARDE/GOBIRAWA I",
     "name": "YAKUN BARDE/GOBIRAWA I",
@@ -66525,12 +64695,6 @@
     "pu_code": "19/28/12/005",
     "pu_name": "BAREBARI/GOBURAWA",
     "name": "BAREBARI/GOBURAWA",
-    "lga": "MADOBI",
-    "ward": "YAKUN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MADOBI",
     "ward": "YAKUN",
     "state": "Kano",
@@ -66708,12 +64872,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MAKODA",
-    "ward": "BABBAR RIGA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/29/02/001",
     "pu_name": "DURMA CIKIN GARI I",
     "name": "DURMA CIKIN GARI I",
@@ -66789,12 +64947,6 @@
     "pu_code": "19/29/02/009",
     "pu_name": "UNGUWAR CHIROMA II",
     "name": "UNGUWAR CHIROMA II",
-    "lga": "MAKODA",
-    "ward": "DURMA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MAKODA",
     "ward": "DURMA",
     "state": "Kano",
@@ -66945,12 +65097,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MAKODA",
-    "ward": "JIBGA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/29/04/001",
     "pu_name": "BADE GARI",
     "name": "BADE GARI",
@@ -67089,12 +65235,6 @@
     "pu_code": "19/29/04/016",
     "pu_name": "SABARU RADE II",
     "name": "SABARU RADE II",
-    "lga": "MAKODA",
-    "ward": "KADANDANI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MAKODA",
     "ward": "KADANDANI",
     "state": "Kano",
@@ -67245,12 +65385,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MAKODA",
-    "ward": "KOGUNA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/29/06/001",
     "pu_name": "DUNAWA I",
     "name": "DUNAWA I",
@@ -67344,12 +65478,6 @@
     "pu_code": "19/29/06/011",
     "pu_name": "WAILA BURTOL",
     "name": "WAILA BURTOL",
-    "lga": "MAKODA",
-    "ward": "KOREN TATSO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MAKODA",
     "ward": "KOREN TATSO",
     "state": "Kano",
@@ -67476,12 +65604,6 @@
     "pu_code": "19/29/07/014",
     "pu_name": "UNGUWAR WAZIRI II",
     "name": "UNGUWAR WAZIRI II",
-    "lga": "MAKODA",
-    "ward": "MAITSIDAU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MAKODA",
     "ward": "MAITSIDAU",
     "state": "Kano",
@@ -67623,12 +65745,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MAKODA",
-    "ward": "MAKODA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/29/09/001",
     "pu_name": "DAWAN KAYA",
     "name": "DAWAN KAYA",
@@ -67710,12 +65826,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MAKODA",
-    "ward": "SATAME",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/29/10/001",
     "pu_name": "BAKARARI I",
     "name": "BAKARARI I",
@@ -67782,12 +65892,6 @@
     "pu_code": "19/29/10/008",
     "pu_name": "WALAWA",
     "name": "WALAWA",
-    "lga": "MAKODA",
-    "ward": "TANGAJI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MAKODA",
     "ward": "TANGAJI",
     "state": "Kano",
@@ -67893,12 +65997,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MAKODA",
-    "ward": "WAILARE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/30/01/001",
     "pu_name": "AZOR,E AZORE PRIMARY SCHOOL",
     "name": "AZOR,E AZORE PRIMARY SCHOOL",
@@ -67992,12 +66090,6 @@
     "pu_code": "19/30/01/011",
     "pu_name": "YABAWA PRIMARY SCHOOL",
     "name": "YABAWA PRIMARY SCHOOL",
-    "lga": "MINJIBIR",
-    "ward": "AZORE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MINJIBIR",
     "ward": "AZORE",
     "state": "Kano",
@@ -68121,12 +66213,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MINJIBIR",
-    "ward": "GANDURWAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/30/03/001",
     "pu_name": "GARKE, PRIMARY SCHOOL I",
     "name": "GARKE, PRIMARY SCHOOL I",
@@ -68220,12 +66306,6 @@
     "pu_code": "19/30/03/011",
     "pu_name": "KANTAMA CIKIN GARIPRIMARY SCHOOL",
     "name": "KANTAMA CIKIN GARIPRIMARY SCHOOL",
-    "lga": "MINJIBIR",
-    "ward": "KANTAMA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MINJIBIR",
     "ward": "KANTAMA",
     "state": "Kano",
@@ -68439,12 +66519,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MINJIBIR",
-    "ward": "KUNYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/30/05/001",
     "pu_name": "DUGUJI, PRIMARY SCHOOL",
     "name": "DUGUJI, PRIMARY SCHOOL",
@@ -68607,12 +66681,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MINJIBIR",
-    "ward": "KURU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/30/06/001",
     "pu_name": "AUDARAN/YANHULA GIDAN MAI UNGUWA",
     "name": "AUDARAN/YANHULA GIDAN MAI UNGUWA",
@@ -68706,12 +66774,6 @@
     "pu_code": "19/30/06/011",
     "pu_name": "ANSARUDDIN ISLAMIYYA LIFADAWA",
     "name": "ANSARUDDIN ISLAMIYYA LIFADAWA",
-    "lga": "MINJIBIR",
-    "ward": "KWARKIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MINJIBIR",
     "ward": "KWARKIYA",
     "state": "Kano",
@@ -68970,12 +67032,6 @@
     "state_code": "19"
   },
   {
-    "lga": "MINJIBIR",
-    "ward": "MINJIBIR",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/30/08/001",
     "pu_name": "BAGGAS GABAS, GIDAN MAI UNGUWA",
     "name": "BAGGAS GABAS, GIDAN MAI UNGUWA",
@@ -69051,12 +67107,6 @@
     "pu_code": "19/30/08/009",
     "pu_name": "ZANGO GINDUWAOPEN SPACE",
     "name": "ZANGO GINDUWAOPEN SPACE",
-    "lga": "MINJIBIR",
-    "ward": "SARBI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MINJIBIR",
     "ward": "SARBI",
     "state": "Kano",
@@ -69147,12 +67197,6 @@
     "pu_code": "19/30/09/010",
     "pu_name": "TSAKIYA PRIMARYSCHOOL",
     "name": "TSAKIYA PRIMARYSCHOOL",
-    "lga": "MINJIBIR",
-    "ward": "TSAKIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MINJIBIR",
     "ward": "TSAKIYA",
     "state": "Kano",
@@ -69297,12 +67341,6 @@
     "pu_code": "19/30/10/016",
     "pu_name": "GOVERNMENTJUNIOR SECONDARY SCHOOL",
     "name": "GOVERNMENTJUNIOR SECONDARY SCHOOL",
-    "lga": "MINJIBIR",
-    "ward": "TSAKUWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MINJIBIR",
     "ward": "TSAKUWA",
     "state": "Kano",
@@ -69492,12 +67530,6 @@
     "pu_code": "19/30/11/021",
     "pu_name": "WASAI KUDU/GABAS PRIMARYSCHOOL",
     "name": "WASAI KUDU/GABAS PRIMARYSCHOOL",
-    "lga": "MINJIBIR",
-    "ward": "WASAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "MINJIBIR",
     "ward": "WASAI",
     "state": "Kano",
@@ -70029,12 +68061,6 @@
     "pu_code": "19/31/01/059",
     "pu_name": "K A S C O",
     "name": "K A S C O",
-    "lga": "NASARAWA",
-    "ward": "DAKATA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "NASARAWA",
     "ward": "DAKATA",
     "state": "Kano",
@@ -70833,12 +68859,6 @@
     "state_code": "19"
   },
   {
-    "lga": "NASARAWA",
-    "ward": "GAMA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/31/03/001",
     "pu_name": "BRIGADE PRIMARY SCHOOL I",
     "name": "BRIGADE PRIMARY SCHOOL I",
@@ -71373,12 +69393,6 @@
     "pu_code": "19/31/03/060",
     "pu_name": "LAYIN GIDAN AUWALU MAI SHARI'A",
     "name": "LAYIN GIDAN AUWALU MAI SHARI'A",
-    "lga": "NASARAWA",
-    "ward": "GAWUNA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "NASARAWA",
     "ward": "GAWUNA",
     "state": "Kano",
@@ -72027,12 +70041,6 @@
     "pu_code": "19/31/04/072",
     "pu_name": "LAWAN DANBABA GWAGWARWA",
     "name": "LAWAN DANBABA GWAGWARWA",
-    "lga": "NASARAWA",
-    "ward": "GWAGWARWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "NASARAWA",
     "ward": "GWAGWARWA",
     "state": "Kano",
@@ -73353,12 +71361,6 @@
     "state_code": "19"
   },
   {
-    "lga": "NASARAWA",
-    "ward": "GIGINYU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/31/06/001",
     "pu_name": "HOTORO NORTH, PRIMARY SCHOOL I",
     "name": "HOTORO NORTH, PRIMARY SCHOOL I",
@@ -73677,12 +71679,6 @@
     "pu_code": "19/31/06/036",
     "pu_name": "TINSHAMA TRANSFORMER LAYIN CUSTOM II",
     "name": "TINSHAMA TRANSFORMER LAYIN CUSTOM II",
-    "lga": "NASARAWA",
-    "ward": "HOTORO NORTH",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "NASARAWA",
     "ward": "HOTORO NORTH",
     "state": "Kano",
@@ -74187,12 +72183,6 @@
     "pu_code": "19/31/07/056",
     "pu_name": "BAYAN STORE",
     "name": "BAYAN STORE",
-    "lga": "NASARAWA",
-    "ward": "HOTORO SOUTH",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "NASARAWA",
     "ward": "HOTORO SOUTH",
     "state": "Kano",
@@ -75003,12 +72993,6 @@
     "pu_code": "19/31/08/090",
     "pu_name": "TOKARAWA PRI. SCH. V",
     "name": "TOKARAWA PRI. SCH. V",
-    "lga": "NASARAWA",
-    "ward": "KAWAJI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "NASARAWA",
     "ward": "KAWAJI",
     "state": "Kano",
@@ -75852,12 +73836,6 @@
     "state_code": "19"
   },
   {
-    "lga": "NASARAWA",
-    "ward": "KAURA GOJE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/31/10/001",
     "pu_name": "GETSI I",
     "name": "GETSI I",
@@ -76461,12 +74439,6 @@
     "state_code": "19"
   },
   {
-    "lga": "NASARAWA",
-    "ward": "TUDUN MURTALA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/31/11/001",
     "pu_name": "BOMPAI POLICE STATION I",
     "name": "BOMPAI POLICE STATION I",
@@ -76917,12 +74889,6 @@
     "state_code": "19"
   },
   {
-    "lga": "NASARAWA",
-    "ward": "TUDUN WADA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/32/01/001",
     "pu_name": "CHAKWAYA",
     "name": "CHAKWAYA",
@@ -77076,12 +75042,6 @@
     "state_code": "19"
   },
   {
-    "lga": "RANO",
-    "ward": "DAWAKI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/32/02/001",
     "pu_name": "KAMBARAWA",
     "name": "KAMBARAWA",
@@ -77175,12 +75135,6 @@
     "pu_code": "19/32/02/011",
     "pu_name": "G.I.S.S SHANGU",
     "name": "G.I.S.S SHANGU",
-    "lga": "RANO",
-    "ward": "LAUSU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "RANO",
     "ward": "LAUSU",
     "state": "Kano",
@@ -77334,12 +75288,6 @@
     "pu_code": "19/32/03/017",
     "pu_name": "NANA KHADIJA ISLAMIYYA",
     "name": "NANA KHADIJA ISLAMIYYA",
-    "lga": "RANO",
-    "ward": "MADACHI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "RANO",
     "ward": "MADACHI",
     "state": "Kano",
@@ -77625,12 +75573,6 @@
     "state_code": "19"
   },
   {
-    "lga": "RANO",
-    "ward": "RANO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/32/05/001",
     "pu_name": "BAKIN INJI I",
     "name": "BAKIN INJI I",
@@ -77775,12 +75717,6 @@
     "state_code": "19"
   },
   {
-    "lga": "RANO",
-    "ward": "RURUM SABON-GARI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/32/06/001",
     "pu_name": "J.S.S. RURUM I",
     "name": "J.S.S. RURUM I",
@@ -77916,12 +75852,6 @@
     "state_code": "19"
   },
   {
-    "lga": "RANO",
-    "ward": "RURUM TSOHON-GARI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/32/07/001",
     "pu_name": "DANGAGE",
     "name": "DANGAGE",
@@ -78033,12 +75963,6 @@
     "pu_code": "19/32/07/013",
     "pu_name": "GABAS DA GARI",
     "name": "GABAS DA GARI",
-    "lga": "RANO",
-    "ward": "SAJI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "RANO",
     "ward": "SAJI",
     "state": "Kano",
@@ -78198,12 +76122,6 @@
     "state_code": "19"
   },
   {
-    "lga": "RANO",
-    "ward": "YALWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/32/09/001",
     "pu_name": "BAIZO",
     "name": "BAIZO",
@@ -78288,12 +76206,6 @@
     "pu_code": "19/32/09/010",
     "pu_name": "TAFIZUL QUR'AN GIDAN DAJE",
     "name": "TAFIZUL QUR'AN GIDAN DAJE",
-    "lga": "RANO",
-    "ward": "ZINYAU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "RANO",
     "ward": "ZINYAU",
     "state": "Kano",
@@ -78444,12 +76356,6 @@
     "state_code": "19"
   },
   {
-    "lga": "RANO",
-    "ward": "ZURGU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/33/01/001",
     "pu_name": "AKALAWA, KOFAR MAI UNGUWA I",
     "name": "AKALAWA, KOFAR MAI UNGUWA I",
@@ -78576,12 +76482,6 @@
     "state_code": "19"
   },
   {
-    "lga": "RIMIN GADO",
-    "ward": "BUTU-BUTU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/33/02/001",
     "pu_name": "ASAKALA OPEN SPACE",
     "name": "ASAKALA OPEN SPACE",
@@ -78639,12 +76539,6 @@
     "pu_code": "19/33/02/007",
     "pu_name": "KWARIN HAIDO, OPEN SPACE II",
     "name": "KWARIN HAIDO, OPEN SPACE II",
-    "lga": "RIMIN GADO",
-    "ward": "DAWAKIN GULU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "RIMIN GADO",
     "ward": "DAWAKIN GULU",
     "state": "Kano",
@@ -78750,12 +76644,6 @@
     "state_code": "19"
   },
   {
-    "lga": "RIMIN GADO",
-    "ward": "DOKA DAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/33/04/001",
     "pu_name": "BANKAMAWA, ISLAMIYYAH PRIMARY SCHOOL I",
     "name": "BANKAMAWA, ISLAMIYYAH PRIMARY SCHOOL I",
@@ -78813,12 +76701,6 @@
     "pu_code": "19/33/04/007",
     "pu_name": "MAGADAWA, OPEN SPACE",
     "name": "MAGADAWA, OPEN SPACE",
-    "lga": "RIMIN GADO",
-    "ward": "DUGURAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "RIMIN GADO",
     "ward": "DUGURAWA",
     "state": "Kano",
@@ -78960,12 +76842,6 @@
     "state_code": "19"
   },
   {
-    "lga": "RIMIN GADO",
-    "ward": "GULU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/33/06/001",
     "pu_name": "BADAWA PRIMARY SCHOOL",
     "name": "BADAWA PRIMARY SCHOOL",
@@ -79083,12 +76959,6 @@
     "state_code": "19"
   },
   {
-    "lga": "RIMIN GADO",
-    "ward": "JILI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/33/07/001",
     "pu_name": "CHILLAWA OPEN SPACE",
     "name": "CHILLAWA OPEN SPACE",
@@ -79164,12 +77034,6 @@
     "pu_code": "19/33/07/009",
     "pu_name": "KAROFIN YASHI CIKIN GARI PRI. SCH II",
     "name": "KAROFIN YASHI CIKIN GARI PRI. SCH II",
-    "lga": "RIMIN GADO",
-    "ward": "KAROFIN YASHI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "RIMIN GADO",
     "ward": "KAROFIN YASHI",
     "state": "Kano",
@@ -79320,12 +77184,6 @@
     "state_code": "19"
   },
   {
-    "lga": "RIMIN GADO",
-    "ward": "RIMIN GADO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/33/09/001",
     "pu_name": "BAMBARA OPEN SPACE",
     "name": "BAMBARA OPEN SPACE",
@@ -79383,12 +77241,6 @@
     "pu_code": "19/33/09/007",
     "pu_name": "SAKARATSA CIKIN GARI PRIMARY SCHOOL II",
     "name": "SAKARATSA CIKIN GARI PRIMARY SCHOOL II",
-    "lga": "RIMIN GADO",
-    "ward": "SAKARATSA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "RIMIN GADO",
     "ward": "SAKARATSA",
     "state": "Kano",
@@ -79479,12 +77331,6 @@
     "pu_code": "19/33/10/010",
     "pu_name": "ZURI PRI. SCH. II",
     "name": "ZURI PRI. SCH. II",
-    "lga": "RIMIN GADO",
-    "ward": "TAMAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "RIMIN GADO",
     "ward": "TAMAWA",
     "state": "Kano",
@@ -79644,12 +77490,6 @@
     "state_code": "19"
   },
   {
-    "lga": "RIMIN GADO",
-    "ward": "YALWAN DANZIYAL",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/33/12/001",
     "pu_name": "DUWATSU, OPEN SPACE",
     "name": "DUWATSU, OPEN SPACE",
@@ -79734,12 +77574,6 @@
     "pu_code": "19/33/12/010",
     "pu_name": "RINJIN SHIRI PRI. SCH. II",
     "name": "RINJIN SHIRI PRI. SCH. II",
-    "lga": "RIMIN GADO",
-    "ward": "ZANGO DAN ABDU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "RIMIN GADO",
     "ward": "ZANGO DAN ABDU",
     "state": "Kano",
@@ -79944,12 +77778,6 @@
     "state_code": "19"
   },
   {
-    "lga": "ROGO",
-    "ward": "BELI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/34/02/001",
     "pu_name": "DAYASON MAKERA",
     "name": "DAYASON MAKERA",
@@ -80130,12 +77958,6 @@
     "state_code": "19"
   },
   {
-    "lga": "ROGO",
-    "ward": "FALGORE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/34/03/001",
     "pu_name": "FULATAN CIKIN GARI I",
     "name": "FULATAN CIKIN GARI I",
@@ -80307,12 +78129,6 @@
     "state_code": "19"
   },
   {
-    "lga": "ROGO",
-    "ward": "FULATAN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/34/04/001",
     "pu_name": "BARI I",
     "name": "BARI I",
@@ -80475,12 +78291,6 @@
     "state_code": "19"
   },
   {
-    "lga": "ROGO",
-    "ward": "GWANGWAN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/34/05/001",
     "pu_name": "AREWAWA",
     "name": "AREWAWA",
@@ -80601,12 +78411,6 @@
     "pu_code": "19/34/05/014",
     "pu_name": "PRI. SCH.",
     "name": "PRI. SCH.",
-    "lga": "ROGO",
-    "ward": "JAJAYE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "ROGO",
     "ward": "JAJAYE",
     "state": "Kano",
@@ -80814,12 +78618,6 @@
     "pu_code": "19/34/06/023",
     "pu_name": "ZAMFARAWA",
     "name": "ZAMFARAWA",
-    "lga": "ROGO",
-    "ward": "ROGO RUMA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "ROGO",
     "ward": "ROGO RUMA",
     "state": "Kano",
@@ -81105,12 +78903,6 @@
     "state_code": "19"
   },
   {
-    "lga": "ROGO",
-    "ward": "ROGO SABON GARI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/34/08/001",
     "pu_name": "DANSAMBO",
     "name": "DANSAMBO",
@@ -81285,12 +79077,6 @@
     "pu_code": "19/34/08/020",
     "pu_name": "G.G.J.S.S SUNDU",
     "name": "G.G.J.S.S SUNDU",
-    "lga": "ROGO",
-    "ward": "RUWAN BAGO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "ROGO",
     "ward": "RUWAN BAGO",
     "state": "Kano",
@@ -81540,12 +79326,6 @@
     "state_code": "19"
   },
   {
-    "lga": "ROGO",
-    "ward": "ZAREWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/34/10/001",
     "pu_name": "AGALAWA",
     "name": "AGALAWA",
@@ -81780,12 +79560,6 @@
     "state_code": "19"
   },
   {
-    "lga": "ROGO",
-    "ward": "ZOZA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/35/01/001",
     "pu_name": "ALAJAWA CIKIN GARI I",
     "name": "ALAJAWA CIKIN GARI I",
@@ -81861,12 +79635,6 @@
     "pu_code": "19/35/01/009",
     "pu_name": "NASARAWA",
     "name": "NASARAWA",
-    "lga": "SHANONO",
-    "ward": "ALAJAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "SHANONO",
     "ward": "ALAJAWA",
     "state": "Kano",
@@ -82011,12 +79779,6 @@
     "pu_code": "19/35/02/016",
     "pu_name": "KANKARA (B)",
     "name": "KANKARA (B)",
-    "lga": "SHANONO",
-    "ward": "DUTSEN-BAKOSHI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "SHANONO",
     "ward": "DUTSEN-BAKOSHI",
     "state": "Kano",
@@ -82194,12 +79956,6 @@
     "state_code": "19"
   },
   {
-    "lga": "SHANONO",
-    "ward": "FARURUWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/35/04/001",
     "pu_name": "BAKAJI I",
     "name": "BAKAJI I",
@@ -82335,12 +80091,6 @@
     "state_code": "19"
   },
   {
-    "lga": "SHANONO",
-    "ward": "GORON DUTSE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/35/05/001",
     "pu_name": "DANKINJI",
     "name": "DANKINJI",
@@ -82467,12 +80217,6 @@
     "state_code": "19"
   },
   {
-    "lga": "SHANONO",
-    "ward": "KADAMU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/35/06/001",
     "pu_name": "GUDAN-TUWO I",
     "name": "GUDAN-TUWO I",
@@ -82563,12 +80307,6 @@
     "state_code": "19"
   },
   {
-    "lga": "SHANONO",
-    "ward": "KOKIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/35/07/001",
     "pu_name": "BADUMAWA",
     "name": "BADUMAWA",
@@ -82635,12 +80373,6 @@
     "pu_code": "19/35/07/008",
     "pu_name": "GAMJI",
     "name": "GAMJI",
-    "lga": "SHANONO",
-    "ward": "LENI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "SHANONO",
     "ward": "LENI",
     "state": "Kano",
@@ -82767,12 +80499,6 @@
     "pu_code": "19/35/08/015",
     "pu_name": "UNGUWAR YAMMA",
     "name": "UNGUWAR YAMMA",
-    "lga": "SHANONO",
-    "ward": "SHAKOGI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "SHANONO",
     "ward": "SHAKOGI",
     "state": "Kano",
@@ -83040,12 +80766,6 @@
     "state_code": "19"
   },
   {
-    "lga": "SHANONO",
-    "ward": "SHANONO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/35/10/001",
     "pu_name": "BADUMAWA",
     "name": "BADUMAWA",
@@ -83175,12 +80895,6 @@
     "pu_code": "19/35/10/015",
     "pu_name": "TSAURE (B)",
     "name": "TSAURE (B)",
-    "lga": "SHANONO",
-    "ward": "TSAURE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "SHANONO",
     "ward": "TSAURE",
     "state": "Kano",
@@ -83376,12 +81090,6 @@
     "state_code": "19"
   },
   {
-    "lga": "SUMAILA",
-    "ward": "GALA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/36/02/001",
     "pu_name": "BAGAGARE",
     "name": "BAGAGARE",
@@ -83553,12 +81261,6 @@
     "state_code": "19"
   },
   {
-    "lga": "SUMAILA",
-    "ward": "GANI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/36/03/001",
     "pu_name": "AGALAWA",
     "name": "AGALAWA",
@@ -83679,12 +81381,6 @@
     "pu_code": "19/36/03/015",
     "pu_name": "GARFA C/GARI PRI. SCH IV",
     "name": "GARFA C/GARI PRI. SCH IV",
-    "lga": "SUMAILA",
-    "ward": "GARFA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "SUMAILA",
     "ward": "GARFA",
     "state": "Kano",
@@ -83871,12 +81567,6 @@
     "state_code": "19"
   },
   {
-    "lga": "SUMAILA",
-    "ward": "GEDIYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/36/05/001",
     "pu_name": "BANGO, C/GARI PRIMARY SCHOOL",
     "name": "BANGO, C/GARI PRIMARY SCHOOL",
@@ -84006,12 +81696,6 @@
     "pu_code": "19/36/05/015",
     "pu_name": "KANAWA C/GARI PRI. SCH V",
     "name": "KANAWA C/GARI PRI. SCH V",
-    "lga": "SUMAILA",
-    "ward": "KANAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "SUMAILA",
     "ward": "KANAWA",
     "state": "Kano",
@@ -84216,12 +81900,6 @@
     "state_code": "19"
   },
   {
-    "lga": "SUMAILA",
-    "ward": "MAGAMI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/36/07/001",
     "pu_name": "DAGORA 'A' PRIMARY SCHOOL I",
     "name": "DAGORA 'A' PRIMARY SCHOOL I",
@@ -84360,12 +82038,6 @@
     "pu_code": "19/36/07/016",
     "pu_name": "MASU C/GARI PRI SCH V",
     "name": "MASU C/GARI PRI SCH V",
-    "lga": "SUMAILA",
-    "ward": "MASU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "SUMAILA",
     "ward": "MASU",
     "state": "Kano",
@@ -84579,12 +82251,6 @@
     "state_code": "19"
   },
   {
-    "lga": "SUMAILA",
-    "ward": "RIMI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/36/09/001",
     "pu_name": "BAURE",
     "name": "BAURE",
@@ -84696,12 +82362,6 @@
     "pu_code": "19/36/09/013",
     "pu_name": "RIYI PRIMARY SCHOOL",
     "name": "RIYI PRIMARY SCHOOL",
-    "lga": "SUMAILA",
-    "ward": "RUMO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "SUMAILA",
     "ward": "RUMO",
     "state": "Kano",
@@ -84873,12 +82533,6 @@
     "pu_code": "19/36/10/019",
     "pu_name": "SITTI C/GARI PRI SCH V",
     "name": "SITTI C/GARI PRI SCH V",
-    "lga": "SUMAILA",
-    "ward": "SITTI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "SUMAILA",
     "ward": "SITTI",
     "state": "Kano",
@@ -85227,12 +82881,6 @@
     "state_code": "19"
   },
   {
-    "lga": "SUMAILA",
-    "ward": "SUMAILA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/37/01/001",
     "pu_name": "BAGWARO GABAS",
     "name": "BAGWARO GABAS",
@@ -85371,12 +83019,6 @@
     "pu_code": "19/37/01/016",
     "pu_name": "UNGUWAR GAUDE",
     "name": "UNGUWAR GAUDE",
-    "lga": "TAKAI",
-    "ward": "BAGWARO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TAKAI",
     "ward": "BAGWARO",
     "state": "Kano",
@@ -85653,12 +83295,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TAKAI",
-    "ward": "DURBUNDE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/37/03/001",
     "pu_name": "DARA",
     "name": "DARA",
@@ -85833,12 +83469,6 @@
     "pu_code": "19/37/03/020",
     "pu_name": "UNGUWAN MAJE PRIMARY SCHOOL",
     "name": "UNGUWAN MAJE PRIMARY SCHOOL",
-    "lga": "TAKAI",
-    "ward": "FAJEWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TAKAI",
     "ward": "FAJEWA",
     "state": "Kano",
@@ -86025,12 +83655,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TAKAI",
-    "ward": "FALALI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/37/05/001",
     "pu_name": "DAMBAZAU KUDU I",
     "name": "DAMBAZAU KUDU I",
@@ -86196,12 +83820,6 @@
     "pu_code": "19/37/05/019",
     "pu_name": "JIGAWA PRIMARY SCHOOL II",
     "name": "JIGAWA PRIMARY SCHOOL II",
-    "lga": "TAKAI",
-    "ward": "FARURUWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TAKAI",
     "ward": "FARURUWA",
     "state": "Kano",
@@ -86640,12 +84258,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TAKAI",
-    "ward": "KACHAKO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/37/07/001",
     "pu_name": "ABALDU",
     "name": "ABALDU",
@@ -86799,12 +84411,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TAKAI",
-    "ward": "KARFI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/37/08/001",
     "pu_name": "DALAWA",
     "name": "DALAWA",
@@ -86934,12 +84540,6 @@
     "pu_code": "19/37/08/015",
     "pu_name": "SIDDA ISLAMIYA PRIMARY SCHOOL",
     "name": "SIDDA ISLAMIYA PRIMARY SCHOOL",
-    "lga": "TAKAI",
-    "ward": "KUKA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TAKAI",
     "ward": "KUKA",
     "state": "Kano",
@@ -87387,12 +84987,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TAKAI",
-    "ward": "TAKAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/37/10/001",
     "pu_name": "KOGO GABAS",
     "name": "KOGO GABAS",
@@ -87540,12 +85134,6 @@
     "pu_code": "19/37/10/017",
     "pu_name": "ZUGA ISLAMIYA PRIMARY SCHOOL KUDU",
     "name": "ZUGA ISLAMIYA PRIMARY SCHOOL KUDU",
-    "lga": "TAKAI",
-    "ward": "ZUGA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TAKAI",
     "ward": "ZUGA",
     "state": "Kano",
@@ -88065,12 +85653,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TARAUNI",
-    "ward": "BABBAN GIJI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/38/02/001",
     "pu_name": "DARMANAWA I",
     "name": "DARMANAWA I",
@@ -88503,12 +86085,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TARAUNI",
-    "ward": "DARMANAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/38/03/001",
     "pu_name": "DAURAWA PRIMARY SCHOOL I",
     "name": "DAURAWA PRIMARY SCHOOL I",
@@ -88923,12 +86499,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TARAUNI",
-    "ward": "DAURAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/38/04/001",
     "pu_name": "GYADI GYADI-ISLAMIYYA SCHOOL I",
     "name": "GYADI GYADI-ISLAMIYYA SCHOOL I",
@@ -89211,12 +86781,6 @@
     "pu_code": "19/38/04/032",
     "pu_name": "WOMEN CENTRE VIII",
     "name": "WOMEN CENTRE VIII",
-    "lga": "TARAUNI",
-    "ward": "GYADI-GYADI AREWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TARAUNI",
     "ward": "GYADI-GYADI AREWA",
     "state": "Kano",
@@ -89514,12 +87078,6 @@
     "pu_code": "19/38/05/033",
     "pu_name": "G.S.S.S GYADI GYADI XV",
     "name": "G.S.S.S GYADI GYADI XV",
-    "lga": "TARAUNI",
-    "ward": "GYADI-GYADI KUDU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TARAUNI",
     "ward": "GYADI-GYADI KUDU",
     "state": "Kano",
@@ -89931,12 +87489,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TARAUNI",
-    "ward": "HOTORO (NNPC)",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/38/07/001",
     "pu_name": "GORIBAR ISIYAKU I",
     "name": "GORIBAR ISIYAKU I",
@@ -90297,12 +87849,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TARAUNI",
-    "ward": "KAUYEN  ALU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/38/08/001",
     "pu_name": "TARAUNI GARDEN I",
     "name": "TARAUNI GARDEN I",
@@ -90594,12 +88140,6 @@
     "pu_code": "19/38/08/033",
     "pu_name": "GGASSS TARAUNIN KUDU XII",
     "name": "GGASSS TARAUNIN KUDU XII",
-    "lga": "TARAUNI",
-    "ward": "TARAUNI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TARAUNI",
     "ward": "TARAUNI",
     "state": "Kano",
@@ -90969,12 +88509,6 @@
     "pu_code": "19/38/09/041",
     "pu_name": "GJSS TUDUN FULANI II",
     "name": "GJSS TUDUN FULANI II",
-    "lga": "TARAUNI",
-    "ward": "UNGUWAR GANO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TARAUNI",
     "ward": "UNGUWAR GANO",
     "state": "Kano",
@@ -91431,12 +88965,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TARAUNI",
-    "ward": "UNGUWA  UKU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/39/01/001",
     "pu_name": "DINDERE PRIMARY SCHOOL",
     "name": "DINDERE PRIMARY SCHOOL",
@@ -91476,12 +89004,6 @@
     "pu_code": "19/39/01/005",
     "pu_name": "DINDERE PRI. SCH II",
     "name": "DINDERE PRI. SCH II",
-    "lga": "TOFA",
-    "ward": "DINDERE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TOFA",
     "ward": "DINDERE",
     "state": "Kano",
@@ -91578,12 +89100,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TOFA",
-    "ward": "DOKA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/39/03/001",
     "pu_name": "BUGAYAWA TURAKI",
     "name": "BUGAYAWA TURAKI",
@@ -91647,12 +89163,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TOFA",
-    "ward": "GAJIDA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/39/04/001",
     "pu_name": "GINSAWA C/GARI-GINDIN TSAMIYA",
     "name": "GINSAWA C/GARI-GINDIN TSAMIYA",
@@ -91692,12 +89202,6 @@
     "pu_code": "19/39/04/005",
     "pu_name": "MAKAURATA PRI. SCH. II",
     "name": "MAKAURATA PRI. SCH. II",
-    "lga": "TOFA",
-    "ward": "GINSAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TOFA",
     "ward": "GINSAWA",
     "state": "Kano",
@@ -91761,12 +89265,6 @@
     "pu_code": "19/39/05/007",
     "pu_name": "LARABAWA ISLAMIYYA PRI. SCH.",
     "name": "LARABAWA ISLAMIYYA PRI. SCH.",
-    "lga": "TOFA",
-    "ward": "JAUBEN KUDU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TOFA",
     "ward": "JAUBEN KUDU",
     "state": "Kano",
@@ -91863,12 +89361,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TOFA",
-    "ward": "JANGUZA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/39/07/001",
     "pu_name": "GUDDA, PRIMARY SCHOOL I",
     "name": "GUDDA, PRIMARY SCHOOL I",
@@ -91908,12 +89400,6 @@
     "pu_code": "19/39/07/005",
     "pu_name": "RUGA, PRIMARY SCHOOL",
     "name": "RUGA, PRIMARY SCHOOL",
-    "lga": "TOFA",
-    "ward": "KWAMI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TOFA",
     "ward": "KWAMI",
     "state": "Kano",
@@ -92073,12 +89559,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TOFA",
-    "ward": "LAMBU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/39/09/001",
     "pu_name": "JAMA'AR ZAILANI, OPEN SPACE",
     "name": "JAMA'AR ZAILANI, OPEN SPACE",
@@ -92163,12 +89643,6 @@
     "pu_code": "19/39/09/010",
     "pu_name": "JAMA'AR ZAILANI PRI. SCH.",
     "name": "JAMA'AR ZAILANI PRI. SCH.",
-    "lga": "TOFA",
-    "ward": "LANGEL",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TOFA",
     "ward": "LANGEL",
     "state": "Kano",
@@ -92382,12 +89856,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TOFA",
-    "ward": "TOFA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/39/11/001",
     "pu_name": "FANSHATA, KOFAR MAI UNGUWA",
     "name": "FANSHATA, KOFAR MAI UNGUWA",
@@ -92523,12 +89991,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TOFA",
-    "ward": "UNGUWAR RIMI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/39/12/001",
     "pu_name": "FAKO, FAKO OPEN SPACE",
     "name": "FAKO, FAKO OPEN SPACE",
@@ -92601,12 +90063,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TOFA",
-    "ward": "WANGARA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/39/13/001",
     "pu_name": "KARAL BOKO, OPEN SPACE",
     "name": "KARAL BOKO, OPEN SPACE",
@@ -92637,12 +90093,6 @@
     "pu_code": "19/39/13/004",
     "pu_name": "YALWA KARAMA C/GARI, PRIMARY SCHOOL II",
     "name": "YALWA KARAMA C/GARI, PRIMARY SCHOOL II",
-    "lga": "TOFA",
-    "ward": "YALWA KARAMA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TOFA",
     "ward": "YALWA KARAMA",
     "state": "Kano",
@@ -92766,12 +90216,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TOFA",
-    "ward": "YANOKO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/39/15/001",
     "pu_name": "DAN AMAR,  GIDAN SHANU",
     "name": "DAN AMAR,  GIDAN SHANU",
@@ -92838,12 +90282,6 @@
     "pu_code": "19/39/15/008",
     "pu_name": "HAYEWA HEALTH POST II",
     "name": "HAYEWA HEALTH POST II",
-    "lga": "TOFA",
-    "ward": "YARIMAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TOFA",
     "ward": "YARIMAWA",
     "state": "Kano",
@@ -92934,12 +90372,6 @@
     "pu_code": "19/40/01/010",
     "pu_name": "YAN MAMMAN II",
     "name": "YAN MAMMAN II",
-    "lga": "TSANYAWA",
-    "ward": "DADDARAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TSANYAWA",
     "ward": "DADDARAWA",
     "state": "Kano",
@@ -93090,12 +90522,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TSANYAWA",
-    "ward": "DUNBULUN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/40/03/001",
     "pu_name": "DORAYI SALIHAWA",
     "name": "DORAYI SALIHAWA",
@@ -93189,12 +90615,6 @@
     "pu_code": "19/40/03/011",
     "pu_name": "GOZARKI SALIHAWA II",
     "name": "GOZARKI SALIHAWA II",
-    "lga": "TSANYAWA",
-    "ward": "GOZAKI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TSANYAWA",
     "ward": "GOZAKI",
     "state": "Kano",
@@ -93372,12 +90792,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TSANYAWA",
-    "ward": "GURUN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/40/05/001",
     "pu_name": "CHINAMA ISLAMIYA PRIMARY SCHOOL (CHIMAWA)",
     "name": "CHINAMA ISLAMIYA PRIMARY SCHOOL (CHIMAWA)",
@@ -93549,12 +90963,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TSANYAWA",
-    "ward": "KABAGIWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/40/06/001",
     "pu_name": "CIKIN GARI TATSAN I ISLAMIYYA SCHOOL (CIKIN GARI TATSAN I)",
     "name": "CIKIN GARI TATSAN I ISLAMIYYA SCHOOL (CIKIN GARI TATSAN I)",
@@ -93720,12 +91128,6 @@
     "pu_code": "19/40/06/019",
     "pu_name": "DORAYI ISLAMIYYA II",
     "name": "DORAYI ISLAMIYYA II",
-    "lga": "TSANYAWA",
-    "ward": "TATSAN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TSANYAWA",
     "ward": "TATSAN",
     "state": "Kano",
@@ -93912,12 +91314,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TSANYAWA",
-    "ward": "TSANYAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/40/08/001",
     "pu_name": "BABBAN DUHU",
     "name": "BABBAN DUHU",
@@ -94029,12 +91425,6 @@
     "pu_code": "19/40/08/013",
     "pu_name": "YANGANAU II",
     "name": "YANGANAU II",
-    "lga": "TSANYAWA",
-    "ward": "YANGANAU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TSANYAWA",
     "ward": "YANGANAU",
     "state": "Kano",
@@ -94203,12 +91593,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TSANYAWA",
-    "ward": "YANKAMAYE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/40/10/001",
     "pu_name": "BABBAN DUHU NEAR KOFAR GIDAN MAI UNGUWA (BABA DUHU)",
     "name": "BABBAN DUHU NEAR KOFAR GIDAN MAI UNGUWA (BABA DUHU)",
@@ -94311,12 +91695,6 @@
     "pu_code": "19/40/10/012",
     "pu_name": "ZAROGI II",
     "name": "ZAROGI II",
-    "lga": "TSANYAWA",
-    "ward": "ZAROGI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TSANYAWA",
     "ward": "ZAROGI",
     "state": "Kano",
@@ -94488,12 +91866,6 @@
     "pu_code": "19/41/01/019",
     "pu_name": "UNGUWAN DOKA PRI.SCHOOL",
     "name": "UNGUWAN DOKA PRI.SCHOOL",
-    "lga": "TUDUN WADA",
-    "ward": "BABURI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TUDUN WADA",
     "ward": "BABURI",
     "state": "Kano",
@@ -94707,12 +92079,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TUDUN WADA",
-    "ward": "BURUMBURUM",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/41/03/001",
     "pu_name": "DALAWA C/GARI",
     "name": "DALAWA C/GARI",
@@ -94878,12 +92244,6 @@
     "pu_code": "19/41/03/019",
     "pu_name": "DALAWA",
     "name": "DALAWA",
-    "lga": "TUDUN WADA",
-    "ward": "DALAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TUDUN WADA",
     "ward": "DALAWA",
     "state": "Kano",
@@ -95100,12 +92460,6 @@
     "pu_code": "19/41/04/024",
     "pu_name": "UNG. MAI TASHE PRI. SCH.",
     "name": "UNG. MAI TASHE PRI. SCH.",
-    "lga": "TUDUN WADA",
-    "ward": "JANDUTSE",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TUDUN WADA",
     "ward": "JANDUTSE",
     "state": "Kano",
@@ -95337,12 +92691,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TUDUN WADA",
-    "ward": "JITA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/41/06/001",
     "pu_name": "KAREFA PRY SCHOOL I",
     "name": "KAREFA PRY SCHOOL I",
@@ -95544,12 +92892,6 @@
     "pu_code": "19/41/06/023",
     "pu_name": "YALWAN RUGU-RUGU",
     "name": "YALWAN RUGU-RUGU",
-    "lga": "TUDUN WADA",
-    "ward": "KAREFA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TUDUN WADA",
     "ward": "KAREFA",
     "state": "Kano",
@@ -95775,12 +93117,6 @@
     "pu_code": "19/41/07/025",
     "pu_name": "UNG. WAJE",
     "name": "UNG. WAJE",
-    "lga": "TUDUN WADA",
-    "ward": "NATA'ALA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TUDUN WADA",
     "ward": "NATA'ALA",
     "state": "Kano",
@@ -96069,12 +93405,6 @@
     "pu_code": "19/41/08/032",
     "pu_name": "TITIN FASKA",
     "name": "TITIN FASKA",
-    "lga": "TUDUN WADA",
-    "ward": "SABON GARI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TUDUN WADA",
     "ward": "SABON GARI",
     "state": "Kano",
@@ -96450,12 +93780,6 @@
     "state_code": "19"
   },
   {
-    "lga": "TUDUN WADA",
-    "ward": "TSOHOGARI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/41/10/001",
     "pu_name": "FASKAR WAMBAI - PRIMARY SCHOOL I",
     "name": "FASKAR WAMBAI - PRIMARY SCHOOL I",
@@ -96612,12 +93936,6 @@
     "pu_code": "19/41/10/018",
     "pu_name": "UNGUWA MUSA - PRIMARY SCHOOL II FASKAR B/KASUNA",
     "name": "UNGUWA MUSA - PRIMARY SCHOOL II FASKAR B/KASUNA",
-    "lga": "TUDUN WADA",
-    "ward": "SHUWAKI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TUDUN WADA",
     "ward": "SHUWAKI",
     "state": "Kano",
@@ -96906,12 +94224,6 @@
     "pu_code": "19/41/11/032",
     "pu_name": "YARYASA",
     "name": "YARYASA",
-    "lga": "TUDUN WADA",
-    "ward": "YARYASA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "TUDUN WADA",
     "ward": "YARYASA",
     "state": "Kano",
@@ -97512,12 +94824,6 @@
     "state_code": "19"
   },
   {
-    "lga": "UNGOGO",
-    "ward": "BACHIRAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/42/02/001",
     "pu_name": "DANKUNKURU I",
     "name": "DANKUNKURU I",
@@ -97692,12 +94998,6 @@
     "pu_code": "19/42/02/020",
     "pu_name": "SAKWARWA",
     "name": "SAKWARWA",
-    "lga": "UNGOGO",
-    "ward": "GAYAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "UNGOGO",
     "ward": "GAYAWA",
     "state": "Kano",
@@ -97965,12 +95265,6 @@
     "state_code": "19"
   },
   {
-    "lga": "UNGOGO",
-    "ward": "KADAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/42/04/001",
     "pu_name": "BAGUJAN",
     "name": "BAGUJAN",
@@ -98055,12 +95349,6 @@
     "pu_code": "19/42/04/010",
     "pu_name": "WACENI (A)",
     "name": "WACENI (A)",
-    "lga": "UNGOGO",
-    "ward": "KARO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "UNGOGO",
     "ward": "KARO",
     "state": "Kano",
@@ -98241,12 +95529,6 @@
     "pu_code": "19/42/05/020",
     "pu_name": "KYANKYARAN",
     "name": "KYANKYARAN",
-    "lga": "UNGOGO",
-    "ward": "PANISAU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "UNGOGO",
     "ward": "PANISAU",
     "state": "Kano",
@@ -98526,12 +95808,6 @@
     "pu_code": "19/42/06/031",
     "pu_name": "KWAJALAWA",
     "name": "KWAJALAWA",
-    "lga": "UNGOGO",
-    "ward": "RANGAZA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "UNGOGO",
     "ward": "RANGAZA",
     "state": "Kano",
@@ -98937,12 +96213,6 @@
     "pu_code": "19/42/07/045",
     "pu_name": "RIMIN ZAKARA I (B)",
     "name": "RIMIN ZAKARA I (B)",
-    "lga": "UNGOGO",
-    "ward": "RIJIYAR ZAKI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "UNGOGO",
     "ward": "RIJIYAR ZAKI",
     "state": "Kano",
@@ -99372,12 +96642,6 @@
     "state_code": "19"
   },
   {
-    "lga": "UNGOGO",
-    "ward": "TUDUN FULANI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/42/09/001",
     "pu_name": "ALHARINI",
     "name": "ALHARINI",
@@ -99702,12 +96966,6 @@
     "state_code": "19"
   },
   {
-    "lga": "UNGOGO",
-    "ward": "UNGOGO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/42/10/001",
     "pu_name": "ADARAYE I",
     "name": "ADARAYE I",
@@ -99891,12 +97149,6 @@
     "pu_code": "19/42/10/021",
     "pu_name": "UNGUWAR YAMMA",
     "name": "UNGUWAR YAMMA",
-    "lga": "UNGOGO",
-    "ward": "YADAKUNYA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "UNGOGO",
     "ward": "YADAKUNYA",
     "state": "Kano",
@@ -100434,12 +97686,6 @@
     "state_code": "19"
   },
   {
-    "lga": "UNGOGO",
-    "ward": "ZANGO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/43/01/001",
     "pu_name": "AMARAWA",
     "name": "AMARAWA",
@@ -100479,12 +97725,6 @@
     "pu_code": "19/43/01/005",
     "pu_name": "JIGAWA II",
     "name": "JIGAWA II",
-    "lga": "WARAWA",
-    "ward": "AMARAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "WARAWA",
     "ward": "AMARAWA",
     "state": "Kano",
@@ -100548,12 +97788,6 @@
     "pu_code": "19/43/02/007",
     "pu_name": "DANLASSAN IV",
     "name": "DANLASSAN IV",
-    "lga": "WARAWA",
-    "ward": "DANLASAN",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "WARAWA",
     "ward": "DANLASAN",
     "state": "Kano",
@@ -100641,12 +97875,6 @@
     "state_code": "19"
   },
   {
-    "lga": "WARAWA",
-    "ward": "GARIN DAU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/43/04/001",
     "pu_name": "DAKATSALLE",
     "name": "DAKATSALLE",
@@ -100695,12 +97923,6 @@
     "pu_code": "19/43/04/006",
     "pu_name": "YAMATAWA",
     "name": "YAMATAWA",
-    "lga": "WARAWA",
-    "ward": "GOGEL",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "WARAWA",
     "ward": "GOGEL",
     "state": "Kano",
@@ -100782,12 +98004,6 @@
     "pu_code": "19/43/05/009",
     "pu_name": "KANTA ISLAMIYYA",
     "name": "KANTA ISLAMIYYA",
-    "lga": "WARAWA",
-    "ward": "IMAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "WARAWA",
     "ward": "IMAWA",
     "state": "Kano",
@@ -100893,12 +98109,6 @@
     "state_code": "19"
   },
   {
-    "lga": "WARAWA",
-    "ward": "JEMAGU",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/43/07/001",
     "pu_name": "GADDIMA",
     "name": "GADDIMA",
@@ -100974,12 +98184,6 @@
     "pu_code": "19/43/07/009",
     "pu_name": "LARABAR GADAR SARKI ISLAMIYYA",
     "name": "LARABAR GADAR SARKI ISLAMIYYA",
-    "lga": "WARAWA",
-    "ward": "JIGAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "WARAWA",
     "ward": "JIGAWA",
     "state": "Kano",
@@ -101094,12 +98298,6 @@
     "state_code": "19"
   },
   {
-    "lga": "WARAWA",
-    "ward": "J/GALADIMA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/43/09/001",
     "pu_name": "DANHAWAGIWA",
     "name": "DANHAWAGIWA",
@@ -101199,12 +98397,6 @@
     "state_code": "19"
   },
   {
-    "lga": "WARAWA",
-    "ward": "KATARKAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/43/10/001",
     "pu_name": "GANAKAKUN I",
     "name": "GANAKAKUN I",
@@ -101289,12 +98481,6 @@
     "pu_code": "19/43/10/010",
     "pu_name": "MADARIN MATA V (MADARIN MATA PRIMARY SCHOOL)",
     "name": "MADARIN MATA V (MADARIN MATA PRIMARY SCHOOL)",
-    "lga": "WARAWA",
-    "ward": "MADARI MATA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "WARAWA",
     "ward": "MADARI MATA",
     "state": "Kano",
@@ -101394,12 +98580,6 @@
     "pu_code": "19/43/11/011",
     "pu_name": "YANSHUNI (YANSHUNI PRIMARY SCHOOL)",
     "name": "YANSHUNI (YANSHUNI PRIMARY SCHOOL)",
-    "lga": "WARAWA",
-    "ward": "TAMBURAWAR GABAS",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "WARAWA",
     "ward": "TAMBURAWAR GABAS",
     "state": "Kano",
@@ -101541,12 +98721,6 @@
     "state_code": "19"
   },
   {
-    "lga": "WARAWA",
-    "ward": "TANGAR",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/43/13/001",
     "pu_name": "DUSHE I",
     "name": "DUSHE I",
@@ -101628,12 +98802,6 @@
     "state_code": "19"
   },
   {
-    "lga": "WARAWA",
-    "ward": "WARAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/43/14/001",
     "pu_name": "GUMAKA",
     "name": "GUMAKA",
@@ -101700,12 +98868,6 @@
     "pu_code": "19/43/14/008",
     "pu_name": "YANDALLA FULANI III (YANDALLA FULANI ISLAMIYYA)",
     "name": "YANDALLA FULANI III (YANDALLA FULANI ISLAMIYYA)",
-    "lga": "WARAWA",
-    "ward": "'YAN DALLA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "WARAWA",
     "ward": "'YAN DALLA",
     "state": "Kano",
@@ -101802,12 +98964,6 @@
     "state_code": "19"
   },
   {
-    "lga": "WARAWA",
-    "ward": "'YANGIZO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/44/01/001",
     "pu_name": "ACHIKA BANGE - PRIMARY SCHOOL I",
     "name": "ACHIKA BANGE - PRIMARY SCHOOL I",
@@ -101892,12 +99048,6 @@
     "pu_code": "19/44/01/010",
     "pu_name": "ACHIKA/YANSORO/RAUSHI - PRIMARY SCHOOL",
     "name": "ACHIKA/YANSORO/RAUSHI - PRIMARY SCHOOL",
-    "lga": "WUDIL",
-    "ward": "ACHIKA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "WUDIL",
     "ward": "ACHIKA",
     "state": "Kano",
@@ -102102,12 +99252,6 @@
     "state_code": "19"
   },
   {
-    "lga": "WUDIL",
-    "ward": "DAGUMAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/44/03/001",
     "pu_name": "DANKAZA BAMBARA - PRIMARY SCHOOL",
     "name": "DANKAZA BAMBARA - PRIMARY SCHOOL",
@@ -102246,12 +99390,6 @@
     "pu_code": "19/44/03/016",
     "pu_name": "DANKAZA KANTUDU-PRIMARY SCHOOL  II",
     "name": "DANKAZA KANTUDU-PRIMARY SCHOOL  II",
-    "lga": "WUDIL",
-    "ward": "DANKAZA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "WUDIL",
     "ward": "DANKAZA",
     "state": "Kano",
@@ -102438,12 +99576,6 @@
     "state_code": "19"
   },
   {
-    "lga": "WUDIL",
-    "ward": "DARKI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/44/05/001",
     "pu_name": "INDABO GABAS - PRIMARY SCHOOL I",
     "name": "INDABO GABAS - PRIMARY SCHOOL I",
@@ -102582,12 +99714,6 @@
     "pu_code": "19/44/05/016",
     "pu_name": "INDABO YAMMA - PRIMARY SCHOOL V",
     "name": "INDABO YAMMA - PRIMARY SCHOOL V",
-    "lga": "WUDIL",
-    "ward": "INDABO",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "WUDIL",
     "ward": "INDABO",
     "state": "Kano",
@@ -102801,12 +99927,6 @@
     "state_code": "19"
   },
   {
-    "lga": "WUDIL",
-    "ward": "KAUSANI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/44/07/001",
     "pu_name": "DADIN KOWA - OPEN SPACE",
     "name": "DADIN KOWA - OPEN SPACE",
@@ -102936,12 +100056,6 @@
     "pu_code": "19/44/07/015",
     "pu_name": "SAGEME PRIMRY SCHOOL",
     "name": "SAGEME PRIMRY SCHOOL",
-    "lga": "WUDIL",
-    "ward": "LAJAWA",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "WUDIL",
     "ward": "LAJAWA",
     "state": "Kano",
@@ -103227,12 +100341,6 @@
     "state_code": "19"
   },
   {
-    "lga": "WUDIL",
-    "ward": "SABON GARI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "pu_code": "19/44/09/001",
     "pu_name": "UTAI BAKIN KASUWA - OPEN SPACE I",
     "name": "UTAI BAKIN KASUWA - OPEN SPACE I",
@@ -103344,12 +100452,6 @@
     "pu_code": "19/44/09/013",
     "pu_name": "UTAI HURUMI PRIMARY SCHOOL III",
     "name": "UTAI HURUMI PRIMARY SCHOOL III",
-    "lga": "WUDIL",
-    "ward": "UTAI",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "WUDIL",
     "ward": "UTAI",
     "state": "Kano",
@@ -103800,12 +100902,6 @@
     "pu_code": "19/44/10/050",
     "pu_name": "ZANGO GABAN KOMI - OPEN SPACE III",
     "name": "ZANGO GABAN KOMI - OPEN SPACE III",
-    "lga": "WUDIL",
-    "ward": "WUDIL",
-    "state": "Kano",
-    "state_code": "19"
-  },
-  {
     "lga": "WUDIL",
     "ward": "WUDIL",
     "state": "Kano",

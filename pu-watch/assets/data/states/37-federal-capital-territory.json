@@ -81,12 +81,6 @@
     "state_code": "37"
   },
   {
-    "lga": "ABAJI",
-    "ward": "ABAJI CENTRAL",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/01/02/001",
     "pu_name": "ISAH M. GANI/OLD ONA PALACE",
     "name": "ISAH M. GANI/OLD ONA PALACE",
@@ -267,12 +261,6 @@
     "state_code": "37"
   },
   {
-    "lga": "ABAJI",
-    "ward": "ABAJI NORTH EAST",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/01/03/001",
     "pu_name": "OLD ONAS PALACE  /  OLD ONAS PALACE",
     "name": "OLD ONAS PALACE  /  OLD ONAS PALACE",
@@ -357,12 +345,6 @@
     "pu_code": "37/01/03/010",
     "pu_name": "UNG S SAMARI/UNG S. SAMARI",
     "name": "UNG S SAMARI/UNG S. SAMARI",
-    "lga": "ABAJI",
-    "ward": "ABAJI SOUTH EAST",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "ABAJI",
     "ward": "ABAJI SOUTH EAST",
     "state": "FCT",
@@ -468,12 +450,6 @@
     "state_code": "37"
   },
   {
-    "lga": "ABAJI",
-    "ward": "AGYANA/PANDAGI",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/01/05/001",
     "pu_name": "EBAGI / EBAGI PRIMARY SCHOOL",
     "name": "EBAGI / EBAGI PRIMARY SCHOOL",
@@ -567,12 +543,6 @@
     "pu_code": "37/01/05/011",
     "pu_name": "NAHARATI SABO PRIMARY SHOOL",
     "name": "NAHARATI SABO PRIMARY SHOOL",
-    "lga": "ABAJI",
-    "ward": "RIMBA EBAGI",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "ABAJI",
     "ward": "RIMBA EBAGI",
     "state": "FCT",
@@ -759,12 +729,6 @@
     "state_code": "37"
   },
   {
-    "lga": "ABAJI",
-    "ward": "NUKU",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/01/07/001",
     "pu_name": "MAMAGI/MAMAGI PRIMARY SCHOOL",
     "name": "MAMAGI/MAMAGI PRIMARY SCHOOL",
@@ -822,12 +786,6 @@
     "pu_code": "37/01/07/008",
     "pu_name": "MAWOGI PRIMARY SCHOOL",
     "name": "MAWOGI PRIMARY SCHOOL",
-    "lga": "ABAJI",
-    "ward": "ALU MAMAGI",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "ABAJI",
     "ward": "ALU MAMAGI",
     "state": "FCT",
@@ -942,12 +900,6 @@
     "state_code": "37"
   },
   {
-    "lga": "ABAJI",
-    "ward": "YABA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/01/09/001",
     "pu_name": "GURDI/GURDI PRIMARY SCHOOL",
     "name": "GURDI/GURDI PRIMARY SCHOOL",
@@ -1050,12 +1002,6 @@
     "pu_code": "37/01/09/012",
     "pu_name": "RAFIN DAJI PRIMARY SCHOOL",
     "name": "RAFIN DAJI PRIMARY SCHOOL",
-    "lga": "ABAJI",
-    "ward": "GURDI",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "ABAJI",
     "ward": "GURDI",
     "state": "FCT",
@@ -1254,12 +1200,6 @@
     "pu_code": "37/01/10/022",
     "pu_name": "TUNGWAN USMAN PRIMARY SCHOOL",
     "name": "TUNGWAN USMAN PRIMARY SCHOOL",
-    "lga": "ABAJI",
-    "ward": "GAWU",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "ABAJI",
     "ward": "GAWU",
     "state": "FCT",
@@ -1656,12 +1596,6 @@
     "pu_code": "37/02/01/044",
     "pu_name": "LEA PRI. SCHOOL  GYEYIDNA",
     "name": "LEA PRI. SCHOOL  GYEYIDNA",
-    "lga": "BWARI",
-    "ward": "BWARI CENTRAL",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "BWARI",
     "ward": "BWARI CENTRAL",
     "state": "FCT",
@@ -2136,12 +2070,6 @@
     "state_code": "37"
   },
   {
-    "lga": "BWARI",
-    "ward": "KUDURU",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/02/03/001",
     "pu_name": "IGU   /  IGU PRIMARY SCHOOL",
     "name": "IGU   /  IGU PRIMARY SCHOOL",
@@ -2226,12 +2154,6 @@
     "pu_code": "37/02/03/010",
     "pu_name": "IGU VILLAGE/NEAR GBAGYI CHIEF PALACE",
     "name": "IGU VILLAGE/NEAR GBAGYI CHIEF PALACE",
-    "lga": "BWARI",
-    "ward": "IGU",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "BWARI",
     "ward": "IGU",
     "state": "FCT",
@@ -2445,12 +2367,6 @@
     "state_code": "37"
   },
   {
-    "lga": "BWARI",
-    "ward": "SHERE",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/02/05/001",
     "pu_name": "KAWU/KAWU PRIMARY SCH.",
     "name": "KAWU/KAWU PRIMARY SCH.",
@@ -2589,12 +2505,6 @@
     "pu_code": "37/02/05/016",
     "pu_name": "YAZHINDNA VILLAGE",
     "name": "YAZHINDNA VILLAGE",
-    "lga": "BWARI",
-    "ward": "KAWU",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "BWARI",
     "ward": "KAWU",
     "state": "FCT",
@@ -2928,12 +2838,6 @@
     "pu_code": "37/02/06/037",
     "pu_name": "PEYI / PEYI VILLAGE SQUARE",
     "name": "PEYI / PEYI VILLAGE SQUARE",
-    "lga": "BWARI",
-    "ward": "USHAFA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "BWARI",
     "ward": "USHAFA",
     "state": "FCT",
@@ -3885,12 +3789,6 @@
     "state_code": "37"
   },
   {
-    "lga": "BWARI",
-    "ward": "DUTSE ALHAJI",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/02/08/001",
     "pu_name": "BYAZHIN /BYAZHIN PRIMARY SCHOOL",
     "name": "BYAZHIN /BYAZHIN PRIMARY SCHOOL",
@@ -4236,12 +4134,6 @@
     "pu_code": "37/02/08/039",
     "pu_name": "PAZE VILLAGE SQUARE CHIEF PALACE",
     "name": "PAZE VILLAGE SQUARE CHIEF PALACE",
-    "lga": "BWARI",
-    "ward": "BYAZHIN",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "BWARI",
     "ward": "BYAZHIN",
     "state": "FCT",
@@ -4968,12 +4860,6 @@
     "state_code": "37"
   },
   {
-    "lga": "BWARI",
-    "ward": "KUBWA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/02/10/001",
     "pu_name": "PHASE II SITE II/ROAD JUNCTION IN FRONT BLK 124",
     "name": "PHASE II SITE II/ROAD JUNCTION IN FRONT BLK 124",
@@ -5685,12 +5571,6 @@
     "state_code": "37"
   },
   {
-    "lga": "BWARI",
-    "ward": "USUMA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/03/01/001",
     "pu_name": "DAGIRI I /INFRONT OF VILLAGE HEAD'S HOUSE",
     "name": "DAGIRI I /INFRONT OF VILLAGE HEAD'S HOUSE",
@@ -6195,12 +6075,6 @@
     "state_code": "37"
   },
   {
-    "lga": "GWAGWALADA",
-    "ward": "GWAGWALADA CENTRE",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/03/02/001",
     "pu_name": "KUTUNKU I/ PRIMARY SCHOOL",
     "name": "KUTUNKU I/ PRIMARY SCHOOL",
@@ -6606,12 +6480,6 @@
     "state_code": "37"
   },
   {
-    "lga": "GWAGWALADA",
-    "ward": "KUTUNKU",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/03/03/001",
     "pu_name": "PHASE I/GADO NASKO PRI. SCH.",
     "name": "PHASE I/GADO NASKO PRI. SCH.",
@@ -6999,12 +6867,6 @@
     "state_code": "37"
   },
   {
-    "lga": "GWAGWALADA",
-    "ward": "STAFF QUARTERS",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/03/04/001",
     "pu_name": "IBWA SARKI/PRI. SCH. IBWA",
     "name": "IBWA SARKI/PRI. SCH. IBWA",
@@ -7197,12 +7059,6 @@
     "pu_code": "37/03/04/022",
     "pu_name": "WUNA LEA PRIMARY SCHOOL",
     "name": "WUNA LEA PRIMARY SCHOOL",
-    "lga": "GWAGWALADA",
-    "ward": "IBWA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "GWAGWALADA",
     "ward": "IBWA",
     "state": "FCT",
@@ -7479,12 +7335,6 @@
     "state_code": "37"
   },
   {
-    "lga": "GWAGWALADA",
-    "ward": "DOBI",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/03/06/001",
     "pu_name": "PAIKO KORE SARKI   /  PAIKO PRI. SCH.",
     "name": "PAIKO KORE SARKI   /  PAIKO PRI. SCH.",
@@ -7713,12 +7563,6 @@
     "pu_code": "37/03/06/026",
     "pu_name": "KAIDA TSOHON/PRIMARY SCHOOL.",
     "name": "KAIDA TSOHON/PRIMARY SCHOOL.",
-    "lga": "GWAGWALADA",
-    "ward": "PAIKO",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "GWAGWALADA",
     "ward": "PAIKO",
     "state": "FCT",
@@ -8022,12 +7866,6 @@
     "state_code": "37"
   },
   {
-    "lga": "GWAGWALADA",
-    "ward": "TUNGAN MAJE",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/03/08/001",
     "pu_name": "UNG. SARKI /PRI SCH.",
     "name": "UNG. SARKI /PRI SCH.",
@@ -8298,12 +8136,6 @@
     "state_code": "37"
   },
   {
-    "lga": "GWAGWALADA",
-    "ward": "ZUBA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/03/09/001",
     "pu_name": "IKWA/IKWA PRI. SCH.",
     "name": "IKWA/IKWA PRI. SCH.",
@@ -8478,12 +8310,6 @@
     "pu_code": "37/03/09/020",
     "pu_name": "UNG SARKI IKWA  PRIMARY HEATH CARE IKWA.",
     "name": "UNG SARKI IKWA  PRIMARY HEATH CARE IKWA.",
-    "lga": "GWAGWALADA",
-    "ward": "IKWA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "GWAGWALADA",
     "ward": "IKWA",
     "state": "FCT",
@@ -8772,12 +8598,6 @@
     "pu_code": "37/03/10/032",
     "pu_name": "GIRI PRIMARY SCHOOL",
     "name": "GIRI PRIMARY SCHOOL",
-    "lga": "GWAGWALADA",
-    "ward": "GWAKO",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "GWAGWALADA",
     "ward": "GWAKO",
     "state": "FCT",
@@ -9468,12 +9288,6 @@
     "state_code": "37"
   },
   {
-    "lga": "KUJE",
-    "ward": "KUJE",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/04/02/001",
     "pu_name": "CHIBIRI/CHIBIRI PRIMARY SCHOOL",
     "name": "CHIBIRI/CHIBIRI PRIMARY SCHOOL",
@@ -9846,12 +9660,6 @@
     "pu_code": "37/04/02/042",
     "pu_name": "SHADADI/RESETTLMENT ZONE K",
     "name": "SHADADI/RESETTLMENT ZONE K",
-    "lga": "KUJE",
-    "ward": "CHIBIRI",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "KUJE",
     "ward": "CHIBIRI",
     "state": "FCT",
@@ -10245,12 +10053,6 @@
     "state_code": "37"
   },
   {
-    "lga": "KUJE",
-    "ward": "GAUBE",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/04/04/001",
     "pu_name": "SABO/PRIMARY SCHOOL",
     "name": "SABO/PRIMARY SCHOOL",
@@ -10353,12 +10155,6 @@
     "pu_code": "37/04/04/012",
     "pu_name": "GAWU SETTLEMENT",
     "name": "GAWU SETTLEMENT",
-    "lga": "KUJE",
-    "ward": "KWAKU",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "KUJE",
     "ward": "KWAKU",
     "state": "FCT",
@@ -10503,12 +10299,6 @@
     "pu_code": "37/04/05/016",
     "pu_name": "CHIEF PALACE OPEN SPACE ACHINBI",
     "name": "CHIEF PALACE OPEN SPACE ACHINBI",
-    "lga": "KUJE",
-    "ward": "KABI",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "KUJE",
     "ward": "KABI",
     "state": "FCT",
@@ -10731,12 +10521,6 @@
     "state_code": "37"
   },
   {
-    "lga": "KUJE",
-    "ward": "RUBOCHI",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/04/07/001",
     "pu_name": "GWARGWADA PRIMARY SCHOOL",
     "name": "GWARGWADA PRIMARY SCHOOL",
@@ -10821,12 +10605,6 @@
     "pu_code": "37/04/07/010",
     "pu_name": "KOPIGBA COMMUNITY",
     "name": "KOPIGBA COMMUNITY",
-    "lga": "KUJE",
-    "ward": "GWARGWADA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "KUJE",
     "ward": "GWARGWADA",
     "state": "FCT",
@@ -11013,12 +10791,6 @@
     "state_code": "37"
   },
   {
-    "lga": "KUJE",
-    "ward": "GUDUN KARYA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/04/09/001",
     "pu_name": "KUJEKWA/PRIMARY SCHOOL",
     "name": "KUJEKWA/PRIMARY SCHOOL",
@@ -11127,12 +10899,6 @@
     "state_code": "37"
   },
   {
-    "lga": "KUJE",
-    "ward": "KUJEKWA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/04/10/001",
     "pu_name": "YENCHE/PRIMARY SCHOOL",
     "name": "YENCHE/PRIMARY SCHOOL",
@@ -11190,12 +10956,6 @@
     "pu_code": "37/04/10/007",
     "pu_name": "GYANA/ANGWAN SARKI",
     "name": "GYANA/ANGWAN SARKI",
-    "lga": "KUJE",
-    "ward": "YENCHE",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "KUJE",
     "ward": "YENCHE",
     "state": "FCT",
@@ -11508,12 +11268,6 @@
     "state_code": "37"
   },
   {
-    "lga": "KWALI",
-    "ward": "KWALI WARD",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/05/02/001",
     "pu_name": "YANGOJI / PRIMARY SCHOOL",
     "name": "YANGOJI / PRIMARY SCHOOL",
@@ -11688,12 +11442,6 @@
     "pu_code": "37/05/02/020",
     "pu_name": "DAADU VILLAGE",
     "name": "DAADU VILLAGE",
-    "lga": "KWALI",
-    "ward": "YANGOJI",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "KWALI",
     "ward": "YANGOJI",
     "state": "FCT",
@@ -11970,12 +11718,6 @@
     "state_code": "37"
   },
   {
-    "lga": "KWALI",
-    "ward": "PAI",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/05/04/001",
     "pu_name": "KILANKWA I  /  PRIMARY SCHOOL",
     "name": "KILANKWA I  /  PRIMARY SCHOOL",
@@ -12228,12 +11970,6 @@
     "state_code": "37"
   },
   {
-    "lga": "KWALI",
-    "ward": "KILANKWA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/05/05/001",
     "pu_name": "DAFA DADA  /  PRIMARY SCHOOL",
     "name": "DAFA DADA  /  PRIMARY SCHOOL",
@@ -12333,12 +12069,6 @@
     "state_code": "37"
   },
   {
-    "lga": "KWALI",
-    "ward": "DAFA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/05/06/001",
     "pu_name": "KUNDU  /  KOFAR SARKI",
     "name": "KUNDU  /  KOFAR SARKI",
@@ -12405,12 +12135,6 @@
     "pu_code": "37/05/06/008",
     "pu_name": "DOGORUWA VILLLAGE",
     "name": "DOGORUWA VILLLAGE",
-    "lga": "KWALI",
-    "ward": "KUNDU",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "KWALI",
     "ward": "KUNDU",
     "state": "FCT",
@@ -12579,12 +12303,6 @@
     "state_code": "37"
   },
   {
-    "lga": "KWALI",
-    "ward": "ASHARA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/05/08/001",
     "pu_name": "GUMBO  /  PRIMARY SCHOL",
     "name": "GUMBO  /  PRIMARY SCHOL",
@@ -12741,12 +12459,6 @@
     "pu_code": "37/05/08/018",
     "pu_name": "SHAPKATE",
     "name": "SHAPKATE",
-    "lga": "KWALI",
-    "ward": "GUMBO",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "KWALI",
     "ward": "GUMBO",
     "state": "FCT",
@@ -12942,12 +12654,6 @@
     "state_code": "37"
   },
   {
-    "lga": "KWALI",
-    "ward": "WAKO",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/05/10/001",
     "pu_name": "YEBU/PRIMARY SCHOOL",
     "name": "YEBU/PRIMARY SCHOOL",
@@ -13059,12 +12765,6 @@
     "pu_code": "37/05/10/013",
     "pu_name": "PRIMARY HEALTH CARE CENTRE LEDA",
     "name": "PRIMARY HEALTH CARE CENTRE LEDA",
-    "lga": "KWALI",
-    "ward": "YEBU",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "KWALI",
     "ward": "YEBU",
     "state": "FCT",
@@ -14424,12 +14124,6 @@
     "pu_code": "37/06/01/151",
     "pu_name": "3.MURTALA NYAKO ESTATE,ASO HILL BERGER CAMP",
     "name": "3.MURTALA NYAKO ESTATE,ASO HILL BERGER CAMP",
-    "lga": "MUNICIPAL",
-    "ward": "CITY CENTRE",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "MUNICIPAL",
     "ward": "CITY CENTRE",
     "state": "FCT",
@@ -15975,12 +15669,6 @@
     "state_code": "37"
   },
   {
-    "lga": "MUNICIPAL",
-    "ward": "GARKI",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/06/03/001",
     "pu_name": "KABUSA/KABUSA PRI. SCH.",
     "name": "KABUSA/KABUSA PRI. SCH.",
@@ -17307,12 +16995,6 @@
     "pu_code": "37/06/03/148",
     "pu_name": "PANTAKER",
     "name": "PANTAKER",
-    "lga": "MUNICIPAL",
-    "ward": "KABUSA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "MUNICIPAL",
     "ward": "KABUSA",
     "state": "FCT",
@@ -18861,12 +18543,6 @@
     "pu_code": "37/06/04/175",
     "pu_name": "DARESSALAM STREET OFF AMINU KANO CRESCENT",
     "name": "DARESSALAM STREET OFF AMINU KANO CRESCENT",
-    "lga": "MUNICIPAL",
-    "ward": "WUSE",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "MUNICIPAL",
     "ward": "WUSE",
     "state": "FCT",
@@ -20664,12 +20340,6 @@
     "state_code": "37"
   },
   {
-    "lga": "MUNICIPAL",
-    "ward": "GWARINPA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/06/06/001",
     "pu_name": "JIWA TSOHO / KOFAR GIDAN SARKI",
     "name": "JIWA TSOHO / KOFAR GIDAN SARKI",
@@ -21480,12 +21150,6 @@
     "state_code": "37"
   },
   {
-    "lga": "MUNICIPAL",
-    "ward": "JIWA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/06/07/001",
     "pu_name": "GUI PADA/GUI VILLAGE",
     "name": "GUI PADA/GUI VILLAGE",
@@ -22026,12 +21690,6 @@
     "state_code": "37"
   },
   {
-    "lga": "MUNICIPAL",
-    "ward": "GUI",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/06/08/001",
     "pu_name": "KARSHI I/ CENTRAL PRI. SCH.",
     "name": "KARSHI I/ CENTRAL PRI. SCH.",
@@ -22332,12 +21990,6 @@
     "pu_code": "37/06/08/034",
     "pu_name": "KUSAKI VILLAGE",
     "name": "KUSAKI VILLAGE",
-    "lga": "MUNICIPAL",
-    "ward": "KARSHI",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "MUNICIPAL",
     "ward": "KARSHI",
     "state": "FCT",
@@ -22887,12 +22539,6 @@
     "pu_code": "37/06/09/061",
     "pu_name": "GIDAN AJIYA VILLAGE",
     "name": "GIDAN AJIYA VILLAGE",
-    "lga": "MUNICIPAL",
-    "ward": "OROZO",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "MUNICIPAL",
     "ward": "OROZO",
     "state": "FCT",
@@ -23979,12 +23625,6 @@
     "state_code": "37"
   },
   {
-    "lga": "MUNICIPAL",
-    "ward": "KARU",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/06/11/001",
     "pu_name": "AREA A1/INFRONT OF PLOT 8 & 9 AREA A",
     "name": "AREA A1/INFRONT OF PLOT 8 & 9 AREA A",
@@ -24975,12 +24615,6 @@
     "state_code": "37"
   },
   {
-    "lga": "MUNICIPAL",
-    "ward": "NYANYA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "pu_code": "37/06/12/001",
     "pu_name": "GWAGWA/PRIMARY SCHOOL GALADIMA",
     "name": "GWAGWA/PRIMARY SCHOOL GALADIMA",
@@ -25713,12 +25347,6 @@
     "pu_code": "37/06/12/082",
     "pu_name": "GWAGWA 7 BEFORE BRIDGE UNDER MANGO TREE",
     "name": "GWAGWA 7 BEFORE BRIDGE UNDER MANGO TREE",
-    "lga": "MUNICIPAL",
-    "ward": "GWAGWA",
-    "state": "FCT",
-    "state_code": "37"
-  },
-  {
     "lga": "MUNICIPAL",
     "ward": "GWAGWA",
     "state": "FCT",

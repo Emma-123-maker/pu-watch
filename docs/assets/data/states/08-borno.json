@@ -144,12 +144,6 @@
     "state_code": "08"
   },
   {
-    "lga": "ABADAM",
-    "ward": "AREGE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/01/02/001",
     "pu_name": "BANOWA PRI. SCH.",
     "name": "BANOWA PRI. SCH.",
@@ -180,12 +174,6 @@
     "pu_code": "08/01/02/004",
     "pu_name": "GARERE PRI. SCH. II",
     "name": "GARERE PRI. SCH. II",
-    "lga": "ABADAM",
-    "ward": "BANOWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "ABADAM",
     "ward": "BANOWA",
     "state": "Borno",
@@ -282,12 +270,6 @@
     "state_code": "08"
   },
   {
-    "lga": "ABADAM",
-    "ward": "FUGUWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/01/04/001",
     "pu_name": "DAYA PRIMARY SCHOOL",
     "name": "DAYA PRIMARY SCHOOL",
@@ -336,12 +318,6 @@
     "pu_code": "08/01/04/006",
     "pu_name": "JABULLAM PRI. SCH. III",
     "name": "JABULLAM PRI. SCH. III",
-    "lga": "ABADAM",
-    "ward": "JABULLAM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "ABADAM",
     "ward": "JABULLAM",
     "state": "Borno",
@@ -468,12 +444,6 @@
     "pu_code": "08/01/05/014",
     "pu_name": "LIMANTI,MOBBARTI II",
     "name": "LIMANTI,MOBBARTI II",
-    "lga": "ABADAM",
-    "ward": "KUDOKURGU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "ABADAM",
     "ward": "KUDOKURGU",
     "state": "Borno",
@@ -624,12 +594,6 @@
     "state_code": "08"
   },
   {
-    "lga": "ABADAM",
-    "ward": "MALLAMFATORI KESSA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/01/07/001",
     "pu_name": "AFUNORI PRI. SCH. I",
     "name": "AFUNORI PRI. SCH. I",
@@ -684,12 +648,6 @@
     "state_code": "08"
   },
   {
-    "lga": "ABADAM",
-    "ward": "MALAM KAUNARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/01/08/001",
     "pu_name": "NGAMMA",
     "name": "NGAMMA",
@@ -738,12 +696,6 @@
     "pu_code": "08/01/08/006",
     "pu_name": "YAU CLINIC",
     "name": "YAU CLINIC",
-    "lga": "ABADAM",
-    "ward": "YAU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "ABADAM",
     "ward": "YAU",
     "state": "Borno",
@@ -822,12 +774,6 @@
     "state_code": "08"
   },
   {
-    "lga": "ABADAM",
-    "ward": "YAWA KURA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/01/10/001",
     "pu_name": "BAZZAM BALLERI I",
     "name": "BAZZAM BALLERI I",
@@ -885,12 +831,6 @@
     "pu_code": "08/01/10/007",
     "pu_name": "YITUWA PRI. SCH. II",
     "name": "YITUWA PRI. SCH. II",
-    "lga": "ABADAM",
-    "ward": "YITUWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "ABADAM",
     "ward": "YITUWA",
     "state": "Borno",
@@ -1068,12 +1008,6 @@
     "state_code": "08"
   },
   {
-    "lga": "ASKIRA / UBA",
-    "ward": "ASKIRA EAST",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/02/02/001",
     "pu_name": "RIBADU PRI. SCH.",
     "name": "RIBADU PRI. SCH.",
@@ -1221,12 +1155,6 @@
     "pu_code": "08/02/02/017",
     "pu_name": "CHUL BAKIN KASUWA",
     "name": "CHUL BAKIN KASUWA",
-    "lga": "ASKIRA / UBA",
-    "ward": "CHUL / RUMIRGO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "ASKIRA / UBA",
     "ward": "CHUL / RUMIRGO",
     "state": "Borno",
@@ -1422,12 +1350,6 @@
     "state_code": "08"
   },
   {
-    "lga": "ASKIRA / UBA",
-    "ward": "DILLE / HUYUM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/02/04/001",
     "pu_name": "DISPENSARY I",
     "name": "DISPENSARY I",
@@ -1608,12 +1530,6 @@
     "state_code": "08"
   },
   {
-    "lga": "ASKIRA / UBA",
-    "ward": "HUSARA / TAMPUL",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/02/05/001",
     "pu_name": "KOPA PRI. SCH.  I",
     "name": "KOPA PRI. SCH.  I",
@@ -1749,12 +1665,6 @@
     "state_code": "08"
   },
   {
-    "lga": "ASKIRA / UBA",
-    "ward": "KOPA / MULTHAFU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/02/06/001",
     "pu_name": "MOTOR PARK I",
     "name": "MOTOR PARK I",
@@ -1866,12 +1776,6 @@
     "pu_code": "08/02/06/013",
     "pu_name": "BAKIN KASUWA LASSA",
     "name": "BAKIN KASUWA LASSA",
-    "lga": "ASKIRA / UBA",
-    "ward": "LASSA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "ASKIRA / UBA",
     "ward": "LASSA",
     "state": "Borno",
@@ -2025,12 +1929,6 @@
     "pu_code": "08/02/07/017",
     "pu_name": "KOFAR  FATIYANDA",
     "name": "KOFAR  FATIYANDA",
-    "lga": "ASKIRA / UBA",
-    "ward": "MUSSA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "ASKIRA / UBA",
     "ward": "MUSSA",
     "state": "Borno",
@@ -2211,12 +2109,6 @@
     "pu_code": "08/02/08/020",
     "pu_name": "NGOHI DISPENSARY",
     "name": "NGOHI DISPENSARY",
-    "lga": "ASKIRA / UBA",
-    "ward": "NGOHI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "ASKIRA / UBA",
     "ward": "NGOHI",
     "state": "Borno",
@@ -2406,12 +2298,6 @@
     "pu_code": "08/02/09/021",
     "pu_name": "KOFAR A. ADAM",
     "name": "KOFAR A. ADAM",
-    "lga": "ASKIRA / UBA",
-    "ward": "NGULDE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "ASKIRA / UBA",
     "ward": "NGULDE",
     "state": "Borno",
@@ -2787,12 +2673,6 @@
     "state_code": "08"
   },
   {
-    "lga": "ASKIRA / UBA",
-    "ward": "UBA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/02/11/001",
     "pu_name": "KOFAR ABDU  I",
     "name": "KOFAR ABDU  I",
@@ -2982,12 +2862,6 @@
     "state_code": "08"
   },
   {
-    "lga": "ASKIRA / UBA",
-    "ward": "UDA / UVU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/02/12/001",
     "pu_name": "GIWI PRI. SCH.  I",
     "name": "GIWI PRI. SCH.  I",
@@ -3117,12 +2991,6 @@
     "pu_code": "08/02/12/015",
     "pu_name": "KOFAR BADAUM",
     "name": "KOFAR BADAUM",
-    "lga": "ASKIRA / UBA",
-    "ward": "WAMDEO / GIWI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "ASKIRA / UBA",
     "ward": "WAMDEO / GIWI",
     "state": "Borno",
@@ -3309,12 +3177,6 @@
     "state_code": "08"
   },
   {
-    "lga": "ASKIRA / UBA",
-    "ward": "ZADAWA / HAUSARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/03/01/001",
     "pu_name": "ANDARA  I",
     "name": "ANDARA  I",
@@ -3444,12 +3306,6 @@
     "pu_code": "08/03/01/015",
     "pu_name": "GALA  GANA",
     "name": "GALA  GANA",
-    "lga": "BAMA",
-    "ward": "ANDARA / AJIRI /WULBA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BAMA",
     "ward": "ANDARA / AJIRI /WULBA",
     "state": "Borno",
@@ -3771,12 +3627,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BAMA",
-    "ward": "BUDUWA / BULA CHIRABE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/03/03/001",
     "pu_name": "KOTEMBE PRI. SCH. I",
     "name": "KOTEMBE PRI. SCH. I",
@@ -3924,12 +3774,6 @@
     "pu_code": "08/03/03/017",
     "pu_name": "WUDILA B. SHERIFF",
     "name": "WUDILA B. SHERIFF",
-    "lga": "BAMA",
-    "ward": "DIPCHARI / JERE / DAR-JAMAL / KOTEMBE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BAMA",
     "ward": "DIPCHARI / JERE / DAR-JAMAL / KOTEMBE",
     "state": "Borno",
@@ -4110,12 +3954,6 @@
     "pu_code": "08/03/04/020",
     "pu_name": "RIJIA",
     "name": "RIJIA",
-    "lga": "BAMA",
-    "ward": "GULUMBA / JUKKURI / BATRA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BAMA",
     "ward": "GULUMBA / JUKKURI / BATRA",
     "state": "Borno",
@@ -4617,12 +4455,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BAMA",
-    "ward": "KASUGULA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/03/06/001",
     "pu_name": "KUMSHE B. M.DISPENSARY",
     "name": "KUMSHE B. M.DISPENSARY",
@@ -4758,12 +4590,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BAMA",
-    "ward": "KUMSHE /NDUGUNO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/03/07/001",
     "pu_name": "LAWANTI  I",
     "name": "LAWANTI  I",
@@ -4893,12 +4719,6 @@
     "pu_code": "08/03/07/015",
     "pu_name": "DISTRICK HEAD",
     "name": "DISTRICK HEAD",
-    "lga": "BAMA",
-    "ward": "LAWANTI / MALAM / MASTARI / ABBARAM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BAMA",
     "ward": "LAWANTI / MALAM / MASTARI / ABBARAM",
     "state": "Borno",
@@ -5052,12 +4872,6 @@
     "pu_code": "08/03/08/017",
     "pu_name": "DIGIRA B. TOKKE",
     "name": "DIGIRA B. TOKKE",
-    "lga": "BAMA",
-    "ward": "MARKA / MALGE / AMCHAKA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BAMA",
     "ward": "MARKA / MALGE / AMCHAKA",
     "state": "Borno",
@@ -5229,12 +5043,6 @@
     "pu_code": "08/03/09/019",
     "pu_name": "MBULIYA .B . MALLAM",
     "name": "MBULIYA .B . MALLAM",
-    "lga": "BAMA",
-    "ward": "MBULIYA / GONIRI / SIRAJA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BAMA",
     "ward": "MBULIYA / GONIRI / SIRAJA",
     "state": "Borno",
@@ -5460,12 +5268,6 @@
     "pu_code": "08/03/10/025",
     "pu_name": "BULAMA MAINARI  II",
     "name": "BULAMA MAINARI  II",
-    "lga": "BAMA",
-    "ward": "SABSABWA / SOYE/ BULONGU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BAMA",
     "ward": "SABSABWA / SOYE/ BULONGU",
     "state": "Borno",
@@ -5895,12 +5697,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BAMA",
-    "ward": "SHEHURI / HAUSARI / MAIRI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/03/12/001",
     "pu_name": "U.T.A.B  MAMMAN",
     "name": "U.T.A.B  MAMMAN",
@@ -5994,12 +5790,6 @@
     "pu_code": "08/03/12/011",
     "pu_name": "BOGOMARI II",
     "name": "BOGOMARI II",
-    "lga": "BAMA",
-    "ward": "WULBARI/NDINE/CHACHILE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BAMA",
     "ward": "WULBARI/NDINE/CHACHILE",
     "state": "Borno",
@@ -6117,12 +5907,6 @@
     "pu_code": "08/03/13/013",
     "pu_name": "ZALA KURA",
     "name": "ZALA KURA",
-    "lga": "BAMA",
-    "ward": "YABIRI KURA/YABIRI GANA/CHONGOLO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BAMA",
     "ward": "YABIRI KURA/YABIRI GANA/CHONGOLO",
     "state": "Borno",
@@ -6255,12 +6039,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BAMA",
-    "ward": "ZANGERI/KASH  KASH",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/04/01/001",
     "pu_name": "BALBAYA DISPENSARY",
     "name": "BALBAYA DISPENSARY",
@@ -6336,12 +6114,6 @@
     "pu_code": "08/04/01/009",
     "pu_name": "GARIN BAKA",
     "name": "GARIN BAKA",
-    "lga": "BAYO",
-    "ward": "BALBAYA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BAYO",
     "ward": "BALBAYA",
     "state": "Borno",
@@ -6483,12 +6255,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BAYO",
-    "ward": "BRIYEL",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/04/03/001",
     "pu_name": "FIKAHYEL SOUTH I",
     "name": "FIKAHYEL SOUTH I",
@@ -6564,12 +6330,6 @@
     "pu_code": "08/04/03/009",
     "pu_name": "ANGUWAN HARUNA II",
     "name": "ANGUWAN HARUNA II",
-    "lga": "BAYO",
-    "ward": "FIKAYEL",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BAYO",
     "ward": "FIKAYEL",
     "state": "Borno",
@@ -6666,12 +6426,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BAYO",
-    "ward": "GAMADADI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/04/05/001",
     "pu_name": "JARA GOL PRI. SCH.",
     "name": "JARA GOL PRI. SCH.",
@@ -6753,12 +6507,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BAYO",
-    "ward": "JARA GOL",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/04/06/001",
     "pu_name": "DALI PRI. SCH. I",
     "name": "DALI PRI. SCH. I",
@@ -6831,12 +6579,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BAYO",
-    "ward": "JARA DALI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/04/07/001",
     "pu_name": "LIMANTI PRI. SCH.",
     "name": "LIMANTI PRI. SCH.",
@@ -6894,12 +6636,6 @@
     "pu_code": "08/04/07/007",
     "pu_name": "CHONGOM",
     "name": "CHONGOM",
-    "lga": "BAYO",
-    "ward": "LIMANTI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BAYO",
     "ward": "LIMANTI",
     "state": "Borno",
@@ -6990,12 +6726,6 @@
     "pu_code": "08/04/08/010",
     "pu_name": "KOFAR MAI-UNGUWA SANO GARO",
     "name": "KOFAR MAI-UNGUWA SANO GARO",
-    "lga": "BAYO",
-    "ward": "TELI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BAYO",
     "ward": "TELI",
     "state": "Borno",
@@ -7119,12 +6849,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BAYO",
-    "ward": "WUYO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/04/10/001",
     "pu_name": "ZARA",
     "name": "ZARA",
@@ -7164,12 +6888,6 @@
     "pu_code": "08/04/10/005",
     "pu_name": "TENTENI",
     "name": "TENTENI",
-    "lga": "BAYO",
-    "ward": "ZARA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BAYO",
     "ward": "ZARA",
     "state": "Borno",
@@ -7314,12 +7032,6 @@
     "pu_code": "08/05/01/016",
     "pu_name": "BURATAI PRIMARY SCHOOL III",
     "name": "BURATAI PRIMARY SCHOOL III",
-    "lga": "BIU",
-    "ward": "BURATAI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BIU",
     "ward": "BURATAI",
     "state": "Borno",
@@ -7518,12 +7230,6 @@
     "pu_code": "08/05/02/022",
     "pu_name": "BULAMA GUNDA",
     "name": "BULAMA GUNDA",
-    "lga": "BIU",
-    "ward": "DADIN KOWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BIU",
     "ward": "DADIN KOWA",
     "state": "Borno",
@@ -7944,12 +7650,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BIU",
-    "ward": "DUGJA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/05/04/001",
     "pu_name": "MADLAN PRI. SCH.",
     "name": "MADLAN PRI. SCH.",
@@ -8121,12 +7821,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BIU",
-    "ward": "GARUBULA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/05/05/001",
     "pu_name": "GUR LAWAN PRI. SCH.",
     "name": "GUR LAWAN PRI. SCH.",
@@ -8229,12 +7923,6 @@
     "pu_code": "08/05/05/012",
     "pu_name": "GARIN MALLAM  II",
     "name": "GARIN MALLAM  II",
-    "lga": "BIU",
-    "ward": "GUR",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BIU",
     "ward": "GUR",
     "state": "Borno",
@@ -8565,12 +8253,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BIU",
-    "ward": "KENKEN",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/05/07/001",
     "pu_name": "MANDARA GIRAU PRI. SCH.",
     "name": "MANDARA GIRAU PRI. SCH.",
@@ -8718,12 +8400,6 @@
     "pu_code": "08/05/07/017",
     "pu_name": "LAWAN GATE  II",
     "name": "LAWAN GATE  II",
-    "lga": "BIU",
-    "ward": "MANDARA GIRAU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BIU",
     "ward": "MANDARA GIRAU",
     "state": "Borno",
@@ -8949,12 +8625,6 @@
     "pu_code": "08/05/08/025",
     "pu_name": "SAGERU USMAN GATE",
     "name": "SAGERU USMAN GATE",
-    "lga": "BIU",
-    "ward": "MIRINGA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BIU",
     "ward": "MIRINGA",
     "state": "Borno",
@@ -9195,12 +8865,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BIU",
-    "ward": "SULUMTHLA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/05/10/001",
     "pu_name": "FILIN JIRGI PRI. SCHOOL I",
     "name": "FILIN JIRGI PRI. SCHOOL I",
@@ -9348,12 +9012,6 @@
     "pu_code": "08/05/10/017",
     "pu_name": "YELWA WAKILI",
     "name": "YELWA WAKILI",
-    "lga": "BIU",
-    "ward": "YAWI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "BIU",
     "ward": "YAWI",
     "state": "Borno",
@@ -9666,12 +9324,6 @@
     "state_code": "08"
   },
   {
-    "lga": "BIU",
-    "ward": "ZARAWUYAKU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/06/01/001",
     "pu_name": "LAWANTI",
     "name": "LAWANTI",
@@ -9789,12 +9441,6 @@
     "state_code": "08"
   },
   {
-    "lga": "CHIBOK",
-    "ward": "CHIBOK GARU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/06/02/001",
     "pu_name": "PIYING",
     "name": "PIYING",
@@ -9870,12 +9516,6 @@
     "pu_code": "08/06/02/009",
     "pu_name": "TARBIYA PRIMARY SCHOOL",
     "name": "TARBIYA PRIMARY SCHOOL",
-    "lga": "CHIBOK",
-    "ward": "CHIBOK LIKAMA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "CHIBOK",
     "ward": "CHIBOK LIKAMA",
     "state": "Borno",
@@ -10017,12 +9657,6 @@
     "state_code": "08"
   },
   {
-    "lga": "CHIBOK",
-    "ward": "CHIBOK WUNTAKU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/06/04/001",
     "pu_name": "BILA KARAGA",
     "name": "BILA KARAGA",
@@ -10125,12 +9759,6 @@
     "pu_code": "08/06/04/012",
     "pu_name": "B.KACHALLA",
     "name": "B.KACHALLA",
-    "lga": "CHIBOK",
-    "ward": "GATAMARWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "CHIBOK",
     "ward": "GATAMARWA",
     "state": "Borno",
@@ -10254,12 +9882,6 @@
     "state_code": "08"
   },
   {
-    "lga": "CHIBOK",
-    "ward": "KAUTIKARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/06/06/001",
     "pu_name": "BAMBULA",
     "name": "BAMBULA",
@@ -10326,12 +9948,6 @@
     "pu_code": "08/06/06/008",
     "pu_name": "KORONGILIM",
     "name": "KORONGILIM",
-    "lga": "CHIBOK",
-    "ward": "KORONGILIM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "CHIBOK",
     "ward": "KORONGILIM",
     "state": "Borno",
@@ -10422,12 +10038,6 @@
     "pu_code": "08/06/07/010",
     "pu_name": "KUBURMBULA BWAFTARI  B. BAFFA",
     "name": "KUBURMBULA BWAFTARI  B. BAFFA",
-    "lga": "CHIBOK",
-    "ward": "KUBURMBULA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "CHIBOK",
     "ward": "KUBURMBULA",
     "state": "Borno",
@@ -10587,12 +10197,6 @@
     "state_code": "08"
   },
   {
-    "lga": "CHIBOK",
-    "ward": "MBALALA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/06/09/001",
     "pu_name": "MBOA KURA",
     "name": "MBOA KURA",
@@ -10650,12 +10254,6 @@
     "pu_code": "08/06/09/007",
     "pu_name": "GANGRANG",
     "name": "GANGRANG",
-    "lga": "CHIBOK",
-    "ward": "MBOA KURA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "CHIBOK",
     "ward": "MBOA KURA",
     "state": "Borno",
@@ -10725,12 +10323,6 @@
     "state_code": "08"
   },
   {
-    "lga": "CHIBOK",
-    "ward": "SHIKARKIR",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/06/11/001",
     "pu_name": "PEMI BILA ALI  I",
     "name": "PEMI BILA ALI  I",
@@ -10788,12 +10380,6 @@
     "pu_code": "08/06/11/007",
     "pu_name": "PEMI B. YUKURA",
     "name": "PEMI B. YUKURA",
-    "lga": "CHIBOK",
-    "ward": "PEMI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "CHIBOK",
     "ward": "PEMI",
     "state": "Borno",
@@ -10962,12 +10548,6 @@
     "state_code": "08"
   },
   {
-    "lga": "DAMBOA",
-    "ward": "AJIGN (A)",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/07/02/001",
     "pu_name": "TALALA B. KOLOMI",
     "name": "TALALA B. KOLOMI",
@@ -11043,12 +10623,6 @@
     "pu_code": "08/07/02/009",
     "pu_name": "BOSORO/FULATARI",
     "name": "BOSORO/FULATARI",
-    "lga": "DAMBOA",
-    "ward": "AJIGN (B)",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "DAMBOA",
     "ward": "AJIGN (B)",
     "state": "Borno",
@@ -11280,12 +10854,6 @@
     "state_code": "08"
   },
   {
-    "lga": "DAMBOA",
-    "ward": "AZUR/MULTE/FORFOR",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/07/04/001",
     "pu_name": "MUFURUNDI",
     "name": "MUFURUNDI",
@@ -11406,12 +10974,6 @@
     "pu_code": "08/07/04/014",
     "pu_name": "GAZAMA GANA",
     "name": "GAZAMA GANA",
-    "lga": "DAMBOA",
-    "ward": "BEGO/YERWA/NGURNA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "DAMBOA",
     "ward": "BEGO/YERWA/NGURNA",
     "state": "Borno",
@@ -11715,12 +11277,6 @@
     "state_code": "08"
   },
   {
-    "lga": "DAMBOA",
-    "ward": "DAMBOA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/07/06/001",
     "pu_name": "GUMSURI  I",
     "name": "GUMSURI  I",
@@ -11865,12 +11421,6 @@
     "state_code": "08"
   },
   {
-    "lga": "DAMBOA",
-    "ward": "GUMSURI/MISAKURBUDU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/07/07/001",
     "pu_name": "KAFA LAWANTI I",
     "name": "KAFA LAWANTI I",
@@ -11973,12 +11523,6 @@
     "pu_code": "08/07/07/012",
     "pu_name": "KAFA PRI. SCHOOL",
     "name": "KAFA PRI. SCHOOL",
-    "lga": "DAMBOA",
-    "ward": "KAFA / MAFI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "DAMBOA",
     "ward": "KAFA / MAFI",
     "state": "Borno",
@@ -12150,12 +11694,6 @@
     "pu_code": "08/07/08/019",
     "pu_name": "KILAKESA PRIMARY SCHOOL",
     "name": "KILAKESA PRIMARY SCHOOL",
-    "lga": "DAMBOA",
-    "ward": "MULGWAI / KOPCHI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "DAMBOA",
     "ward": "MULGWAI / KOPCHI",
     "state": "Borno",
@@ -12378,12 +11916,6 @@
     "state_code": "08"
   },
   {
-    "lga": "DAMBOA",
-    "ward": "NGUDA / WUYARAM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/07/10/001",
     "pu_name": "KAREDE LAWANTI",
     "name": "KAREDE LAWANTI",
@@ -12555,12 +12087,6 @@
     "state_code": "08"
   },
   {
-    "lga": "DAMBOA",
-    "ward": "WAWA / KOREDE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/08/01/001",
     "pu_name": "BOBOSHE I",
     "name": "BOBOSHE I",
@@ -12672,12 +12198,6 @@
     "pu_code": "08/08/01/013",
     "pu_name": "MIJIGITE II",
     "name": "MIJIGITE II",
-    "lga": "DIKWA",
-    "ward": "BOBOSHE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "DIKWA",
     "ward": "BOBOSHE",
     "state": "Borno",
@@ -12945,12 +12465,6 @@
     "state_code": "08"
   },
   {
-    "lga": "DIKWA",
-    "ward": "DIKWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/08/03/001",
     "pu_name": "GAJIBO VIEW CENTRE",
     "name": "GAJIBO VIEW CENTRE",
@@ -13050,12 +12564,6 @@
     "state_code": "08"
   },
   {
-    "lga": "DIKWA",
-    "ward": "GAJIBO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/08/04/001",
     "pu_name": "UFAYE PRI. SCH.",
     "name": "UFAYE PRI. SCH.",
@@ -13128,12 +12636,6 @@
     "state_code": "08"
   },
   {
-    "lga": "DIKWA",
-    "ward": "UFAYE / GUJILE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/08/05/001",
     "pu_name": "MULIYE DANDAL",
     "name": "MULIYE DANDAL",
@@ -13191,12 +12693,6 @@
     "pu_code": "08/08/05/007",
     "pu_name": "DURBE",
     "name": "DURBE",
-    "lga": "DIKWA",
-    "ward": "MULIYE / JEMURI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "DIKWA",
     "ward": "MULIYE / JEMURI",
     "state": "Borno",
@@ -13284,12 +12780,6 @@
     "state_code": "08"
   },
   {
-    "lga": "DIKWA",
-    "ward": "MUDU / KAZA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/08/07/001",
     "pu_name": "MALLAM MAJA PRI. SCH.",
     "name": "MALLAM MAJA PRI. SCH.",
@@ -13371,12 +12861,6 @@
     "state_code": "08"
   },
   {
-    "lga": "DIKWA",
-    "ward": "MALLAM MAJA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/08/08/001",
     "pu_name": "NGUDORAM PRI. SCH.",
     "name": "NGUDORAM PRI. SCH.",
@@ -13440,12 +12924,6 @@
     "state_code": "08"
   },
   {
-    "lga": "DIKWA",
-    "ward": "NGUDORAM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/08/09/001",
     "pu_name": "MAGARTA PRI. SCH.",
     "name": "MAGARTA PRI. SCH.",
@@ -13494,12 +12972,6 @@
     "pu_code": "08/08/09/006",
     "pu_name": "GOSOMA",
     "name": "GOSOMA",
-    "lga": "DIKWA",
-    "ward": "MAGARTA / SHEFFRI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "DIKWA",
     "ward": "MAGARTA / SHEFFRI",
     "state": "Borno",
@@ -13578,12 +13050,6 @@
     "state_code": "08"
   },
   {
-    "lga": "DIKWA",
-    "ward": "SOGOMA / AFUYE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/09/01/001",
     "pu_name": "BAM KURUWU",
     "name": "BAM KURUWU",
@@ -13614,12 +13080,6 @@
     "pu_code": "08/09/01/004",
     "pu_name": "LAWANTI  II",
     "name": "LAWANTI  II",
-    "lga": "GUBIO",
-    "ward": "ARDIMINI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GUBIO",
     "ward": "ARDIMINI",
     "state": "Borno",
@@ -13674,12 +13134,6 @@
     "pu_code": "08/09/02/006",
     "pu_name": "MORURI",
     "name": "MORURI",
-    "lga": "GUBIO",
-    "ward": "DABIRA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GUBIO",
     "ward": "DABIRA",
     "state": "Borno",
@@ -13749,12 +13203,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GUBIO",
-    "ward": "FELO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/09/04/001",
     "pu_name": "BAMMA GANA  I",
     "name": "BAMMA GANA  I",
@@ -13803,12 +13251,6 @@
     "pu_code": "08/09/04/006",
     "pu_name": "BURARI",
     "name": "BURARI",
-    "lga": "GUBIO",
-    "ward": "GAMOWO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GUBIO",
     "ward": "GAMOWO",
     "state": "Borno",
@@ -13935,12 +13377,6 @@
     "pu_code": "08/09/05/014",
     "pu_name": "YAUMARI  II",
     "name": "YAUMARI  II",
-    "lga": "GUBIO",
-    "ward": "GAZABURE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GUBIO",
     "ward": "GAZABURE",
     "state": "Borno",
@@ -14199,12 +13635,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GUBIO",
-    "ward": "GUBIO TOWN  I",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/09/07/001",
     "pu_name": "BAZAM POMPOMMA  I",
     "name": "BAZAM POMPOMMA  I",
@@ -14367,12 +13797,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GUBIO",
-    "ward": "GUBIO TOWN II",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/09/08/001",
     "pu_name": "DUNGA I",
     "name": "DUNGA I",
@@ -14439,12 +13863,6 @@
     "pu_code": "08/09/08/008",
     "pu_name": "MAIDURI",
     "name": "MAIDURI",
-    "lga": "GUBIO",
-    "ward": "KINGOWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GUBIO",
     "ward": "KINGOWA",
     "state": "Borno",
@@ -14622,12 +14040,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GUBIO",
-    "ward": "NGETRA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/09/10/001",
     "pu_name": "BAM NGUDOROM  I",
     "name": "BAM NGUDOROM  I",
@@ -14727,12 +14139,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GUBIO",
-    "ward": "ZOWO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/10/01/001",
     "pu_name": "ADUWA LAWANTI  I",
     "name": "ADUWA LAWANTI  I",
@@ -14772,12 +14178,6 @@
     "pu_code": "08/10/01/005",
     "pu_name": "ADUWA PRIMARY SCHOOL",
     "name": "ADUWA PRIMARY SCHOOL",
-    "lga": "GUZAMALA",
-    "ward": "ADUWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GUZAMALA",
     "ward": "ADUWA",
     "state": "Borno",
@@ -14964,12 +14364,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GUZAMALA",
-    "ward": "GUDUMBALI EAST",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/10/03/001",
     "pu_name": "ALIYARI",
     "name": "ALIYARI",
@@ -15042,12 +14436,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GUZAMALA",
-    "ward": "GUDUMBALI WEST",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/10/04/001",
     "pu_name": "AJI DALARI",
     "name": "AJI DALARI",
@@ -15096,12 +14484,6 @@
     "pu_code": "08/10/04/006",
     "pu_name": "BUNARI",
     "name": "BUNARI",
-    "lga": "GUZAMALA",
-    "ward": "GUWORAM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GUZAMALA",
     "ward": "GUWORAM",
     "state": "Borno",
@@ -15165,12 +14547,6 @@
     "pu_code": "08/10/05/007",
     "pu_name": "YAGANARI",
     "name": "YAGANARI",
-    "lga": "GUZAMALA",
-    "ward": "GUZAMALA EAST",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GUZAMALA",
     "ward": "GUZAMALA EAST",
     "state": "Borno",
@@ -15258,12 +14634,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GUZAMALA",
-    "ward": "GUZAMALA WEST",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/10/07/001",
     "pu_name": "ALI ZURGUMARI",
     "name": "ALI ZURGUMARI",
@@ -15339,12 +14709,6 @@
     "pu_code": "08/10/07/009",
     "pu_name": "SHETTIMARI",
     "name": "SHETTIMARI",
-    "lga": "GUZAMALA",
-    "ward": "KINGARWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GUZAMALA",
     "ward": "KINGARWA",
     "state": "Borno",
@@ -15441,12 +14805,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GUZAMALA",
-    "ward": "MAIRARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/10/09/001",
     "pu_name": "AJARI",
     "name": "AJARI",
@@ -15510,12 +14868,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GUZAMALA",
-    "ward": "MODURI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/10/10/001",
     "pu_name": "BOLORI",
     "name": "BOLORI",
@@ -15564,12 +14916,6 @@
     "pu_code": "08/10/10/006",
     "pu_name": "NALWODO",
     "name": "NALWODO",
-    "lga": "GUZAMALA",
-    "ward": "WAMIRI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GUZAMALA",
     "ward": "WAMIRI",
     "state": "Borno",
@@ -15669,12 +15015,6 @@
     "pu_code": "08/11/01/011",
     "pu_name": "NDALE NAJI 1",
     "name": "NDALE NAJI 1",
-    "lga": "GWOZA",
-    "ward": "ASHIGASHIYA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GWOZA",
     "ward": "ASHIGASHIYA",
     "state": "Borno",
@@ -15873,12 +15213,6 @@
     "pu_code": "08/11/02/022",
     "pu_name": "IZGE KASUWA",
     "name": "IZGE KASUWA",
-    "lga": "GWOZA",
-    "ward": "BITA / IZGE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GWOZA",
     "ward": "BITA / IZGE",
     "state": "Borno",
@@ -16110,12 +15444,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GWOZA",
-    "ward": "DURE / WALA / WARABE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/11/04/001",
     "pu_name": "GAVVA KITAKWA",
     "name": "GAVVA KITAKWA",
@@ -16332,12 +15660,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GWOZA",
-    "ward": "GAVVA / AGAPALWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/11/05/001",
     "pu_name": "MESSENGER AUDU",
     "name": "MESSENGER AUDU",
@@ -16548,12 +15870,6 @@
     "pu_code": "08/11/05/024",
     "pu_name": "LAWAN AUDU GRANDAWA",
     "name": "LAWAN AUDU GRANDAWA",
-    "lga": "GWOZA",
-    "ward": "GUDUF NAGADIYO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GWOZA",
     "ward": "GUDUF NAGADIYO",
     "state": "Borno",
@@ -16839,12 +16155,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GWOZA",
-    "ward": "GWOZA TOWN GADAMAYO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/11/07/001",
     "pu_name": "USMAN NUGHO  I",
     "name": "USMAN NUGHO  I",
@@ -17100,12 +16410,6 @@
     "pu_code": "08/11/07/029",
     "pu_name": "BULAMA IBRAHIM GADZAWA",
     "name": "BULAMA IBRAHIM GADZAWA",
-    "lga": "GWOZA",
-    "ward": "GWOZA WAKANE / BULABULIN",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GWOZA",
     "ward": "GWOZA WAKANE / BULABULIN",
     "state": "Borno",
@@ -17391,12 +16695,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GWOZA",
-    "ward": "HAMBAGDA/ LIMAN KARA/ NEW SETTLEMENT",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/11/09/001",
     "pu_name": "GARBA SHIGWA",
     "name": "GARBA SHIGWA",
@@ -17640,12 +16938,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GWOZA",
-    "ward": "JOHODE/CHIKIDE/KUGHUM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/11/10/001",
     "pu_name": "KIRAWA S/GARI PRI. SCH.",
     "name": "KIRAWA S/GARI PRI. SCH.",
@@ -17835,12 +17127,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GWOZA",
-    "ward": "KIRAWA/JIMINI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/11/11/001",
     "pu_name": "BALA PEGI I",
     "name": "BALA PEGI I",
@@ -18003,12 +17289,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GWOZA",
-    "ward": "KURANA BASSA/NGOSHE - SAMA'A",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/11/12/001",
     "pu_name": "NGOSHE LAHUPARA PRI. SCH.",
     "name": "NGOSHE LAHUPARA PRI. SCH.",
@@ -18120,12 +17400,6 @@
     "pu_code": "08/11/12/013",
     "pu_name": "NGOSHE VEIWING CENTRE",
     "name": "NGOSHE VEIWING CENTRE",
-    "lga": "GWOZA",
-    "ward": "NGOSHE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "GWOZA",
     "ward": "NGOSHE",
     "state": "Borno",
@@ -18384,12 +17658,6 @@
     "state_code": "08"
   },
   {
-    "lga": "GWOZA",
-    "ward": "PULKA/BOKKO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/12/01/001",
     "pu_name": "HUMA CENTRAL I",
     "name": "HUMA CENTRAL I",
@@ -18570,12 +17838,6 @@
     "state_code": "08"
   },
   {
-    "lga": "HAWUL",
-    "ward": "BILINGWI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/12/02/001",
     "pu_name": "DZAR  I",
     "name": "DZAR  I",
@@ -18723,12 +17985,6 @@
     "pu_code": "08/12/02/017",
     "pu_name": "VINADAM PRIMARY SCHOOL",
     "name": "VINADAM PRIMARY SCHOOL",
-    "lga": "HAWUL",
-    "ward": "DZAR/ VINADUM/ BIRNI/ DLANDI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "HAWUL",
     "ward": "DZAR/ VINADUM/ BIRNI/ DLANDI",
     "state": "Borno",
@@ -18924,12 +18180,6 @@
     "state_code": "08"
   },
   {
-    "lga": "HAWUL",
-    "ward": "GWANZANG  PUSDA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/12/04/001",
     "pu_name": "SUBWANG",
     "name": "SUBWANG",
@@ -19110,12 +18360,6 @@
     "state_code": "08"
   },
   {
-    "lga": "HAWUL",
-    "ward": "HIZHI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/12/05/001",
     "pu_name": "BULAMA ABDULLAHI",
     "name": "BULAMA ABDULLAHI",
@@ -19281,12 +18525,6 @@
     "pu_code": "08/12/05/019",
     "pu_name": "ZARA GWANGE",
     "name": "ZARA GWANGE",
-    "lga": "HAWUL",
-    "ward": "KIDA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "HAWUL",
     "ward": "KIDA",
     "state": "Borno",
@@ -19482,12 +18720,6 @@
     "state_code": "08"
   },
   {
-    "lga": "HAWUL",
-    "ward": "KWAJAFFA/HANG",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/12/07/001",
     "pu_name": "KWAYA BURA I",
     "name": "KWAYA BURA I",
@@ -19650,12 +18882,6 @@
     "state_code": "08"
   },
   {
-    "lga": "HAWUL",
-    "ward": "KWAYA-BUR/TANGA RUMTA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/12/08/001",
     "pu_name": "KIDANG  I PRY SCH",
     "name": "KIDANG  I PRY SCH",
@@ -19809,12 +19035,6 @@
     "state_code": "08"
   },
   {
-    "lga": "HAWUL",
-    "ward": "MARAMA/KIDANG",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/12/09/001",
     "pu_name": "PAMA  I",
     "name": "PAMA  I",
@@ -19935,12 +19155,6 @@
     "pu_code": "08/12/09/014",
     "pu_name": "MIMITHU",
     "name": "MIMITHU",
-    "lga": "HAWUL",
-    "ward": "PAMA/WHITAMBAYA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "HAWUL",
     "ward": "PAMA/WHITAMBAYA",
     "state": "Borno",
@@ -20082,12 +19296,6 @@
     "state_code": "08"
   },
   {
-    "lga": "HAWUL",
-    "ward": "PUBA/VIDAU/LOKOJA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/12/11/001",
     "pu_name": "SAKWA  I",
     "name": "SAKWA  I",
@@ -20217,12 +19425,6 @@
     "pu_code": "08/12/11/015",
     "pu_name": "KUBUR DUKU",
     "name": "KUBUR DUKU",
-    "lga": "HAWUL",
-    "ward": "SAKWA/HEMA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "HAWUL",
     "ward": "SAKWA/HEMA",
     "state": "Borno",
@@ -20391,12 +19593,6 @@
     "state_code": "08"
   },
   {
-    "lga": "HAWUL",
-    "ward": "SHAFFA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/13/01/001",
     "pu_name": "LAWANTI  I",
     "name": "LAWANTI  I",
@@ -20499,12 +19695,6 @@
     "pu_code": "08/13/01/012",
     "pu_name": "NGUWARI",
     "name": "NGUWARI",
-    "lga": "JERE",
-    "ward": "ALAU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "JERE",
     "ward": "ALAU",
     "state": "Borno",
@@ -20763,12 +19953,6 @@
     "state_code": "08"
   },
   {
-    "lga": "JERE",
-    "ward": "BALE GALTIMARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/13/03/001",
     "pu_name": "DALA PRI. SCH.  I",
     "name": "DALA PRI. SCH.  I",
@@ -20862,12 +20046,6 @@
     "pu_code": "08/13/03/011",
     "pu_name": "SANDARI KOFAR BULAMA",
     "name": "SANDARI KOFAR BULAMA",
-    "lga": "JERE",
-    "ward": "DALA LAWANTI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "JERE",
     "ward": "DALA LAWANTI",
     "state": "Borno",
@@ -21054,12 +20232,6 @@
     "state_code": "08"
   },
   {
-    "lga": "JERE",
-    "ward": "DUSUMAN",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/13/05/001",
     "pu_name": "LAWANTI BULAMARI",
     "name": "LAWANTI BULAMARI",
@@ -21153,12 +20325,6 @@
     "pu_code": "08/13/05/011",
     "pu_name": "KYARI MODU",
     "name": "KYARI MODU",
-    "lga": "JERE",
-    "ward": "GONGULONG",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "JERE",
     "ward": "GONGULONG",
     "state": "Borno",
@@ -21555,12 +20721,6 @@
     "pu_code": "08/13/06/044",
     "pu_name": "SHUGABA MAINO",
     "name": "SHUGABA MAINO",
-    "lga": "JERE",
-    "ward": "MAIMUSARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "JERE",
     "ward": "MAIMUSARI",
     "state": "Borno",
@@ -22233,12 +21393,6 @@
     "state_code": "08"
   },
   {
-    "lga": "JERE",
-    "ward": "MASHAMARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/13/08/001",
     "pu_name": "BULAMA YARO I",
     "name": "BULAMA YARO I",
@@ -22377,12 +21531,6 @@
     "pu_code": "08/13/08/016",
     "pu_name": "BULAMA BUKAR",
     "name": "BULAMA BUKAR",
-    "lga": "JERE",
-    "ward": "NGUDAA/ADDAMARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "JERE",
     "ward": "NGUDAA/ADDAMARI",
     "state": "Borno",
@@ -22911,12 +22059,6 @@
     "state_code": "08"
   },
   {
-    "lga": "JERE",
-    "ward": "OLD MAIDUGURI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/13/10/001",
     "pu_name": "GUMTAI",
     "name": "GUMTAI",
@@ -22956,12 +22098,6 @@
     "pu_code": "08/13/10/005",
     "pu_name": "MAKULWE",
     "name": "MAKULWE",
-    "lga": "JERE",
-    "ward": "TUBA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "JERE",
     "ward": "TUBA",
     "state": "Borno",
@@ -23439,12 +22575,6 @@
     "pu_code": "08/13/11/053",
     "pu_name": "FGC QUARTERS",
     "name": "FGC QUARTERS",
-    "lga": "JERE",
-    "ward": "MAIRI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "JERE",
     "ward": "MAIRI",
     "state": "Borno",
@@ -23937,12 +23067,6 @@
     "state_code": "08"
   },
   {
-    "lga": "JERE",
-    "ward": "GOMARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/14/01/001",
     "pu_name": "MAULI PRIMARY SCHOOL",
     "name": "MAULI PRIMARY SCHOOL",
@@ -24027,12 +23151,6 @@
     "pu_code": "08/14/01/010",
     "pu_name": "MUNYE PRIMARY SCHOOL",
     "name": "MUNYE PRIMARY SCHOOL",
-    "lga": "KAGA",
-    "ward": "AFA/DIG/MAUDORI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KAGA",
     "ward": "AFA/DIG/MAUDORI",
     "state": "Borno",
@@ -24210,12 +23328,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KAGA",
-    "ward": "BENISHEIKH",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/14/03/001",
     "pu_name": "BORGOZO PRIMARY SCHOOL",
     "name": "BORGOZO PRIMARY SCHOOL",
@@ -24246,12 +23358,6 @@
     "pu_code": "08/14/03/004",
     "pu_name": "MASTAMARI",
     "name": "MASTAMARI",
-    "lga": "KAGA",
-    "ward": "BORGOZO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KAGA",
     "ward": "BORGOZO",
     "state": "Borno",
@@ -24312,12 +23418,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KAGA",
-    "ward": "DOGOMA / JALORI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/14/05/001",
     "pu_name": "DONGO PRIMARY SCHOOL",
     "name": "DONGO PRIMARY SCHOOL",
@@ -24345,12 +23445,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KAGA",
-    "ward": "DONGO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/14/06/001",
     "pu_name": "MARKET STALL",
     "name": "MARKET STALL",
@@ -24363,12 +23457,6 @@
     "pu_code": "08/14/06/002",
     "pu_name": "GALANGI MAIRI",
     "name": "GALANGI MAIRI",
-    "lga": "KAGA",
-    "ward": "GALANGI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KAGA",
     "ward": "GALANGI",
     "state": "Borno",
@@ -24396,12 +23484,6 @@
     "pu_code": "08/14/07/003",
     "pu_name": "ZA'AKURARI",
     "name": "ZA'AKURARI",
-    "lga": "KAGA",
-    "ward": "GUWO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KAGA",
     "ward": "GUWO",
     "state": "Borno",
@@ -24438,12 +23520,6 @@
     "pu_code": "08/14/08/004",
     "pu_name": "GANGAWA M. MALAYE",
     "name": "GANGAWA M. MALAYE",
-    "lga": "KAGA",
-    "ward": "KARAGAWARU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KAGA",
     "ward": "KARAGAWARU",
     "state": "Borno",
@@ -24603,12 +23679,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KAGA",
-    "ward": "MAINOK",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/14/10/001",
     "pu_name": "MARGUBA PRIMARY SCHOOL",
     "name": "MARGUBA PRIMARY SCHOOL",
@@ -24648,12 +23718,6 @@
     "pu_code": "08/14/10/005",
     "pu_name": "ABUKARTI",
     "name": "ABUKARTI",
-    "lga": "KAGA",
-    "ward": "MARGUBA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KAGA",
     "ward": "MARGUBA",
     "state": "Borno",
@@ -24804,12 +23868,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KAGA",
-    "ward": "NGAMDU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/14/12/001",
     "pu_name": "SHETTIMARI DISPENSARY",
     "name": "SHETTIMARI DISPENSARY",
@@ -24840,12 +23898,6 @@
     "pu_code": "08/14/12/004",
     "pu_name": "NGURMAI   II",
     "name": "NGURMAI   II",
-    "lga": "KAGA",
-    "ward": "SHETTIMARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KAGA",
     "ward": "SHETTIMARI",
     "state": "Borno",
@@ -24900,12 +23952,6 @@
     "pu_code": "08/14/13/006",
     "pu_name": "ANUMDOLIYA",
     "name": "ANUMDOLIYA",
-    "lga": "KAGA",
-    "ward": "TOBOLO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KAGA",
     "ward": "TOBOLO",
     "state": "Borno",
@@ -24975,12 +24021,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KAGA",
-    "ward": "WAJIRO / BURGUMMA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/14/15/001",
     "pu_name": "WASSARAM LAWANTI PALACE",
     "name": "WASSARAM LAWANTI PALACE",
@@ -25002,12 +24042,6 @@
     "pu_code": "08/14/15/003",
     "pu_name": "YABAL PRIMARY SCHOOL",
     "name": "YABAL PRIMARY SCHOOL",
-    "lga": "KAGA",
-    "ward": "WASSARAM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KAGA",
     "ward": "WASSARAM",
     "state": "Borno",
@@ -25071,12 +24105,6 @@
     "pu_code": "08/15/01/007",
     "pu_name": "MOHOLO",
     "name": "MOHOLO",
-    "lga": "KALA BALGE",
-    "ward": "MOHOLO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KALA BALGE",
     "ward": "MOHOLO",
     "state": "Borno",
@@ -25155,12 +24183,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KALA BALGE",
-    "ward": "JILBE  'A'",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/15/03/001",
     "pu_name": "HOLENGE",
     "name": "HOLENGE",
@@ -25233,12 +24255,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KALA BALGE",
-    "ward": "JILBE B KOMA KAUDI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/15/04/001",
     "pu_name": "JARAWA",
     "name": "JARAWA",
@@ -25296,12 +24312,6 @@
     "pu_code": "08/15/04/007",
     "pu_name": "JARAWA PRIMARY SCHOOL",
     "name": "JARAWA PRIMARY SCHOOL",
-    "lga": "KALA BALGE",
-    "ward": "JARAWA/SANGAYA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KALA BALGE",
     "ward": "JARAWA/SANGAYA",
     "state": "Borno",
@@ -25389,12 +24399,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KALA BALGE",
-    "ward": "KALA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/15/06/001",
     "pu_name": "KUMAGA LAWANTI",
     "name": "KUMAGA LAWANTI",
@@ -25443,12 +24447,6 @@
     "pu_code": "08/15/06/006",
     "pu_name": "GULFO",
     "name": "GULFO",
-    "lga": "KALA BALGE",
-    "ward": "KUMAGA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KALA BALGE",
     "ward": "KUMAGA",
     "state": "Borno",
@@ -25608,12 +24606,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KALA BALGE",
-    "ward": "RANN  'A'",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/15/08/001",
     "pu_name": "ATTI",
     "name": "ATTI",
@@ -25740,12 +24732,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KALA BALGE",
-    "ward": "RANN B DAIMA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/15/09/001",
     "pu_name": "GABULGA",
     "name": "GABULGA",
@@ -25812,12 +24798,6 @@
     "pu_code": "08/15/09/008",
     "pu_name": "MULA PRIMARY SCHOOL",
     "name": "MULA PRIMARY SCHOOL",
-    "lga": "KALA BALGE",
-    "ward": "MADA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KALA BALGE",
     "ward": "MADA",
     "state": "Borno",
@@ -25962,12 +24942,6 @@
     "pu_code": "08/15/10/016",
     "pu_name": "MAKANDIRI",
     "name": "MAKANDIRI",
-    "lga": "KALA BALGE",
-    "ward": "SIGAL/KARCHE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KALA BALGE",
     "ward": "SIGAL/KARCHE",
     "state": "Borno",
@@ -26415,12 +25389,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KONDUGA",
-    "ward": "AUNO / CHABBOL",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/16/02/001",
     "pu_name": "KAJERI PRI. SCH. , KAJERI",
     "name": "KAJERI PRI. SCH. , KAJERI",
@@ -26601,12 +25569,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KONDUGA",
-    "ward": "DALORI / WANORI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/16/03/001",
     "pu_name": "KAIGAMARI PRI. SCH., KAIGAMARI",
     "name": "KAIGAMARI PRI. SCH., KAIGAMARI",
@@ -26751,12 +25713,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KONDUGA",
-    "ward": "DAWA EAST / MALARI / KANGAMARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/16/04/001",
     "pu_name": "JAKANA PRI. SCH. , JAKANA  I",
     "name": "JAKANA PRI. SCH. , JAKANA  I",
@@ -26877,12 +25833,6 @@
     "pu_code": "08/16/04/014",
     "pu_name": "FRAI FULATARI , FRAI FULATARI",
     "name": "FRAI FULATARI , FRAI FULATARI",
-    "lga": "KONDUGA",
-    "ward": "JEWU / LAMBOA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KONDUGA",
     "ward": "JEWU / LAMBOA",
     "state": "Borno",
@@ -27051,12 +26001,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KONDUGA",
-    "ward": "KAWURI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/16/06/001",
     "pu_name": "KELLUMIRI PRI. SCH.  I",
     "name": "KELLUMIRI PRI. SCH.  I",
@@ -27177,12 +26121,6 @@
     "pu_code": "08/16/06/014",
     "pu_name": "KELLUMIRI PRI SCHOOL III",
     "name": "KELLUMIRI PRI SCHOOL III",
-    "lga": "KONDUGA",
-    "ward": "KELUMIRI / NGALBI AMARI / YALE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KONDUGA",
     "ward": "KELUMIRI / NGALBI AMARI / YALE",
     "state": "Borno",
@@ -27450,12 +26388,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KONDUGA",
-    "ward": "KONDUGA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/16/08/001",
     "pu_name": "MAIRAMRI PRIMARY SCHOOL,  MAIRAMRI I",
     "name": "MAIRAMRI PRIMARY SCHOOL,  MAIRAMRI I",
@@ -27636,12 +26568,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KONDUGA",
-    "ward": "MAIRAMRI / YELERI / BAZAMRI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/16/09/001",
     "pu_name": "MASBA PRI. SCH. , MASBA  I",
     "name": "MASBA PRI. SCH. , MASBA  I",
@@ -27804,12 +26730,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KONDUGA",
-    "ward": "MASBA / DALWA WEST",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/16/10/001",
     "pu_name": "NYALERI PRI. SCH. ,NYALERI",
     "name": "NYALERI PRI. SCH. ,NYALERI",
@@ -27963,12 +26883,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KONDUGA",
-    "ward": "NYALERI/SANDIA/YEJIWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/16/11/001",
     "pu_name": "AJIRI PRI. SCH. I, AJIRI PRI. SCH. I",
     "name": "AJIRI PRI. SCH. I, AJIRI PRI. SCH. I",
@@ -28104,12 +27018,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KONDUGA",
-    "ward": "SOJIRI/ NGURO - NGURO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/17/01/001",
     "pu_name": "ALAGARNO PRI. SCH.",
     "name": "ALAGARNO PRI. SCH.",
@@ -28221,12 +27129,6 @@
     "pu_code": "08/17/01/013",
     "pu_name": "SHUWARAM 11",
     "name": "SHUWARAM 11",
-    "lga": "KUKAWA",
-    "ward": "ALAGARNO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KUKAWA",
     "ward": "ALAGARNO",
     "state": "Borno",
@@ -28530,12 +27432,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KUKAWA",
-    "ward": "BAGA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/17/03/001",
     "pu_name": "BUNDUR LAWANTI",
     "name": "BUNDUR LAWANTI",
@@ -28557,12 +27453,6 @@
     "pu_code": "08/17/03/003",
     "pu_name": "BUNDUR PRIMARY SCHOOL",
     "name": "BUNDUR PRIMARY SCHOOL",
-    "lga": "KUKAWA",
-    "ward": "BUNDUR",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KUKAWA",
     "ward": "BUNDUR",
     "state": "Borno",
@@ -28608,12 +27498,6 @@
     "pu_code": "08/17/04/005",
     "pu_name": "YAN GORIYA",
     "name": "YAN GORIYA",
-    "lga": "KUKAWA",
-    "ward": "DOGOSHI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KUKAWA",
     "ward": "DOGOSHI",
     "state": "Borno",
@@ -28854,12 +27738,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KUKAWA",
-    "ward": "DORO / DUGURI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/17/06/001",
     "pu_name": "CROSS KAUWA VIEWING CENTRE",
     "name": "CROSS KAUWA VIEWING CENTRE",
@@ -28959,12 +27837,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KUKAWA",
-    "ward": "KAUWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/17/07/001",
     "pu_name": "KEKENO LAWANTI",
     "name": "KEKENO LAWANTI",
@@ -29058,12 +27930,6 @@
     "pu_code": "08/17/07/011",
     "pu_name": "DABAN MASARA PRI. SCH.",
     "name": "DABAN MASARA PRI. SCH.",
-    "lga": "KUKAWA",
-    "ward": "KEKENO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KUKAWA",
     "ward": "KEKENO",
     "state": "Borno",
@@ -29268,12 +28134,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KUKAWA",
-    "ward": "KUKAWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/17/09/001",
     "pu_name": "MODUARI / BARWATI",
     "name": "MODUARI / BARWATI",
@@ -29310,12 +28170,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KUKAWA",
-    "ward": "MODUARI / BARWARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/17/10/001",
     "pu_name": "YOYO  LAWANTI",
     "name": "YOYO  LAWANTI",
@@ -29337,12 +28191,6 @@
     "pu_code": "08/17/10/003",
     "pu_name": "AIDA KURARAM",
     "name": "AIDA KURARAM",
-    "lga": "KUKAWA",
-    "ward": "YOYO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KUKAWA",
     "ward": "YOYO",
     "state": "Borno",
@@ -29424,12 +28272,6 @@
     "pu_code": "08/18/01/009",
     "pu_name": "BUMANDA BOREHOLE",
     "name": "BUMANDA BOREHOLE",
-    "lga": "KWAYA / KUSAR",
-    "ward": "GONDI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KWAYA / KUSAR",
     "ward": "GONDI",
     "state": "Borno",
@@ -29544,12 +28386,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KWAYA / KUSAR",
-    "ward": "GUSI / BILLA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/18/03/001",
     "pu_name": "GUWAL PRI. SCH.  I",
     "name": "GUWAL PRI. SCH.  I",
@@ -29604,12 +28440,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KWAYA / KUSAR",
-    "ward": "GUWAL",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/18/04/001",
     "pu_name": "KUBUKU  PRI. SCH.  I",
     "name": "KUBUKU  PRI. SCH.  I",
@@ -29658,12 +28488,6 @@
     "pu_code": "08/18/04/006",
     "pu_name": "DAYAR KULTHI SALIHU",
     "name": "DAYAR KULTHI SALIHU",
-    "lga": "KWAYA / KUSAR",
-    "ward": "KUBUKU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KWAYA / KUSAR",
     "ward": "KUBUKU",
     "state": "Borno",
@@ -29736,12 +28560,6 @@
     "pu_code": "08/18/05/008",
     "pu_name": "DURUM PRIMARY SCHOOL",
     "name": "DURUM PRIMARY SCHOOL",
-    "lga": "KWAYA / KUSAR",
-    "ward": "KURBA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KWAYA / KUSAR",
     "ward": "KURBA",
     "state": "Borno",
@@ -30045,12 +28863,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KWAYA / KUSAR",
-    "ward": "KWAYA KUSAR",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/18/07/001",
     "pu_name": "PETA PRI. SCH.",
     "name": "PETA PRI. SCH.",
@@ -30132,12 +28944,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KWAYA / KUSAR",
-    "ward": "PETA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/18/08/001",
     "pu_name": "WADA PRI. SCH.",
     "name": "WADA PRI. SCH.",
@@ -30201,12 +29007,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KWAYA / KUSAR",
-    "ward": "WADA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/18/09/001",
     "pu_name": "WAWA PRI. SCH.",
     "name": "WAWA PRI. SCH.",
@@ -30246,12 +29046,6 @@
     "pu_code": "08/18/09/005",
     "pu_name": "GUNDULA",
     "name": "GUNDULA",
-    "lga": "KWAYA / KUSAR",
-    "ward": "WAWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "KWAYA / KUSAR",
     "ward": "WAWA",
     "state": "Borno",
@@ -30348,12 +29142,6 @@
     "state_code": "08"
   },
   {
-    "lga": "KWAYA / KUSAR",
-    "ward": "YIMIRTHALANG",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/19/01/001",
     "pu_name": "ABBARI",
     "name": "ABBARI",
@@ -30417,12 +29205,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAFA",
-    "ward": "ABBARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/19/02/001",
     "pu_name": "ANADUA",
     "name": "ANADUA",
@@ -30480,12 +29262,6 @@
     "pu_code": "08/19/02/007",
     "pu_name": "BOSKORO PRIMARY SCHOOL",
     "name": "BOSKORO PRIMARY SCHOOL",
-    "lga": "MAFA",
-    "ward": "ANADUA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAFA",
     "ward": "ANADUA",
     "state": "Borno",
@@ -30591,12 +29367,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAFA",
-    "ward": "GAWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/19/04/001",
     "pu_name": "KOSHEBE  I",
     "name": "KOSHEBE  I",
@@ -30654,12 +29424,6 @@
     "pu_code": "08/19/04/007",
     "pu_name": "KULBURAM",
     "name": "KULBURAM",
-    "lga": "MAFA",
-    "ward": "KOSHEBE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAFA",
     "ward": "KOSHEBE",
     "state": "Borno",
@@ -30729,12 +29493,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAFA",
-    "ward": "LAJE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/19/06/001",
     "pu_name": "LIMANTI  I",
     "name": "LIMANTI  I",
@@ -30792,12 +29550,6 @@
     "pu_code": "08/19/06/007",
     "pu_name": "AZAYA MUSARI",
     "name": "AZAYA MUSARI",
-    "lga": "MAFA",
-    "ward": "LIMANTI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAFA",
     "ward": "LIMANTI",
     "state": "Borno",
@@ -30894,12 +29646,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAFA",
-    "ward": "LOSKURI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/19/08/001",
     "pu_name": "MA'AFA  I",
     "name": "MA'AFA  I",
@@ -30939,12 +29685,6 @@
     "pu_code": "08/19/08/005",
     "pu_name": "DALARGE",
     "name": "DALARGE",
-    "lga": "MAFA",
-    "ward": "MA'AFA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAFA",
     "ward": "MA'AFA",
     "state": "Borno",
@@ -31095,12 +29835,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAFA",
-    "ward": "MAFA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/19/10/001",
     "pu_name": "MASU PRIMARY SCHOOL",
     "name": "MASU PRIMARY SCHOOL",
@@ -31158,12 +29892,6 @@
     "pu_code": "08/19/10/007",
     "pu_name": "MA'A BURNI VILLAGE",
     "name": "MA'A BURNI VILLAGE",
-    "lga": "MAFA",
-    "ward": "MASU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAFA",
     "ward": "MASU",
     "state": "Borno",
@@ -31326,12 +30054,6 @@
     "pu_code": "08/19/11/018",
     "pu_name": "BA'ALE PRIMARY SCHOOL",
     "name": "BA'ALE PRIMARY SCHOOL",
-    "lga": "MAFA",
-    "ward": "MUJIGINE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAFA",
     "ward": "MUJIGINE",
     "state": "Borno",
@@ -31563,12 +30285,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAFA",
-    "ward": "TAMSU NGAMDUA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/20/01/001",
     "pu_name": "ARDORAM PRY. SCH I",
     "name": "ARDORAM PRY. SCH I",
@@ -31614,12 +30330,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAGUMERI",
-    "ward": "ARDO RAM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/20/02/001",
     "pu_name": "AYI LAWANTI",
     "name": "AYI LAWANTI",
@@ -31659,12 +30369,6 @@
     "pu_code": "08/20/02/005",
     "pu_name": "KODENGERI",
     "name": "KODENGERI",
-    "lga": "MAGUMERI",
-    "ward": "AYI / YASKU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAGUMERI",
     "ward": "AYI / YASKU",
     "state": "Borno",
@@ -31743,12 +30447,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAGUMERI",
-    "ward": "BORNO YESU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/20/04/001",
     "pu_name": "FURRAM PRI. SCH.",
     "name": "FURRAM PRI. SCH.",
@@ -31779,12 +30477,6 @@
     "pu_code": "08/20/04/004",
     "pu_name": "SHARURI",
     "name": "SHARURI",
-    "lga": "MAGUMERI",
-    "ward": "FURRAM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAGUMERI",
     "ward": "FURRAM",
     "state": "Borno",
@@ -31899,12 +30591,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAGUMERI",
-    "ward": "GAJI GANNA  I",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/20/06/001",
     "pu_name": "SURIA RETIN  I",
     "name": "SURIA RETIN  I",
@@ -31971,12 +30657,6 @@
     "pu_code": "08/20/06/008",
     "pu_name": "DUSUWA",
     "name": "DUSUWA",
-    "lga": "MAGUMERI",
-    "ward": "GAJI GANNA  II",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAGUMERI",
     "ward": "GAJI GANNA  II",
     "state": "Borno",
@@ -32082,12 +30762,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAGUMERI",
-    "ward": "HOYO / CHIN GOWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/20/08/001",
     "pu_name": "BANORAM PRI. SCH.",
     "name": "BANORAM PRI. SCH.",
@@ -32142,12 +30816,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAGUMERI",
-    "ward": "KALIZORAM / BANORAM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/20/09/001",
     "pu_name": "GALTARU",
     "name": "GALTARU",
@@ -32178,12 +30846,6 @@
     "pu_code": "08/20/09/004",
     "pu_name": "MUSA'ANARI",
     "name": "MUSA'ANARI",
-    "lga": "MAGUMERI",
-    "ward": "KARERAM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAGUMERI",
     "ward": "KARERAM",
     "state": "Borno",
@@ -32238,12 +30900,6 @@
     "pu_code": "08/20/10/006",
     "pu_name": "BUKAR MAJIRI  II",
     "name": "BUKAR MAJIRI  II",
-    "lga": "MAGUMERI",
-    "ward": "KUBTI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAGUMERI",
     "ward": "KUBTI",
     "state": "Borno",
@@ -32412,12 +31068,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAGUMERI",
-    "ward": "MAGUMERI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/20/12/001",
     "pu_name": "NGAMMA PRI. SCH.",
     "name": "NGAMMA PRI. SCH.",
@@ -32481,12 +31131,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAGUMERI",
-    "ward": "NGAMMA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/20/13/001",
     "pu_name": "NGUBALA PRY SCH",
     "name": "NGUBALA PRY SCH",
@@ -32526,12 +31170,6 @@
     "pu_code": "08/20/13/005",
     "pu_name": "SHETTIMARI",
     "name": "SHETTIMARI",
-    "lga": "MAGUMERI",
-    "ward": "NGUBALA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAGUMERI",
     "ward": "NGUBALA",
     "state": "Borno",
@@ -33108,12 +31746,6 @@
     "pu_code": "08/21/01/064",
     "pu_name": "ALH. MAI DOGO BOLORI",
     "name": "ALH. MAI DOGO BOLORI",
-    "lga": "MAIDUGURI M. C.",
-    "ward": "BOLORI  I",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAIDUGURI M. C.",
     "ward": "BOLORI  I",
     "state": "Borno",
@@ -33795,12 +32427,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAIDUGURI M. C.",
-    "ward": "BOLORI  II",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/21/03/001",
     "pu_name": "GONI ABDULSALAM , BULABULIN",
     "name": "GONI ABDULSALAM , BULABULIN",
@@ -34224,12 +32850,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAIDUGURI M. C.",
-    "ward": "BULABLIN",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/21/04/001",
     "pu_name": "ALH. ABAKOS",
     "name": "ALH. ABAKOS",
@@ -34386,12 +33006,6 @@
     "pu_code": "08/21/04/018",
     "pu_name": "LAWAN HASSAN II",
     "name": "LAWAN HASSAN II",
-    "lga": "MAIDUGURI M. C.",
-    "ward": "FEZZAN",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAIDUGURI M. C.",
     "ward": "FEZZAN",
     "state": "Borno",
@@ -34815,12 +33429,6 @@
     "pu_code": "08/21/05/047",
     "pu_name": "ALH. KOLOMI MAI KANTI  III",
     "name": "ALH. KOLOMI MAI KANTI  III",
-    "lga": "MAIDUGURI M. C.",
-    "ward": "GAMBORU LIBERTY",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAIDUGURI M. C.",
     "ward": "GAMBORU LIBERTY",
     "state": "Borno",
@@ -35289,12 +33897,6 @@
     "pu_code": "08/21/06/052",
     "pu_name": "MAJOR UBALIO'S GATE",
     "name": "MAJOR UBALIO'S GATE",
-    "lga": "MAIDUGURI M. C.",
-    "ward": "GWANGE  I",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAIDUGURI M. C.",
     "ward": "GWANGE  I",
     "state": "Borno",
@@ -35796,12 +34398,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAIDUGURI M. C.",
-    "ward": "GWANGE  II",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/21/08/001",
     "pu_name": "ALH. ZANNA IBRAHIM GUJBA  I",
     "name": "ALH. ZANNA IBRAHIM GUJBA  I",
@@ -36234,12 +34830,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAIDUGURI M. C.",
-    "ward": "GWANGE  III",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/21/09/001",
     "pu_name": "SIR KASHIM AREA  I",
     "name": "SIR KASHIM AREA  I",
@@ -36666,12 +35256,6 @@
     "pu_code": "08/21/09/048",
     "pu_name": "ALHAJI MUSTAPHA II",
     "name": "ALHAJI MUSTAPHA II",
-    "lga": "MAIDUGURI M. C.",
-    "ward": "HAUSARI/ZANGO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAIDUGURI M. C.",
     "ward": "HAUSARI/ZANGO",
     "state": "Borno",
@@ -37398,12 +35982,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAIDUGURI M. C.",
-    "ward": "LAMISULA/JABBA MARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/21/11/001",
     "pu_name": "ABBA BUKAR ABBA",
     "name": "ABBA BUKAR ABBA",
@@ -37722,12 +36300,6 @@
     "pu_code": "08/21/11/036",
     "pu_name": "BOLA AREA / BULABULIN LAYOUT",
     "name": "BOLA AREA / BULABULIN LAYOUT",
-    "lga": "MAIDUGURI M. C.",
-    "ward": "LIMANTI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAIDUGURI M. C.",
     "ward": "LIMANTI",
     "state": "Borno",
@@ -38097,12 +36669,6 @@
     "pu_code": "08/21/12/041",
     "pu_name": "ABBA YUSUF  III",
     "name": "ABBA YUSUF  III",
-    "lga": "MAIDUGURI M. C.",
-    "ward": "MAFONI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MAIDUGURI M. C.",
     "ward": "MAFONI",
     "state": "Borno",
@@ -39909,12 +38475,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAIDUGURI M. C.",
-    "ward": "MAISANDARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/21/14/001",
     "pu_name": "GONI AHMADU",
     "name": "GONI AHMADU",
@@ -40374,12 +38934,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAIDUGURI M. C.",
-    "ward": "SHEHURI  NORTH",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/21/15/001",
     "pu_name": "ALH. MALLAM SAINA BASHIR  / SHEHURI SOUTH",
     "name": "ALH. MALLAM SAINA BASHIR  / SHEHURI SOUTH",
@@ -40596,12 +39150,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MAIDUGURI M. C.",
-    "ward": "SHEHURI SOUTH",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/22/01/001",
     "pu_name": "ALA DISPENSARY I",
     "name": "ALA DISPENSARY I",
@@ -40677,12 +39225,6 @@
     "pu_code": "08/22/01/009",
     "pu_name": "ALA PRIMARY SCHOOL II",
     "name": "ALA PRIMARY SCHOOL II",
-    "lga": "MARTE",
-    "ward": "ALA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MARTE",
     "ward": "ALA",
     "state": "Borno",
@@ -40770,12 +39312,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MARTE",
-    "ward": "ALLA  LAWANTI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/22/03/001",
     "pu_name": "BORSORI PRI. SCH",
     "name": "BORSORI PRI. SCH",
@@ -40848,12 +39384,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MARTE",
-    "ward": "BORSORI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/22/04/001",
     "pu_name": "GUMNA",
     "name": "GUMNA",
@@ -40875,12 +39405,6 @@
     "pu_code": "08/22/04/003",
     "pu_name": "KUZA'A",
     "name": "KUZA'A",
-    "lga": "MARTE",
-    "ward": "GUMNA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MARTE",
     "ward": "GUMNA",
     "state": "Borno",
@@ -40935,12 +39459,6 @@
     "pu_code": "08/22/05/006",
     "pu_name": "DAGDAUWA",
     "name": "DAGDAUWA",
-    "lga": "MARTE",
-    "ward": "KABULAWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MARTE",
     "ward": "KABULAWA",
     "state": "Borno",
@@ -41127,12 +39645,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MARTE",
-    "ward": "KIRENOWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/22/07/001",
     "pu_name": "KULLI PRI. SCH. I",
     "name": "KULLI PRI. SCH. I",
@@ -41235,12 +39747,6 @@
     "pu_code": "08/22/07/012",
     "pu_name": "LAMARE",
     "name": "LAMARE",
-    "lga": "MARTE",
-    "ward": "KULLI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MARTE",
     "ward": "KULLI",
     "state": "Borno",
@@ -41409,12 +39915,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MARTE",
-    "ward": "MARTE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/22/09/001",
     "pu_name": "MAUWALLI PRI. SCH.",
     "name": "MAUWALLI PRI. SCH.",
@@ -41454,12 +39954,6 @@
     "pu_code": "08/22/09/005",
     "pu_name": "INULWA",
     "name": "INULWA",
-    "lga": "MARTE",
-    "ward": "MAWULLI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MARTE",
     "ward": "MAWULLI",
     "state": "Borno",
@@ -41592,12 +40086,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MARTE",
-    "ward": "MUSUNE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/22/11/001",
     "pu_name": "NGILEIWA PRI. SCH.",
     "name": "NGILEIWA PRI. SCH.",
@@ -41724,12 +40212,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MARTE",
-    "ward": "NGELEIWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/22/12/001",
     "pu_name": "NJINE PRI. SCH. I",
     "name": "NJINE PRI. SCH. I",
@@ -41811,12 +40293,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MARTE",
-    "ward": "NJINE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/22/13/001",
     "pu_name": "NGALORI PRI. SCH.",
     "name": "NGALORI PRI. SCH.",
@@ -41889,12 +40365,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MARTE",
-    "ward": "ZAGA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/23/01/001",
     "pu_name": "ASAGA PRI. SCH. I",
     "name": "ASAGA PRI. SCH. I",
@@ -41958,12 +40428,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MOBBAR",
-    "ward": "ASAGA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/23/02/001",
     "pu_name": "CATTLE MARKET",
     "name": "CATTLE MARKET",
@@ -42012,12 +40476,6 @@
     "pu_code": "08/23/02/006",
     "pu_name": "POMPOM KURA",
     "name": "POMPOM KURA",
-    "lga": "MOBBAR",
-    "ward": "BOGUM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MOBBAR",
     "ward": "BOGUM",
     "state": "Borno",
@@ -42081,12 +40539,6 @@
     "pu_code": "08/23/03/007",
     "pu_name": "CHAMBA LAWANTI",
     "name": "CHAMBA LAWANTI",
-    "lga": "MOBBAR",
-    "ward": "CHAMBA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MOBBAR",
     "ward": "CHAMBA",
     "state": "Borno",
@@ -42309,12 +40761,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MOBBAR",
-    "ward": "DAMASAK",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/23/05/001",
     "pu_name": "AMINARI",
     "name": "AMINARI",
@@ -42390,12 +40836,6 @@
     "pu_code": "08/23/05/009",
     "pu_name": "LUMBURAM",
     "name": "LUMBURAM",
-    "lga": "MOBBAR",
-    "ward": "DUJI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MOBBAR",
     "ward": "DUJI",
     "state": "Borno",
@@ -42483,12 +40923,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MOBBAR",
-    "ward": "GASHAGAR",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/23/07/001",
     "pu_name": "ALHAJIRI",
     "name": "ALHAJIRI",
@@ -42561,12 +40995,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MOBBAR",
-    "ward": "KARETO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/23/08/001",
     "pu_name": "GONI ABBARI",
     "name": "GONI ABBARI",
@@ -42606,12 +41034,6 @@
     "pu_code": "08/23/08/005",
     "pu_name": "LAYI PRI. SCH.",
     "name": "LAYI PRI. SCH.",
-    "lga": "MOBBAR",
-    "ward": "LAYI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MOBBAR",
     "ward": "LAYI",
     "state": "Borno",
@@ -42762,12 +41184,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MOBBAR",
-    "ward": "ZANNA UMORTI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/23/10/001",
     "pu_name": "ALIRI",
     "name": "ALIRI",
@@ -42831,12 +41247,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MOBBAR",
-    "ward": "ZARI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/24/01/001",
     "pu_name": "DAMAKULI I",
     "name": "DAMAKULI I",
@@ -42867,12 +41277,6 @@
     "pu_code": "08/24/01/004",
     "pu_name": "MUNYE KURA",
     "name": "MUNYE KURA",
-    "lga": "MONGUNO",
-    "ward": "DAMAKULI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MONGUNO",
     "ward": "DAMAKULI",
     "state": "Borno",
@@ -42942,12 +41346,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MONGUNO",
-    "ward": "KAGURAM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/24/03/001",
     "pu_name": "MAGARARAM I",
     "name": "MAGARARAM I",
@@ -42987,12 +41385,6 @@
     "pu_code": "08/24/03/005",
     "pu_name": "ZANNARI II",
     "name": "ZANNARI II",
-    "lga": "MONGUNO",
-    "ward": "KUMALIA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MONGUNO",
     "ward": "KUMALIA",
     "state": "Borno",
@@ -43062,12 +41454,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MONGUNO",
-    "ward": "MOFIO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/24/05/001",
     "pu_name": "MANDALA I",
     "name": "MANDALA I",
@@ -43098,12 +41484,6 @@
     "pu_code": "08/24/05/004",
     "pu_name": "TA'ANGO",
     "name": "TA'ANGO",
-    "lga": "MONGUNO",
-    "ward": "MANDALA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MONGUNO",
     "ward": "MANDALA",
     "state": "Borno",
@@ -43185,12 +41565,6 @@
     "pu_code": "08/24/06/009",
     "pu_name": "MINTAR MALUMRI",
     "name": "MINTAR MALUMRI",
-    "lga": "MONGUNO",
-    "ward": "MINTAR",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MONGUNO",
     "ward": "MINTAR",
     "state": "Borno",
@@ -43620,12 +41994,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MONGUNO",
-    "ward": "MONGUNO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/24/08/001",
     "pu_name": "KANUMBURI",
     "name": "KANUMBURI",
@@ -43671,12 +42039,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MONGUNO",
-    "ward": "NGURNO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/24/09/001",
     "pu_name": "SURE LAWANTI",
     "name": "SURE LAWANTI",
@@ -43716,12 +42078,6 @@
     "pu_code": "08/24/09/005",
     "pu_name": "UDANA BULAMA MAMMAN",
     "name": "UDANA BULAMA MAMMAN",
-    "lga": "MONGUNO",
-    "ward": "SURE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MONGUNO",
     "ward": "SURE",
     "state": "Borno",
@@ -43791,12 +42147,6 @@
     "state_code": "08"
   },
   {
-    "lga": "MONGUNO",
-    "ward": "WULO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/24/11/001",
     "pu_name": "YELE LAWANTI",
     "name": "YELE LAWANTI",
@@ -43827,12 +42177,6 @@
     "pu_code": "08/24/11/004",
     "pu_name": "KALAMNARE",
     "name": "KALAMNARE",
-    "lga": "MONGUNO",
-    "ward": "YELE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MONGUNO",
     "ward": "YELE",
     "state": "Borno",
@@ -43878,12 +42222,6 @@
     "pu_code": "08/24/12/005",
     "pu_name": "KUMON LAWANTI",
     "name": "KUMON LAWANTI",
-    "lga": "MONGUNO",
-    "ward": "ZULUM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "MONGUNO",
     "ward": "ZULUM",
     "state": "Borno",
@@ -43983,12 +42321,6 @@
     "pu_code": "08/25/01/011",
     "pu_name": "KIRTA  II / KIRTA DISPENSARY",
     "name": "KIRTA  II / KIRTA DISPENSARY",
-    "lga": "NGALA",
-    "ward": "SAGIR",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGALA",
     "ward": "SAGIR",
     "state": "Borno",
@@ -44097,12 +42429,6 @@
     "pu_code": "08/25/02/012",
     "pu_name": "GIRLE LAWANTI",
     "name": "GIRLE LAWANTI",
-    "lga": "NGALA",
-    "ward": "FUYE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGALA",
     "ward": "FUYE",
     "state": "Borno",
@@ -44220,12 +42546,6 @@
     "pu_code": "08/25/03/013",
     "pu_name": "NILEFA HOSPITAL",
     "name": "NILEFA HOSPITAL",
-    "lga": "NGALA",
-    "ward": "GAMBORU 'B'",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGALA",
     "ward": "GAMBORU 'B'",
     "state": "Borno",
@@ -44421,12 +42741,6 @@
     "state_code": "08"
   },
   {
-    "lga": "NGALA",
-    "ward": "GAMBORU 'C'",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/25/05/001",
     "pu_name": "NGURO I",
     "name": "NGURO I",
@@ -44493,12 +42807,6 @@
     "pu_code": "08/25/05/008",
     "pu_name": "ADA PRI. SCH.",
     "name": "ADA PRI. SCH.",
-    "lga": "NGALA",
-    "ward": "LOGUMANE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGALA",
     "ward": "LOGUMANE",
     "state": "Borno",
@@ -44589,12 +42897,6 @@
     "pu_code": "08/25/06/010",
     "pu_name": "MUKTU",
     "name": "MUKTU",
-    "lga": "NGALA",
-    "ward": "NDUFU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGALA",
     "ward": "NDUFU",
     "state": "Borno",
@@ -44703,12 +43005,6 @@
     "pu_code": "08/25/07/012",
     "pu_name": "NGALA GENERAL HOSPITAL",
     "name": "NGALA GENERAL HOSPITAL",
-    "lga": "NGALA",
-    "ward": "NGALA WARD",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGALA",
     "ward": "NGALA WARD",
     "state": "Borno",
@@ -44877,12 +43173,6 @@
     "state_code": "08"
   },
   {
-    "lga": "NGALA",
-    "ward": "OLD GAMBORU 'A'",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/25/09/001",
     "pu_name": "TUNOKALIA VILLAGE",
     "name": "TUNOKALIA VILLAGE",
@@ -44949,12 +43239,6 @@
     "pu_code": "08/25/09/008",
     "pu_name": "BULA LAIYE",
     "name": "BULA LAIYE",
-    "lga": "NGALA",
-    "ward": "TUNOKALIA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGALA",
     "ward": "TUNOKALIA",
     "state": "Borno",
@@ -45054,12 +43338,6 @@
     "pu_code": "08/25/10/011",
     "pu_name": "TUSUYE",
     "name": "TUSUYE",
-    "lga": "NGALA",
-    "ward": "WARSHELE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGALA",
     "ward": "WARSHELE",
     "state": "Borno",
@@ -45183,12 +43461,6 @@
     "state_code": "08"
   },
   {
-    "lga": "NGALA",
-    "ward": "WULGO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/25/12/001",
     "pu_name": "ROGO",
     "name": "ROGO",
@@ -45219,12 +43491,6 @@
     "pu_code": "08/25/12/004",
     "pu_name": "WURGE",
     "name": "WURGE",
-    "lga": "NGALA",
-    "ward": "WURGE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGALA",
     "ward": "WURGE",
     "state": "Borno",
@@ -45279,12 +43545,6 @@
     "pu_code": "08/26/01/006",
     "pu_name": "TOROWA PRIMARY SCHOOL III",
     "name": "TOROWA PRIMARY SCHOOL III",
-    "lga": "NGANZAI",
-    "ward": "ALARGE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGANZAI",
     "ward": "ALARGE",
     "state": "Borno",
@@ -45381,12 +43641,6 @@
     "state_code": "08"
   },
   {
-    "lga": "NGANZAI",
-    "ward": "BADU",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/26/03/001",
     "pu_name": "DAMARAM PRI. SCH. I",
     "name": "DAMARAM PRI. SCH. I",
@@ -45435,12 +43689,6 @@
     "pu_code": "08/26/03/006",
     "pu_name": "ABBA GANARI II",
     "name": "ABBA GANARI II",
-    "lga": "NGANZAI",
-    "ward": "DAMARAM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGANZAI",
     "ward": "DAMARAM",
     "state": "Borno",
@@ -45609,12 +43857,6 @@
     "state_code": "08"
   },
   {
-    "lga": "NGANZAI",
-    "ward": "GAJIRAM",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/26/05/001",
     "pu_name": "GADAI PRI. SCH.",
     "name": "GADAI PRI. SCH.",
@@ -45678,12 +43920,6 @@
     "state_code": "08"
   },
   {
-    "lga": "NGANZAI",
-    "ward": "GADAI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/26/06/001",
     "pu_name": "JIGALTA LAWANTI I",
     "name": "JIGALTA LAWANTI I",
@@ -45723,12 +43959,6 @@
     "pu_code": "08/26/06/005",
     "pu_name": "BURIMARI",
     "name": "BURIMARI",
-    "lga": "NGANZAI",
-    "ward": "JIGALTA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGANZAI",
     "ward": "JIGALTA",
     "state": "Borno",
@@ -45789,12 +44019,6 @@
     "state_code": "08"
   },
   {
-    "lga": "NGANZAI",
-    "ward": "KUDA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/26/08/001",
     "pu_name": "KURNAWA PRI. SCH.",
     "name": "KURNAWA PRI. SCH.",
@@ -45825,12 +44049,6 @@
     "pu_code": "08/26/08/004",
     "pu_name": "KURNAWA NJEMARI",
     "name": "KURNAWA NJEMARI",
-    "lga": "NGANZAI",
-    "ward": "KURNAWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGANZAI",
     "ward": "KURNAWA",
     "state": "Borno",
@@ -45876,12 +44094,6 @@
     "pu_code": "08/26/09/005",
     "pu_name": "ZINDIR",
     "name": "ZINDIR",
-    "lga": "NGANZAI",
-    "ward": "MAIWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGANZAI",
     "ward": "MAIWA",
     "state": "Borno",
@@ -46005,12 +44217,6 @@
     "state_code": "08"
   },
   {
-    "lga": "NGANZAI",
-    "ward": "MIYE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/26/11/001",
     "pu_name": "SABSABUWA LAWANTI",
     "name": "SABSABUWA LAWANTI",
@@ -46041,12 +44247,6 @@
     "pu_code": "08/26/11/004",
     "pu_name": "DOWO BORE HOLE II",
     "name": "DOWO BORE HOLE II",
-    "lga": "NGANZAI",
-    "ward": "SABSABUWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGANZAI",
     "ward": "SABSABUWA",
     "state": "Borno",
@@ -46137,12 +44337,6 @@
     "pu_code": "08/26/12/010",
     "pu_name": "KAULA NJIMMA II",
     "name": "KAULA NJIMMA II",
-    "lga": "NGANZAI",
-    "ward": "SUGUNDURE",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "NGANZAI",
     "ward": "SUGUNDURE",
     "state": "Borno",
@@ -46302,12 +44496,6 @@
     "state_code": "08"
   },
   {
-    "lga": "SHANI",
-    "ward": "BARGU / BURASHIKA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/27/02/001",
     "pu_name": "BUMA PRI. SCH. ,BUMA  I",
     "name": "BUMA PRI. SCH. ,BUMA  I",
@@ -46347,12 +44535,6 @@
     "pu_code": "08/27/02/005",
     "pu_name": "KOFAR BULAMA ALI ,SANGWA",
     "name": "KOFAR BULAMA ALI ,SANGWA",
-    "lga": "SHANI",
-    "ward": "BUMA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "SHANI",
     "ward": "BUMA",
     "state": "Borno",
@@ -46530,12 +44712,6 @@
     "state_code": "08"
   },
   {
-    "lga": "SHANI",
-    "ward": "GASI / SALIFAWA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/27/04/001",
     "pu_name": "GORA PRI. SCH. , GORA  I",
     "name": "GORA PRI. SCH. , GORA  I",
@@ -46644,12 +44820,6 @@
     "state_code": "08"
   },
   {
-    "lga": "SHANI",
-    "ward": "GORA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/27/05/001",
     "pu_name": "KASHIM PRI. SCH. , KASHIM",
     "name": "KASHIM PRI. SCH. , KASHIM",
@@ -46731,12 +44901,6 @@
     "state_code": "08"
   },
   {
-    "lga": "SHANI",
-    "ward": "GWALASHO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/27/06/001",
     "pu_name": "GWASKARA PRI. SCH. , GWASKARA  I",
     "name": "GWASKARA PRI. SCH. , GWASKARA  I",
@@ -46794,12 +44958,6 @@
     "pu_code": "08/27/06/007",
     "pu_name": "GWASKARA PRIMARY SCHOOL II",
     "name": "GWASKARA PRIMARY SCHOOL II",
-    "lga": "SHANI",
-    "ward": "GWASKARA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "SHANI",
     "ward": "GWASKARA",
     "state": "Borno",
@@ -46872,12 +45030,6 @@
     "pu_code": "08/27/07/008",
     "pu_name": "OLD DISPENSARY KUMBO",
     "name": "OLD DISPENSARY KUMBO",
-    "lga": "SHANI",
-    "ward": "KOMBO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "SHANI",
     "ward": "KOMBO",
     "state": "Borno",
@@ -47010,12 +45162,6 @@
     "state_code": "08"
   },
   {
-    "lga": "SHANI",
-    "ward": "KUBO",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/27/09/001",
     "pu_name": "LAKUNDUM PRI. SCH., LAKUNDUM I",
     "name": "LAKUNDUM PRI. SCH., LAKUNDUM I",
@@ -47082,12 +45228,6 @@
     "pu_code": "08/27/09/008",
     "pu_name": "KOFAR DANJUMA",
     "name": "KOFAR DANJUMA",
-    "lga": "SHANI",
-    "ward": "KWABA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "SHANI",
     "ward": "KWABA",
     "state": "Borno",
@@ -47382,12 +45522,6 @@
     "state_code": "08"
   },
   {
-    "lga": "SHANI",
-    "ward": "SHANI",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "pu_code": "08/27/11/001",
     "pu_name": "WALAMA PRI. SCH., WALAMA I",
     "name": "WALAMA PRI. SCH., WALAMA I",
@@ -47499,12 +45633,6 @@
     "pu_code": "08/27/11/013",
     "pu_name": "KIMTIR PRI. SCH. II",
     "name": "KIMTIR PRI. SCH. II",
-    "lga": "SHANI",
-    "ward": "WALAMA",
-    "state": "Borno",
-    "state_code": "08"
-  },
-  {
     "lga": "SHANI",
     "ward": "WALAMA",
     "state": "Borno",

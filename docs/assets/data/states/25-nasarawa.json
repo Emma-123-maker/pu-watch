@@ -108,12 +108,6 @@
     "state_code": "25"
   },
   {
-    "lga": "AKWANGA",
-    "ward": "AGYAGA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/01/02/001",
     "pu_name": "RIJA SARKI",
     "name": "RIJA SARKI",
@@ -249,12 +243,6 @@
     "state_code": "25"
   },
   {
-    "lga": "AKWANGA",
-    "ward": "ANCHOBABA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/01/03/001",
     "pu_name": "GWANJE",
     "name": "GWANJE",
@@ -363,12 +351,6 @@
     "state_code": "25"
   },
   {
-    "lga": "AKWANGA",
-    "ward": "GWANJE.GWANJE",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/01/04/001",
     "pu_name": "ANCHO /NIGHAAN",
     "name": "ANCHO /NIGHAAN",
@@ -453,12 +435,6 @@
     "pu_code": "25/01/04/010",
     "pu_name": "LGEA PRI. SCH. NIDAN GONA",
     "name": "LGEA PRI. SCH. NIDAN GONA",
-    "lga": "AKWANGA",
-    "ward": "ANCHO NIGHAAN",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "AKWANGA",
     "ward": "ANCHO NIGHAAN",
     "state": "Nasarawa",
@@ -591,12 +567,6 @@
     "state_code": "25"
   },
   {
-    "lga": "AKWANGA",
-    "ward": "ANDAHA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/01/06/001",
     "pu_name": "NUNKU",
     "name": "NUNKU",
@@ -699,12 +669,6 @@
     "pu_code": "25/01/06/012",
     "pu_name": "GOHON TITI PRI. SCH",
     "name": "GOHON TITI PRI. SCH",
-    "lga": "AKWANGA",
-    "ward": "NUNKU",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "AKWANGA",
     "ward": "NUNKU",
     "state": "Nasarawa",
@@ -831,12 +795,6 @@
     "pu_code": "25/01/07/014",
     "pu_name": "ANGWAN GBURE",
     "name": "ANGWAN GBURE",
-    "lga": "AKWANGA",
-    "ward": "GUDI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "AKWANGA",
     "ward": "GUDI",
     "state": "Nasarawa",
@@ -990,12 +948,6 @@
     "pu_code": "25/01/08/017",
     "pu_name": "NINTABI MAKAMA",
     "name": "NINTABI MAKAMA",
-    "lga": "AKWANGA",
-    "ward": "MOROA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "AKWANGA",
     "ward": "MOROA",
     "state": "Nasarawa",
@@ -1416,12 +1368,6 @@
     "state_code": "25"
   },
   {
-    "lga": "AKWANGA",
-    "ward": "AKWANGA WEST",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/01/10/001",
     "pu_name": "AKWANGA CENTRAL",
     "name": "AKWANGA CENTRAL",
@@ -1782,12 +1728,6 @@
     "state_code": "25"
   },
   {
-    "lga": "AKWANGA",
-    "ward": "AKWANGA EAST",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/01/11/001",
     "pu_name": "NINGO",
     "name": "NINGO",
@@ -1890,12 +1830,6 @@
     "pu_code": "25/01/11/012",
     "pu_name": "GBUZU",
     "name": "GBUZU",
-    "lga": "AKWANGA",
-    "ward": "NINGO / BOHAR",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "AKWANGA",
     "ward": "NINGO / BOHAR",
     "state": "Nasarawa",
@@ -2058,12 +1992,6 @@
     "pu_code": "25/02/01/018",
     "pu_name": "KOFAR SARKIN BAKA",
     "name": "KOFAR SARKIN BAKA",
-    "lga": "AWE",
-    "ward": "TUNGA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "AWE",
     "ward": "TUNGA",
     "state": "Nasarawa",
@@ -2259,12 +2187,6 @@
     "state_code": "25"
   },
   {
-    "lga": "AWE",
-    "ward": "MAKWANGIJI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/02/03/001",
     "pu_name": "KOFAR HABU - I  OB",
     "name": "KOFAR HABU - I  OB",
@@ -2418,12 +2340,6 @@
     "state_code": "25"
   },
   {
-    "lga": "AWE",
-    "ward": "MADAKI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/02/04/001",
     "pu_name": "AMPANA PRI.SCHOOL - PB",
     "name": "AMPANA PRI.SCHOOL - PB",
@@ -2532,12 +2448,6 @@
     "state_code": "25"
   },
   {
-    "lga": "AWE",
-    "ward": "GALADIMA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/02/05/001",
     "pu_name": "JANGARU PRI.SCHOOL - PB",
     "name": "JANGARU PRI.SCHOOL - PB",
@@ -2595,12 +2505,6 @@
     "pu_code": "25/02/05/007",
     "pu_name": "AYER COMMUNITY",
     "name": "AYER COMMUNITY",
-    "lga": "AWE",
-    "ward": "JANGARU",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "AWE",
     "ward": "JANGARU",
     "state": "Nasarawa",
@@ -2736,12 +2640,6 @@
     "pu_code": "25/02/06/015",
     "pu_name": "GIDAN DOKA",
     "name": "GIDAN DOKA",
-    "lga": "AWE",
-    "ward": "KANJE/ABUNI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "AWE",
     "ward": "KANJE/ABUNI",
     "state": "Nasarawa",
@@ -2886,12 +2784,6 @@
     "pu_code": "25/02/07/016",
     "pu_name": "RUGAR HARDO",
     "name": "RUGAR HARDO",
-    "lga": "AWE",
-    "ward": "RIBI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "AWE",
     "ward": "RIBI",
     "state": "Nasarawa",
@@ -3177,12 +3069,6 @@
     "state_code": "25"
   },
   {
-    "lga": "AWE",
-    "ward": "AZARA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/02/09/001",
     "pu_name": "WUSE DISP/MOYI -'A' PB",
     "name": "WUSE DISP/MOYI -'A' PB",
@@ -3345,12 +3231,6 @@
     "state_code": "25"
   },
   {
-    "lga": "AWE",
-    "ward": "WUSE",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/02/10/001",
     "pu_name": "AKIRI PRI.SCHOOL/ANG. GISHIRI - I",
     "name": "AKIRI PRI.SCHOOL/ANG. GISHIRI - I",
@@ -3435,12 +3315,6 @@
     "pu_code": "25/02/10/010",
     "pu_name": "APIRI AKIRI - OB",
     "name": "APIRI AKIRI - OB",
-    "lga": "AWE",
-    "ward": "AKIRI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "AWE",
     "ward": "AKIRI",
     "state": "Nasarawa",
@@ -3585,12 +3459,6 @@
     "pu_code": "25/03/01/016",
     "pu_name": "GSS ALAGYE -PB",
     "name": "GSS ALAGYE -PB",
-    "lga": "DOMA",
-    "ward": "ALAGYE",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "DOMA",
     "ward": "ALAGYE",
     "state": "Nasarawa",
@@ -3753,12 +3621,6 @@
     "pu_code": "25/03/02/018",
     "pu_name": "GSS RUKUBI (PB)",
     "name": "GSS RUKUBI (PB)",
-    "lga": "DOMA",
-    "ward": "RUKUBI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "DOMA",
     "ward": "RUKUBI",
     "state": "Nasarawa",
@@ -3972,12 +3834,6 @@
     "state_code": "25"
   },
   {
-    "lga": "DOMA",
-    "ward": "AGBASHI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/03/04/001",
     "pu_name": "IZAH  (OHINA MADA) OP",
     "name": "IZAH  (OHINA MADA) OP",
@@ -4176,12 +4032,6 @@
     "state_code": "25"
   },
   {
-    "lga": "DOMA",
-    "ward": "DOKA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/03/05/001",
     "pu_name": "K/S AKPANAJA OP",
     "name": "K/S AKPANAJA OP",
@@ -4257,12 +4107,6 @@
     "pu_code": "25/03/05/009",
     "pu_name": "PRI. SCHOOL OLEGOKPA (PB)",
     "name": "PRI. SCHOOL OLEGOKPA (PB)",
-    "lga": "DOMA",
-    "ward": "AKPANAJA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "DOMA",
     "ward": "AKPANAJA",
     "state": "Nasarawa",
@@ -4425,12 +4269,6 @@
     "pu_code": "25/03/06/018",
     "pu_name": "ANG. MUSTAPHA GALADIMA (OP)",
     "name": "ANG. MUSTAPHA GALADIMA (OP)",
-    "lga": "DOMA",
-    "ward": "MADAKI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "DOMA",
     "ward": "MADAKI",
     "state": "Nasarawa",
@@ -4689,12 +4527,6 @@
     "state_code": "25"
   },
   {
-    "lga": "DOMA",
-    "ward": "UNGWAN SARKI DAWAKI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/03/08/001",
     "pu_name": "K/MADAUCHI OP",
     "name": "K/MADAUCHI OP",
@@ -4869,12 +4701,6 @@
     "pu_code": "25/03/08/020",
     "pu_name": "UNG. SARKI IDADU -OP",
     "name": "UNG. SARKI IDADU -OP",
-    "lga": "DOMA",
-    "ward": "MADAUCHI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "DOMA",
     "ward": "MADAUCHI",
     "state": "Nasarawa",
@@ -5214,12 +5040,6 @@
     "state_code": "25"
   },
   {
-    "lga": "DOMA",
-    "ward": "UNGWAN DAN GALADIMA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/03/10/001",
     "pu_name": "K/GIDAN MISSION OP",
     "name": "K/GIDAN MISSION OP",
@@ -5421,12 +5241,6 @@
     "pu_code": "25/03/10/023",
     "pu_name": "RESERVOIR -OP",
     "name": "RESERVOIR -OP",
-    "lga": "DOMA",
-    "ward": "SABON GARI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "DOMA",
     "ward": "SABON GARI",
     "state": "Nasarawa",
@@ -6162,12 +5976,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KARU",
-    "ward": "ASO / KODAPE",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/04/02/001",
     "pu_name": "BAGAJI PRI.SCHOOL - PB",
     "name": "BAGAJI PRI.SCHOOL - PB",
@@ -6645,12 +6453,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KARU",
-    "ward": "AGADA/BAGAJI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/04/03/001",
     "pu_name": "KWADAKI - OP",
     "name": "KWADAKI - OP",
@@ -6843,12 +6645,6 @@
     "pu_code": "25/04/03/022",
     "pu_name": "KAJA ESTATE",
     "name": "KAJA ESTATE",
-    "lga": "KARU",
-    "ward": "KARSHI I",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KARU",
     "ward": "KARSHI I",
     "state": "Nasarawa",
@@ -7074,12 +6870,6 @@
     "pu_code": "25/04/04/025",
     "pu_name": "ALAWIYA",
     "name": "ALAWIYA",
-    "lga": "KARU",
-    "ward": "KARSHI II",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KARU",
     "ward": "KARSHI II",
     "state": "Nasarawa",
@@ -7323,12 +7113,6 @@
     "pu_code": "25/04/05/027",
     "pu_name": "MAKIRA NIKE AGWAN MADAKI",
     "name": "MAKIRA NIKE AGWAN MADAKI",
-    "lga": "KARU",
-    "ward": "KAFIN SHANU/BETTI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KARU",
     "ward": "KAFIN SHANU/BETTI",
     "state": "Nasarawa",
@@ -7587,12 +7371,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KARU",
-    "ward": "TATTARA/KONDORO",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/04/07/001",
     "pu_name": "GITATA PRI.SCHOOL (PB)",
     "name": "GITATA PRI.SCHOOL (PB)",
@@ -7803,12 +7581,6 @@
     "pu_code": "25/04/07/024",
     "pu_name": "JINJIRI PRIMARY SCHOOL",
     "name": "JINJIRI PRIMARY SCHOOL",
-    "lga": "KARU",
-    "ward": "GITATA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KARU",
     "ward": "GITATA",
     "state": "Nasarawa",
@@ -8079,12 +7851,6 @@
     "pu_code": "25/04/08/030",
     "pu_name": "PANKAWUGURKU",
     "name": "PANKAWUGURKU",
-    "lga": "KARU",
-    "ward": "GURKU/KABUSU",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KARU",
     "ward": "GURKU/KABUSU",
     "state": "Nasarawa",
@@ -8406,12 +8172,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KARU",
-    "ward": "UKE",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/04/10/001",
     "pu_name": "ANGWAN PA ICHE  - OP",
     "name": "ANGWAN PA ICHE  - OP",
@@ -8658,12 +8418,6 @@
     "pu_code": "25/04/10/028",
     "pu_name": "TAKPA-OP",
     "name": "TAKPA-OP",
-    "lga": "KARU",
-    "ward": "PANDA / KARE",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KARU",
     "ward": "PANDA / KARE",
     "state": "Nasarawa",
@@ -10137,12 +9891,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KARU",
-    "ward": "KARU",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/05/01/001",
     "pu_name": "KOFAN WONDO",
     "name": "KOFAN WONDO",
@@ -10260,12 +10008,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KEANA",
-    "ward": "IWAGU",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/05/02/001",
     "pu_name": "LGEA PRIMARY SCHOOL KEANA SOUTH - PB",
     "name": "LGEA PRIMARY SCHOOL KEANA SOUTH - PB",
@@ -10365,12 +10107,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KEANA",
-    "ward": "AMIRI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/05/03/001",
     "pu_name": "LGEA PRIMARY SCHOOL OBENE (A) - PB I",
     "name": "LGEA PRIMARY SCHOOL OBENE (A) - PB I",
@@ -10446,12 +10182,6 @@
     "pu_code": "25/05/03/009",
     "pu_name": "LGEA PRIM. SCH. AGBERAGBA",
     "name": "LGEA PRIM. SCH. AGBERAGBA",
-    "lga": "KEANA",
-    "ward": "OBENE",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KEANA",
     "ward": "OBENE",
     "state": "Nasarawa",
@@ -10551,12 +10281,6 @@
     "pu_code": "25/05/04/011",
     "pu_name": "CENTRAL PRIMARY SCHOOL,  OKI D",
     "name": "CENTRAL PRIMARY SCHOOL,  OKI D",
-    "lga": "KEANA",
-    "ward": "OKI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KEANA",
     "ward": "OKI",
     "state": "Nasarawa",
@@ -10761,12 +10485,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KEANA",
-    "ward": "KADARKO",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/05/06/001",
     "pu_name": "KOFAN ABOSHI AKUKI KWARA",
     "name": "KOFAN ABOSHI AKUKI KWARA",
@@ -10866,12 +10584,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KEANA",
-    "ward": "KWARA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/05/07/001",
     "pu_name": "LGEA PRIMARY SCHOOL, ALOSHI",
     "name": "LGEA PRIMARY SCHOOL, ALOSHI",
@@ -10953,12 +10665,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KEANA",
-    "ward": "ALOSHI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/05/08/001",
     "pu_name": "KOFAN SARKI AGAZA",
     "name": "KOFAN SARKI AGAZA",
@@ -11016,12 +10722,6 @@
     "pu_code": "25/05/08/007",
     "pu_name": "KOFAR OSUZA KHAZA",
     "name": "KOFAR OSUZA KHAZA",
-    "lga": "KEANA",
-    "ward": "AGAZA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KEANA",
     "ward": "AGAZA",
     "state": "Nasarawa",
@@ -11127,12 +10827,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KEANA",
-    "ward": "MADAKI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/05/10/001",
     "pu_name": "KOFAN SARKI UMARU",
     "name": "KOFAN SARKI UMARU",
@@ -11217,12 +10911,6 @@
     "pu_code": "25/05/10/010",
     "pu_name": "LGEA PRIMARY SCHOOL GIZA WEST C",
     "name": "LGEA PRIMARY SCHOOL GIZA WEST C",
-    "lga": "KEANA",
-    "ward": "GIZA GALADIMA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KEANA",
     "ward": "GIZA GALADIMA",
     "state": "Nasarawa",
@@ -11400,12 +11088,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KEFFI",
-    "ward": "ANGWAN IYA I",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/06/02/001",
     "pu_name": "GDSS YELWA",
     "name": "GDSS YELWA",
@@ -11562,12 +11244,6 @@
     "pu_code": "25/06/02/018",
     "pu_name": "KOFAR WAZIRI CRDP",
     "name": "KOFAR WAZIRI CRDP",
-    "lga": "KEFFI",
-    "ward": "ANGWAN IYA II",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KEFFI",
     "ward": "ANGWAN IYA II",
     "state": "Nasarawa",
@@ -11745,12 +11421,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KEFFI",
-    "ward": "TUDUN KOFA T.V",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/06/04/001",
     "pu_name": "GANGAREN TUDU - OP",
     "name": "GANGAREN TUDU - OP",
@@ -11898,12 +11568,6 @@
     "pu_code": "25/06/04/017",
     "pu_name": "MODERN MARKET KEFFI",
     "name": "MODERN MARKET KEFFI",
-    "lga": "KEFFI",
-    "ward": "GANGARE TUDU",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KEFFI",
     "ward": "GANGARE TUDU",
     "state": "Nasarawa",
@@ -12135,12 +11799,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KEFFI",
-    "ward": "KEFFI TOWN EAST / KOFAR GORIYA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/06/06/001",
     "pu_name": "YARA - OP",
     "name": "YARA - OP",
@@ -12324,12 +11982,6 @@
     "pu_code": "25/06/06/021",
     "pu_name": "KOFAR ALH. MUNTARI AHUWA",
     "name": "KOFAR ALH. MUNTARI AHUWA",
-    "lga": "KEFFI",
-    "ward": "YARA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KEFFI",
     "ward": "YARA",
     "state": "Nasarawa",
@@ -12678,12 +12330,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KEFFI",
-    "ward": "ANG.RIMI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/06/08/001",
     "pu_name": "SABON GARI PRI. SCHOOL - PB I",
     "name": "SABON GARI PRI. SCHOOL - PB I",
@@ -12858,12 +12504,6 @@
     "pu_code": "25/06/08/020",
     "pu_name": "SALAMU",
     "name": "SALAMU",
-    "lga": "KEFFI",
-    "ward": "SABON GARI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KEFFI",
     "ward": "SABON GARI",
     "state": "Nasarawa",
@@ -13077,12 +12717,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KEFFI",
-    "ward": "JIGWADA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/06/10/001",
     "pu_name": "KOFAR ALKALI MOUKTAR - OP",
     "name": "KOFAR ALKALI MOUKTAR - OP",
@@ -13212,12 +12846,6 @@
     "pu_code": "25/06/10/015",
     "pu_name": "KOFAR MAMAN DAN KOLI",
     "name": "KOFAR MAMAN DAN KOLI",
-    "lga": "KEFFI",
-    "ward": "LIMAN ABAJI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KEFFI",
     "ward": "LIMAN ABAJI",
     "state": "Nasarawa",
@@ -13368,12 +12996,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KOKONA",
-    "ward": "AGWADA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/07/02/001",
     "pu_name": "KANA",
     "name": "KANA",
@@ -13509,12 +13131,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KOKONA",
-    "ward": "KOYA  / KANA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/07/03/001",
     "pu_name": "BASSA PRI.SCHOOL",
     "name": "BASSA PRI.SCHOOL",
@@ -13626,12 +13242,6 @@
     "pu_code": "25/07/03/013",
     "pu_name": "PRIMARY HEALTH CARE",
     "name": "PRIMARY HEALTH CARE",
-    "lga": "KOKONA",
-    "ward": "BASSA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KOKONA",
     "ward": "BASSA",
     "state": "Nasarawa",
@@ -13782,12 +13392,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KOKONA",
-    "ward": "KOKONA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/07/05/001",
     "pu_name": "KOFAR GWARI",
     "name": "KOFAR GWARI",
@@ -13890,12 +13494,6 @@
     "pu_code": "25/07/05/012",
     "pu_name": "HURI MADA",
     "name": "HURI MADA",
-    "lga": "KOKONA",
-    "ward": "KOFAR GWARI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KOKONA",
     "ward": "KOFAR GWARI",
     "state": "Nasarawa",
@@ -14049,12 +13647,6 @@
     "pu_code": "25/07/06/017",
     "pu_name": "ANG. GWANDARA",
     "name": "ANG. GWANDARA",
-    "lga": "KOKONA",
-    "ward": "NINKORO",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KOKONA",
     "ward": "NINKORO",
     "state": "Nasarawa",
@@ -14340,12 +13932,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KOKONA",
-    "ward": "HADARI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/07/08/001",
     "pu_name": "DARI PRI.SCHOOL I",
     "name": "DARI PRI.SCHOOL I",
@@ -14499,12 +14085,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KOKONA",
-    "ward": "DARI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/07/09/001",
     "pu_name": "AMBA PRI.SCHOOL",
     "name": "AMBA PRI.SCHOOL",
@@ -14616,12 +14196,6 @@
     "pu_code": "25/07/09/013",
     "pu_name": "ANG. TAKALMI",
     "name": "ANG. TAKALMI",
-    "lga": "KOKONA",
-    "ward": "AMBA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KOKONA",
     "ward": "AMBA",
     "state": "Nasarawa",
@@ -14934,12 +14508,6 @@
     "state_code": "25"
   },
   {
-    "lga": "KOKONA",
-    "ward": "GARAKU",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/07/11/001",
     "pu_name": "YELWA",
     "name": "YELWA",
@@ -15024,12 +14592,6 @@
     "pu_code": "25/07/11/010",
     "pu_name": "SAKWATO II",
     "name": "SAKWATO II",
-    "lga": "KOKONA",
-    "ward": "YELWA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "KOKONA",
     "ward": "YELWA",
     "state": "Nasarawa",
@@ -15264,12 +14826,6 @@
     "pu_code": "25/08/01/026",
     "pu_name": "ANG. TAGYAYE AKURA",
     "name": "ANG. TAGYAYE AKURA",
-    "lga": "LAFIA",
-    "ward": "ADOGI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "LAFIA",
     "ward": "ADOGI",
     "state": "Nasarawa",
@@ -15585,12 +15141,6 @@
     "pu_code": "25/08/02/035",
     "pu_name": "LGEA PRIM. SCH. TUDUN WADA",
     "name": "LGEA PRIM. SCH. TUDUN WADA",
-    "lga": "LAFIA",
-    "ward": "AGYARAGUN TOFA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "LAFIA",
     "ward": "AGYARAGUN TOFA",
     "state": "Nasarawa",
@@ -15966,12 +15516,6 @@
     "state_code": "25"
   },
   {
-    "lga": "LAFIA",
-    "ward": "BAKIN RIJIYA/AKURBA/SARKIN PADA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/08/04/001",
     "pu_name": "ARIKYA PRI.SCHOOL - PB I",
     "name": "ARIKYA PRI.SCHOOL - PB I",
@@ -16209,12 +15753,6 @@
     "pu_code": "25/08/04/027",
     "pu_name": "MARKET SQUARE",
     "name": "MARKET SQUARE",
-    "lga": "LAFIA",
-    "ward": "ARIKYA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "LAFIA",
     "ward": "ARIKYA",
     "state": "Nasarawa",
@@ -16512,12 +16050,6 @@
     "pu_code": "25/08/05/033",
     "pu_name": "ONDA",
     "name": "ONDA",
-    "lga": "LAFIA",
-    "ward": "ASSAKIO",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "LAFIA",
     "ward": "ASSAKIO",
     "state": "Nasarawa",
@@ -16842,12 +16374,6 @@
     "pu_code": "25/08/06/036",
     "pu_name": "KPAMINI PRIM. SCI. SCHOOL",
     "name": "KPAMINI PRIM. SCI. SCHOOL",
-    "lga": "LAFIA",
-    "ward": "ASHIGIE",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "LAFIA",
     "ward": "ASHIGIE",
     "state": "Nasarawa",
@@ -17763,12 +17289,6 @@
     "state_code": "25"
   },
   {
-    "lga": "LAFIA",
-    "ward": "CHIROMA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/08/08/001",
     "pu_name": "KOFAR GAYAM",
     "name": "KOFAR GAYAM",
@@ -18291,12 +17811,6 @@
     "state_code": "25"
   },
   {
-    "lga": "LAFIA",
-    "ward": "GAYAM",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/08/09/001",
     "pu_name": "BAD WEST - OP",
     "name": "BAD WEST - OP",
@@ -18504,12 +18018,6 @@
     "state_code": "25"
   },
   {
-    "lga": "LAFIA",
-    "ward": "KEFFIN/WAMBAI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/08/10/001",
     "pu_name": "K/KAURA - OP",
     "name": "K/KAURA - OP",
@@ -18702,12 +18210,6 @@
     "pu_code": "25/08/10/022",
     "pu_name": "MOHAMMADU MAIKUDI",
     "name": "MOHAMMADU MAIKUDI",
-    "lga": "LAFIA",
-    "ward": "MAKAMA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "LAFIA",
     "ward": "MAKAMA",
     "state": "Nasarawa",
@@ -19119,12 +18621,6 @@
     "state_code": "25"
   },
   {
-    "lga": "LAFIA",
-    "ward": "SHABU/KWANDERE",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/08/12/001",
     "pu_name": "W/B/KAKANI - OP",
     "name": "W/B/KAKANI - OP",
@@ -19350,12 +18846,6 @@
     "state_code": "25"
   },
   {
-    "lga": "LAFIA",
-    "ward": "WAKWA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/08/13/001",
     "pu_name": "ANG.ZUGU - OP",
     "name": "ANG.ZUGU - OP",
@@ -19557,12 +19047,6 @@
     "pu_code": "25/08/13/023",
     "pu_name": "KOFAR MAI ANGUWA YAKUBU",
     "name": "KOFAR MAI ANGUWA YAKUBU",
-    "lga": "LAFIA",
-    "ward": "ZANWA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "LAFIA",
     "ward": "ZANWA",
     "state": "Nasarawa",
@@ -20019,12 +19503,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA EGGON",
-    "ward": "NASARAWA EGGON",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/10/02/001",
     "pu_name": "ONGE ODEN OGBA - OP",
     "name": "ONGE ODEN OGBA - OP",
@@ -20145,12 +19623,6 @@
     "pu_code": "25/10/02/014",
     "pu_name": "LAKPA-GAJI",
     "name": "LAKPA-GAJI",
-    "lga": "NASARAWA EGGON",
-    "ward": "UBBE",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "NASARAWA EGGON",
     "ward": "UBBE",
     "state": "Nasarawa",
@@ -20328,12 +19800,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA EGGON",
-    "ward": "IGGA/BURUMBURUM",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/10/04/001",
     "pu_name": "BAKIN KOGI - OP",
     "name": "BAKIN KOGI - OP",
@@ -20505,12 +19971,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA EGGON",
-    "ward": "UMME",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/10/05/001",
     "pu_name": "ANGBASHURU - OP",
     "name": "ANGBASHURU - OP",
@@ -20664,12 +20124,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA EGGON",
-    "ward": "MADA STATION",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/10/06/001",
     "pu_name": "UNG.SARKI LIZZIN KEFFI - OP",
     "name": "UNG.SARKI LIZZIN KEFFI - OP",
@@ -20805,12 +20259,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA EGGON",
-    "ward": "LIZZIN KEFFI/EZZEN",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/10/07/001",
     "pu_name": "LAMAGA VILLAGE - OP",
     "name": "LAMAGA VILLAGE - OP",
@@ -20877,12 +20325,6 @@
     "pu_code": "25/10/07/008",
     "pu_name": "LGEA LAMABAGA SOUTH",
     "name": "LGEA LAMABAGA SOUTH",
-    "lga": "NASARAWA EGGON",
-    "ward": "LAMBAGA/ARIKPA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "NASARAWA EGGON",
     "ward": "LAMBAGA/ARIKPA",
     "state": "Nasarawa",
@@ -21018,12 +20460,6 @@
     "pu_code": "25/10/08/015",
     "pu_name": "UNG. A A KUTSA-OP",
     "name": "UNG. A A KUTSA-OP",
-    "lga": "NASARAWA EGGON",
-    "ward": "KAGBU WANA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "NASARAWA EGGON",
     "ward": "KAGBU WANA",
     "state": "Nasarawa",
@@ -21174,12 +20610,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA EGGON",
-    "ward": "IKKA WANGIBI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/10/10/001",
     "pu_name": "ZAURE ADIGIZI - OP",
     "name": "ZAURE ADIGIZI - OP",
@@ -21318,12 +20748,6 @@
     "pu_code": "25/10/10/016",
     "pu_name": "FOOTBALL FIELD BESIDE YOUTH CENTER",
     "name": "FOOTBALL FIELD BESIDE YOUTH CENTER",
-    "lga": "NASARAWA EGGON",
-    "ward": "ENDE",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "NASARAWA EGGON",
     "ward": "ENDE",
     "state": "Nasarawa",
@@ -21528,12 +20952,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA EGGON",
-    "ward": "WAKAMA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/10/12/001",
     "pu_name": "SATI GINDA WAJI - OP",
     "name": "SATI GINDA WAJI - OP",
@@ -21636,12 +21054,6 @@
     "pu_code": "25/10/12/012",
     "pu_name": "G.S.S. ALUSHI-PB",
     "name": "G.S.S. ALUSHI-PB",
-    "lga": "NASARAWA EGGON",
-    "ward": "ALOCE/GINDA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "NASARAWA EGGON",
     "ward": "ALOCE/GINDA",
     "state": "Nasarawa",
@@ -21846,12 +21258,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA EGGON",
-    "ward": "ALOGANI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/10/14/001",
     "pu_name": "AGUNJI - OP",
     "name": "AGUNJI - OP",
@@ -21942,12 +21348,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA EGGON",
-    "ward": "AGUNJI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/12/01/001",
     "pu_name": "GWARGWADA",
     "name": "GWARGWADA",
@@ -22023,12 +21423,6 @@
     "pu_code": "25/12/01/009",
     "pu_name": "KULLO PRI. SCH.",
     "name": "KULLO PRI. SCH.",
-    "lga": "TOTO",
-    "ward": "GWARGWADA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "TOTO",
     "ward": "GWARGWADA",
     "state": "Nasarawa",
@@ -22209,12 +21603,6 @@
     "pu_code": "25/12/02/020",
     "pu_name": "ANG. YAKUBU J5 OPEN SPACE",
     "name": "ANG. YAKUBU J5 OPEN SPACE",
-    "lga": "TOTO",
-    "ward": "GADAGWA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "TOTO",
     "ward": "GADAGWA",
     "state": "Nasarawa",
@@ -22518,12 +21906,6 @@
     "state_code": "25"
   },
   {
-    "lga": "TOTO",
-    "ward": "BUGAKARMO",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/12/04/001",
     "pu_name": "UBO KPOKITI",
     "name": "UBO KPOKITI",
@@ -22776,12 +22158,6 @@
     "state_code": "25"
   },
   {
-    "lga": "TOTO",
-    "ward": "UMAISHA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/12/05/001",
     "pu_name": "UTTU",
     "name": "UTTU",
@@ -22872,12 +22248,6 @@
     "state_code": "25"
   },
   {
-    "lga": "TOTO",
-    "ward": "DAUSU",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/12/06/001",
     "pu_name": "KANYEHU",
     "name": "KANYEHU",
@@ -22926,12 +22296,6 @@
     "pu_code": "25/12/06/006",
     "pu_name": "SHAMANGI",
     "name": "SHAMANGI",
-    "lga": "TOTO",
-    "ward": "KANYEHU",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "TOTO",
     "ward": "KANYEHU",
     "state": "Nasarawa",
@@ -23076,12 +22440,6 @@
     "pu_code": "25/12/07/016",
     "pu_name": "ANG. MAINA",
     "name": "ANG. MAINA",
-    "lga": "TOTO",
-    "ward": "UGYA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "TOTO",
     "ward": "UGYA",
     "state": "Nasarawa",
@@ -23385,12 +22743,6 @@
     "state_code": "25"
   },
   {
-    "lga": "TOTO",
-    "ward": "TOTO",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/12/09/001",
     "pu_name": "KURU",
     "name": "KURU",
@@ -23553,12 +22905,6 @@
     "state_code": "25"
   },
   {
-    "lga": "TOTO",
-    "ward": "SHAFAN ABAKPA I",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/12/10/001",
     "pu_name": "ANG.SARKI",
     "name": "ANG.SARKI",
@@ -23634,12 +22980,6 @@
     "pu_code": "25/12/10/009",
     "pu_name": "MARKET SQUARE",
     "name": "MARKET SQUARE",
-    "lga": "TOTO",
-    "ward": "SHAFAN KWATTO I",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "TOTO",
     "ward": "SHAFAN KWATTO I",
     "state": "Nasarawa",
@@ -23772,12 +23112,6 @@
     "state_code": "25"
   },
   {
-    "lga": "TOTO",
-    "ward": "SHEGE I",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/12/12/001",
     "pu_name": "KATAKPA",
     "name": "KATAKPA",
@@ -23850,12 +23184,6 @@
     "state_code": "25"
   },
   {
-    "lga": "TOTO",
-    "ward": "KATAKPA I",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/13/01/001",
     "pu_name": "ARUM TUMARA  PRI.SCHOOL",
     "name": "ARUM TUMARA  PRI.SCHOOL",
@@ -23922,12 +23250,6 @@
     "pu_code": "25/13/01/008",
     "pu_name": "GRADE 1 AREA COURT ARUM SARKI",
     "name": "GRADE 1 AREA COURT ARUM SARKI",
-    "lga": "WAMBA",
-    "ward": "ARUM",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "WAMBA",
     "ward": "ARUM",
     "state": "Nasarawa",
@@ -24027,12 +23349,6 @@
     "pu_code": "25/13/02/011",
     "pu_name": "LGEA PRI. SCH. YASHI PAH",
     "name": "LGEA PRI. SCH. YASHI PAH",
-    "lga": "WAMBA",
-    "ward": "MANGAR",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "WAMBA",
     "ward": "MANGAR",
     "state": "Nasarawa",
@@ -24147,12 +23463,6 @@
     "state_code": "25"
   },
   {
-    "lga": "WAMBA",
-    "ward": "GITTA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/13/04/001",
     "pu_name": "GBUDE - OPEN SQUARE, GBUDE",
     "name": "GBUDE - OPEN SQUARE, GBUDE",
@@ -24261,12 +23571,6 @@
     "state_code": "25"
   },
   {
-    "lga": "WAMBA",
-    "ward": "NAKERE",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/13/05/001",
     "pu_name": "KONVAH - KONVAH PRI.SCHOOL",
     "name": "KONVAH - KONVAH PRI.SCHOOL",
@@ -24324,12 +23628,6 @@
     "pu_code": "25/13/05/007",
     "pu_name": "JIDDA",
     "name": "JIDDA",
-    "lga": "WAMBA",
-    "ward": "KONVAH",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "WAMBA",
     "ward": "KONVAH",
     "state": "Nasarawa",
@@ -24447,12 +23745,6 @@
     "pu_code": "25/13/06/013",
     "pu_name": "DECHU",
     "name": "DECHU",
-    "lga": "WAMBA",
-    "ward": "WAYO",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "WAMBA",
     "ward": "WAYO",
     "state": "Nasarawa",
@@ -24630,12 +23922,6 @@
     "state_code": "25"
   },
   {
-    "lga": "WAMBA",
-    "ward": "WAMBA WEST",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/13/08/001",
     "pu_name": "UNG.SABO - OPEN SQUARE",
     "name": "UNG.SABO - OPEN SQUARE",
@@ -24789,12 +24075,6 @@
     "state_code": "25"
   },
   {
-    "lga": "WAMBA",
-    "ward": "WAMBA EAST",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/13/09/001",
     "pu_name": "KWARRA - PRI.SCHOOL",
     "name": "KWARRA - PRI.SCHOOL",
@@ -24921,12 +24201,6 @@
     "state_code": "25"
   },
   {
-    "lga": "WAMBA",
-    "ward": "KWARA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/13/10/001",
     "pu_name": "AMBAKA - PRI.SCHOOL",
     "name": "AMBAKA - PRI.SCHOOL",
@@ -25002,12 +24276,6 @@
     "pu_code": "25/13/10/009",
     "pu_name": "MUTTU",
     "name": "MUTTU",
-    "lga": "WAMBA",
-    "ward": "JIMIYA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "WAMBA",
     "ward": "JIMIYA",
     "state": "Nasarawa",
@@ -25221,12 +24489,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA",
-    "ward": "UDENIN GIDA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/09/02/001",
     "pu_name": "AKUM - PB",
     "name": "AKUM - PB",
@@ -25407,12 +24669,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA",
-    "ward": "AKUM",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/09/03/001",
     "pu_name": "UNGWAR HAUSAWA - OP",
     "name": "UNGWAR HAUSAWA - OP",
@@ -25515,12 +24771,6 @@
     "pu_code": "25/09/03/012",
     "pu_name": "ANG. ALABA PLAY GROUND",
     "name": "ANG. ALABA PLAY GROUND",
-    "lga": "NASARAWA",
-    "ward": "UDENIN",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "NASARAWA",
     "ward": "UDENIN",
     "state": "Nasarawa",
@@ -25752,12 +25002,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA",
-    "ward": "LOKO",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/09/05/001",
     "pu_name": "TUNGA UNG.SARKI - OP",
     "name": "TUNGA UNG.SARKI - OP",
@@ -25842,12 +25086,6 @@
     "pu_code": "25/09/05/010",
     "pu_name": "AJAGA KASUWA-OP",
     "name": "AJAGA KASUWA-OP",
-    "lga": "NASARAWA",
-    "ward": "TUNGA/BAKONO",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "NASARAWA",
     "ward": "TUNGA/BAKONO",
     "state": "Nasarawa",
@@ -25974,12 +25212,6 @@
     "pu_code": "25/09/06/014",
     "pu_name": "OPU-OP",
     "name": "OPU-OP",
-    "lga": "NASARAWA",
-    "ward": "GUTO/AISA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "NASARAWA",
     "ward": "GUTO/AISA",
     "state": "Nasarawa",
@@ -26247,12 +25479,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA",
-    "ward": "NASARAWA NORTH",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/09/08/001",
     "pu_name": "UNG.MADAKI   I  - PB",
     "name": "UNG.MADAKI   I  - PB",
@@ -26424,12 +25650,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA",
-    "ward": "NASARAWA EAST",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/09/09/001",
     "pu_name": "UNG.DALHATU-OP",
     "name": "UNG.DALHATU-OP",
@@ -26568,12 +25788,6 @@
     "pu_code": "25/09/09/016",
     "pu_name": "KOFAR SHAMAKI-OP",
     "name": "KOFAR SHAMAKI-OP",
-    "lga": "NASARAWA",
-    "ward": "NASARAWA  CENTRAL",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "NASARAWA",
     "ward": "NASARAWA  CENTRAL",
     "state": "Nasarawa",
@@ -26778,12 +25992,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA",
-    "ward": "NASARAWA MAIN TOWN",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/09/11/001",
     "pu_name": "UNG.MAKAMA    I  - OP",
     "name": "UNG.MAKAMA    I  - OP",
@@ -26895,12 +26103,6 @@
     "pu_code": "25/09/11/013",
     "pu_name": "SHAKUKI PLAY GROUND-OP",
     "name": "SHAKUKI PLAY GROUND-OP",
-    "lga": "NASARAWA",
-    "ward": "ARA I",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "NASARAWA",
     "ward": "ARA I",
     "state": "Nasarawa",
@@ -27063,12 +26265,6 @@
     "pu_code": "25/09/12/018",
     "pu_name": "PIMA SABO-PB",
     "name": "PIMA SABO-PB",
-    "lga": "NASARAWA",
-    "ward": "ARA II",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "NASARAWA",
     "ward": "ARA II",
     "state": "Nasarawa",
@@ -27312,12 +26508,6 @@
     "pu_code": "25/09/13/027",
     "pu_name": "SAGBAGYI PRIM. SCHOOL",
     "name": "SAGBAGYI PRIM. SCHOOL",
-    "lga": "NASARAWA",
-    "ward": "LAMINGA",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "NASARAWA",
     "ward": "LAMINGA",
     "state": "Nasarawa",
@@ -27621,12 +26811,6 @@
     "state_code": "25"
   },
   {
-    "lga": "NASARAWA",
-    "ward": "KANAH/ONDO/APAWU",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/09/15/001",
     "pu_name": "UDEGYE MBEKI",
     "name": "UDEGYE MBEKI",
@@ -27819,12 +27003,6 @@
     "pu_code": "25/09/15/022",
     "pu_name": "TRANSFER  PRIM. SCH",
     "name": "TRANSFER  PRIM. SCH",
-    "lga": "NASARAWA",
-    "ward": "ODU",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "NASARAWA",
     "ward": "ODU",
     "state": "Nasarawa",
@@ -28041,12 +27219,6 @@
     "pu_code": "25/11/01/024",
     "pu_name": "OSOHO ALOSDE PUBLIC SQUARE",
     "name": "OSOHO ALOSDE PUBLIC SQUARE",
-    "lga": "OBI",
-    "ward": "AGWATASHI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "OBI",
     "ward": "AGWATASHI",
     "state": "Nasarawa",
@@ -28326,12 +27498,6 @@
     "pu_code": "25/11/02/031",
     "pu_name": "UPPER AREA COURT OPEN SQUARE",
     "name": "UPPER AREA COURT OPEN SQUARE",
-    "lga": "OBI",
-    "ward": "DEDDERE/RIRI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "OBI",
     "ward": "DEDDERE/RIRI",
     "state": "Nasarawa",
@@ -28662,12 +27828,6 @@
     "state_code": "25"
   },
   {
-    "lga": "OBI",
-    "ward": "OBI",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/11/04/001",
     "pu_name": "ADABU/PUBLIC SQUARE",
     "name": "ADABU/PUBLIC SQUARE",
@@ -28833,12 +27993,6 @@
     "pu_code": "25/11/04/019",
     "pu_name": "KPAZHE AREN PUBLIC SQUARE",
     "name": "KPAZHE AREN PUBLIC SQUARE",
-    "lga": "OBI",
-    "ward": "TUDUN ADABU",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "OBI",
     "ward": "TUDUN ADABU",
     "state": "Nasarawa",
@@ -29268,12 +28422,6 @@
     "state_code": "25"
   },
   {
-    "lga": "OBI",
-    "ward": "DUDUGURU",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/11/06/001",
     "pu_name": "MURYA / PRI.SCHOOL",
     "name": "MURYA / PRI.SCHOOL",
@@ -29463,12 +28611,6 @@
     "state_code": "25"
   },
   {
-    "lga": "OBI",
-    "ward": "GWADENYE",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/11/07/001",
     "pu_name": "ICHECHENE I/PRI.SCHOOL",
     "name": "ICHECHENE I/PRI.SCHOOL",
@@ -29589,12 +28731,6 @@
     "pu_code": "25/11/07/014",
     "pu_name": "ZHEMUKAMA IDAH PUBLIC SQUARE",
     "name": "ZHEMUKAMA IDAH PUBLIC SQUARE",
-    "lga": "OBI",
-    "ward": "KYAKALE",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "OBI",
     "ward": "KYAKALE",
     "state": "Nasarawa",
@@ -29781,12 +28917,6 @@
     "state_code": "25"
   },
   {
-    "lga": "OBI",
-    "ward": "GIDAN AUSA I",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "pu_code": "25/11/09/001",
     "pu_name": "ABIOGA I  /   PRI.SCHOOL",
     "name": "ABIOGA I  /   PRI.SCHOOL",
@@ -29925,12 +29055,6 @@
     "pu_code": "25/11/09/016",
     "pu_name": "SABON KWARA PUBLIC SQUARE",
     "name": "SABON KWARA PUBLIC SQUARE",
-    "lga": "OBI",
-    "ward": "GIDAN AUSA II",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "OBI",
     "ward": "GIDAN AUSA II",
     "state": "Nasarawa",
@@ -30138,12 +29262,6 @@
     "pu_code": "25/11/10/023",
     "pu_name": "KERTYO HEALTH CENTER",
     "name": "KERTYO HEALTH CENTER",
-    "lga": "OBI",
-    "ward": "ADUDU",
-    "state": "Nasarawa",
-    "state_code": "25"
-  },
-  {
     "lga": "OBI",
     "ward": "ADUDU",
     "state": "Nasarawa",

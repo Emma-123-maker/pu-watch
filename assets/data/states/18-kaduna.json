@@ -207,12 +207,6 @@
     "state_code": "18"
   },
   {
-    "lga": "BIRNIN GWARI",
-    "ward": "MAGAJIN GARI I",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/01/02/001",
     "pu_name": "SPORT COUNCIL OFFICE",
     "name": "SPORT COUNCIL OFFICE",
@@ -600,12 +594,6 @@
     "state_code": "18"
   },
   {
-    "lga": "BIRNIN GWARI",
-    "ward": "MAGAJIN GARI II",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/01/03/001",
     "pu_name": "OLD B/GWARI PRY. SCH.",
     "name": "OLD B/GWARI PRY. SCH.",
@@ -789,12 +777,6 @@
     "pu_code": "18/01/03/021",
     "pu_name": "KASUWAN GORON DUTSE (OS)",
     "name": "KASUWAN GORON DUTSE (OS)",
-    "lga": "BIRNIN GWARI",
-    "ward": "MAGAJIN GARI III",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "BIRNIN GWARI",
     "ward": "MAGAJIN GARI III",
     "state": "Kaduna",
@@ -1053,12 +1035,6 @@
     "state_code": "18"
   },
   {
-    "lga": "BIRNIN GWARI",
-    "ward": "GAYAM",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/01/05/001",
     "pu_name": "DUNYA PRY. SCH.",
     "name": "DUNYA PRY. SCH.",
@@ -1275,12 +1251,6 @@
     "state_code": "18"
   },
   {
-    "lga": "BIRNIN GWARI",
-    "ward": "KUYELO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/01/06/001",
     "pu_name": "GWANDA PRY. SCH.",
     "name": "GWANDA PRY. SCH.",
@@ -1455,12 +1425,6 @@
     "pu_code": "18/01/06/020",
     "pu_name": "ISLAMIYA PRI SCH (KABIRU) (OS)",
     "name": "ISLAMIYA PRI SCH (KABIRU) (OS)",
-    "lga": "BIRNIN GWARI",
-    "ward": "KAZAGE",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "BIRNIN GWARI",
     "ward": "KAZAGE",
     "state": "Kaduna",
@@ -1692,12 +1656,6 @@
     "state_code": "18"
   },
   {
-    "lga": "BIRNIN GWARI",
-    "ward": "KAKANGI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/01/08/001",
     "pu_name": "NEW TABANNI PRY. SCH.",
     "name": "NEW TABANNI PRY. SCH.",
@@ -1845,12 +1803,6 @@
     "pu_code": "18/01/08/017",
     "pu_name": "UNG. S/NOMA",
     "name": "UNG. S/NOMA",
-    "lga": "BIRNIN GWARI",
-    "ward": "TABANNI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "BIRNIN GWARI",
     "ward": "TABANNI",
     "state": "Kaduna",
@@ -2028,12 +1980,6 @@
     "state_code": "18"
   },
   {
-    "lga": "BIRNIN GWARI",
-    "ward": "DOGON DAWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/01/10/001",
     "pu_name": "OLD GANDAWA",
     "name": "OLD GANDAWA",
@@ -2199,12 +2145,6 @@
     "pu_code": "18/01/10/019",
     "pu_name": "UNG. MAJE",
     "name": "UNG. MAJE",
-    "lga": "BIRNIN GWARI",
-    "ward": "KUTEMESI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "BIRNIN GWARI",
     "ward": "KUTEMESI",
     "state": "Kaduna",
@@ -2427,12 +2367,6 @@
     "state_code": "18"
   },
   {
-    "lga": "BIRNIN GWARI",
-    "ward": "RANDAGI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/02/01/001",
     "pu_name": "CHIKUN L.E.A. PRY. SCH.",
     "name": "CHIKUN L.E.A. PRY. SCH.",
@@ -2589,12 +2523,6 @@
     "pu_code": "18/02/01/018",
     "pu_name": "KATARMA III K/G MAIANGUWA L.E.A. PRY. SCH.",
     "name": "KATARMA III K/G MAIANGUWA L.E.A. PRY. SCH.",
-    "lga": "CHIKUN",
-    "ward": "CHIKUN",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "CHIKUN",
     "ward": "CHIKUN",
     "state": "Kaduna",
@@ -2820,12 +2748,6 @@
     "pu_code": "18/02/02/025",
     "pu_name": "LEA PRIMARY SCHOOL CHIKURI",
     "name": "LEA PRIMARY SCHOOL CHIKURI",
-    "lga": "CHIKUN",
-    "ward": "GWAGWADA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "CHIKUN",
     "ward": "GWAGWADA",
     "state": "Kaduna",
@@ -3345,12 +3267,6 @@
     "state_code": "18"
   },
   {
-    "lga": "CHIKUN",
-    "ward": "KAKAU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/02/04/001",
     "pu_name": "KUJAMA I L.E.A. PRY. SCHOOL",
     "name": "KUJAMA I L.E.A. PRY. SCHOOL",
@@ -3855,12 +3771,6 @@
     "state_code": "18"
   },
   {
-    "lga": "CHIKUN",
-    "ward": "KUJAMA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/02/05/001",
     "pu_name": "BURUKU I G/MANGORI T/TITI",
     "name": "BURUKU I G/MANGORI T/TITI",
@@ -4212,12 +4122,6 @@
     "state_code": "18"
   },
   {
-    "lga": "CHIKUN",
-    "ward": "KUNAI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/02/06/001",
     "pu_name": "KURIGA AREA COURT / AREA COURT",
     "name": "KURIGA AREA COURT / AREA COURT",
@@ -4392,12 +4296,6 @@
     "pu_code": "18/02/06/020",
     "pu_name": "UNG. KAWO II / K/GIDAN IYAN KURIGA",
     "name": "UNG. KAWO II / K/GIDAN IYAN KURIGA",
-    "lga": "CHIKUN",
-    "ward": "KURIGA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "CHIKUN",
     "ward": "KURIGA",
     "state": "Kaduna",
@@ -4836,12 +4734,6 @@
     "state_code": "18"
   },
   {
-    "lga": "CHIKUN",
-    "ward": "NARAYI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/02/08/001",
     "pu_name": "UNG. IDI/F/MAT. ROAD",
     "name": "UNG. IDI/F/MAT. ROAD",
@@ -5187,12 +5079,6 @@
     "pu_code": "18/02/08/039",
     "pu_name": "DOKAJE BY MAKERA RD. NASSARAWA",
     "name": "DOKAJE BY MAKERA RD. NASSARAWA",
-    "lga": "CHIKUN",
-    "ward": "NASARAWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "CHIKUN",
     "ward": "NASARAWA",
     "state": "Kaduna",
@@ -5823,12 +5709,6 @@
     "pu_code": "18/02/09/070",
     "pu_name": "AUDU DAN SULE RD. BABANSAURA",
     "name": "AUDU DAN SULE RD. BABANSAURA",
-    "lga": "CHIKUN",
-    "ward": "RIDO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "CHIKUN",
     "ward": "RIDO",
     "state": "Kaduna",
@@ -6627,12 +6507,6 @@
     "state_code": "18"
   },
   {
-    "lga": "CHIKUN",
-    "ward": "SABON TASHA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/02/11/001",
     "pu_name": "SABON YELWA/ IYAKA STREET (NORTH)",
     "name": "SABON YELWA/ IYAKA STREET (NORTH)",
@@ -7065,12 +6939,6 @@
     "state_code": "18"
   },
   {
-    "lga": "CHIKUN",
-    "ward": "UNG. YELWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/02/12/001",
     "pu_name": "SABON GARI/ GADANI STREET S/GARI",
     "name": "SABON GARI/ GADANI STREET S/GARI",
@@ -7386,12 +7254,6 @@
     "state_code": "18"
   },
   {
-    "lga": "CHIKUN",
-    "ward": "S/GGARIN AREWA TIRKANIYA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/03/01/001",
     "pu_name": "UNG. DAROFANGI I, II, III,& IV/ MODEL PRI. SCH. GIWA",
     "name": "UNG. DAROFANGI I, II, III,& IV/ MODEL PRI. SCH. GIWA",
@@ -7653,12 +7515,6 @@
     "state_code": "18"
   },
   {
-    "lga": "GIWA",
-    "ward": "GIWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/03/02/001",
     "pu_name": "TURAWA GARI I, II & KAKANGI/ TURAWA VILLAGE",
     "name": "TURAWA GARI I, II & KAKANGI/ TURAWA VILLAGE",
@@ -7869,12 +7725,6 @@
     "pu_code": "18/03/02/024",
     "pu_name": "SABON LAYI FILIN YAMUSA",
     "name": "SABON LAYI FILIN YAMUSA",
-    "lga": "GIWA",
-    "ward": "KAKANGI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "GIWA",
     "ward": "KAKANGI",
     "state": "Kaduna",
@@ -8127,12 +7977,6 @@
     "pu_code": "18/03/03/028",
     "pu_name": "LEA PRIMARY SCHOOL U/RIMI",
     "name": "LEA PRIMARY SCHOOL U/RIMI",
-    "lga": "GIWA",
-    "ward": "GANGARA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "GIWA",
     "ward": "GANGARA",
     "state": "Kaduna",
@@ -8418,12 +8262,6 @@
     "state_code": "18"
   },
   {
-    "lga": "GIWA",
-    "ward": "SHIKA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/03/05/001",
     "pu_name": "DANMAHAWAYI I, II/ DISPENSARY HOSPITAL D/MAHAWAYI",
     "name": "DANMAHAWAYI I, II/ DISPENSARY HOSPITAL D/MAHAWAYI",
@@ -8553,12 +8391,6 @@
     "pu_code": "18/03/05/016",
     "pu_name": "GOVERNMEENT GIRLS SECONDARY SCHOOL DANMAHAWAYI DANMAHAWAYI",
     "name": "GOVERNMEENT GIRLS SECONDARY SCHOOL DANMAHAWAYI DANMAHAWAYI",
-    "lga": "GIWA",
-    "ward": "DANMAHAWAYI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "GIWA",
     "ward": "DANMAHAWAYI",
     "state": "Kaduna",
@@ -8835,12 +8667,6 @@
     "state_code": "18"
   },
   {
-    "lga": "GIWA",
-    "ward": "YAKAWADA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/03/07/001",
     "pu_name": "UNG. S. FATIKA I, II/ L.E.A FATIKA",
     "name": "UNG. S. FATIKA I, II/ L.E.A FATIKA",
@@ -9060,12 +8886,6 @@
     "pu_code": "18/03/07/026",
     "pu_name": "UBE PRIMARY SCHOOL KAURAN PAWA RUFEWA",
     "name": "UBE PRIMARY SCHOOL KAURAN PAWA RUFEWA",
-    "lga": "GIWA",
-    "ward": "IDASU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "GIWA",
     "ward": "IDASU",
     "state": "Kaduna",
@@ -9297,12 +9117,6 @@
     "state_code": "18"
   },
   {
-    "lga": "GIWA",
-    "ward": "KIDANDAN",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/03/09/001",
     "pu_name": "GALADIMAWA I/ KOFAR GIDA ABDULAWA",
     "name": "GALADIMAWA I/ KOFAR GIDA ABDULAWA",
@@ -9396,12 +9210,6 @@
     "pu_code": "18/03/09/011",
     "pu_name": "SADA GALADIMAWA LGEA PRIMARY SCHOOL",
     "name": "SADA GALADIMAWA LGEA PRIMARY SCHOOL",
-    "lga": "GIWA",
-    "ward": "GALADIMAWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "GIWA",
     "ward": "GALADIMAWA",
     "state": "Kaduna",
@@ -9606,12 +9414,6 @@
     "state_code": "18"
   },
   {
-    "lga": "GIWA",
-    "ward": "KADAGE",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/03/11/001",
     "pu_name": "PAN HAUYA GARI I, II, III/ PAN HAUYA GARI",
     "name": "PAN HAUYA GARI I, II, III/ PAN HAUYA GARI",
@@ -9786,12 +9588,6 @@
     "pu_code": "18/03/11/020",
     "pu_name": "LEA PRIMARY SCHOOL BIYE II SABON FEGI",
     "name": "LEA PRIMARY SCHOOL BIYE II SABON FEGI",
-    "lga": "GIWA",
-    "ward": "PAN HAUYA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "GIWA",
     "ward": "PAN HAUYA",
     "state": "Kaduna",
@@ -10212,12 +10008,6 @@
     "state_code": "18"
   },
   {
-    "lga": "IGABI",
-    "ward": "TURUNKU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/04/02/001",
     "pu_name": "UNG. SARKI I",
     "name": "UNG. SARKI I",
@@ -10569,12 +10359,6 @@
     "state_code": "18"
   },
   {
-    "lga": "IGABI",
-    "ward": "ZANGON AYA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/04/03/001",
     "pu_name": "GWARAJI I",
     "name": "GWARAJI I",
@@ -10839,12 +10623,6 @@
     "pu_code": "18/04/03/030",
     "pu_name": "LEA PRI. SCH. LIGARA",
     "name": "LEA PRI. SCH. LIGARA",
-    "lga": "IGABI",
-    "ward": "GWARAJI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "IGABI",
     "ward": "GWARAJI",
     "state": "Kaduna",
@@ -11310,12 +11088,6 @@
     "state_code": "18"
   },
   {
-    "lga": "IGABI",
-    "ward": "BIRNIN YERO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/04/05/001",
     "pu_name": "KEMPA",
     "name": "KEMPA",
@@ -11679,12 +11451,6 @@
     "pu_code": "18/04/05/041",
     "pu_name": "UNG. MADUGU",
     "name": "UNG. MADUGU",
-    "lga": "IGABI",
-    "ward": "IGABI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "IGABI",
     "ward": "IGABI",
     "state": "Kaduna",
@@ -12330,12 +12096,6 @@
     "state_code": "18"
   },
   {
-    "lga": "IGABI",
-    "ward": "RIGACHIKUN",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/04/07/001",
     "pu_name": "AFAKA",
     "name": "AFAKA",
@@ -12741,12 +12501,6 @@
     "state_code": "18"
   },
   {
-    "lga": "IGABI",
-    "ward": "AFAKA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/04/08/001",
     "pu_name": "TAMI",
     "name": "TAMI",
@@ -13026,12 +12780,6 @@
     "state_code": "18"
   },
   {
-    "lga": "IGABI",
-    "ward": "SABON BIRNIN DAJI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/04/09/001",
     "pu_name": "AKWATO",
     "name": "AKWATO",
@@ -13260,12 +13008,6 @@
     "pu_code": "18/04/09/026",
     "pu_name": "LEA PRI. SCH. UNG. RIMI",
     "name": "LEA PRI. SCH. UNG. RIMI",
-    "lga": "IGABI",
-    "ward": "KERAWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "IGABI",
     "ward": "KERAWA",
     "state": "Kaduna",
@@ -13650,12 +13392,6 @@
     "state_code": "18"
   },
   {
-    "lga": "IGABI",
-    "ward": "KWARAU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/04/11/001",
     "pu_name": "UNG. LALLE",
     "name": "UNG. LALLE",
@@ -13875,12 +13611,6 @@
     "pu_code": "18/04/11/025",
     "pu_name": "LAYIN MATA",
     "name": "LAYIN MATA",
-    "lga": "IGABI",
-    "ward": "GADAN GAYAN",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "IGABI",
     "ward": "GADAN GAYAN",
     "state": "Kaduna",
@@ -15264,12 +14994,6 @@
     "state_code": "18"
   },
   {
-    "lga": "IGABI",
-    "ward": "RIGASA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/05/01/001",
     "pu_name": "UNG. WAZIRI I/ CENTRAL PRIMARY SCHOOL",
     "name": "UNG. WAZIRI I/ CENTRAL PRIMARY SCHOOL",
@@ -15738,12 +15462,6 @@
     "state_code": "18"
   },
   {
-    "lga": "IKARA",
-    "ward": "IKARA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/05/02/001",
     "pu_name": "JANFALAN/ PRIMARY SCHOOL",
     "name": "JANFALAN/ PRIMARY SCHOOL",
@@ -15981,12 +15699,6 @@
     "pu_code": "18/05/02/027",
     "pu_name": "ANG. BAKULA II",
     "name": "ANG. BAKULA II",
-    "lga": "IKARA",
-    "ward": "JANFALA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "IKARA",
     "ward": "JANFALA",
     "state": "Kaduna",
@@ -16308,12 +16020,6 @@
     "state_code": "18"
   },
   {
-    "lga": "IKARA",
-    "ward": "K/KOGI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/05/04/001",
     "pu_name": "SAULAWA GARI I/ PRIMARY SCHOOL",
     "name": "SAULAWA GARI I/ PRIMARY SCHOOL",
@@ -16521,12 +16227,6 @@
     "state_code": "18"
   },
   {
-    "lga": "IKARA",
-    "ward": "SAULAWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/05/05/001",
     "pu_name": "PALA SOUTH I/ PRIMARY SCHOOL",
     "name": "PALA SOUTH I/ PRIMARY SCHOOL",
@@ -16680,12 +16380,6 @@
     "state_code": "18"
   },
   {
-    "lga": "IKARA",
-    "ward": "PALA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/05/06/001",
     "pu_name": "SAYA-SAYA I/ PRIMARY SCHOOL",
     "name": "SAYA-SAYA I/ PRIMARY SCHOOL",
@@ -16824,12 +16518,6 @@
     "pu_code": "18/05/06/016",
     "pu_name": "SAYA-SAYA II",
     "name": "SAYA-SAYA II",
-    "lga": "IKARA",
-    "ward": "SAYA-SAYA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "IKARA",
     "ward": "SAYA-SAYA",
     "state": "Kaduna",
@@ -17028,12 +16716,6 @@
     "pu_code": "18/05/07/022",
     "pu_name": "UNG. MAI ALEWA/NEAR K/MAI ANGUWA",
     "name": "UNG. MAI ALEWA/NEAR K/MAI ANGUWA",
-    "lga": "IKARA",
-    "ward": "AUCHAN",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "IKARA",
     "ward": "AUCHAN",
     "state": "Kaduna",
@@ -17265,12 +16947,6 @@
     "state_code": "18"
   },
   {
-    "lga": "IKARA",
-    "ward": "RUMI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/05/09/001",
     "pu_name": "FADA I/ CLINIC",
     "name": "FADA I/ CLINIC",
@@ -17409,12 +17085,6 @@
     "pu_code": "18/05/09/016",
     "pu_name": "L.E.A.PRI. SCHOOL",
     "name": "L.E.A.PRI. SCHOOL",
-    "lga": "IKARA",
-    "ward": "PAKI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "IKARA",
     "ward": "PAKI",
     "state": "Kaduna",
@@ -17583,12 +17253,6 @@
     "state_code": "18"
   },
   {
-    "lga": "IKARA",
-    "ward": "KUYA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/06/01/001",
     "pu_name": "UNG. SARKIN ANKUNG/ PRY SCH",
     "name": "UNG. SARKIN ANKUNG/ PRY SCH",
@@ -17736,12 +17400,6 @@
     "pu_code": "18/06/01/017",
     "pu_name": "UNG. MADAKI II",
     "name": "UNG. MADAKI II",
-    "lga": "JABA",
-    "ward": "NDUYAH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "JABA",
     "ward": "NDUYAH",
     "state": "Kaduna",
@@ -17901,12 +17559,6 @@
     "state_code": "18"
   },
   {
-    "lga": "JABA",
-    "ward": "SAMBAM",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/06/03/001",
     "pu_name": "UNG. GALADIMA 1A/ K/GALADIMA 1A",
     "name": "UNG. GALADIMA 1A/ K/GALADIMA 1A",
@@ -18024,12 +17676,6 @@
     "state_code": "18"
   },
   {
-    "lga": "JABA",
-    "ward": "FADA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/06/04/001",
     "pu_name": "UNG. TURAWA I/ PRIMARY SCHOOL MAUDE",
     "name": "UNG. TURAWA I/ PRIMARY SCHOOL MAUDE",
@@ -18138,12 +17784,6 @@
     "state_code": "18"
   },
   {
-    "lga": "JABA",
-    "ward": "SABCHEM",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/06/05/001",
     "pu_name": "UNG. YEH-YOCK I/ K/GIDAN YEH-YOCK",
     "name": "UNG. YEH-YOCK I/ K/GIDAN YEH-YOCK",
@@ -18201,12 +17841,6 @@
     "pu_code": "18/06/05/007",
     "pu_name": "UNG. YEH-YOCK II/ K/GIDAN YEH-YOCK II",
     "name": "UNG. YEH-YOCK II/ K/GIDAN YEH-YOCK II",
-    "lga": "JABA",
-    "ward": "SABZURO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "JABA",
     "ward": "SABZURO",
     "state": "Kaduna",
@@ -18279,12 +17913,6 @@
     "pu_code": "18/06/06/008",
     "pu_name": "UNG. MADAKI BITARO II",
     "name": "UNG. MADAKI BITARO II",
-    "lga": "JABA",
-    "ward": "DURA/BITARO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "JABA",
     "ward": "DURA/BITARO",
     "state": "Kaduna",
@@ -18480,12 +18108,6 @@
     "state_code": "18"
   },
   {
-    "lga": "JABA",
-    "ward": "DADDU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/06/08/001",
     "pu_name": "UNG. KATUKA/ K/GIDAN SARKI",
     "name": "UNG. KATUKA/ K/GIDAN SARKI",
@@ -18603,12 +18225,6 @@
     "state_code": "18"
   },
   {
-    "lga": "JABA",
-    "ward": "CHORI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/06/09/001",
     "pu_name": "UNG. TUNGA NOK/ K/GIDAN SARKI",
     "name": "UNG. TUNGA NOK/ K/GIDAN SARKI",
@@ -18675,12 +18291,6 @@
     "pu_code": "18/06/09/008",
     "pu_name": "UNG. MAKAMA II/ K/GIDAN MAKAMA II",
     "name": "UNG. MAKAMA II/ K/GIDAN MAKAMA II",
-    "lga": "JABA",
-    "ward": "NOK",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "JABA",
     "ward": "NOK",
     "state": "Kaduna",
@@ -18825,12 +18435,6 @@
     "pu_code": "18/06/10/016",
     "pu_name": "UNG. KURMIN JATAU III",
     "name": "UNG. KURMIN JATAU III",
-    "lga": "JABA",
-    "ward": "FAI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "JABA",
     "ward": "FAI",
     "state": "Kaduna",
@@ -19083,12 +18687,6 @@
     "pu_code": "18/07/01/028",
     "pu_name": "BALA IBRAHIM G.S.S RAGA",
     "name": "BALA IBRAHIM G.S.S RAGA",
-    "lga": "JEMA'A",
-    "ward": "KAFANCHAN 'A'",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "JEMA'A",
     "ward": "KAFANCHAN 'A'",
     "state": "Kaduna",
@@ -19356,12 +18954,6 @@
     "state_code": "18"
   },
   {
-    "lga": "JEMA'A",
-    "ward": "KAFANCHAN 'B'",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/07/03/001",
     "pu_name": "UNG. SARKIN MAIGIZO/ UNG. S/MAIGIZO",
     "name": "UNG. SARKIN MAIGIZO/ UNG. S/MAIGIZO",
@@ -19608,12 +19200,6 @@
     "pu_code": "18/07/03/028",
     "pu_name": "YAKUSAK",
     "name": "YAKUSAK",
-    "lga": "JEMA'A",
-    "ward": "MAIGIZO 'A'",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "JEMA'A",
     "ward": "MAIGIZO 'A'",
     "state": "Kaduna",
@@ -19884,12 +19470,6 @@
     "pu_code": "18/07/04/030",
     "pu_name": "UNG. MADAKI, NGACHEM",
     "name": "UNG. MADAKI, NGACHEM",
-    "lga": "JEMA'A",
-    "ward": "KANINKON",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "JEMA'A",
     "ward": "KANINKON",
     "state": "Kaduna",
@@ -20193,12 +19773,6 @@
     "state_code": "18"
   },
   {
-    "lga": "JEMA'A",
-    "ward": "JAGINDI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/07/06/001",
     "pu_name": "NINDEM I/ KOFAR DAGACHI",
     "name": "NINDEM I/ KOFAR DAGACHI",
@@ -20418,12 +19992,6 @@
     "pu_code": "18/07/06/025",
     "pu_name": "FADA ZANKAN / ZANKAN",
     "name": "FADA ZANKAN / ZANKAN",
-    "lga": "JEMA'A",
-    "ward": "GODOGODO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "JEMA'A",
     "ward": "GODOGODO",
     "state": "Kaduna",
@@ -20673,12 +20241,6 @@
     "state_code": "18"
   },
   {
-    "lga": "JEMA'A",
-    "ward": "GIDAN WAYA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/07/08/001",
     "pu_name": "ATUKUN GADA/ UNG. MADAKI",
     "name": "ATUKUN GADA/ UNG. MADAKI",
@@ -20844,12 +20406,6 @@
     "pu_code": "18/07/08/019",
     "pu_name": "UNG. WAKILI II / KUNPAM",
     "name": "UNG. WAKILI II / KUNPAM",
-    "lga": "JEMA'A",
-    "ward": "ATUKU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "JEMA'A",
     "ward": "ATUKU",
     "state": "Kaduna",
@@ -21084,12 +20640,6 @@
     "pu_code": "18/07/09/026",
     "pu_name": "UNG. YULI II NINGO",
     "name": "UNG. YULI II NINGO",
-    "lga": "JEMA'A",
-    "ward": "ASSO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "JEMA'A",
     "ward": "ASSO",
     "state": "Kaduna",
@@ -21342,12 +20892,6 @@
     "pu_code": "18/07/10/028",
     "pu_name": "BULUS GABI TOWN HALL",
     "name": "BULUS GABI TOWN HALL",
-    "lga": "JEMA'A",
-    "ward": "BEDDE",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "JEMA'A",
     "ward": "BEDDE",
     "state": "Kaduna",
@@ -21624,12 +21168,6 @@
     "state_code": "18"
   },
   {
-    "lga": "JEMA'A",
-    "ward": "KAGOMA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/07/12/001",
     "pu_name": "UNG. MAMUDA GONI/ UNG. MAMUDA GONI",
     "name": "UNG. MAMUDA GONI/ UNG. MAMUDA GONI",
@@ -21822,12 +21360,6 @@
     "pu_code": "18/07/12/022",
     "pu_name": "DUNIYA KAPIO",
     "name": "DUNIYA KAPIO",
-    "lga": "JEMA'A",
-    "ward": "TAKAU 'B'",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "JEMA'A",
     "ward": "TAKAU 'B'",
     "state": "Kaduna",
@@ -22167,12 +21699,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KACHIA",
-    "ward": "AGUNU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/08/02/001",
     "pu_name": "AWON I/ L.E.A PRI. SCH. AWON",
     "name": "AWON I/ L.E.A PRI. SCH. AWON",
@@ -22461,12 +21987,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KACHIA",
-    "ward": "AWON",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/08/03/001",
     "pu_name": "DOKA I/ LEA PRI. SCH. DOKA",
     "name": "DOKA I/ LEA PRI. SCH. DOKA",
@@ -22737,12 +22257,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KACHIA",
-    "ward": "DOKA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/08/04/001",
     "pu_name": "GUMEL I/ LEA PRI.SCH. GUMEL",
     "name": "GUMEL I/ LEA PRI.SCH. GUMEL",
@@ -23004,12 +22518,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KACHIA",
-    "ward": "GUMEL",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/08/05/001",
     "pu_name": "GIDAN TAGWAI I/ LEA SCH. G/TAGWAI",
     "name": "GIDAN TAGWAI I/ LEA SCH. G/TAGWAI",
@@ -23199,12 +22707,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KACHIA",
-    "ward": "GIDAN TAGWAI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/08/06/001",
     "pu_name": "KWATURU USMAN/ LEA PRI.SCH.",
     "name": "KWATURU USMAN/ LEA PRI.SCH.",
@@ -23385,12 +22887,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KACHIA",
-    "ward": "KWATURU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/08/07/001",
     "pu_name": "ANKWA/ PRI.SCH. ANKWA",
     "name": "ANKWA/ PRI.SCH. ANKWA",
@@ -23538,12 +23034,6 @@
     "pu_code": "18/08/07/017",
     "pu_name": "MAIDO RAFI/ K/G MAI UNGUWA",
     "name": "MAIDO RAFI/ K/G MAI UNGUWA",
-    "lga": "KACHIA",
-    "ward": "ANKWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KACHIA",
     "ward": "ANKWA",
     "state": "Kaduna",
@@ -23775,12 +23265,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KACHIA",
-    "ward": "KATARI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/08/09/001",
     "pu_name": "BISHINI I/ LEA BISHINI",
     "name": "BISHINI I/ LEA BISHINI",
@@ -23955,12 +23439,6 @@
     "pu_code": "18/08/09/020",
     "pu_name": "TUDUN DAMBAI",
     "name": "TUDUN DAMBAI",
-    "lga": "KACHIA",
-    "ward": "BISHINI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KACHIA",
     "ward": "BISHINI",
     "state": "Kaduna",
@@ -24444,12 +23922,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KACHIA",
-    "ward": "KACHIA URBAN",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/08/11/001",
     "pu_name": "SABON SARKI I/ LEA S/SARKI",
     "name": "SABON SARKI I/ LEA S/SARKI",
@@ -24588,12 +24060,6 @@
     "pu_code": "18/08/11/016",
     "pu_name": "GIDAN KABU",
     "name": "GIDAN KABU",
-    "lga": "KACHIA",
-    "ward": "SABON SARKI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KACHIA",
     "ward": "SABON SARKI",
     "state": "Kaduna",
@@ -24747,12 +24213,6 @@
     "pu_code": "18/08/12/017",
     "pu_name": "GIDAN MAKAM",
     "name": "GIDAN MAKAM",
-    "lga": "KACHIA",
-    "ward": "KURMIN MUSA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KACHIA",
     "ward": "KURMIN MUSA",
     "state": "Kaduna",
@@ -25158,12 +24618,6 @@
     "pu_code": "18/09/01/045",
     "pu_name": "ABEOKUTA/ KABBA RD",
     "name": "ABEOKUTA/ KABBA RD",
-    "lga": "KADUNA NORTH",
-    "ward": "SHABA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KADUNA NORTH",
     "ward": "SHABA",
     "state": "Kaduna",
@@ -25602,12 +25056,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KADUNA NORTH",
-    "ward": "GAJI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/09/03/001",
     "pu_name": "L.E.A KATSINA ROAD",
     "name": "L.E.A KATSINA ROAD",
@@ -25971,12 +25419,6 @@
     "pu_code": "18/09/03/041",
     "pu_name": "AH40 KATSINA RD/BAYAJJIDA STREET",
     "name": "AH40 KATSINA RD/BAYAJJIDA STREET",
-    "lga": "KADUNA NORTH",
-    "ward": "UNGUWAN LIMAN",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KADUNA NORTH",
     "ward": "UNGUWAN LIMAN",
     "state": "Kaduna",
@@ -26355,12 +25797,6 @@
     "pu_code": "18/09/04/042",
     "pu_name": "MAGADISHU KAEDCO GATE",
     "name": "MAGADISHU KAEDCO GATE",
-    "lga": "KADUNA NORTH",
-    "ward": "MAIBURJI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KADUNA NORTH",
     "ward": "MAIBURJI",
     "state": "Kaduna",
@@ -26919,12 +26355,6 @@
     "pu_code": "18/09/05/062",
     "pu_name": "RIMI RD SHIRINYA RD",
     "name": "RIMI RD SHIRINYA RD",
-    "lga": "KADUNA NORTH",
-    "ward": "KABALA COSTAIN/ DOKI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KADUNA NORTH",
     "ward": "KABALA COSTAIN/ DOKI",
     "state": "Kaduna",
@@ -27606,12 +27036,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KADUNA NORTH",
-    "ward": "GABASAWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/09/07/001",
     "pu_name": "WAFF ROAD/ NIDB",
     "name": "WAFF ROAD/ NIDB",
@@ -28155,12 +27579,6 @@
     "pu_code": "18/09/07/061",
     "pu_name": "CAPITAL SCHOOL BACK GATE",
     "name": "CAPITAL SCHOOL BACK GATE",
-    "lga": "KADUNA NORTH",
-    "ward": "UNGUWAN SARKI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KADUNA NORTH",
     "ward": "UNGUWAN SARKI",
     "state": "Kaduna",
@@ -28824,12 +28242,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KADUNA NORTH",
-    "ward": "BADARAWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/09/09/001",
     "pu_name": "STATE HOUSE GATE KAWO",
     "name": "STATE HOUSE GATE KAWO",
@@ -29373,12 +28785,6 @@
     "pu_code": "18/09/09/061",
     "pu_name": "NO. 46 MUSAWA RD. SMC QTRS.",
     "name": "NO. 46 MUSAWA RD. SMC QTRS.",
-    "lga": "KADUNA NORTH",
-    "ward": "UNGUWAN DOSA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KADUNA NORTH",
     "ward": "UNGUWAN DOSA",
     "state": "Kaduna",
@@ -30168,12 +29574,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KADUNA NORTH",
-    "ward": "KAWO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/09/11/001",
     "pu_name": "DANDALI CENTRE/ NO.F. 13 OPP. MAITSIRE",
     "name": "DANDALI CENTRE/ NO.F. 13 OPP. MAITSIRE",
@@ -30687,12 +30087,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KADUNA NORTH",
-    "ward": "HAYIN BANKI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/09/12/001",
     "pu_name": "LAGOS STREET I/ K/GIDAN IBRAHIM/MASA",
     "name": "LAGOS STREET I/ K/GIDAN IBRAHIM/MASA",
@@ -31146,12 +30540,6 @@
     "pu_code": "18/09/12/051",
     "pu_name": "PRO DESIGN BY RAIL",
     "name": "PRO DESIGN BY RAIL",
-    "lga": "KADUNA NORTH",
-    "ward": "UNGUWAN SHANU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KADUNA NORTH",
     "ward": "UNGUWAN SHANU",
     "state": "Kaduna",
@@ -31950,12 +31338,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KADUNA SOUTH",
-    "ward": "MAKERA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/10/02/001",
     "pu_name": "L.E.A. BARNAWA I, L.E.A. BARNAWA I",
     "name": "L.E.A. BARNAWA I, L.E.A. BARNAWA I",
@@ -32685,12 +32067,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KADUNA SOUTH",
-    "ward": "BARNAWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/10/03/001",
     "pu_name": "MOBILE POLICE BARRACK, MOBILE POLICE BARRACK",
     "name": "MOBILE POLICE BARRACK, MOBILE POLICE BARRACK",
@@ -32955,12 +32331,6 @@
     "pu_code": "18/10/03/030",
     "pu_name": "BIRNIN GWARI ROAD II",
     "name": "BIRNIN GWARI ROAD II",
-    "lga": "KADUNA SOUTH",
-    "ward": "KAKURI GWARI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KADUNA SOUTH",
     "ward": "KAKURI GWARI",
     "state": "Kaduna",
@@ -33384,12 +32754,6 @@
     "pu_code": "18/10/04/047",
     "pu_name": "BESIDE TOTAL FILLING STATION OPP COMMAND JUNCTION",
     "name": "BESIDE TOTAL FILLING STATION OPP COMMAND JUNCTION",
-    "lga": "KADUNA SOUTH",
-    "ward": "TELEVISION",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KADUNA SOUTH",
     "ward": "TELEVISION",
     "state": "Kaduna",
@@ -33882,12 +33246,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KADUNA SOUTH",
-    "ward": "KAKURI HAUSA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/10/06/001",
     "pu_name": "FG. IBRAHIM TAIWO ROAD",
     "name": "FG. IBRAHIM TAIWO ROAD",
@@ -34314,12 +33672,6 @@
     "pu_code": "18/10/06/048",
     "pu_name": "KW 4 KALTINGO ROAD",
     "name": "KW 4 KALTINGO ROAD",
-    "lga": "KADUNA SOUTH",
-    "ward": "TUDUN WADA NORTH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KADUNA SOUTH",
     "ward": "TUDUN WADA NORTH",
     "state": "Kaduna",
@@ -34815,12 +34167,6 @@
     "pu_code": "18/10/07/055",
     "pu_name": "G06 HAUSAWA ROAD I",
     "name": "G06 HAUSAWA ROAD I",
-    "lga": "KADUNA SOUTH",
-    "ward": "TUDUN WADA SOUTH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KADUNA SOUTH",
     "ward": "TUDUN WADA SOUTH",
     "state": "Kaduna",
@@ -35457,12 +34803,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KADUNA SOUTH",
-    "ward": "TUDUN WADA WEST",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/10/09/001",
     "pu_name": "FIRE BRIGADE",
     "name": "FIRE BRIGADE",
@@ -36048,12 +35388,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KADUNA SOUTH",
-    "ward": "TUDUN NUWAPA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/10/10/001",
     "pu_name": "L.E.A. MOH. KABIR I",
     "name": "L.E.A. MOH. KABIR I",
@@ -36606,12 +35940,6 @@
     "pu_code": "18/10/10/062",
     "pu_name": "BD 2 GURBABIYA ROAD II",
     "name": "BD 2 GURBABIYA ROAD II",
-    "lga": "KADUNA SOUTH",
-    "ward": "SABON GARI SOUTH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KADUNA SOUTH",
     "ward": "SABON GARI SOUTH",
     "state": "Kaduna",
@@ -37194,12 +36522,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KADUNA SOUTH",
-    "ward": "SABON GARI NORTH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/10/12/001",
     "pu_name": "L.E.A CHAWAI ROAD I",
     "name": "L.E.A CHAWAI ROAD I",
@@ -37662,12 +36984,6 @@
     "pu_code": "18/10/12/052",
     "pu_name": "ASIKOLAYE VI  OMORINO",
     "name": "ASIKOLAYE VI  OMORINO",
-    "lga": "KADUNA SOUTH",
-    "ward": "UNG. SANUSI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KADUNA SOUTH",
     "ward": "UNG. SANUSI",
     "state": "Kaduna",
@@ -38394,12 +37710,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KADUNA SOUTH",
-    "ward": "BADIKO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/11/01/001",
     "pu_name": "KAGARKO I/ RIMI KAGARKO",
     "name": "KAGARKO I/ RIMI KAGARKO",
@@ -38556,12 +37866,6 @@
     "pu_code": "18/11/01/018",
     "pu_name": "OLD DISTRICT HEAD OFFICE AKOTE",
     "name": "OLD DISTRICT HEAD OFFICE AKOTE",
-    "lga": "KAGARKO",
-    "ward": "KAGARKO NORTH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAGARKO",
     "ward": "KAGARKO NORTH",
     "state": "Kaduna",
@@ -38811,12 +38115,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAGARKO",
-    "ward": "KAGARKO SOUTH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/11/03/001",
     "pu_name": "KUSHE I/ K/FADA",
     "name": "KUSHE I/ K/FADA",
@@ -39015,12 +38313,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAGARKO",
-    "ward": "KUSHE",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/11/04/001",
     "pu_name": "UNG. MAGAJI I/ K/MA'AJI",
     "name": "UNG. MAGAJI I/ K/MA'AJI",
@@ -39195,12 +38487,6 @@
     "pu_code": "18/11/04/020",
     "pu_name": "JERE NEW MARKET KWANJIRKO",
     "name": "JERE NEW MARKET KWANJIRKO",
-    "lga": "KAGARKO",
-    "ward": "JERE NORTH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAGARKO",
     "ward": "JERE NORTH",
     "state": "Kaduna",
@@ -39426,12 +38712,6 @@
     "pu_code": "18/11/05/025",
     "pu_name": "UBE UNG. SADAUKI",
     "name": "UBE UNG. SADAUKI",
-    "lga": "KAGARKO",
-    "ward": "JERE SOUTH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAGARKO",
     "ward": "JERE SOUTH",
     "state": "Kaduna",
@@ -39780,12 +39060,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAGARKO",
-    "ward": "IDDAH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/11/07/001",
     "pu_name": "ARIBI I/ PRI.SCH. ARIBI",
     "name": "ARIBI I/ PRI.SCH. ARIBI",
@@ -40056,12 +39330,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAGARKO",
-    "ward": "ARIBI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/11/08/001",
     "pu_name": "KURMIN JIBRIN/ PRI.SCH.K. JIBRIN",
     "name": "KURMIN JIBRIN/ PRI.SCH.K. JIBRIN",
@@ -40146,12 +39414,6 @@
     "pu_code": "18/11/08/010",
     "pu_name": "LEA PRI. SCH SHADALAFIYA",
     "name": "LEA PRI. SCH SHADALAFIYA",
-    "lga": "KAGARKO",
-    "ward": "KURMIN JIBRIN",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAGARKO",
     "ward": "KURMIN JIBRIN",
     "state": "Kaduna",
@@ -40347,12 +39609,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAGARKO",
-    "ward": "KATUGAL",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/11/10/001",
     "pu_name": "KUKUI I/ PRI.SCH. KUKUI",
     "name": "KUKUI I/ PRI.SCH. KUKUI",
@@ -40452,12 +39708,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAGARKO",
-    "ward": "KUKUI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/12/01/001",
     "pu_name": "KAJURU GARI I/LGEA PRI. KAJURU",
     "name": "KAJURU GARI I/LGEA PRI. KAJURU",
@@ -40524,12 +39774,6 @@
     "pu_code": "18/12/01/008",
     "pu_name": "PRIMARY HEALTH CENTRE KAJURU",
     "name": "PRIMARY HEALTH CENTRE KAJURU",
-    "lga": "KAJURU",
-    "ward": "KAJURU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAJURU",
     "ward": "KAJURU",
     "state": "Kaduna",
@@ -40620,12 +39864,6 @@
     "pu_code": "18/12/02/010",
     "pu_name": "TRAIN STATION, KAJURU STATION",
     "name": "TRAIN STATION, KAJURU STATION",
-    "lga": "KAJURU",
-    "ward": "TANTATU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAJURU",
     "ward": "TANTATU",
     "state": "Kaduna",
@@ -40725,12 +39963,6 @@
     "pu_code": "18/12/03/011",
     "pu_name": "NOMADIC PRIMARY SCHOOL, UNGWAN BUGAI",
     "name": "NOMADIC PRIMARY SCHOOL, UNGWAN BUGAI",
-    "lga": "KAJURU",
-    "ward": "BUDA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAJURU",
     "ward": "BUDA",
     "state": "Kaduna",
@@ -41007,12 +40239,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAJURU",
-    "ward": "KUFANA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/12/05/001",
     "pu_name": "DANBAGUDU/ LGEA PRI. D/BAGUDU",
     "name": "DANBAGUDU/ LGEA PRI. D/BAGUDU",
@@ -41160,12 +40386,6 @@
     "pu_code": "18/12/05/017",
     "pu_name": "GOVERNMENT DAY SECONDARY SCHOOL IBURU",
     "name": "GOVERNMENT DAY SECONDARY SCHOOL IBURU",
-    "lga": "KAJURU",
-    "ward": "AFOGO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAJURU",
     "ward": "AFOGO",
     "state": "Kaduna",
@@ -41415,12 +40635,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAJURU",
-    "ward": "KASUWAN MAGANI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/12/07/001",
     "pu_name": "ANG. SARKI I/ K/G SARKI",
     "name": "ANG. SARKI I/ K/G SARKI",
@@ -41568,12 +40782,6 @@
     "pu_code": "18/12/07/017",
     "pu_name": "P.H.C GEFE I",
     "name": "P.H.C GEFE I",
-    "lga": "KAJURU",
-    "ward": "KALLAH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAJURU",
     "ward": "KALLAH",
     "state": "Kaduna",
@@ -41736,12 +40944,6 @@
     "pu_code": "18/12/08/018",
     "pu_name": "PLAYGROUND/ EBASHIRE",
     "name": "PLAYGROUND/ EBASHIRE",
-    "lga": "KAJURU",
-    "ward": "RIMAU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAJURU",
     "ward": "RIMAU",
     "state": "Kaduna",
@@ -41973,12 +41175,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAJURU",
-    "ward": "IDON",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/12/10/001",
     "pu_name": "ANG. S/GAMO/ LGEA PRI. U/GAMO",
     "name": "ANG. S/GAMO/ LGEA PRI. U/GAMO",
@@ -42204,12 +41400,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAJURU",
-    "ward": "MARO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/13/01/001",
     "pu_name": "FADA/ UNG. SARKI FADA",
     "name": "FADA/ UNG. SARKI FADA",
@@ -42399,12 +41589,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAURA",
-    "ward": "FADA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/13/02/001",
     "pu_name": "KUKUM DAJI/ UNG. KUHIYEP BIDAM I",
     "name": "KUKUM DAJI/ UNG. KUHIYEP BIDAM I",
@@ -42534,12 +41718,6 @@
     "pu_code": "18/13/02/015",
     "pu_name": "KUKUM GIDA/ BATC",
     "name": "KUKUM GIDA/ BATC",
-    "lga": "KAURA",
-    "ward": "KUKUM",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAURA",
     "ward": "KUKUM",
     "state": "Kaduna",
@@ -42690,12 +41868,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAURA",
-    "ward": "KPAK",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/13/04/001",
     "pu_name": "UNG. GARKUWA/ UNG. GARRUWA",
     "name": "UNG. GARKUWA/ UNG. GARRUWA",
@@ -42822,12 +41994,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAURA",
-    "ward": "AGBAN",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/13/05/001",
     "pu_name": "KADARKO/ UNG. DATIONG I",
     "name": "KADARKO/ UNG. DATIONG I",
@@ -42939,12 +42105,6 @@
     "pu_code": "18/13/05/013",
     "pu_name": "TACHIRA/ DAKHATU",
     "name": "TACHIRA/ DAKHATU",
-    "lga": "KAURA",
-    "ward": "KADARKO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAURA",
     "ward": "KADARKO",
     "state": "Kaduna",
@@ -43098,12 +42258,6 @@
     "pu_code": "18/13/06/017",
     "pu_name": "MALLAGNUM II/ UNG. UZAH - ATSWAN",
     "name": "MALLAGNUM II/ UNG. UZAH - ATSWAN",
-    "lga": "KAURA",
-    "ward": "MALLAGUM",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAURA",
     "ward": "MALLAGUM",
     "state": "Kaduna",
@@ -43302,12 +42456,6 @@
     "pu_code": "18/13/07/022",
     "pu_name": "MANCHOK/ UNG. BABA DUBE III",
     "name": "MANCHOK/ UNG. BABA DUBE III",
-    "lga": "KAURA",
-    "ward": "MANCHOK",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAURA",
     "ward": "MANCHOK",
     "state": "Kaduna",
@@ -43521,12 +42669,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAURA",
-    "ward": "BONDON",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/13/09/001",
     "pu_name": "KAURA/ UNG. ABAGAI",
     "name": "KAURA/ UNG. ABAGAI",
@@ -43710,12 +42852,6 @@
     "pu_code": "18/13/09/021",
     "pu_name": "GIZA GWAI/ UNG. MAI FWUAH",
     "name": "GIZA GWAI/ UNG. MAI FWUAH",
-    "lga": "KAURA",
-    "ward": "KAURA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAURA",
     "ward": "KAURA",
     "state": "Kaduna",
@@ -43932,12 +43068,6 @@
     "pu_code": "18/13/10/024",
     "pu_name": "SABON GARI/ ISHAYA KUNDIEN",
     "name": "SABON GARI/ ISHAYA KUNDIEN",
-    "lga": "KAURA",
-    "ward": "ZANKAN",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAURA",
     "ward": "ZANKAN",
     "state": "Kaduna",
@@ -44232,12 +43362,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAURU",
-    "ward": "KAURU WEST",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/14/02/001",
     "pu_name": "MAKAMI  L.E.A. PRY  SCHOOL",
     "name": "MAKAMI  L.E.A. PRY  SCHOOL",
@@ -44499,12 +43623,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAURU",
-    "ward": "MAKAMI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/14/03/001",
     "pu_name": "KAKUDE  K/G MAIUNGUWA",
     "name": "KAKUDE  K/G MAIUNGUWA",
@@ -44757,12 +43875,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAURU",
-    "ward": "DAWAKI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/14/04/001",
     "pu_name": "KWASSAM I L. E. A. PRY SCH",
     "name": "KWASSAM I L. E. A. PRY SCH",
@@ -44961,12 +44073,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAURU",
-    "ward": "KWASSAM",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/14/05/001",
     "pu_name": "BITAL  L.E.A. PRY SCHOOL",
     "name": "BITAL  L.E.A. PRY SCHOOL",
@@ -45150,12 +44256,6 @@
     "pu_code": "18/14/05/021",
     "pu_name": "KIGONNO",
     "name": "KIGONNO",
-    "lga": "KAURU",
-    "ward": "BITAL",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAURU",
     "ward": "BITAL",
     "state": "Kaduna",
@@ -45387,12 +44487,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAURU",
-    "ward": "GESHERE",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/14/07/001",
     "pu_name": "FADAN CHAWAI/ L.E.A. PRY. SCH.",
     "name": "FADAN CHAWAI/ L.E.A. PRY. SCH.",
@@ -45558,12 +44652,6 @@
     "pu_code": "18/14/07/019",
     "pu_name": "SABON LAYI",
     "name": "SABON LAYI",
-    "lga": "KAURU",
-    "ward": "DAMAKASUWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAURU",
     "ward": "DAMAKASUWA",
     "state": "Kaduna",
@@ -45750,12 +44838,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAURU",
-    "ward": "BADURUM SAMA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/14/09/001",
     "pu_name": "ANG/RIMI I/ L.E.A. PRI.SCH.",
     "name": "ANG/RIMI I/ L.E.A. PRI.SCH.",
@@ -45882,12 +44964,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAURU",
-    "ward": "KAMARU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/14/10/001",
     "pu_name": "PARI I/ L.E.A. PRI. SCH.",
     "name": "PARI I/ L.E.A. PRI. SCH.",
@@ -46008,12 +45084,6 @@
     "pu_code": "18/14/10/014",
     "pu_name": "ANG/GALADIMA/ K/G MAI UNGUWA",
     "name": "ANG/GALADIMA/ K/G MAI UNGUWA",
-    "lga": "KAURU",
-    "ward": "PARI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KAURU",
     "ward": "PARI",
     "state": "Kaduna",
@@ -46191,12 +45261,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KAURU",
-    "ward": "KAURU EAST",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/15/01/001",
     "pu_name": "KUBAU EAST PRIMARY SCHOOL",
     "name": "KUBAU EAST PRIMARY SCHOOL",
@@ -46353,12 +45417,6 @@
     "pu_code": "18/15/01/018",
     "pu_name": "GGSSA KUBAU",
     "name": "GGSSA KUBAU",
-    "lga": "KUBAU",
-    "ward": "KUBAU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KUBAU",
     "ward": "KUBAU",
     "state": "Kaduna",
@@ -46575,12 +45633,6 @@
     "pu_code": "18/15/02/024",
     "pu_name": "GIDAN KALLO MAIYASHIN TUKWANE",
     "name": "GIDAN KALLO MAIYASHIN TUKWANE",
-    "lga": "KUBAU",
-    "ward": "DUTSEN WAI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KUBAU",
     "ward": "DUTSEN WAI",
     "state": "Kaduna",
@@ -46902,12 +45954,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KUBAU",
-    "ward": "PAMBEGUA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/15/04/001",
     "pu_name": "ZUNTU EAST I/ ADULT EDUCATION CLASS",
     "name": "ZUNTU EAST I/ ADULT EDUCATION CLASS",
@@ -47109,12 +46155,6 @@
     "pu_code": "18/15/04/023",
     "pu_name": "PRIMARY HEALTH CARE ZUNTU",
     "name": "PRIMARY HEALTH CARE ZUNTU",
-    "lga": "KUBAU",
-    "ward": "ZUNTU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KUBAU",
     "ward": "ZUNTU",
     "state": "Kaduna",
@@ -47409,12 +46449,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KUBAU",
-    "ward": "DAMAU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/15/06/001",
     "pu_name": "`KARREH NORTH/ K/G UNGUWA",
     "name": "`KARREH NORTH/ K/G UNGUWA",
@@ -47607,12 +46641,6 @@
     "pu_code": "18/15/06/022",
     "pu_name": "UNG. MATO JANBULO SUTO",
     "name": "UNG. MATO JANBULO SUTO",
-    "lga": "KUBAU",
-    "ward": "KARREH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KUBAU",
     "ward": "KARREH",
     "state": "Kaduna",
@@ -48096,12 +47124,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KUBAU",
-    "ward": "ANCHAU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/15/08/001",
     "pu_name": "HASKIYA/ PRI. SCH.",
     "name": "HASKIYA/ PRI. SCH.",
@@ -48303,12 +47325,6 @@
     "pu_code": "18/15/08/023",
     "pu_name": "FEGIN HASKIYA DANDALI",
     "name": "FEGIN HASKIYA DANDALI",
-    "lga": "KUBAU",
-    "ward": "HASKIYA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KUBAU",
     "ward": "HASKIYA",
     "state": "Kaduna",
@@ -48738,12 +47754,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KUBAU",
-    "ward": "KARGI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/15/10/001",
     "pu_name": "MAH I/ PRI. SCH.",
     "name": "MAH I/ PRI. SCH.",
@@ -48924,12 +47934,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KUBAU",
-    "ward": "MAH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/15/11/001",
     "pu_name": "UNG. WAZIRI I/ K/G UNGUWAN",
     "name": "UNG. WAZIRI I/ K/G UNGUWAN",
@@ -49041,12 +48045,6 @@
     "pu_code": "18/15/11/013",
     "pu_name": "KAMFANIN MANDE PRI. SCH.",
     "name": "KAMFANIN MANDE PRI. SCH.",
-    "lga": "KUBAU",
-    "ward": "ZABI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KUBAU",
     "ward": "ZABI",
     "state": "Kaduna",
@@ -49314,12 +48312,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KUDAN",
-    "ward": "KUDAN",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/16/02/001",
     "pu_name": "UNG.GEME/ TELEVISION VIEWING CENTER",
     "name": "UNG.GEME/ TELEVISION VIEWING CENTER",
@@ -49494,12 +48486,6 @@
     "pu_code": "18/16/02/020",
     "pu_name": "UNG. MALAMAI II/ K/M MALAMAI",
     "name": "UNG. MALAMAI II/ K/M MALAMAI",
-    "lga": "KUDAN",
-    "ward": "HUNKUYI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KUDAN",
     "ward": "HUNKUYI",
     "state": "Kaduna",
@@ -49749,12 +48735,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KUDAN",
-    "ward": "SABON GARI HUNKUYI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/16/04/001",
     "pu_name": "UNG. CHIROMA/ PRI. SCH. GARU",
     "name": "UNG. CHIROMA/ PRI. SCH. GARU",
@@ -49839,12 +48819,6 @@
     "pu_code": "18/16/04/010",
     "pu_name": "UNG. WAZIRI II/ KGM WAZIRI",
     "name": "UNG. WAZIRI II/ KGM WAZIRI",
-    "lga": "KUDAN",
-    "ward": "GARU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KUDAN",
     "ward": "GARU",
     "state": "Kaduna",
@@ -49998,12 +48972,6 @@
     "pu_code": "18/16/05/017",
     "pu_name": "BAKIN KASUWA TASHAN KADAI",
     "name": "BAKIN KASUWA TASHAN KADAI",
-    "lga": "KUDAN",
-    "ward": "ZABI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KUDAN",
     "ward": "ZABI",
     "state": "Kaduna",
@@ -50235,12 +49203,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KUDAN",
-    "ward": "DOKA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/16/07/001",
     "pu_name": "UNG. HAYATU I/ KGM HAYATU",
     "name": "UNG. HAYATU I/ KGM HAYATU",
@@ -50412,12 +49374,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KUDAN",
-    "ward": "LIKORO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/16/08/001",
     "pu_name": "BAGADDI MUDI/ KGM BAGADDI",
     "name": "BAGADDI MUDI/ KGM BAGADDI",
@@ -50580,12 +49536,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KUDAN",
-    "ward": "TABAN SANI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/16/09/001",
     "pu_name": "UNG. SARKI/ DISPENSARY",
     "name": "UNG. SARKI/ DISPENSARY",
@@ -50685,12 +49635,6 @@
     "state_code": "18"
   },
   {
-    "lga": "KUDAN",
-    "ward": "KAURAN WALI NORTH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/16/10/001",
     "pu_name": "UNG. DANJUMA/ KGM DANJUMA",
     "name": "UNG. DANJUMA/ KGM DANJUMA",
@@ -50775,12 +49719,6 @@
     "pu_code": "18/16/10/010",
     "pu_name": "TASHAN MUSA",
     "name": "TASHAN MUSA",
-    "lga": "KUDAN",
-    "ward": "KAURAN WALI SOUTH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "KUDAN",
     "ward": "KAURAN WALI SOUTH",
     "state": "Kaduna",
@@ -51264,12 +50202,6 @@
     "state_code": "18"
   },
   {
-    "lga": "LERE",
-    "ward": "SABON BIRNIN",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/17/02/001",
     "pu_name": "BISALLAH/ L.E.A.BISALLAH",
     "name": "BISALLAH/ L.E.A.BISALLAH",
@@ -51723,12 +50655,6 @@
     "pu_code": "18/17/02/051",
     "pu_name": "MAKUMKUM / UNG DANJUWA LAMBA 2",
     "name": "MAKUMKUM / UNG DANJUWA LAMBA 2",
-    "lga": "LERE",
-    "ward": "YAR KASUWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "LERE",
     "ward": "YAR KASUWA",
     "state": "Kaduna",
@@ -52212,12 +51138,6 @@
     "state_code": "18"
   },
   {
-    "lga": "LERE",
-    "ward": "GARU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/17/04/001",
     "pu_name": "GORON DUTSE/ L.E.A.GORON DUTSE",
     "name": "GORON DUTSE/ L.E.A.GORON DUTSE",
@@ -52506,12 +51426,6 @@
     "state_code": "18"
   },
   {
-    "lga": "LERE",
-    "ward": "KAYARDA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/17/05/001",
     "pu_name": "UNG.DODO/PATA/ L.E.A.UNG.DODO",
     "name": "UNG.DODO/PATA/ L.E.A.UNG.DODO",
@@ -52722,12 +51636,6 @@
     "pu_code": "18/17/05/024",
     "pu_name": "SIGAU  I",
     "name": "SIGAU  I",
-    "lga": "LERE",
-    "ward": "LERE",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "LERE",
     "ward": "LERE",
     "state": "Kaduna",
@@ -52989,12 +51897,6 @@
     "pu_code": "18/17/06/029",
     "pu_name": "COLLEGE ROAD",
     "name": "COLLEGE ROAD",
-    "lga": "LERE",
-    "ward": "RAMIN KURA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "LERE",
     "ward": "RAMIN KURA",
     "state": "Kaduna",
@@ -53505,12 +52407,6 @@
     "state_code": "18"
   },
   {
-    "lga": "LERE",
-    "ward": "SAMINAKA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/17/08/001",
     "pu_name": "LAZURU/ L.E.A. LAZURU",
     "name": "LAZURU/ L.E.A. LAZURU",
@@ -53766,12 +52662,6 @@
     "pu_code": "18/17/08/029",
     "pu_name": "UNG.SARKIN DOKA II/ L.E.ADOKA",
     "name": "UNG.SARKIN DOKA II/ L.E.ADOKA",
-    "lga": "LERE",
-    "ward": "LAZURU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "LERE",
     "ward": "LAZURU",
     "state": "Kaduna",
@@ -54114,12 +53004,6 @@
     "pu_code": "18/17/09/038",
     "pu_name": "GAMJI",
     "name": "GAMJI",
-    "lga": "LERE",
-    "ward": "ABADAWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "LERE",
     "ward": "ABADAWA",
     "state": "Kaduna",
@@ -54477,12 +53361,6 @@
     "state_code": "18"
   },
   {
-    "lga": "LERE",
-    "ward": "DAN ALHAJI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/17/11/001",
     "pu_name": "KAKUMU/ K/GIDAN MAIUNGUAW",
     "name": "KAKUMU/ K/GIDAN MAIUNGUAW",
@@ -54798,12 +53676,6 @@
     "state_code": "18"
   },
   {
-    "lga": "LERE",
-    "ward": "GURE/KAHUGU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/18/01/001",
     "pu_name": "MAKARFI TSOHUWA/ B/TSOHUWAR KASUWA",
     "name": "MAKARFI TSOHUWA/ B/TSOHUWAR KASUWA",
@@ -54987,12 +53859,6 @@
     "pu_code": "18/18/01/021",
     "pu_name": "ANG KARI II/JAMO",
     "name": "ANG KARI II/JAMO",
-    "lga": "MAKARFI",
-    "ward": "MAKARFI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "MAKARFI",
     "ward": "MAKARFI",
     "state": "Kaduna",
@@ -55209,12 +54075,6 @@
     "pu_code": "18/18/02/024",
     "pu_name": "NEPA OFFICE T/WADA",
     "name": "NEPA OFFICE T/WADA",
-    "lga": "MAKARFI",
-    "ward": "TUDUN WADA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "MAKARFI",
     "ward": "TUDUN WADA",
     "state": "Kaduna",
@@ -55455,12 +54315,6 @@
     "state_code": "18"
   },
   {
-    "lga": "MAKARFI",
-    "ward": "GAZARA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/18/04/001",
     "pu_name": "ANG. SARKI/ PRI. SCH. D/ZURU",
     "name": "ANG. SARKI/ PRI. SCH. D/ZURU",
@@ -55617,12 +54471,6 @@
     "pu_code": "18/18/04/018",
     "pu_name": "GINDIN KUKA/OPEN SPACE",
     "name": "GINDIN KUKA/OPEN SPACE",
-    "lga": "MAKARFI",
-    "ward": "DANGUZIRI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "MAKARFI",
     "ward": "DANGUZIRI",
     "state": "Kaduna",
@@ -55827,12 +54675,6 @@
     "state_code": "18"
   },
   {
-    "lga": "MAKARFI",
-    "ward": "GIMI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/18/06/001",
     "pu_name": "KOFAR AREWA/ CENTRAL PRI. SCH.",
     "name": "KOFAR AREWA/ CENTRAL PRI. SCH.",
@@ -55935,12 +54777,6 @@
     "pu_code": "18/18/06/012",
     "pu_name": "KOFAR AREWA II/ CENTRAL PRI. SCHOOL",
     "name": "KOFAR AREWA II/ CENTRAL PRI. SCHOOL",
-    "lga": "MAKARFI",
-    "ward": "NASSARAWAN DOYA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "MAKARFI",
     "ward": "NASSARAWAN DOYA",
     "state": "Kaduna",
@@ -56172,12 +55008,6 @@
     "state_code": "18"
   },
   {
-    "lga": "MAKARFI",
-    "ward": "MAYERE",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/18/08/001",
     "pu_name": "ANG. S. FADA I/ T.V. CENTRE",
     "name": "ANG. S. FADA I/ T.V. CENTRE",
@@ -56361,12 +55191,6 @@
     "pu_code": "18/18/08/021",
     "pu_name": "UBE ANG. S. YAKI",
     "name": "UBE ANG. S. YAKI",
-    "lga": "MAKARFI",
-    "ward": "GUBUCHI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "MAKARFI",
     "ward": "GUBUCHI",
     "state": "Kaduna",
@@ -56562,12 +55386,6 @@
     "state_code": "18"
   },
   {
-    "lga": "MAKARFI",
-    "ward": "GWANKI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/18/10/001",
     "pu_name": "ANG. SARKI D/MISA/ PRI. SCH. DANDAMISA",
     "name": "ANG. SARKI D/MISA/ PRI. SCH. DANDAMISA",
@@ -56724,12 +55542,6 @@
     "pu_code": "18/18/10/018",
     "pu_name": "DANDAMISA PRI. HEALTH CARE",
     "name": "DANDAMISA PRI. HEALTH CARE",
-    "lga": "MAKARFI",
-    "ward": "DANDAMISA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "MAKARFI",
     "ward": "DANDAMISA",
     "state": "Kaduna",
@@ -57009,12 +55821,6 @@
     "pu_code": "18/19/01/031",
     "pu_name": "SOKOTO ROAD/UNION BANK",
     "name": "SOKOTO ROAD/UNION BANK",
-    "lga": "SABON GARI",
-    "ward": "SAMARU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SABON GARI",
     "ward": "SAMARU",
     "state": "Kaduna",
@@ -57312,12 +56118,6 @@
     "pu_code": "18/19/02/033",
     "pu_name": "WATER BOARD GATE ABU ZARIA",
     "name": "WATER BOARD GATE ABU ZARIA",
-    "lga": "SABON GARI",
-    "ward": "JAMA'A",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SABON GARI",
     "ward": "JAMA'A",
     "state": "Kaduna",
@@ -57711,12 +56511,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SABON GARI",
-    "ward": "BOMO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/19/04/001",
     "pu_name": "FED. GOVT. GIRLS COLLEGE/ ADMIN BLOCK",
     "name": "FED. GOVT. GIRLS COLLEGE/ ADMIN BLOCK",
@@ -58032,12 +56826,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SABON GARI",
-    "ward": "BASAWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/19/05/001",
     "pu_name": "CHIKAJI YOUTH CLUB/ B7 BALA MAI ALBASA",
     "name": "CHIKAJI YOUTH CLUB/ B7 BALA MAI ALBASA",
@@ -58347,12 +57135,6 @@
     "pu_code": "18/19/05/035",
     "pu_name": "GOVERNMENT GIRLS SECONDARY SCHOOL DOGON BAUCHI",
     "name": "GOVERNMENT GIRLS SECONDARY SCHOOL DOGON BAUCHI",
-    "lga": "SABON GARI",
-    "ward": "CHIKAJI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SABON GARI",
     "ward": "CHIKAJI",
     "state": "Kaduna",
@@ -58755,12 +57537,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SABON GARI",
-    "ward": "MUCHIA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/19/07/001",
     "pu_name": "UNG. MAI SULE/ BY KWAKWARE",
     "name": "UNG. MAI SULE/ BY KWAKWARE",
@@ -59070,12 +57846,6 @@
     "pu_code": "18/19/07/035",
     "pu_name": "UNG MAL SULE /GOLDEN HEIGHT SECONDARY SCHOOL/RTD RSM HALIRU UMAR HOUSE",
     "name": "UNG MAL SULE /GOLDEN HEIGHT SECONDARY SCHOOL/RTD RSM HALIRU UMAR HOUSE",
-    "lga": "SABON GARI",
-    "ward": "JUSHIN WAJE",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SABON GARI",
     "ward": "JUSHIN WAJE",
     "state": "Kaduna",
@@ -59478,12 +58248,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SABON GARI",
-    "ward": "HANWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/19/09/001",
     "pu_name": "DOGARAWA I/ CHIKIN GARI",
     "name": "DOGARAWA I/ CHIKIN GARI",
@@ -59721,12 +58485,6 @@
     "pu_code": "18/19/09/027",
     "pu_name": "LAYIN GAMBO YAN TINKA BY GAMBO YAN TINKA HOUSE",
     "name": "LAYIN GAMBO YAN TINKA BY GAMBO YAN TINKA HOUSE",
-    "lga": "SABON GARI",
-    "ward": "DOGARAWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SABON GARI",
     "ward": "DOGARAWA",
     "state": "Kaduna",
@@ -60093,12 +58851,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SABON GARI",
-    "ward": "UNGUWAN GABAS",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/19/11/001",
     "pu_name": "TOHU ZABI/ TOHU VILLAGE",
     "name": "TOHU ZABI/ TOHU VILLAGE",
@@ -60378,12 +59130,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SABON GARI",
-    "ward": "ZABI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/20/01/001",
     "pu_name": "GWANTU I",
     "name": "GWANTU I",
@@ -60567,12 +59313,6 @@
     "pu_code": "18/20/01/021",
     "pu_name": "HEALTH CARE CENTER GWANTU",
     "name": "HEALTH CARE CENTER GWANTU",
-    "lga": "SANGA",
-    "ward": "GWANTU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SANGA",
     "ward": "GWANTU",
     "state": "Kaduna",
@@ -60804,12 +59544,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SANGA",
-    "ward": "FADAN KARSHI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/20/03/001",
     "pu_name": "MAYIR",
     "name": "MAYIR",
@@ -60954,12 +59688,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SANGA",
-    "ward": "AYU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/20/04/001",
     "pu_name": "FADAN WATE",
     "name": "FADAN WATE",
@@ -61095,12 +59823,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SANGA",
-    "ward": "NINZAM NORTH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/20/05/001",
     "pu_name": "AMAR DOGO",
     "name": "AMAR DOGO",
@@ -61176,12 +59898,6 @@
     "pu_code": "18/20/05/009",
     "pu_name": "LEA PRI SCH RAGGA",
     "name": "LEA PRI SCH RAGGA",
-    "lga": "SANGA",
-    "ward": "NINZAM SOUTH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SANGA",
     "ward": "NINZAM SOUTH",
     "state": "Kaduna",
@@ -61335,12 +60051,6 @@
     "pu_code": "18/20/06/017",
     "pu_name": "UNG TANIMU II",
     "name": "UNG TANIMU II",
-    "lga": "SANGA",
-    "ward": "BOKANA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SANGA",
     "ward": "BOKANA",
     "state": "Kaduna",
@@ -61518,12 +60228,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SANGA",
-    "ward": "ABORO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/20/08/001",
     "pu_name": "RANDA I",
     "name": "RANDA I",
@@ -61677,12 +60381,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SANGA",
-    "ward": "NINZAM WEST",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/20/09/001",
     "pu_name": "ANJI",
     "name": "ANJI",
@@ -61812,12 +60510,6 @@
     "pu_code": "18/20/09/015",
     "pu_name": "RINZE UNG HAUSAWA",
     "name": "RINZE UNG HAUSAWA",
-    "lga": "SANGA",
-    "ward": "WASA STATION",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SANGA",
     "ward": "WASA STATION",
     "state": "Kaduna",
@@ -62031,12 +60723,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SANGA",
-    "ward": "ARAK",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/20/11/001",
     "pu_name": "UNG SARKI NANDU",
     "name": "UNG SARKI NANDU",
@@ -62193,12 +60879,6 @@
     "pu_code": "18/20/11/018",
     "pu_name": "LEA PRI SCH/ UNG SARKI NANDU",
     "name": "LEA PRI SCH/ UNG SARKI NANDU",
-    "lga": "SANGA",
-    "ward": "NANDU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SANGA",
     "ward": "NANDU",
     "state": "Kaduna",
@@ -62538,12 +61218,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SOBA",
-    "ward": "MAIGANA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/21/02/001",
     "pu_name": "UNG. SARKI",
     "name": "UNG. SARKI",
@@ -62736,12 +61410,6 @@
     "pu_code": "18/21/02/022",
     "pu_name": "PRIMARY HEALTH CENTER DAMARI",
     "name": "PRIMARY HEALTH CENTER DAMARI",
-    "lga": "SOBA",
-    "ward": "KINKIBA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SOBA",
     "ward": "KINKIBA",
     "state": "Kaduna",
@@ -63108,12 +61776,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SOBA",
-    "ward": "GIMBA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/21/04/001",
     "pu_name": "KWASSALO/ L.E.A. KWASSALO",
     "name": "KWASSALO/ L.E.A. KWASSALO",
@@ -63348,12 +62010,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SOBA",
-    "ward": "KWASSALLO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/21/05/001",
     "pu_name": "UNG. TURAKI, UNG. TURAKI",
     "name": "UNG. TURAKI, UNG. TURAKI",
@@ -63528,12 +62184,6 @@
     "pu_code": "18/21/05/020",
     "pu_name": "LEA UNG. TUNKU",
     "name": "LEA UNG. TUNKU",
-    "lga": "SOBA",
-    "ward": "RICHIFA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SOBA",
     "ward": "RICHIFA",
     "state": "Kaduna",
@@ -63738,12 +62388,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SOBA",
-    "ward": "GAMAGIRA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/21/07/001",
     "pu_name": "DAN WATA GARI/ L.E.A. D/WATA",
     "name": "DAN WATA GARI/ L.E.A. D/WATA",
@@ -63909,12 +62553,6 @@
     "pu_code": "18/21/07/019",
     "pu_name": "GOVT.SEC.SCH. DAN WATA",
     "name": "GOVT.SEC.SCH. DAN WATA",
-    "lga": "SOBA",
-    "ward": "DAN WATA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SOBA",
     "ward": "DAN WATA",
     "state": "Kaduna",
@@ -64104,12 +62742,6 @@
     "pu_code": "18/21/08/021",
     "pu_name": "VIEWING CENTER,UNG.LEMU",
     "name": "VIEWING CENTER,UNG.LEMU",
-    "lga": "SOBA",
-    "ward": "TURAWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SOBA",
     "ward": "TURAWA",
     "state": "Kaduna",
@@ -64539,12 +63171,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SOBA",
-    "ward": "SOBA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/21/10/001",
     "pu_name": "GARU TSOHUWA/ K.G MAIANGUWA",
     "name": "GARU TSOHUWA/ K.G MAIANGUWA",
@@ -64752,12 +63378,6 @@
     "state_code": "18"
   },
   {
-    "lga": "SOBA",
-    "ward": "GARUN GWANKI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/21/11/001",
     "pu_name": "RAHAMA GARI/ L.E.A. RAHAMA",
     "name": "RAHAMA GARI/ L.E.A. RAHAMA",
@@ -64941,12 +63561,6 @@
     "pu_code": "18/21/11/021",
     "pu_name": "LEA PRI. SCH.HAYIN RAHAMA",
     "name": "LEA PRI. SCH.HAYIN RAHAMA",
-    "lga": "SOBA",
-    "ward": "RAHAMA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "SOBA",
     "ward": "RAHAMA",
     "state": "Kaduna",
@@ -65181,12 +63795,6 @@
     "pu_code": "18/22/01/026",
     "pu_name": "BAFAI GORA II /UBE",
     "name": "BAFAI GORA II /UBE",
-    "lga": "ZANGON KATAF",
-    "ward": "GORA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZANGON KATAF",
     "ward": "GORA",
     "state": "Kaduna",
@@ -65445,12 +64053,6 @@
     "state_code": "18"
   },
   {
-    "lga": "ZANGON KATAF",
-    "ward": "ZONZON",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/22/03/001",
     "pu_name": "ZAMAN DABO I/ L.E.A. PRI. SCH",
     "name": "ZAMAN DABO I/ L.E.A. PRI. SCH",
@@ -65643,12 +64245,6 @@
     "pu_code": "18/22/03/022",
     "pu_name": "KIBORI II",
     "name": "KIBORI II",
-    "lga": "ZANGON KATAF",
-    "ward": "ZAMAN DABO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZANGON KATAF",
     "ward": "ZAMAN DABO",
     "state": "Kaduna",
@@ -65901,12 +64497,6 @@
     "pu_code": "18/22/04/028",
     "pu_name": "SAMARU MARKET",
     "name": "SAMARU MARKET",
-    "lga": "ZANGON KATAF",
-    "ward": "UNGUWAR GAIYA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZANGON KATAF",
     "ward": "UNGUWAR GAIYA",
     "state": "Kaduna",
@@ -66372,12 +64962,6 @@
     "state_code": "18"
   },
   {
-    "lga": "ZANGON KATAF",
-    "ward": "ZONKWA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/22/06/001",
     "pu_name": "ATTAR I/ L.E.A. PRI. SCH.",
     "name": "ATTAR I/ L.E.A. PRI. SCH.",
@@ -66711,12 +65295,6 @@
     "state_code": "18"
   },
   {
-    "lga": "ZANGON KATAF",
-    "ward": "MADAKIYA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/22/07/001",
     "pu_name": "UNG. SULE/ L.E.A. PRI. SCH.",
     "name": "UNG. SULE/ L.E.A. PRI. SCH.",
@@ -66954,12 +65532,6 @@
     "pu_code": "18/22/07/027",
     "pu_name": "DUCHUONLWO",
     "name": "DUCHUONLWO",
-    "lga": "ZANGON KATAF",
-    "ward": "UNGUWAR RIMI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZANGON KATAF",
     "ward": "UNGUWAR RIMI",
     "state": "Kaduna",
@@ -67230,12 +65802,6 @@
     "pu_code": "18/22/08/030",
     "pu_name": "MARABANG II",
     "name": "MARABANG II",
-    "lga": "ZANGON KATAF",
-    "ward": "GIDAN JATAU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZANGON KATAF",
     "ward": "GIDAN JATAU",
     "state": "Kaduna",
@@ -67542,12 +66108,6 @@
     "pu_code": "18/22/09/034",
     "pu_name": "GAMALO /LEA",
     "name": "GAMALO /LEA",
-    "lga": "ZANGON KATAF",
-    "ward": "KAMANTAN",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZANGON KATAF",
     "ward": "KAMANTAN",
     "state": "Kaduna",
@@ -67896,12 +66456,6 @@
     "state_code": "18"
   },
   {
-    "lga": "ZANGON KATAF",
-    "ward": "KAMURU IKULU NORTH",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/22/11/001",
     "pu_name": "FADA/ FADA",
     "name": "FADA/ FADA",
@@ -68040,12 +66594,6 @@
     "pu_code": "18/22/11/016",
     "pu_name": "UNG. MAKERA",
     "name": "UNG. MAKERA",
-    "lga": "ZANGON KATAF",
-    "ward": "ZANGO URBAN",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZANGON KATAF",
     "ward": "ZANGO URBAN",
     "state": "Kaduna",
@@ -68505,12 +67053,6 @@
     "pu_code": "18/23/01/051",
     "pu_name": "MAGAJIYA V/SABUWAR UNG/PAN JAFARU/K/G KABIRAI",
     "name": "MAGAJIYA V/SABUWAR UNG/PAN JAFARU/K/G KABIRAI",
-    "lga": "ZARIA",
-    "ward": "KWARBAI 'A'",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZARIA",
     "ward": "KWARBAI 'A'",
     "state": "Kaduna",
@@ -69102,12 +67644,6 @@
     "state_code": "18"
   },
   {
-    "lga": "ZARIA",
-    "ward": "KWARBAI 'B'",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/23/03/001",
     "pu_name": "LIMANCI I/ K/G BALA IYALI",
     "name": "LIMANCI I/ K/G BALA IYALI",
@@ -69444,12 +67980,6 @@
     "pu_code": "18/23/03/038",
     "pu_name": "UNG JUMA VIII/K/G ATATA",
     "name": "UNG JUMA VIII/K/G ATATA",
-    "lga": "ZARIA",
-    "ward": "UNG. JUMA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZARIA",
     "ward": "UNG. JUMA",
     "state": "Kaduna",
@@ -69873,12 +68403,6 @@
     "pu_code": "18/23/04/047",
     "pu_name": "KUSFA IX/K/G ALH. YAHUZA",
     "name": "KUSFA IX/K/G ALH. YAHUZA",
-    "lga": "ZARIA",
-    "ward": "LIMANCIN-KONA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZARIA",
     "ward": "LIMANCIN-KONA",
     "state": "Kaduna",
@@ -70320,12 +68844,6 @@
     "pu_code": "18/23/05/049",
     "pu_name": "KWANKIRA VII/K/G MARDANNIN ZAZZAU",
     "name": "KWANKIRA VII/K/G MARDANNIN ZAZZAU",
-    "lga": "ZARIA",
-    "ward": "KAURA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZARIA",
     "ward": "KAURA",
     "state": "Kaduna",
@@ -70971,12 +69489,6 @@
     "state_code": "18"
   },
   {
-    "lga": "ZARIA",
-    "ward": "TUDUN WADA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/23/07/001",
     "pu_name": "GYALLESU I/ L.E.A GYALLESU",
     "name": "GYALLESU I/ L.E.A GYALLESU",
@@ -71346,12 +69858,6 @@
     "state_code": "18"
   },
   {
-    "lga": "ZARIA",
-    "ward": "GYALLESU",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/23/08/001",
     "pu_name": "UNG. IYA I/ L.E.A. UNG. IYA",
     "name": "UNG. IYA I/ L.E.A. UNG. IYA",
@@ -71688,12 +70194,6 @@
     "pu_code": "18/23/08/038",
     "pu_name": "KOFAR JATAU VII/K/G ALH YAYE",
     "name": "KOFAR JATAU VII/K/G ALH YAYE",
-    "lga": "ZARIA",
-    "ward": "UNG. FATIKA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZARIA",
     "ward": "UNG. FATIKA",
     "state": "Kaduna",
@@ -72105,12 +70605,6 @@
     "state_code": "18"
   },
   {
-    "lga": "ZARIA",
-    "ward": "TUKUR TUKUR",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/23/10/001",
     "pu_name": "DAMBO I/ K/G SARKIN DAMBO",
     "name": "DAMBO I/ K/G SARKIN DAMBO",
@@ -72426,12 +70920,6 @@
     "state_code": "18"
   },
   {
-    "lga": "ZARIA",
-    "ward": "DAMBO",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "pu_code": "18/23/11/001",
     "pu_name": "WUCICCIRI I/ K/G SARKIN WUCICCIRI",
     "name": "WUCICCIRI I/ K/G SARKIN WUCICCIRI",
@@ -72642,12 +71130,6 @@
     "pu_code": "18/23/11/024",
     "pu_name": "TUDUN KUSA II/K/G BABBAN GIDA",
     "name": "TUDUN KUSA II/K/G BABBAN GIDA",
-    "lga": "ZARIA",
-    "ward": "WUCICCIRI",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZARIA",
     "ward": "WUCICCIRI",
     "state": "Kaduna",
@@ -72990,12 +71472,6 @@
     "pu_code": "18/23/12/038",
     "pu_name": "ANG. MAIKARA/K/G MAI ANGUWA",
     "name": "ANG. MAIKARA/K/G MAI ANGUWA",
-    "lga": "ZARIA",
-    "ward": "DUTSEN ABBA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZARIA",
     "ward": "DUTSEN ABBA",
     "state": "Kaduna",
@@ -73374,12 +71850,6 @@
     "pu_code": "18/23/13/042",
     "pu_name": "KAURAN GOBIRAWA/KG MAI ANGUWA",
     "name": "KAURAN GOBIRAWA/KG MAI ANGUWA",
-    "lga": "ZARIA",
-    "ward": "KUFENA",
-    "state": "Kaduna",
-    "state_code": "18"
-  },
-  {
     "lga": "ZARIA",
     "ward": "KUFENA",
     "state": "Kaduna",

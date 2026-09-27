@@ -90,12 +90,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ABI",
-    "ward": "ADADAMA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/01/02/001",
     "pu_name": "AFAFANYI PRIMARY SCHOOL",
     "name": "AFAFANYI PRIMARY SCHOOL",
@@ -189,12 +183,6 @@
     "pu_code": "09/01/02/011",
     "pu_name": "ABE AWARA EHOT TOWN HALL",
     "name": "ABE AWARA EHOT TOWN HALL",
-    "lga": "ABI",
-    "ward": "AFAFANYI/IGONIGONI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ABI",
     "ward": "AFAFANYI/IGONIGONI",
     "state": "Cross River",
@@ -303,12 +291,6 @@
     "pu_code": "09/01/03/012",
     "pu_name": "ABE AWARI OPEN SPACE",
     "name": "ABE AWARI OPEN SPACE",
-    "lga": "ABI",
-    "ward": "EBOM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ABI",
     "ward": "EBOM",
     "state": "Cross River",
@@ -459,12 +441,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ABI",
-    "ward": "EDIBA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/01/05/001",
     "pu_name": "ST. VINCENT PRIMARY SCHOOL ANONG",
     "name": "ST. VINCENT PRIMARY SCHOOL ANONG",
@@ -600,12 +576,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ABI",
-    "ward": "EKUREKU I",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/01/06/001",
     "pu_name": "NGARABE PLAY GROUND",
     "name": "NGARABE PLAY GROUND",
@@ -708,12 +678,6 @@
     "pu_code": "09/01/06/012",
     "pu_name": "EGIZI PLAYGROUND",
     "name": "EGIZI PLAYGROUND",
-    "lga": "ABI",
-    "ward": "EKUREKU II",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ABI",
     "ward": "EKUREKU II",
     "state": "Cross River",
@@ -828,12 +792,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ABI",
-    "ward": "IMABANA I",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/01/08/001",
     "pu_name": "BA AMO PLAY GROUND",
     "name": "BA AMO PLAY GROUND",
@@ -909,12 +867,6 @@
     "pu_code": "09/01/08/009",
     "pu_name": "LEHANGHA PLAY GROUND",
     "name": "LEHANGHA PLAY GROUND",
-    "lga": "ABI",
-    "ward": "IMABANA II",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ABI",
     "ward": "IMABANA II",
     "state": "Cross River",
@@ -1005,12 +957,6 @@
     "pu_code": "09/01/09/010",
     "pu_name": "NEAR ELDER ASIBONG COMPOUND",
     "name": "NEAR ELDER ASIBONG COMPOUND",
-    "lga": "ABI",
-    "ward": "ITIGIDI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ABI",
     "ward": "ITIGIDI",
     "state": "Cross River",
@@ -1128,12 +1074,6 @@
     "pu_code": "09/01/10/013",
     "pu_name": "FORMAL CUSTOMARY COURT",
     "name": "FORMAL CUSTOMARY COURT",
-    "lga": "ABI",
-    "ward": "USUMUTONG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ABI",
     "ward": "USUMUTONG",
     "state": "Cross River",
@@ -1437,12 +1377,6 @@
     "state_code": "09"
   },
   {
-    "lga": "AKAMKPA",
-    "ward": "AKAMKPA URBAN",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/02/02/001",
     "pu_name": "PRIMARY SCHOOL, NSAN",
     "name": "PRIMARY SCHOOL, NSAN",
@@ -1641,12 +1575,6 @@
     "state_code": "09"
   },
   {
-    "lga": "AKAMKPA",
-    "ward": "AWI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/02/03/001",
     "pu_name": "PRIMARY SCHOOL, AKING",
     "name": "PRIMARY SCHOOL, AKING",
@@ -1740,12 +1668,6 @@
     "pu_code": "09/02/03/011",
     "pu_name": "VILLAGE SQUARE, OKARARA",
     "name": "VILLAGE SQUARE, OKARARA",
-    "lga": "AKAMKPA",
-    "ward": "EKU",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "AKAMKPA",
     "ward": "EKU",
     "state": "Cross River",
@@ -1854,12 +1776,6 @@
     "pu_code": "09/02/04/012",
     "pu_name": "PCN PRIMARY SCHOOL, AWAI",
     "name": "PCN PRIMARY SCHOOL, AWAI",
-    "lga": "AKAMKPA",
-    "ward": "IKO",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "AKAMKPA",
     "ward": "IKO",
     "state": "Cross River",
@@ -2073,12 +1989,6 @@
     "state_code": "09"
   },
   {
-    "lga": "AKAMKPA",
-    "ward": "IKPAI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/02/06/001",
     "pu_name": "PRIMARY SCHOOL, MBARAKOM",
     "name": "PRIMARY SCHOOL, MBARAKOM",
@@ -2250,12 +2160,6 @@
     "state_code": "09"
   },
   {
-    "lga": "AKAMKPA",
-    "ward": "MBARAKOM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/02/07/001",
     "pu_name": "PRIMARY SCHOOL, NEGHE",
     "name": "PRIMARY SCHOOL, NEGHE",
@@ -2391,12 +2295,6 @@
     "state_code": "09"
   },
   {
-    "lga": "AKAMKPA",
-    "ward": "OBAN",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/02/08/001",
     "pu_name": "PRIMARY SCHOOL, OBEREKAI",
     "name": "PRIMARY SCHOOL, OBEREKAI",
@@ -2508,12 +2406,6 @@
     "pu_code": "09/02/08/013",
     "pu_name": "VILLAGE SQUARE OKON OKPA",
     "name": "VILLAGE SQUARE OKON OKPA",
-    "lga": "AKAMKPA",
-    "ward": "OJUK NORTH",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "AKAMKPA",
     "ward": "OJUK NORTH",
     "state": "Cross River",
@@ -2667,12 +2559,6 @@
     "pu_code": "09/02/09/017",
     "pu_name": "CUSTOMARY COURT, ANINGEJE",
     "name": "CUSTOMARY COURT, ANINGEJE",
-    "lga": "AKAMKPA",
-    "ward": "OJUK SOUTH",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "AKAMKPA",
     "ward": "OJUK SOUTH",
     "state": "Cross River",
@@ -2949,12 +2835,6 @@
     "state_code": "09"
   },
   {
-    "lga": "AKAMKPA",
-    "ward": "UYANGA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/03/01/001",
     "pu_name": "PLAYGROUND, IKOT EKANEM NYA",
     "name": "PLAYGROUND, IKOT EKANEM NYA",
@@ -3102,12 +2982,6 @@
     "pu_code": "09/03/01/017",
     "pu_name": "OPEN SPACE UMO EFFIOM",
     "name": "OPEN SPACE UMO EFFIOM",
-    "lga": "AKPABUYO",
-    "ward": "ATIMBO EAST",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "AKPABUYO",
     "ward": "ATIMBO EAST",
     "state": "Cross River",
@@ -3267,12 +3141,6 @@
     "state_code": "09"
   },
   {
-    "lga": "AKPABUYO",
-    "ward": "ATIMBO WEST",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/03/03/001",
     "pu_name": "PLAYGROUND, EDEMESA ABAKO",
     "name": "PLAYGROUND, EDEMESA ABAKO",
@@ -3402,12 +3270,6 @@
     "pu_code": "09/03/03/015",
     "pu_name": "EBISA ENEYO SQUARE",
     "name": "EBISA ENEYO SQUARE",
-    "lga": "AKPABUYO",
-    "ward": "ENEYO",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "AKPABUYO",
     "ward": "ENEYO",
     "state": "Cross River",
@@ -3549,12 +3411,6 @@
     "state_code": "09"
   },
   {
-    "lga": "AKPABUYO",
-    "ward": "IDUNDU/ANYANGANSE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/03/05/001",
     "pu_name": "PRIMARY SCHOOL, IKANG TOWN",
     "name": "PRIMARY SCHOOL, IKANG TOWN",
@@ -3675,12 +3531,6 @@
     "pu_code": "09/03/05/014",
     "pu_name": "IKANG MARKET SQUARE",
     "name": "IKANG MARKET SQUARE",
-    "lga": "AKPABUYO",
-    "ward": "IKANG CENTRAL",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "AKPABUYO",
     "ward": "IKANG CENTRAL",
     "state": "Cross River",
@@ -3822,12 +3672,6 @@
     "state_code": "09"
   },
   {
-    "lga": "AKPABUYO",
-    "ward": "IKANG NORTH",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/03/07/001",
     "pu_name": "PRIMARY SCHOOL ESIGHI",
     "name": "PRIMARY SCHOOL ESIGHI",
@@ -3948,12 +3792,6 @@
     "pu_code": "09/03/07/014",
     "pu_name": "PRIMARY SCHOOL FIELD ESIGHI",
     "name": "PRIMARY SCHOOL FIELD ESIGHI",
-    "lga": "AKPABUYO",
-    "ward": "IKANG SOUTH",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "AKPABUYO",
     "ward": "IKANG SOUTH",
     "state": "Cross River",
@@ -4086,12 +3924,6 @@
     "state_code": "09"
   },
   {
-    "lga": "AKPABUYO",
-    "ward": "IKOT EDEM ODO",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/03/09/001",
     "pu_name": "PLAYGROUND, IKOT OKON IDEM",
     "name": "PLAYGROUND, IKOT OKON IDEM",
@@ -4194,12 +4026,6 @@
     "pu_code": "09/03/09/012",
     "pu_name": "PRIMARY SCHOOL FIELD IKOT EYO EDEM",
     "name": "PRIMARY SCHOOL FIELD IKOT EYO EDEM",
-    "lga": "AKPABUYO",
-    "ward": "IKOT EYO",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "AKPABUYO",
     "ward": "IKOT EYO",
     "state": "Cross River",
@@ -4314,12 +4140,6 @@
     "state_code": "09"
   },
   {
-    "lga": "AKPABUYO",
-    "ward": "IKOT NAKANDA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/04/01/001",
     "pu_name": "PRIMARY SCHOOL,  ABANA",
     "name": "PRIMARY SCHOOL,  ABANA",
@@ -4377,12 +4197,6 @@
     "pu_code": "09/04/01/007",
     "pu_name": "PLAYGROUND UBERE MONG",
     "name": "PLAYGROUND UBERE MONG",
-    "lga": "BAKASSI",
-    "ward": "ABANA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BAKASSI",
     "ward": "ABANA",
     "state": "Cross River",
@@ -4461,12 +4275,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BAKASSI",
-    "ward": "AKPANKANYA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/04/03/001",
     "pu_name": "PLAYGROUND, AKWA TOWN",
     "name": "PLAYGROUND, AKWA TOWN",
@@ -4539,12 +4347,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BAKASSI",
-    "ward": "AKWA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/04/04/001",
     "pu_name": "PLAY GROUND,  NDOR",
     "name": "PLAY GROUND,  NDOR",
@@ -4593,12 +4395,6 @@
     "pu_code": "09/04/04/006",
     "pu_name": "HEALTH CENTRE NDOR",
     "name": "HEALTH CENTRE NDOR",
-    "lga": "BAKASSI",
-    "ward": "AMBAI EKPA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BAKASSI",
     "ward": "AMBAI EKPA",
     "state": "Cross River",
@@ -4668,12 +4464,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BAKASSI",
-    "ward": "AMOTO",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/04/06/001",
     "pu_name": "PRIMARY SCHOOL,  ARCHIBONG TOWN",
     "name": "PRIMARY SCHOOL,  ARCHIBONG TOWN",
@@ -4731,12 +4521,6 @@
     "pu_code": "09/04/06/007",
     "pu_name": "PLAYGROUND EDIK ESUK II",
     "name": "PLAYGROUND EDIK ESUK II",
-    "lga": "BAKASSI",
-    "ward": "ARCHIBONG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BAKASSI",
     "ward": "ARCHIBONG",
     "state": "Cross River",
@@ -4815,12 +4599,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BAKASSI",
-    "ward": "ATAI EMA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/04/08/001",
     "pu_name": "PLAY GROUND,  EFUT OBOT IKOT",
     "name": "PLAY GROUND,  EFUT OBOT IKOT",
@@ -4878,12 +4656,6 @@
     "pu_code": "09/04/08/007",
     "pu_name": "PLAY GROUND YANGA DEMOGA",
     "name": "PLAY GROUND YANGA DEMOGA",
-    "lga": "BAKASSI",
-    "ward": "EFUT INWANG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BAKASSI",
     "ward": "EFUT INWANG",
     "state": "Cross River",
@@ -4953,12 +4725,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BAKASSI",
-    "ward": "EKPOT ABIA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/04/10/001",
     "pu_name": "PLAYGROUND,  EDEM ABASI",
     "name": "PLAYGROUND,  EDEM ABASI",
@@ -4998,12 +4764,6 @@
     "pu_code": "09/04/10/005",
     "pu_name": "PLAYGROUND,  ATAYO UMO",
     "name": "PLAYGROUND,  ATAYO UMO",
-    "lga": "BAKASSI",
-    "ward": "ODIONG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BAKASSI",
     "ward": "ODIONG",
     "state": "Cross River",
@@ -5082,12 +4842,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BEKWARRA",
-    "ward": "ABUOCHICHE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/05/02/001",
     "pu_name": "PLAYGROUND, LAGOS-IKAHOR",
     "name": "PLAYGROUND, LAGOS-IKAHOR",
@@ -5160,12 +4914,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BEKWARRA",
-    "ward": "AFRIKE OCHAGBE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/05/03/001",
     "pu_name": "OHANGABI PLAYGROUND",
     "name": "OHANGABI PLAYGROUND",
@@ -5223,12 +4971,6 @@
     "pu_code": "09/05/03/007",
     "pu_name": "PLAYGROUND AMERICA",
     "name": "PLAYGROUND AMERICA",
-    "lga": "BEKWARRA",
-    "ward": "AFRIKE OKPECHE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BEKWARRA",
     "ward": "AFRIKE OKPECHE",
     "state": "Cross River",
@@ -5328,12 +5070,6 @@
     "pu_code": "09/05/04/011",
     "pu_name": "HEALTH CENTRE, ABUA-AFEN,BETEN",
     "name": "HEALTH CENTRE, ABUA-AFEN,BETEN",
-    "lga": "BEKWARRA",
-    "ward": "BETEN",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BEKWARRA",
     "ward": "BETEN",
     "state": "Cross River",
@@ -5511,12 +5247,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BEKWARRA",
-    "ward": "GAKEM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/05/06/001",
     "pu_name": "PRIMARY SCHOOL,  UBUBA-IYE",
     "name": "PRIMARY SCHOOL,  UBUBA-IYE",
@@ -5637,12 +5367,6 @@
     "pu_code": "09/05/06/014",
     "pu_name": "BUS STOP, OLD OGIDI MARKET",
     "name": "BUS STOP, OLD OGIDI MARKET",
-    "lga": "BEKWARRA",
-    "ward": "IBIARAGIDI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BEKWARRA",
     "ward": "IBIARAGIDI",
     "state": "Cross River",
@@ -5820,12 +5544,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BEKWARRA",
-    "ward": "NYANYA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/05/08/001",
     "pu_name": "AYAGE PLAY GROUND",
     "name": "AYAGE PLAY GROUND",
@@ -5919,12 +5637,6 @@
     "pu_code": "09/05/08/011",
     "pu_name": "OPEN SPACE ILLA BRIDGE",
     "name": "OPEN SPACE ILLA BRIDGE",
-    "lga": "BEKWARRA",
-    "ward": "OTUKPURU",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BEKWARRA",
     "ward": "OTUKPURU",
     "state": "Cross River",
@@ -6042,12 +5754,6 @@
     "pu_code": "09/05/09/013",
     "pu_name": "HEALTH CENTRE, IWISHIBI",
     "name": "HEALTH CENTRE, IWISHIBI",
-    "lga": "BEKWARRA",
-    "ward": "UGBORO",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BEKWARRA",
     "ward": "UGBORO",
     "state": "Cross River",
@@ -6216,12 +5922,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BEKWARRA",
-    "ward": "UKPAH",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/06/01/001",
     "pu_name": "PLAYGROUND, IJOM I",
     "name": "PLAYGROUND, IJOM I",
@@ -6330,12 +6030,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BIASE",
-    "ward": "ABAYONG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/06/02/001",
     "pu_name": "IGBASE TOWN HALL",
     "name": "IGBASE TOWN HALL",
@@ -6429,12 +6123,6 @@
     "pu_code": "09/06/02/011",
     "pu_name": "HEALTH CENTRE, ADIM",
     "name": "HEALTH CENTRE, ADIM",
-    "lga": "BIASE",
-    "ward": "ADIM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BIASE",
     "ward": "ADIM",
     "state": "Cross River",
@@ -6561,12 +6249,6 @@
     "pu_code": "09/06/03/014",
     "pu_name": "PLAYGROUND, EMO USO",
     "name": "PLAYGROUND, EMO USO",
-    "lga": "BIASE",
-    "ward": "AGWAGUNE/OKURIKE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BIASE",
     "ward": "AGWAGUNE/OKURIKE",
     "state": "Cross River",
@@ -6798,12 +6480,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BIASE",
-    "ward": "AKPET/ABINI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/06/05/001",
     "pu_name": "PLAYGROUND, CREL",
     "name": "PLAYGROUND, CREL",
@@ -6906,12 +6582,6 @@
     "pu_code": "09/06/05/012",
     "pu_name": "POST OFFFICE NYONWED",
     "name": "POST OFFFICE NYONWED",
-    "lga": "BIASE",
-    "ward": "BIAKPAN",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BIASE",
     "ward": "BIAKPAN",
     "state": "Cross River",
@@ -7098,12 +6768,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BIASE",
-    "ward": "EHOM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/06/07/001",
     "pu_name": "PRIMARY SCHOOL,  NUCLEUS CENTRE",
     "name": "PRIMARY SCHOOL,  NUCLEUS CENTRE",
@@ -7170,12 +6834,6 @@
     "pu_code": "09/06/07/008",
     "pu_name": "TOWN HALL, ASE EGWU",
     "name": "TOWN HALL, ASE EGWU",
-    "lga": "BIASE",
-    "ward": "EREI NORTH",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BIASE",
     "ward": "EREI NORTH",
     "state": "Cross River",
@@ -7335,12 +6993,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BIASE",
-    "ward": "EREI SOUTH",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/06/09/001",
     "pu_name": "PRIMARY SCHOOL,, ETONO  CENTRAL",
     "name": "PRIMARY SCHOOL,, ETONO  CENTRAL",
@@ -7443,12 +7095,6 @@
     "pu_code": "09/06/09/012",
     "pu_name": "FARM SETTLEMENT, IKUN",
     "name": "FARM SETTLEMENT, IKUN",
-    "lga": "BIASE",
-    "ward": "IKUN/ETONO",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BIASE",
     "ward": "IKUN/ETONO",
     "state": "Cross River",
@@ -7572,12 +7218,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BIASE",
-    "ward": "UMON NORTH",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/06/11/001",
     "pu_name": "PLAY GROUND, IKOT OTUM - IDUNGITU",
     "name": "PLAY GROUND, IKOT OTUM - IDUNGITU",
@@ -7644,12 +7284,6 @@
     "pu_code": "09/06/11/008",
     "pu_name": "TOWN HALL, ITANBENE",
     "name": "TOWN HALL, ITANBENE",
-    "lga": "BIASE",
-    "ward": "UMON SOUTH",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BIASE",
     "ward": "UMON SOUTH",
     "state": "Cross River",
@@ -7917,12 +7551,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BOKI",
-    "ward": "ABO",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/07/02/001",
     "pu_name": "PLAYGROUND,  BETRIKO I",
     "name": "PLAYGROUND,  BETRIKO I",
@@ -8034,12 +7662,6 @@
     "pu_code": "09/07/02/013",
     "pu_name": "PRIM. SCH. OKWABANG II",
     "name": "PRIM. SCH. OKWABANG II",
-    "lga": "BOKI",
-    "ward": "ALANKWU",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BOKI",
     "ward": "ALANKWU",
     "state": "Cross River",
@@ -8202,12 +7824,6 @@
     "pu_code": "09/07/03/018",
     "pu_name": "HEALTH CENTRE KAKWE",
     "name": "HEALTH CENTRE KAKWE",
-    "lga": "BOKI",
-    "ward": "BEEBO/BUMAJI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BOKI",
     "ward": "BEEBO/BUMAJI",
     "state": "Cross River",
@@ -8448,12 +8064,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BOKI",
-    "ward": "BOJE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/07/05/001",
     "pu_name": "PRIMARY SCHOOL,  KATCHUAN",
     "name": "PRIMARY SCHOOL,  KATCHUAN",
@@ -8625,12 +8235,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BOKI",
-    "ward": "BUDA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/07/06/001",
     "pu_name": "PLAYGROUND, UBONG ALANKWU",
     "name": "PLAYGROUND, UBONG ALANKWU",
@@ -8778,12 +8382,6 @@
     "pu_code": "09/07/06/017",
     "pu_name": "HOLY TRINITY PRIM. SCH. OLUM",
     "name": "HOLY TRINITY PRIM. SCH. OLUM",
-    "lga": "BOKI",
-    "ward": "BUENTSEBE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BOKI",
     "ward": "BUENTSEBE",
     "state": "Cross River",
@@ -8961,12 +8559,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BOKI",
-    "ward": "BUNYIA/OKUBUCHI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/07/08/001",
     "pu_name": "PLAYGROUND,  AGBA I",
     "name": "PLAYGROUND,  AGBA I",
@@ -9051,12 +8643,6 @@
     "pu_code": "09/07/08/010",
     "pu_name": "OSHIEKESE JUNCTION",
     "name": "OSHIEKESE JUNCTION",
-    "lga": "BOKI",
-    "ward": "EKPASHI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BOKI",
     "ward": "EKPASHI",
     "state": "Cross River",
@@ -9201,12 +8787,6 @@
     "pu_code": "09/07/09/016",
     "pu_name": "PLAYGROUND ETUNKU",
     "name": "PLAYGROUND ETUNKU",
-    "lga": "BOKI",
-    "ward": "KAKWAGOM/BAWOP",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BOKI",
     "ward": "KAKWAGOM/BAWOP",
     "state": "Cross River",
@@ -9420,12 +9000,6 @@
     "state_code": "09"
   },
   {
-    "lga": "BOKI",
-    "ward": "OGEP/OSOKOM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/07/11/001",
     "pu_name": "PLAYGROUND,  ALIBONG",
     "name": "PLAYGROUND,  ALIBONG",
@@ -9555,12 +9129,6 @@
     "pu_code": "09/07/11/015",
     "pu_name": "ESTATE PRIM. SCH. CAMP III",
     "name": "ESTATE PRIM. SCH. CAMP III",
-    "lga": "BOKI",
-    "ward": "OKU/BORUM/NJUA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "BOKI",
     "ward": "OKU/BORUM/NJUA",
     "state": "Cross River",
@@ -9954,12 +9522,6 @@
     "state_code": "09"
   },
   {
-    "lga": "CALABAR MUNICIPALITY",
-    "ward": "ONE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/08/02/001",
     "pu_name": "AIRPORT FIELD/BIG GUTTER",
     "name": "AIRPORT FIELD/BIG GUTTER",
@@ -10338,12 +9900,6 @@
     "state_code": "09"
   },
   {
-    "lga": "CALABAR MUNICIPALITY",
-    "ward": "TWO",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/08/03/001",
     "pu_name": "N.A.A. STAFF QUARTERS",
     "name": "N.A.A. STAFF QUARTERS",
@@ -10590,12 +10146,6 @@
     "pu_code": "09/08/03/028",
     "pu_name": "OPEN SPACE OKON INOK STR./OKON INOK CLS.",
     "name": "OPEN SPACE OKON INOK STR./OKON INOK CLS.",
-    "lga": "CALABAR MUNICIPALITY",
-    "ward": "THREE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "CALABAR MUNICIPALITY",
     "ward": "THREE",
     "state": "Cross River",
@@ -10935,12 +10485,6 @@
     "state_code": "09"
   },
   {
-    "lga": "CALABAR MUNICIPALITY",
-    "ward": "FOUR",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/08/05/001",
     "pu_name": "ARCHIBONG ESO BY MECHANIC WORKSHOP",
     "name": "ARCHIBONG ESO BY MECHANIC WORKSHOP",
@@ -11187,12 +10731,6 @@
     "pu_code": "09/08/05/028",
     "pu_name": "OPEN SPACE ST. MARGARET'S HOSP. MOORE RD.",
     "name": "OPEN SPACE ST. MARGARET'S HOSP. MOORE RD.",
-    "lga": "CALABAR MUNICIPALITY",
-    "ward": "FIVE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "CALABAR MUNICIPALITY",
     "ward": "FIVE",
     "state": "Cross River",
@@ -11505,12 +11043,6 @@
     "state_code": "09"
   },
   {
-    "lga": "CALABAR MUNICIPALITY",
-    "ward": "SIX",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/08/07/001",
     "pu_name": "TOWN HALL IKOT EFFA",
     "name": "TOWN HALL IKOT EFFA",
@@ -11721,12 +11253,6 @@
     "pu_code": "09/08/07/024",
     "pu_name": "OPEN SPACE DONATUS ETIM STREET BY MERILEBON ACADEMY HIGH SCHOOLS",
     "name": "OPEN SPACE DONATUS ETIM STREET BY MERILEBON ACADEMY HIGH SCHOOLS",
-    "lga": "CALABAR MUNICIPALITY",
-    "ward": "SEVEN",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "CALABAR MUNICIPALITY",
     "ward": "SEVEN",
     "state": "Cross River",
@@ -12174,12 +11700,6 @@
     "state_code": "09"
   },
   {
-    "lga": "CALABAR MUNICIPALITY",
-    "ward": "EIGTH",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/08/09/001",
     "pu_name": "BASIN AUTHORITY CANTEEN",
     "name": "BASIN AUTHORITY CANTEEN",
@@ -12363,12 +11883,6 @@
     "pu_code": "09/08/09/021",
     "pu_name": "OPEN SPACE HIGHWAY BY ECOSON JUNCTION ENOBONG",
     "name": "OPEN SPACE HIGHWAY BY ECOSON JUNCTION ENOBONG",
-    "lga": "CALABAR MUNICIPALITY",
-    "ward": "NINE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "CALABAR MUNICIPALITY",
     "ward": "NINE",
     "state": "Cross River",
@@ -12609,12 +12123,6 @@
     "state_code": "09"
   },
   {
-    "lga": "CALABAR MUNICIPALITY",
-    "ward": "TEN",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/09/01/001",
     "pu_name": "CULTURAL CENTRE I",
     "name": "CULTURAL CENTRE I",
@@ -12813,12 +12321,6 @@
     "state_code": "09"
   },
   {
-    "lga": "CALABAR SOUTH",
-    "ward": "ONE (1)",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/09/02/001",
     "pu_name": "ENE NDEM/EDET NSA STREET I",
     "name": "ENE NDEM/EDET NSA STREET I",
@@ -12903,12 +12405,6 @@
     "pu_code": "09/09/02/010",
     "pu_name": "OPEN SPACE BY INDEPENDENCE STATUE",
     "name": "OPEN SPACE BY INDEPENDENCE STATUE",
-    "lga": "CALABAR SOUTH",
-    "ward": "TWO (2)",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "CALABAR SOUTH",
     "ward": "TWO (2)",
     "state": "Cross River",
@@ -13032,12 +12528,6 @@
     "state_code": "09"
   },
   {
-    "lga": "CALABAR SOUTH",
-    "ward": "THREE (3)",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/09/04/001",
     "pu_name": "PRIMARY SCHOOL, MACDONALD I",
     "name": "PRIMARY SCHOOL, MACDONALD I",
@@ -13122,12 +12612,6 @@
     "pu_code": "09/09/04/010",
     "pu_name": "HENSHAW TOWN SQUARE II",
     "name": "HENSHAW TOWN SQUARE II",
-    "lga": "CALABAR SOUTH",
-    "ward": "FOUR (4)",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "CALABAR SOUTH",
     "ward": "FOUR (4)",
     "state": "Cross River",
@@ -13236,12 +12720,6 @@
     "pu_code": "09/09/05/012",
     "pu_name": "OPEN SPACE LAGOS STR/CALABAR RD",
     "name": "OPEN SPACE LAGOS STR/CALABAR RD",
-    "lga": "CALABAR SOUTH",
-    "ward": "FIVE (5)",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "CALABAR SOUTH",
     "ward": "FIVE (5)",
     "state": "Cross River",
@@ -13410,12 +12888,6 @@
     "state_code": "09"
   },
   {
-    "lga": "CALABAR SOUTH",
-    "ward": "SIX (6)",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/09/07/001",
     "pu_name": "EMMANUEL CHURCH PRIMARY SCHOOL I",
     "name": "EMMANUEL CHURCH PRIMARY SCHOOL I",
@@ -13536,12 +13008,6 @@
     "pu_code": "09/09/07/014",
     "pu_name": "OPEN SPACE OPPOSITE ZENITH BANK/CHAMLEY",
     "name": "OPEN SPACE OPPOSITE ZENITH BANK/CHAMLEY",
-    "lga": "CALABAR SOUTH",
-    "ward": "SEVEN (7)",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "CALABAR SOUTH",
     "ward": "SEVEN (7)",
     "state": "Cross River",
@@ -13713,12 +13179,6 @@
     "pu_code": "09/09/08/019",
     "pu_name": "WICKIE/BALLANTYNE JUNCTION",
     "name": "WICKIE/BALLANTYNE JUNCTION",
-    "lga": "CALABAR SOUTH",
-    "ward": "EIGHT (8)",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "CALABAR SOUTH",
     "ward": "EIGHT (8)",
     "state": "Cross River",
@@ -13932,12 +13392,6 @@
     "state_code": "09"
   },
   {
-    "lga": "CALABAR SOUTH",
-    "ward": "NINE (9)",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/09/10/001",
     "pu_name": "NELSON MANDELA BY BIG GUTTER",
     "name": "NELSON MANDELA BY BIG GUTTER",
@@ -14094,12 +13548,6 @@
     "pu_code": "09/09/10/018",
     "pu_name": "OPEN SPACE GOLDIE/GIBSON",
     "name": "OPEN SPACE GOLDIE/GIBSON",
-    "lga": "CALABAR SOUTH",
-    "ward": "TEN (10)",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "CALABAR SOUTH",
     "ward": "TEN (10)",
     "state": "Cross River",
@@ -14685,12 +14133,6 @@
     "pu_code": "09/09/11/065",
     "pu_name": "OPEN SPACE NEW AIRPORT ROAD/EKPO EDEM STREET",
     "name": "OPEN SPACE NEW AIRPORT ROAD/EKPO EDEM STREET",
-    "lga": "CALABAR SOUTH",
-    "ward": "ELEVEN (11)",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "CALABAR SOUTH",
     "ward": "ELEVEN (11)",
     "state": "Cross River",
@@ -15390,12 +14832,6 @@
     "state_code": "09"
   },
   {
-    "lga": "CALABAR SOUTH",
-    "ward": "TWELVE (12)",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/10/01/001",
     "pu_name": "ABIA TOWN HALL",
     "name": "ABIA TOWN HALL",
@@ -15468,12 +14904,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ETUNG",
-    "ward": "ABIA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/10/02/001",
     "pu_name": "PRIMARY SCHOOL, ABIJANG",
     "name": "PRIMARY SCHOOL, ABIJANG",
@@ -15531,12 +14961,6 @@
     "pu_code": "09/10/02/007",
     "pu_name": "PRIMARY SCHOOL ETARA",
     "name": "PRIMARY SCHOOL ETARA",
-    "lga": "ETUNG",
-    "ward": "ABIJANG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ETUNG",
     "ward": "ABIJANG",
     "state": "Cross River",
@@ -15651,12 +15075,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ETUNG",
-    "ward": "AGBOKIM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/10/04/001",
     "pu_name": "AJASSOR PLAY GROUND",
     "name": "AJASSOR PLAY GROUND",
@@ -15741,12 +15159,6 @@
     "pu_code": "09/10/04/010",
     "pu_name": "TECHNICAL COLLEGE, AJASSOR",
     "name": "TECHNICAL COLLEGE, AJASSOR",
-    "lga": "ETUNG",
-    "ward": "AJASSOR",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ETUNG",
     "ward": "AJASSOR",
     "state": "Cross River",
@@ -15879,12 +15291,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ETUNG",
-    "ward": "BENDEGHE EKIEM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/10/06/001",
     "pu_name": "EFFRAYA TOWN HALL",
     "name": "EFFRAYA TOWN HALL",
@@ -15942,12 +15348,6 @@
     "pu_code": "09/10/06/008",
     "pu_name": "COMMUNITY SECONDARY SCHOOL ETOMI",
     "name": "COMMUNITY SECONDARY SCHOOL ETOMI",
-    "lga": "ETUNG",
-    "ward": "EFFRAYA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ETUNG",
     "ward": "EFFRAYA",
     "state": "Cross River",
@@ -16017,12 +15417,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ETUNG",
-    "ward": "ETOMI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/10/08/001",
     "pu_name": "PRIMARY SCHOOL ITAKA",
     "name": "PRIMARY SCHOOL ITAKA",
@@ -16071,12 +15465,6 @@
     "pu_code": "09/10/08/006",
     "pu_name": "ITAKA CIVIC CENTRE",
     "name": "ITAKA CIVIC CENTRE",
-    "lga": "ETUNG",
-    "ward": "ITAKA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ETUNG",
     "ward": "ITAKA",
     "state": "Cross River",
@@ -16137,12 +15525,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ETUNG",
-    "ward": "MKPOT/AYUK ABA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/10/10/001",
     "pu_name": "NSOFANG PRIMARY SCHOOL",
     "name": "NSOFANG PRIMARY SCHOOL",
@@ -16191,12 +15573,6 @@
     "pu_code": "09/10/10/006",
     "pu_name": "AKPOR TOWN HALL",
     "name": "AKPOR TOWN HALL",
-    "lga": "ETUNG",
-    "ward": "NSOFANG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ETUNG",
     "ward": "NSOFANG",
     "state": "Cross River",
@@ -16473,12 +15849,6 @@
     "state_code": "09"
   },
   {
-    "lga": "IKOM",
-    "ward": "ABANYUM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/11/02/001",
     "pu_name": "ONICHA FARM SETTLEMENT",
     "name": "ONICHA FARM SETTLEMENT",
@@ -16689,12 +16059,6 @@
     "pu_code": "09/11/02/024",
     "pu_name": "NSOR FARM ROAD, NKANJEN",
     "name": "NSOR FARM ROAD, NKANJEN",
-    "lga": "IKOM",
-    "ward": "AKPARABONG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "IKOM",
     "ward": "AKPARABONG",
     "state": "Cross River",
@@ -17250,12 +16614,6 @@
     "state_code": "09"
   },
   {
-    "lga": "IKOM",
-    "ward": "IKOM URBAN I",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/11/04/001",
     "pu_name": "PLAYGROUND,  ADIJINKPOR I",
     "name": "PLAYGROUND,  ADIJINKPOR I",
@@ -17313,12 +16671,6 @@
     "pu_code": "09/11/04/007",
     "pu_name": "PRIMARY SCHOOL, ADIJINKPOR II",
     "name": "PRIMARY SCHOOL, ADIJINKPOR II",
-    "lga": "IKOM",
-    "ward": "IKOM URBAN II",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "IKOM",
     "ward": "IKOM URBAN II",
     "state": "Cross River",
@@ -17514,12 +16866,6 @@
     "state_code": "09"
   },
   {
-    "lga": "IKOM",
-    "ward": "NDE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/11/06/001",
     "pu_name": "PLAYGROUND NLUL",
     "name": "PLAYGROUND NLUL",
@@ -17613,12 +16959,6 @@
     "pu_code": "09/11/06/011",
     "pu_name": "TOWN HALL NLUL II",
     "name": "TOWN HALL NLUL II",
-    "lga": "IKOM",
-    "ward": "NNAM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "IKOM",
     "ward": "NNAM",
     "state": "Cross River",
@@ -17751,12 +17091,6 @@
     "state_code": "09"
   },
   {
-    "lga": "IKOM",
-    "ward": "NTA/NSELLE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/11/08/001",
     "pu_name": "PLAY GROUND,  NKPANSI",
     "name": "PLAY GROUND,  NKPANSI",
@@ -17883,12 +17217,6 @@
     "state_code": "09"
   },
   {
-    "lga": "IKOM",
-    "ward": "OFUTOP I",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/11/09/001",
     "pu_name": "PRIMARY SCHOOL, OKOSORA",
     "name": "PRIMARY SCHOOL, OKOSORA",
@@ -18009,12 +17337,6 @@
     "pu_code": "09/11/09/014",
     "pu_name": "PLAYGROUND ELA-EYAMA EKUKUNELA VILLAGE",
     "name": "PLAYGROUND ELA-EYAMA EKUKUNELA VILLAGE",
-    "lga": "IKOM",
-    "ward": "OFUTOP II",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "IKOM",
     "ward": "OFUTOP II",
     "state": "Cross River",
@@ -18156,12 +17478,6 @@
     "state_code": "09"
   },
   {
-    "lga": "IKOM",
-    "ward": "OLULUMO",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/11/11/001",
     "pu_name": "PLAYGROUND OROM",
     "name": "PLAYGROUND OROM",
@@ -18246,12 +17562,6 @@
     "pu_code": "09/11/11/010",
     "pu_name": "PRIMARY SCHOOL ATIMAKA",
     "name": "PRIMARY SCHOOL ATIMAKA",
-    "lga": "IKOM",
-    "ward": "YALA/NKUM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "IKOM",
     "ward": "YALA/NKUM",
     "state": "Cross River",
@@ -18384,12 +17694,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBANLIKU",
-    "ward": "BASANG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/12/02/001",
     "pu_name": "PLAYGROUND BUGENE",
     "name": "PLAYGROUND BUGENE",
@@ -18474,12 +17778,6 @@
     "pu_code": "09/12/02/010",
     "pu_name": "OPEN SPACE BESIDES DEEPER LIFE",
     "name": "OPEN SPACE BESIDES DEEPER LIFE",
-    "lga": "OBANLIKU",
-    "ward": "BEBI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OBANLIKU",
     "ward": "BEBI",
     "state": "Cross River",
@@ -18603,12 +17901,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBANLIKU",
-    "ward": "BECHEVE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/12/04/001",
     "pu_name": "PLAYGROUND,  KETTING",
     "name": "PLAYGROUND,  KETTING",
@@ -18690,12 +17982,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBANLIKU",
-    "ward": "BENDI I",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/12/05/001",
     "pu_name": "OMALE MARKET SQUARE",
     "name": "OMALE MARKET SQUARE",
@@ -18735,12 +18021,6 @@
     "pu_code": "09/12/05/005",
     "pu_name": "KAKWALAKA TOWN HALL",
     "name": "KAKWALAKA TOWN HALL",
-    "lga": "OBANLIKU",
-    "ward": "BENDI II",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OBANLIKU",
     "ward": "BENDI II",
     "state": "Cross River",
@@ -18801,12 +18081,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBANLIKU",
-    "ward": "BISHIRI NORTH",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/12/07/001",
     "pu_name": "GOVERNMENT PRIMARY SCHOOL AMUNGA",
     "name": "GOVERNMENT PRIMARY SCHOOL AMUNGA",
@@ -18846,12 +18120,6 @@
     "pu_code": "09/12/07/005",
     "pu_name": "UTUHU TOWN HALL",
     "name": "UTUHU TOWN HALL",
-    "lga": "OBANLIKU",
-    "ward": "BISHIRI SOUTH",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OBANLIKU",
     "ward": "BISHIRI SOUTH",
     "state": "Cross River",
@@ -18912,12 +18180,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBANLIKU",
-    "ward": "BISU",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/12/09/001",
     "pu_name": "BUCHAM ETSONG PLAY GROUND",
     "name": "BUCHAM ETSONG PLAY GROUND",
@@ -18966,12 +18228,6 @@
     "pu_code": "09/12/09/006",
     "pu_name": "IJUA MARKET SQUARE",
     "name": "IJUA MARKET SQUARE",
-    "lga": "OBANLIKU",
-    "ward": "BUSI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OBANLIKU",
     "ward": "BUSI",
     "state": "Cross River",
@@ -19053,12 +18309,6 @@
     "pu_code": "09/12/10/009",
     "pu_name": "PRIMARY SCHOOL BESENGE 1",
     "name": "PRIMARY SCHOOL BESENGE 1",
-    "lga": "OBANLIKU",
-    "ward": "UTANGA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OBANLIKU",
     "ward": "UTANGA",
     "state": "Cross River",
@@ -19293,12 +18543,6 @@
     "pu_code": "09/13/01/026",
     "pu_name": "ITAPE PLAYGROUND",
     "name": "ITAPE PLAYGROUND",
-    "lga": "OBUBRA",
-    "ward": "ABABENE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OBUBRA",
     "ward": "ABABENE",
     "state": "Cross River",
@@ -19557,12 +18801,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBUBRA",
-    "ward": "APIAPUM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/13/03/001",
     "pu_name": "PRIMARY SCHOOL OKOMOROTET",
     "name": "PRIMARY SCHOOL OKOMOROTET",
@@ -19746,12 +18984,6 @@
     "pu_code": "09/13/03/021",
     "pu_name": "HEALTH CENTER EKOMOROTET",
     "name": "HEALTH CENTER EKOMOROTET",
-    "lga": "OBUBRA",
-    "ward": "IYAMOYONG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OBUBRA",
     "ward": "IYAMOYONG",
     "state": "Cross River",
@@ -19956,12 +19188,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBUBRA",
-    "ward": "OBUBRA URBAN",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/13/05/001",
     "pu_name": "PRIMARY SCHOOL, OCHON",
     "name": "PRIMARY SCHOOL, OCHON",
@@ -20127,12 +19353,6 @@
     "pu_code": "09/13/05/019",
     "pu_name": "PRIMARY SCHOOL ONYENORANGHA",
     "name": "PRIMARY SCHOOL ONYENORANGHA",
-    "lga": "OBUBRA",
-    "ward": "OCHON",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OBUBRA",
     "ward": "OCHON",
     "state": "Cross River",
@@ -20310,12 +19530,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBUBRA",
-    "ward": "OFAT",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/13/07/001",
     "pu_name": "HOLY CHILD CONVENT PRIMARY SCHOOL",
     "name": "HOLY CHILD CONVENT PRIMARY SCHOOL",
@@ -20454,12 +19668,6 @@
     "pu_code": "09/13/07/016",
     "pu_name": "BESIDE CHARISMATIC RENEWAL CHURCH",
     "name": "BESIDE CHARISMATIC RENEWAL CHURCH",
-    "lga": "OBUBRA",
-    "ward": "OFODUA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OBUBRA",
     "ward": "OFODUA",
     "state": "Cross River",
@@ -20691,12 +19899,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBUBRA",
-    "ward": "OFUMBONGHA/YALA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/13/09/001",
     "pu_name": "PRIMAMRY SCHOOL, OGURUDE",
     "name": "PRIMAMRY SCHOOL, OGURUDE",
@@ -20853,12 +20055,6 @@
     "pu_code": "09/13/09/018",
     "pu_name": "PLAY GROUND,  OGURUDE",
     "name": "PLAY GROUND,  OGURUDE",
-    "lga": "OBUBRA",
-    "ward": "OSOPONG I",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OBUBRA",
     "ward": "OSOPONG I",
     "state": "Cross River",
@@ -21027,12 +20223,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBUBRA",
-    "ward": "OSOPONG II",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/13/11/001",
     "pu_name": "PRIMARY SCHOOL, OVONUM",
     "name": "PRIMARY SCHOOL, OVONUM",
@@ -21153,12 +20343,6 @@
     "pu_code": "09/13/11/014",
     "pu_name": "MARKET SQUARE OVONUM",
     "name": "MARKET SQUARE OVONUM",
-    "lga": "OBUBRA",
-    "ward": "OVONUM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OBUBRA",
     "ward": "OVONUM",
     "state": "Cross River",
@@ -21354,12 +20538,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBUDU",
-    "ward": "ALEGE/UBANG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/14/02/001",
     "pu_name": "PRIMARY SCHOOL, BEDIA",
     "name": "PRIMARY SCHOOL, BEDIA",
@@ -21480,12 +20658,6 @@
     "pu_code": "09/14/02/014",
     "pu_name": "IDILAGBA PLAYGROUND KUBONG BETTE",
     "name": "IDILAGBA PLAYGROUND KUBONG BETTE",
-    "lga": "OBUDU",
-    "ward": "ANGIABA / BEGIAKA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OBUDU",
     "ward": "ANGIABA / BEGIAKA",
     "state": "Cross River",
@@ -21720,12 +20892,6 @@
     "pu_code": "09/14/03/026",
     "pu_name": "INDI-UBO JUNCTION",
     "name": "INDI-UBO JUNCTION",
-    "lga": "OBUDU",
-    "ward": "BEGIADING",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OBUDU",
     "ward": "BEGIADING",
     "state": "Cross River",
@@ -22443,12 +21609,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBUDU",
-    "ward": "IPONG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/14/05/001",
     "pu_name": "GOVERNMENT SECONDARY SCHOOL, OBUDU",
     "name": "GOVERNMENT SECONDARY SCHOOL, OBUDU",
@@ -22773,12 +21933,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBUDU",
-    "ward": "OBUDU URBAN I",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/14/06/001",
     "pu_name": "NEAR MOSES ITASHI'S FRONTAGE",
     "name": "NEAR MOSES ITASHI'S FRONTAGE",
@@ -22923,12 +22077,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBUDU",
-    "ward": "OBUDU URBAN II",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/14/07/001",
     "pu_name": "IKONG PLAY GROUND",
     "name": "IKONG PLAY GROUND",
@@ -23064,12 +22212,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBUDU",
-    "ward": "UKPE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/14/08/001",
     "pu_name": "ST. COLMAN'S PRIMARY SCHOOL I",
     "name": "ST. COLMAN'S PRIMARY SCHOOL I",
@@ -23196,12 +22338,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBUDU",
-    "ward": "UTUGWANG CENTRAL",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/14/09/001",
     "pu_name": "PRIMARY SCHOOL UKWORTUNG",
     "name": "PRIMARY SCHOOL UKWORTUNG",
@@ -23313,12 +22449,6 @@
     "pu_code": "09/14/09/013",
     "pu_name": "UBUTU PLAYGROUND",
     "name": "UBUTU PLAYGROUND",
-    "lga": "OBUDU",
-    "ward": "UTUGWANG NORTH",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OBUDU",
     "ward": "UTUGWANG NORTH",
     "state": "Cross River",
@@ -23460,12 +22590,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OBUDU",
-    "ward": "UTUGWANG SOUTH",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/15/01/001",
     "pu_name": "PRIMARY SCHOOL, IKOT UKPA",
     "name": "PRIMARY SCHOOL, IKOT UKPA",
@@ -23523,12 +22647,6 @@
     "pu_code": "09/15/01/007",
     "pu_name": "PLAY GROUND, USUNG MBAKARA/IKOT EKONG",
     "name": "PLAY GROUND, USUNG MBAKARA/IKOT EKONG",
-    "lga": "ODUKPANI",
-    "ward": "ADIABO/EFUT",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ODUKPANI",
     "ward": "ADIABO/EFUT",
     "state": "Cross River",
@@ -23643,12 +22761,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ODUKPANI",
-    "ward": "AKAMKPA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/15/03/001",
     "pu_name": "SECONDARY SCHOOL, CREEK TOWN",
     "name": "SECONDARY SCHOOL, CREEK TOWN",
@@ -23748,12 +22860,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ODUKPANI",
-    "ward": "CREEK TOWN I",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/15/04/001",
     "pu_name": "PRIMARY SCHOOL, IKOT ESSIEN",
     "name": "PRIMARY SCHOOL, IKOT ESSIEN",
@@ -23820,12 +22926,6 @@
     "pu_code": "09/15/04/008",
     "pu_name": "GENERAL HOSPITAL, UKEM",
     "name": "GENERAL HOSPITAL, UKEM",
-    "lga": "ODUKPANI",
-    "ward": "CREEK TOWN II",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ODUKPANI",
     "ward": "CREEK TOWN II",
     "state": "Cross River",
@@ -23985,12 +23085,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ODUKPANI",
-    "ward": "EKORI/ANAKU",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/15/06/001",
     "pu_name": "PRIMARY SCHOOL, OBIO USIERE",
     "name": "PRIMARY SCHOOL, OBIO USIERE",
@@ -24108,12 +23202,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ODUKPANI",
-    "ward": "ENIONG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/15/07/001",
     "pu_name": "PRIMARY SCHOOL, ATAN EKI",
     "name": "PRIMARY SCHOOL, ATAN EKI",
@@ -24222,12 +23310,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ODUKPANI",
-    "ward": "EKI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/15/08/001",
     "pu_name": "PLAYGROUND, ANWA IBOK",
     "name": "PLAYGROUND, ANWA IBOK",
@@ -24327,12 +23409,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ODUKPANI",
-    "ward": "OBOMITIAT/MBIABO/EDIONG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/15/09/001",
     "pu_name": "PRIMARY SCHOOL, ESUK ODOT",
     "name": "PRIMARY SCHOOL, ESUK ODOT",
@@ -24426,12 +23502,6 @@
     "pu_code": "09/15/09/011",
     "pu_name": "VILLAGE SQUARE, NDON NWONG",
     "name": "VILLAGE SQUARE, NDON NWONG",
-    "lga": "ODUKPANI",
-    "ward": "ODOT",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ODUKPANI",
     "ward": "ODOT",
     "state": "Cross River",
@@ -24627,12 +23697,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ODUKPANI",
-    "ward": "ODUKPANI CENTRAL",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/15/11/001",
     "pu_name": "PLAYGROUND, EKEMKPON",
     "name": "PLAYGROUND, EKEMKPON",
@@ -24705,12 +23769,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ODUKPANI",
-    "ward": "ONIMAN-KIONG",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/15/12/001",
     "pu_name": "OLD PRIMARY SCHOOL, IKONETO",
     "name": "OLD PRIMARY SCHOOL, IKONETO",
@@ -24759,12 +23817,6 @@
     "pu_code": "09/15/12/006",
     "pu_name": "PLAY GROUND, OBUT URUA",
     "name": "PLAY GROUND, OBUT URUA",
-    "lga": "ODUKPANI",
-    "ward": "IKONETO",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "ODUKPANI",
     "ward": "IKONETO",
     "state": "Cross River",
@@ -24978,12 +24030,6 @@
     "state_code": "09"
   },
   {
-    "lga": "ODUKPANI",
-    "ward": "ITO/IDERE/UKWA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/16/01/001",
     "pu_name": "PLAYGROUND, BANSARA",
     "name": "PLAYGROUND, BANSARA",
@@ -25182,12 +24228,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OGOJA",
-    "ward": "EKAJUK I",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/16/02/001",
     "pu_name": "PLAYGROUND, ESHINJUCK",
     "name": "PLAYGROUND, ESHINJUCK",
@@ -25332,12 +24372,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OGOJA",
-    "ward": "EKAJUK II",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/16/03/001",
     "pu_name": "PRIMARY SCHOOL, NKIM I",
     "name": "PRIMARY SCHOOL, NKIM I",
@@ -25455,12 +24489,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OGOJA",
-    "ward": "MBUBE EAST I",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/16/04/001",
     "pu_name": "PLAY GROUND, ARAGBANG",
     "name": "PLAY GROUND, ARAGBANG",
@@ -25554,12 +24582,6 @@
     "pu_code": "09/16/04/011",
     "pu_name": "GOVERNMENT SEC. SCH. EGBE",
     "name": "GOVERNMENT SEC. SCH. EGBE",
-    "lga": "OGOJA",
-    "ward": "MBUBE EAST II",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OGOJA",
     "ward": "MBUBE EAST II",
     "state": "Cross River",
@@ -25728,12 +24750,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OGOJA",
-    "ward": "MBUBE WEST I",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/16/06/001",
     "pu_name": "ST. JOSEPH PRIMARY SCHOOL BANSAN",
     "name": "ST. JOSEPH PRIMARY SCHOOL BANSAN",
@@ -25845,12 +24861,6 @@
     "pu_code": "09/16/06/013",
     "pu_name": "AKPANTRE TOWN HALL",
     "name": "AKPANTRE TOWN HALL",
-    "lga": "OGOJA",
-    "ward": "MBUBE WEST II",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OGOJA",
     "ward": "MBUBE WEST II",
     "state": "Cross River",
@@ -25974,12 +24984,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OGOJA",
-    "ward": "NKUM IBORR",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/16/08/001",
     "pu_name": "PLAYGROUND ABURU MBEDE, IBIL I",
     "name": "PLAYGROUND ABURU MBEDE, IBIL I",
@@ -26073,12 +25077,6 @@
     "pu_code": "09/16/08/011",
     "pu_name": "MKPORO",
     "name": "MKPORO",
-    "lga": "OGOJA",
-    "ward": "NKUM IREDE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "OGOJA",
     "ward": "NKUM IREDE",
     "state": "Cross River",
@@ -26436,12 +25434,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OGOJA",
-    "ward": "OGOJA URBAN I",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/16/10/001",
     "pu_name": "NTOL COMPREHENSIVE SECONDARY SCHOOL NDOK",
     "name": "NTOL COMPREHENSIVE SECONDARY SCHOOL NDOK",
@@ -26640,12 +25632,6 @@
     "state_code": "09"
   },
   {
-    "lga": "OGOJA",
-    "ward": "OGOJA URBAN II",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/17/01/001",
     "pu_name": "LEKPANKOM, COMMUNITY HALL",
     "name": "LEKPANKOM, COMMUNITY HALL",
@@ -26772,12 +25758,6 @@
     "state_code": "09"
   },
   {
-    "lga": "YAKURR",
-    "ward": "AFREKPE/EKPENTI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/17/02/001",
     "pu_name": "EDANG TOWN HALL",
     "name": "EDANG TOWN HALL",
@@ -26895,12 +25875,6 @@
     "state_code": "09"
   },
   {
-    "lga": "YAKURR",
-    "ward": "AJERE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/17/03/001",
     "pu_name": "ST. PETERS PRIMARY SCHOOL",
     "name": "ST. PETERS PRIMARY SCHOOL",
@@ -26976,12 +25950,6 @@
     "pu_code": "09/17/03/009",
     "pu_name": "ST. PETER'S PRIMARY SCHOOL LEFANI",
     "name": "ST. PETER'S PRIMARY SCHOOL LEFANI",
-    "lga": "YAKURR",
-    "ward": "ASSIGA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "YAKURR",
     "ward": "ASSIGA",
     "state": "Cross River",
@@ -27132,12 +26100,6 @@
     "state_code": "09"
   },
   {
-    "lga": "YAKURR",
-    "ward": "BIKO BIKO",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/17/05/001",
     "pu_name": "PCN PRIMARY SCHOOL I",
     "name": "PCN PRIMARY SCHOOL I",
@@ -27240,12 +26202,6 @@
     "pu_code": "09/17/05/012",
     "pu_name": "ST. JOSEPH'S PRIMARY SCHOOL, KEDONG",
     "name": "ST. JOSEPH'S PRIMARY SCHOOL, KEDONG",
-    "lga": "YAKURR",
-    "ward": "IDOMI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "YAKURR",
     "ward": "IDOMI",
     "state": "Cross River",
@@ -27399,12 +26355,6 @@
     "pu_code": "09/17/06/017",
     "pu_name": "NEAR CHIEF MOSES OMINI FRONTAGE",
     "name": "NEAR CHIEF MOSES OMINI FRONTAGE",
-    "lga": "YAKURR",
-    "ward": "IJIMAN",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "YAKURR",
     "ward": "IJIMAN",
     "state": "Cross River",
@@ -27636,12 +26586,6 @@
     "state_code": "09"
   },
   {
-    "lga": "YAKURR",
-    "ward": "IJOM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/17/08/001",
     "pu_name": "CONVENT PRIMARY SCHOOL, UGEP",
     "name": "CONVENT PRIMARY SCHOOL, UGEP",
@@ -27786,12 +26730,6 @@
     "state_code": "09"
   },
   {
-    "lga": "YAKURR",
-    "ward": "IKPAKAPIT",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/17/09/001",
     "pu_name": "EKPETI TOWN HALL",
     "name": "EKPETI TOWN HALL",
@@ -27849,12 +26787,6 @@
     "pu_code": "09/17/09/007",
     "pu_name": "EKPATI TOWN HALL",
     "name": "EKPATI TOWN HALL",
-    "lga": "YAKURR",
-    "ward": "INYIMA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "YAKURR",
     "ward": "INYIMA",
     "state": "Cross River",
@@ -28203,12 +27135,6 @@
     "state_code": "09"
   },
   {
-    "lga": "YAKURR",
-    "ward": "MKPANI/AGOI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/17/11/001",
     "pu_name": "PCN JUNET, IKOM/CAL. ROAD",
     "name": "PCN JUNET, IKOM/CAL. ROAD",
@@ -28308,12 +27234,6 @@
     "state_code": "09"
   },
   {
-    "lga": "YAKURR",
-    "ward": "ABANAKPAI",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/17/12/001",
     "pu_name": "LEKAMKOM",
     "name": "LEKAMKOM",
@@ -28404,12 +27324,6 @@
     "state_code": "09"
   },
   {
-    "lga": "YAKURR",
-    "ward": "NKPOLO/UKPAWEN",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/17/13/001",
     "pu_name": "KEKONKOLO TOWN HALL",
     "name": "KEKONKOLO TOWN HALL",
@@ -28467,12 +27381,6 @@
     "pu_code": "09/17/13/007",
     "pu_name": "AKUGOM II, NTAN",
     "name": "AKUGOM II, NTAN",
-    "lga": "YAKURR",
-    "ward": "NTAN",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "YAKURR",
     "ward": "NTAN",
     "state": "Cross River",
@@ -28623,12 +27531,6 @@
     "state_code": "09"
   },
   {
-    "lga": "YALA",
-    "ward": "ECHUMOFANA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/18/02/001",
     "pu_name": "PLAYGROUND,  OTURKPO",
     "name": "PLAYGROUND,  OTURKPO",
@@ -28701,12 +27603,6 @@
     "state_code": "09"
   },
   {
-    "lga": "YALA",
-    "ward": "GABU",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/18/03/001",
     "pu_name": "PRIMARY SCHOOL,  WANUDU",
     "name": "PRIMARY SCHOOL,  WANUDU",
@@ -28773,12 +27669,6 @@
     "pu_code": "09/18/03/008",
     "pu_name": "PRIMARY SCHOOL WANUDU",
     "name": "PRIMARY SCHOOL WANUDU",
-    "lga": "YALA",
-    "ward": "IJIRAGA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "YALA",
     "ward": "IJIRAGA",
     "state": "Cross River",
@@ -28923,12 +27813,6 @@
     "pu_code": "09/18/04/016",
     "pu_name": "PRIMARY SCHOOL,  IJIGBEJI",
     "name": "PRIMARY SCHOOL,  IJIGBEJI",
-    "lga": "YALA",
-    "ward": "NTRIGOM/MFUMA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "YALA",
     "ward": "NTRIGOM/MFUMA",
     "state": "Cross River",
@@ -29226,12 +28110,6 @@
     "pu_code": "09/18/05/033",
     "pu_name": "ABACHOR T/H",
     "name": "ABACHOR T/H",
-    "lga": "YALA",
-    "ward": "OKPOMA",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "YALA",
     "ward": "OKPOMA",
     "state": "Cross River",
@@ -29598,12 +28476,6 @@
     "state_code": "09"
   },
   {
-    "lga": "YALA",
-    "ward": "OKUKU",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/18/07/001",
     "pu_name": "PLAYGROUND,  UZAGA",
     "name": "PLAYGROUND,  UZAGA",
@@ -29784,12 +28656,6 @@
     "state_code": "09"
   },
   {
-    "lga": "YALA",
-    "ward": "WANIHEM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/18/08/001",
     "pu_name": "PRIMARY SCHOOL,  UZENYI",
     "name": "PRIMARY SCHOOL,  UZENYI",
@@ -29928,12 +28794,6 @@
     "pu_code": "09/18/08/016",
     "pu_name": "TOWN HALL WANIKADE II",
     "name": "TOWN HALL WANIKADE II",
-    "lga": "YALA",
-    "ward": "WANIKADE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "YALA",
     "ward": "WANIKADE",
     "state": "Cross River",
@@ -30114,12 +28974,6 @@
     "pu_code": "09/18/09/020",
     "pu_name": "P/G OKPODUN III",
     "name": "P/G OKPODUN III",
-    "lga": "YALA",
-    "ward": "WANAKOM",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "YALA",
     "ward": "WANAKOM",
     "state": "Cross River",
@@ -30423,12 +29277,6 @@
     "state_code": "09"
   },
   {
-    "lga": "YALA",
-    "ward": "YACHE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "pu_code": "09/18/11/001",
     "pu_name": "PLAYGROUND,  OCHELEBE",
     "name": "PLAYGROUND,  OCHELEBE",
@@ -30558,12 +29406,6 @@
     "pu_code": "09/18/11/015",
     "pu_name": "ST. GABRIEL P/S, EBO",
     "name": "ST. GABRIEL P/S, EBO",
-    "lga": "YALA",
-    "ward": "YAHE",
-    "state": "Cross River",
-    "state_code": "09"
-  },
-  {
     "lga": "YALA",
     "ward": "YAHE",
     "state": "Cross River",

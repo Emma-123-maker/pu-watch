@@ -522,12 +522,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AGEGE",
-    "ward": "ISALE/IDIMANGORO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/01/02/001",
     "pu_name": "21, OGUNJOBI STREET",
     "name": "21, OGUNJOBI STREET",
@@ -873,12 +867,6 @@
     "pu_code": "24/01/02/039",
     "pu_name": "27, IFELODUN STREET",
     "name": "27, IFELODUN STREET",
-    "lga": "AGEGE",
-    "ward": "ILORO/ONIPETESI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AGEGE",
     "ward": "ILORO/ONIPETESI",
     "state": "Lagos",
@@ -1740,12 +1728,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AGEGE",
-    "ward": "ONIWAYA/PAPA-UKU",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/01/04/001",
     "pu_name": "12, OPE-OLU STREET",
     "name": "12, OPE-OLU STREET",
@@ -2565,12 +2547,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AGEGE",
-    "ward": "AGBOTIKUYO/DOPEMU",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/01/05/001",
     "pu_name": "STATE HIGH SCHOOL OYEWOLE I",
     "name": "STATE HIGH SCHOOL OYEWOLE I",
@@ -2952,12 +2928,6 @@
     "pu_code": "24/01/05/043",
     "pu_name": "19, IREPODUN STREET",
     "name": "19, IREPODUN STREET",
-    "lga": "AGEGE",
-    "ward": "OYEWOLE/PAPA ASHAFA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AGEGE",
     "ward": "OYEWOLE/PAPA ASHAFA",
     "state": "Lagos",
@@ -3639,12 +3609,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AGEGE",
-    "ward": "OKEKOTO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/01/07/001",
     "pu_name": "SANGO MARKET MOSHALASHI B/STOP",
     "name": "SANGO MARKET MOSHALASHI B/STOP",
@@ -4158,12 +4122,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AGEGE",
-    "ward": "KEKE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/01/08/001",
     "pu_name": "2, IJU ROAD",
     "name": "2, IJU ROAD",
@@ -4599,12 +4557,6 @@
     "pu_code": "24/01/08/049",
     "pu_name": "13,MOSAN LANE",
     "name": "13,MOSAN LANE",
-    "lga": "AGEGE",
-    "ward": "DAROCHA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AGEGE",
     "ward": "DAROCHA",
     "state": "Lagos",
@@ -5181,12 +5133,6 @@
     "pu_code": "24/01/09/064",
     "pu_name": "2 LADIPO STREET",
     "name": "2 LADIPO STREET",
-    "lga": "AGEGE",
-    "ward": "TABON TABON/OKO OBA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AGEGE",
     "ward": "TABON TABON/OKO OBA",
     "state": "Lagos",
@@ -5814,12 +5760,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AGEGE",
-    "ward": "ORILE AGEGE/OKO OBA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/01/11/001",
     "pu_name": "13, AYIGE STREET",
     "name": "13, AYIGE STREET",
@@ -6309,12 +6249,6 @@
     "pu_code": "24/01/11/055",
     "pu_name": "14, BASANYA STREET",
     "name": "14, BASANYA STREET",
-    "lga": "AGEGE",
-    "ward": "ISALE ODO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AGEGE",
     "ward": "ISALE ODO",
     "state": "Lagos",
@@ -7104,12 +7038,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AJEROMI/IFELODUN",
-    "ward": "AGO HAUSA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/02/02/001",
     "pu_name": "IN FRONT OF 11 AGO HAUSA STREET",
     "name": "IN FRONT OF 11 AGO HAUSA STREET",
@@ -7713,12 +7641,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AJEROMI/IFELODUN",
-    "ward": "AWODI-ORA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/02/03/001",
     "pu_name": "IN FRONT OF 12, IDEWU STREET",
     "name": "IN FRONT OF 12, IDEWU STREET",
@@ -8190,12 +8112,6 @@
     "pu_code": "24/02/03/053",
     "pu_name": "2, PALACE ROAD",
     "name": "2, PALACE ROAD",
-    "lga": "AJEROMI/IFELODUN",
-    "ward": "WILMER",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AJEROMI/IFELODUN",
     "ward": "WILMER",
     "state": "Lagos",
@@ -8745,12 +8661,6 @@
     "pu_code": "24/02/04/061",
     "pu_name": "24, ORA STREET",
     "name": "24, ORA STREET",
-    "lga": "AJEROMI/IFELODUN",
-    "ward": "OLODI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AJEROMI/IFELODUN",
     "ward": "OLODI",
     "state": "Lagos",
@@ -9675,12 +9585,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AJEROMI/IFELODUN",
-    "ward": "TOLU",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/02/06/001",
     "pu_name": "5, TEMIDIRE STREET (5, TEMIDIRI STREET)",
     "name": "5, TEMIDIRE STREET (5, TEMIDIRI STREET)",
@@ -10026,12 +9930,6 @@
     "pu_code": "24/02/06/039",
     "pu_name": "49, AJASA STREET",
     "name": "49, AJASA STREET",
-    "lga": "AJEROMI/IFELODUN",
-    "ward": "TEMIDIRE I",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AJEROMI/IFELODUN",
     "ward": "TEMIDIRE I",
     "state": "Lagos",
@@ -10821,12 +10719,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AJEROMI/IFELODUN",
-    "ward": "OJO ROAD",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/02/08/001",
     "pu_name": "TAXI CAR PARK OPP. ALABA PRY. SCH., ALABA ORO ROAD",
     "name": "TAXI CAR PARK OPP. ALABA PRY. SCH., ALABA ORO ROAD",
@@ -11439,12 +11331,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AJEROMI/IFELODUN",
-    "ward": "LAYENI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/02/09/001",
     "pu_name": "13, BALOGUN STREET",
     "name": "13, BALOGUN STREET",
@@ -11979,12 +11865,6 @@
     "pu_code": "24/02/09/060",
     "pu_name": "5, COKER CLOSE",
     "name": "5, COKER CLOSE",
-    "lga": "AJEROMI/IFELODUN",
-    "ward": "ALABA ORO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AJEROMI/IFELODUN",
     "ward": "ALABA ORO",
     "state": "Lagos",
@@ -12612,12 +12492,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AJEROMI/IFELODUN",
-    "ward": "MOSAFEJO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/02/11/001",
     "pu_name": "2, EGBAYILO STREET",
     "name": "2, EGBAYILO STREET",
@@ -12981,12 +12855,6 @@
     "pu_code": "24/02/11/041",
     "pu_name": "52, OYEGUNLE STREET",
     "name": "52, OYEGUNLE STREET",
-    "lga": "AJEROMI/IFELODUN",
-    "ward": "TEMIDIRE II",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AJEROMI/IFELODUN",
     "ward": "TEMIDIRE II",
     "state": "Lagos",
@@ -14271,12 +14139,6 @@
     "state_code": "24"
   },
   {
-    "lga": "ALIMOSHO",
-    "ward": "SHASHA/AKOWONJO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/03/02/001",
     "pu_name": "IN FRONT OF 9, AKOWONJO ROAD",
     "name": "IN FRONT OF 9, AKOWONJO ROAD",
@@ -15324,12 +15186,6 @@
     "pu_code": "24/03/02/117",
     "pu_name": "ADENRELE STREET,EGBEDA",
     "name": "ADENRELE STREET,EGBEDA",
-    "lga": "ALIMOSHO",
-    "ward": "EGBEDA/ALIMOSHO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "ALIMOSHO",
     "ward": "EGBEDA/ALIMOSHO",
     "state": "Lagos",
@@ -16536,12 +16392,6 @@
     "pu_code": "24/03/03/134",
     "pu_name": "IKOTUN ROAD/ALHAJA BUS STOP",
     "name": "IKOTUN ROAD/ALHAJA BUS STOP",
-    "lga": "ALIMOSHO",
-    "ward": "IDIMU/ISHERI OLOFIN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "ALIMOSHO",
     "ward": "IDIMU/ISHERI OLOFIN",
     "state": "Lagos",
@@ -19086,12 +18936,6 @@
     "state_code": "24"
   },
   {
-    "lga": "ALIMOSHO",
-    "ward": "IKOTUN/IJEGUN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/03/05/001",
     "pu_name": "OLOGUNRO/KADIRI JUNCTION EGBE I",
     "name": "OLOGUNRO/KADIRI JUNCTION EGBE I",
@@ -20112,12 +19956,6 @@
     "pu_code": "24/03/05/114",
     "pu_name": "CELE-WAY JUNCTION/OWOLABI STR. AGODO",
     "name": "CELE-WAY JUNCTION/OWOLABI STR. AGODO",
-    "lga": "ALIMOSHO",
-    "ward": "EGBE/AGODO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "ALIMOSHO",
     "ward": "EGBE/AGODO",
     "state": "Lagos",
@@ -21198,12 +21036,6 @@
     "pu_code": "24/03/06/120",
     "pu_name": "ADEOLA/OLASANMI JUNCTION, EGAN",
     "name": "ADEOLA/OLASANMI JUNCTION, EGAN",
-    "lga": "ALIMOSHO",
-    "ward": "IGANDO/EGAN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "ALIMOSHO",
     "ward": "IGANDO/EGAN",
     "state": "Lagos",
@@ -22677,12 +22509,6 @@
     "state_code": "24"
   },
   {
-    "lga": "ALIMOSHO",
-    "ward": "IPAJA NORTH",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/03/08/001",
     "pu_name": "ALIMOSHO GRAMMAR SCHOOL",
     "name": "ALIMOSHO GRAMMAR SCHOOL",
@@ -23745,12 +23571,6 @@
     "state_code": "24"
   },
   {
-    "lga": "ALIMOSHO",
-    "ward": "IPAJA SOUTH",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/03/09/001",
     "pu_name": "SALVATION ARMY SCHOOL AYOBO I",
     "name": "SALVATION ARMY SCHOOL AYOBO I",
@@ -24357,12 +24177,6 @@
     "pu_code": "24/03/09/068",
     "pu_name": "MEGIDA OLANIYAN JUNCTION",
     "name": "MEGIDA OLANIYAN JUNCTION",
-    "lga": "ALIMOSHO",
-    "ward": "AYOBO/IJON VILLAGE (CAMP DAVID)",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "ALIMOSHO",
     "ward": "AYOBO/IJON VILLAGE (CAMP DAVID)",
     "state": "Lagos",
@@ -25308,12 +25122,6 @@
     "pu_code": "24/03/10/105",
     "pu_name": "48, PIPELINE ROAD, IGOKE",
     "name": "48, PIPELINE ROAD, IGOKE",
-    "lga": "ALIMOSHO",
-    "ward": "PLEASURE/OKE-ODO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "ALIMOSHO",
     "ward": "PLEASURE/OKE-ODO",
     "state": "Lagos",
@@ -26958,12 +26766,6 @@
     "state_code": "24"
   },
   {
-    "lga": "ALIMOSHO",
-    "ward": "ABULE-EGBA/ABORU/MEIRAN/ALAGBADO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/04/01/001",
     "pu_name": "AMUWO ODOFIN BOYS HIGH SCHOOL I",
     "name": "AMUWO ODOFIN BOYS HIGH SCHOOL I",
@@ -27693,12 +27495,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AMUWO-ODOFIN",
-    "ward": "AMUWO-ODOFIN HOUSING ESTATE, MILE 2",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/04/02/001",
     "pu_name": "PROGRESSIVE PRY. SCH. 7TH AVENUE I",
     "name": "PROGRESSIVE PRY. SCH. 7TH AVENUE I",
@@ -28278,12 +28074,6 @@
     "pu_code": "24/04/02/065",
     "pu_name": "T CLOSE, 5TH AVENUE",
     "name": "T CLOSE, 5TH AVENUE",
-    "lga": "AMUWO-ODOFIN",
-    "ward": "FESTAC 1",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AMUWO-ODOFIN",
     "ward": "FESTAC 1",
     "state": "Lagos",
@@ -29010,12 +28800,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AMUWO-ODOFIN",
-    "ward": "FESTAC II",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/04/04/001",
     "pu_name": "NO. 30 CARDOSO STREET",
     "name": "NO. 30 CARDOSO STREET",
@@ -29541,12 +29325,6 @@
     "pu_code": "24/04/04/059",
     "pu_name": "BESIDE OF LEFT SIDE OF NAVY TOWN ENTRANCE",
     "name": "BESIDE OF LEFT SIDE OF NAVY TOWN ENTRANCE",
-    "lga": "AMUWO-ODOFIN",
-    "ward": "KIRIKIRI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AMUWO-ODOFIN",
     "ward": "KIRIKIRI",
     "state": "Lagos",
@@ -30534,12 +30312,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AMUWO-ODOFIN",
-    "ward": "AMUWO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/04/06/001",
     "pu_name": "BAALE MARKET SQUARE (IN FRONT OF BALE'S PALACE ROAD, IJEGUN EGBA)",
     "name": "BAALE MARKET SQUARE (IN FRONT OF BALE'S PALACE ROAD, IJEGUN EGBA)",
@@ -30930,12 +30702,6 @@
     "pu_code": "24/04/06/044",
     "pu_name": "6, RASAKI ODUNEWU STREET",
     "name": "6, RASAKI ODUNEWU STREET",
-    "lga": "AMUWO-ODOFIN",
-    "ward": "IJEGUN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AMUWO-ODOFIN",
     "ward": "IJEGUN",
     "state": "Lagos",
@@ -31662,12 +31428,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AMUWO-ODOFIN",
-    "ward": "SATELLITE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/04/08/001",
     "pu_name": "L.A. PRIMARY SCHOOL, IYAGBE I",
     "name": "L.A. PRIMARY SCHOOL, IYAGBE I",
@@ -31788,12 +31548,6 @@
     "pu_code": "24/04/08/014",
     "pu_name": "IREDE TOWN HALL II",
     "name": "IREDE TOWN HALL II",
-    "lga": "AMUWO-ODOFIN",
-    "ward": "IREDE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AMUWO-ODOFIN",
     "ward": "IREDE",
     "state": "Lagos",
@@ -31983,12 +31737,6 @@
     "pu_code": "24/04/09/021",
     "pu_name": "OPPOSITE OBA'S PALACE IBASA",
     "name": "OPPOSITE OBA'S PALACE IBASA",
-    "lga": "AMUWO-ODOFIN",
-    "ward": "IBESHE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AMUWO-ODOFIN",
     "ward": "IBESHE",
     "state": "Lagos",
@@ -32241,12 +31989,6 @@
     "pu_code": "24/04/10/028",
     "pu_name": "IGBO EXTENSION BOLARINWA STREET",
     "name": "IGBO EXTENSION BOLARINWA STREET",
-    "lga": "AMUWO-ODOFIN",
-    "ward": "IGBOLOGUN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "AMUWO-ODOFIN",
     "ward": "IGBOLOGUN",
     "state": "Lagos",
@@ -32757,12 +32499,6 @@
     "state_code": "24"
   },
   {
-    "lga": "AMUWO-ODOFIN",
-    "ward": "FESTAC III",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/05/01/001",
     "pu_name": "MARINE ROAD I",
     "name": "MARINE ROAD I",
@@ -33105,12 +32841,6 @@
     "state_code": "24"
   },
   {
-    "lga": "APAPA",
-    "ward": "APAPA I (MARINE RD. & ENVIRONS)",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/05/02/001",
     "pu_name": "AZARE CRESCENT/LIVERPOOL ROAD",
     "name": "AZARE CRESCENT/LIVERPOOL ROAD",
@@ -33321,12 +33051,6 @@
     "pu_code": "24/05/02/024",
     "pu_name": "OGEDENGBE ROAD /DAN FODIO ROAD/ ODUDUWA",
     "name": "OGEDENGBE ROAD /DAN FODIO ROAD/ ODUDUWA",
-    "lga": "APAPA",
-    "ward": "APAPA II (LIVERPOOL RD. AND ENVIRONS)",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "APAPA",
     "ward": "APAPA II (LIVERPOOL RD. AND ENVIRONS)",
     "state": "Lagos",
@@ -33552,12 +33276,6 @@
     "pu_code": "24/05/03/025",
     "pu_name": "OPEN SPACE BY OYEKAN ROAD",
     "name": "OPEN SPACE BY OYEKAN ROAD",
-    "lga": "APAPA",
-    "ward": "APAPA III (CREEK RD. TINCAN/SNAKE ISLAND",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "APAPA",
     "ward": "APAPA III (CREEK RD. TINCAN/SNAKE ISLAND",
     "state": "Lagos",
@@ -33852,12 +33570,6 @@
     "state_code": "24"
   },
   {
-    "lga": "APAPA",
-    "ward": "APAPA IV (PELEWURA CRESCENT AND ENVIRONS)",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/05/05/001",
     "pu_name": "IJORA CAUSE WAY OLOYE PRIMARY SCHOOL",
     "name": "IJORA CAUSE WAY OLOYE PRIMARY SCHOOL",
@@ -34113,12 +33825,6 @@
     "pu_code": "24/05/05/029",
     "pu_name": "OPEN SPACE BY NEPA QUARTERS",
     "name": "OPEN SPACE BY NEPA QUARTERS",
-    "lga": "APAPA",
-    "ward": "IJORA-OLOYE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "APAPA",
     "ward": "IJORA-OLOYE",
     "state": "Lagos",
@@ -34647,12 +34353,6 @@
     "state_code": "24"
   },
   {
-    "lga": "APAPA",
-    "ward": "OLODAN ST. OLOJOWOU ST/ALH.DOGO OLATOKUNBO ST. IGANMU",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/05/07/001",
     "pu_name": "AJOWA STREET BY HOUSE 10",
     "name": "AJOWA STREET BY HOUSE 10",
@@ -34908,12 +34608,6 @@
     "pu_code": "24/05/07/029",
     "pu_name": "OPEN SPACE MONKEY VILLAGE",
     "name": "OPEN SPACE MONKEY VILLAGE",
-    "lga": "APAPA",
-    "ward": "GASKIYA & ENVIRONS",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "APAPA",
     "ward": "GASKIYA & ENVIRONS",
     "state": "Lagos",
@@ -35433,12 +35127,6 @@
     "state_code": "24"
   },
   {
-    "lga": "APAPA",
-    "ward": "AFOLABI ALASIA STR. AND ENVIRONS",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/05/09/001",
     "pu_name": "ONIYIDE STREET",
     "name": "ONIYIDE STREET",
@@ -35730,12 +35418,6 @@
     "pu_code": "24/05/09/033",
     "pu_name": "JUNCTION OF KAYODE BY ESUGBAYI STREET",
     "name": "JUNCTION OF KAYODE BY ESUGBAYI STREET",
-    "lga": "APAPA",
-    "ward": "MALU ROAD AND ENVIRONS",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "APAPA",
     "ward": "MALU ROAD AND ENVIRONS",
     "state": "Lagos",
@@ -36174,12 +35856,6 @@
     "state_code": "24"
   },
   {
-    "lga": "APAPA",
-    "ward": "SARI AND ENVIRONS",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/06/01/001",
     "pu_name": "BADAGRY GRAMMAR SCHOOL I",
     "name": "BADAGRY GRAMMAR SCHOOL I",
@@ -36567,12 +36243,6 @@
     "state_code": "24"
   },
   {
-    "lga": "BADAGRY",
-    "ward": "POSUKOH",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/06/02/001",
     "pu_name": "IN FRONT OF OGUN COMP. HUNDEYIN",
     "name": "IN FRONT OF OGUN COMP. HUNDEYIN",
@@ -36855,12 +36525,6 @@
     "pu_code": "24/06/02/032",
     "pu_name": "OPEN SPACE UNDER THE TREE AT TOPO - ASCON ROAD.",
     "name": "OPEN SPACE UNDER THE TREE AT TOPO - ASCON ROAD.",
-    "lga": "BADAGRY",
-    "ward": "AWHANJIGOH",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "BADAGRY",
     "ward": "AWHANJIGOH",
     "state": "Lagos",
@@ -37443,12 +37107,6 @@
     "state_code": "24"
   },
   {
-    "lga": "BADAGRY",
-    "ward": "IBEREKO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/06/04/001",
     "pu_name": "JUNCTION OF JOFORO VILLAGE TO THE RIGHT SIDE OF JOFORO",
     "name": "JUNCTION OF JOFORO VILLAGE TO THE RIGHT SIDE OF JOFORO",
@@ -37614,12 +37272,6 @@
     "pu_code": "24/06/04/019",
     "pu_name": "OPEN SPACE AT GBAJI-YEKE VILLAGE",
     "name": "OPEN SPACE AT GBAJI-YEKE VILLAGE",
-    "lga": "BADAGRY",
-    "ward": "APA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "BADAGRY",
     "ward": "APA",
     "state": "Lagos",
@@ -38031,12 +37683,6 @@
     "state_code": "24"
   },
   {
-    "lga": "BADAGRY",
-    "ward": "KETA-EAST",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/06/06/001",
     "pu_name": "ANGLICAN PRY. SCHOOL ILADO",
     "name": "ANGLICAN PRY. SCHOOL ILADO",
@@ -38298,12 +37944,6 @@
     "state_code": "24"
   },
   {
-    "lga": "BADAGRY",
-    "ward": "IWORO GBANKO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/06/07/001",
     "pu_name": "INFRONT OF L.A PRY SCH, AJIDO",
     "name": "INFRONT OF L.A PRY SCH, AJIDO",
@@ -38433,12 +38073,6 @@
     "pu_code": "24/06/07/015",
     "pu_name": "UNDER MANGO TREE SIWOTEN - AJIDO",
     "name": "UNDER MANGO TREE SIWOTEN - AJIDO",
-    "lga": "BADAGRY",
-    "ward": "AJIDO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "BADAGRY",
     "ward": "AJIDO",
     "state": "Lagos",
@@ -39138,12 +38772,6 @@
     "state_code": "24"
   },
   {
-    "lga": "BADAGRY",
-    "ward": "ILOGBO-ARAROMI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/06/09/001",
     "pu_name": "FRONT OF CUSTOMARY COURT, POTA",
     "name": "FRONT OF CUSTOMARY COURT, POTA",
@@ -39426,12 +39054,6 @@
     "pu_code": "24/06/09/032",
     "pu_name": "OPEN SPACE AT GBENTO HALL AJIDO-EREKITI",
     "name": "OPEN SPACE AT GBENTO HALL AJIDO-EREKITI",
-    "lga": "BADAGRY",
-    "ward": "IKOGA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "BADAGRY",
     "ward": "IKOGA",
     "state": "Lagos",
@@ -39843,12 +39465,6 @@
     "state_code": "24"
   },
   {
-    "lga": "BADAGRY",
-    "ward": "AJARA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/06/11/001",
     "pu_name": "OPEN SPACE AT TAKO  VILLAGE",
     "name": "OPEN SPACE AT TAKO  VILLAGE",
@@ -39942,12 +39558,6 @@
     "pu_code": "24/06/11/011",
     "pu_name": "BESIDE BORE HOLE AT ZUNGBOJI-IYAFIN",
     "name": "BESIDE BORE HOLE AT ZUNGBOJI-IYAFIN",
-    "lga": "BADAGRY",
-    "ward": "IYA-AFIN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "BADAGRY",
     "ward": "IYA-AFIN",
     "state": "Lagos",
@@ -40092,12 +39702,6 @@
     "pu_code": "24/07/01/016",
     "pu_name": "MATERNITY CENTRE",
     "name": "MATERNITY CENTRE",
-    "lga": "EPE",
-    "ward": "ETITA/EBODE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "EPE",
     "ward": "ETITA/EBODE",
     "state": "Lagos",
@@ -40302,12 +39906,6 @@
     "state_code": "24"
   },
   {
-    "lga": "EPE",
-    "ward": "LAGBADE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/07/03/001",
     "pu_name": "ST. MICHAEL ANG. SCH. EPE I",
     "name": "ST. MICHAEL ANG. SCH. EPE I",
@@ -40392,12 +39990,6 @@
     "pu_code": "24/07/03/010",
     "pu_name": "INFRONT OF NO. 18, OKE-IPOSUN STR.",
     "name": "INFRONT OF NO. 18, OKE-IPOSUN STR.",
-    "lga": "EPE",
-    "ward": "POPO-OBA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "EPE",
     "ward": "POPO-OBA",
     "state": "Lagos",
@@ -40569,12 +40161,6 @@
     "pu_code": "24/07/04/019",
     "pu_name": "ARMY BARRACKS PRY. SCHOOL,  EPE",
     "name": "ARMY BARRACKS PRY. SCHOOL,  EPE",
-    "lga": "EPE",
-    "ward": "OKE-BALOGUN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "EPE",
     "ward": "OKE-BALOGUN",
     "state": "Lagos",
@@ -41121,12 +40707,6 @@
     "state_code": "24"
   },
   {
-    "lga": "EPE",
-    "ward": "AJAGANABE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/07/06/001",
     "pu_name": "L.G. PRY. SCH. ISE I",
     "name": "L.G. PRY. SCH. ISE I",
@@ -41310,12 +40890,6 @@
     "pu_code": "24/07/06/021",
     "pu_name": "IYEWU VILLAGE",
     "name": "IYEWU VILLAGE",
-    "lga": "EPE",
-    "ward": "ISE/IGBOGUN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "EPE",
     "ward": "ISE/IGBOGUN",
     "state": "Lagos",
@@ -41541,12 +41115,6 @@
     "pu_code": "24/07/07/025",
     "pu_name": "LG. PRY SCH ITO-OMU II",
     "name": "LG. PRY SCH ITO-OMU II",
-    "lga": "EPE",
-    "ward": "ORIBA/LADABA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "EPE",
     "ward": "ORIBA/LADABA",
     "state": "Lagos",
@@ -41913,12 +41481,6 @@
     "state_code": "24"
   },
   {
-    "lga": "EPE",
-    "ward": "ABOMITI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/07/09/001",
     "pu_name": "BESIDE CENTRAL MOSQUE AGBOWA I",
     "name": "BESIDE CENTRAL MOSQUE AGBOWA I",
@@ -42027,12 +41589,6 @@
     "state_code": "24"
   },
   {
-    "lga": "EPE",
-    "ward": "AGBOWA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/07/10/001",
     "pu_name": "IN FRONT OF NO. 66 OKE-POPO ST.",
     "name": "IN FRONT OF NO. 66 OKE-POPO ST.",
@@ -42126,12 +41682,6 @@
     "pu_code": "24/07/10/011",
     "pu_name": "BESIDE NO., 5, AYEGBAMI STR",
     "name": "BESIDE NO., 5, AYEGBAMI STR",
-    "lga": "EPE",
-    "ward": "AGBOWA IKOSI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "EPE",
     "ward": "AGBOWA IKOSI",
     "state": "Lagos",
@@ -42246,12 +41796,6 @@
     "state_code": "24"
   },
   {
-    "lga": "EPE",
-    "ward": "AGO OWU",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/07/12/001",
     "pu_name": "ANG. PRY. SCH. AJEBO",
     "name": "ANG. PRY. SCH. AJEBO",
@@ -42291,12 +41835,6 @@
     "pu_code": "24/07/12/005",
     "pu_name": "R.C.M. PRY. SCH. ORUGBO",
     "name": "R.C.M. PRY. SCH. ORUGBO",
-    "lga": "EPE",
-    "ward": "ORUGBO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "EPE",
     "ward": "ORUGBO",
     "state": "Lagos",
@@ -42501,12 +42039,6 @@
     "state_code": "24"
   },
   {
-    "lga": "EPE",
-    "ward": "ILARA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/07/14/001",
     "pu_name": "IN FRONT OF TOWN HALL ODOSIWOLA",
     "name": "IN FRONT OF TOWN HALL ODOSIWOLA",
@@ -42636,12 +42168,6 @@
     "pu_code": "24/07/14/015",
     "pu_name": "IN FRONT OF TOWN HALL ODOSI WOLA",
     "name": "IN FRONT OF TOWN HALL ODOSI WOLA",
-    "lga": "EPE",
-    "ward": "IBONWON",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "EPE",
     "ward": "IBONWON",
     "state": "Lagos",
@@ -42786,12 +42312,6 @@
     "pu_code": "24/07/15/016",
     "pu_name": "ST. PATRICK GRAMM. SCH. EREDO",
     "name": "ST. PATRICK GRAMM. SCH. EREDO",
-    "lga": "EPE",
-    "ward": "ODORAGUNSIN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "EPE",
     "ward": "ODORAGUNSIN",
     "state": "Lagos",
@@ -42981,12 +42501,6 @@
     "pu_code": "24/07/16/021",
     "pu_name": "INFRONT OF NO.  4 VIGILANTE HOUSE, ODOSIWOLOYE",
     "name": "INFRONT OF NO.  4 VIGILANTE HOUSE, ODOSIWOLOYE",
-    "lga": "EPE",
-    "ward": "POKA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "EPE",
     "ward": "POKA",
     "state": "Lagos",
@@ -43209,12 +42723,6 @@
     "state_code": "24"
   },
   {
-    "lga": "EPE",
-    "ward": "ODOMOLA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/07/18/001",
     "pu_name": "R.C.M. PRY. SCH. KETU",
     "name": "R.C.M. PRY. SCH. KETU",
@@ -43281,12 +42789,6 @@
     "pu_code": "24/07/18/008",
     "pu_name": "INSIDE KETU GARAGE",
     "name": "INSIDE KETU GARAGE",
-    "lga": "EPE",
-    "ward": "EJIRIN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "EPE",
     "ward": "EJIRIN",
     "state": "Lagos",
@@ -43422,12 +42924,6 @@
     "pu_code": "24/07/19/015",
     "pu_name": "ANG. PRY. SCH. SEKUNGBA",
     "name": "ANG. PRY. SCH. SEKUNGBA",
-    "lga": "EPE",
-    "ward": "ITOIKIN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "EPE",
     "ward": "ITOIKIN",
     "state": "Lagos",
@@ -44103,12 +43599,6 @@
     "pu_code": "24/08/01/075",
     "pu_name": "14, KASUMU EKEMODE STR.",
     "name": "14, KASUMU EKEMODE STR.",
-    "lga": "ETI-OSA",
-    "ward": "VICTORIA ISLAND I",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "ETI-OSA",
     "ward": "VICTORIA ISLAND I",
     "state": "Lagos",
@@ -44979,12 +44469,6 @@
     "state_code": "24"
   },
   {
-    "lga": "ETI-OSA",
-    "ward": "VICTORIA ISLAND II",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/08/03/001",
     "pu_name": "ELF ALAGUNTAN",
     "name": "ELF ALAGUNTAN",
@@ -45510,12 +44994,6 @@
     "pu_code": "24/08/03/059",
     "pu_name": "BARUWA TOWN BY BARUWA (TRANSFORMER)",
     "name": "BARUWA TOWN BY BARUWA (TRANSFORMER)",
-    "lga": "ETI-OSA",
-    "ward": "ILASAN HOUSING ESTATE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "ETI-OSA",
     "ward": "ILASAN HOUSING ESTATE",
     "state": "Lagos",
@@ -46656,12 +46134,6 @@
     "state_code": "24"
   },
   {
-    "lga": "ETI-OSA",
-    "ward": "LEKKI/IKATE AND ENVIRONS",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/08/05/001",
     "pu_name": "IGBO-EFON TOWN I (IGBO-EFON VILLAGE I)",
     "name": "IGBO-EFON TOWN I (IGBO-EFON VILLAGE I)",
@@ -47319,12 +46791,6 @@
     "state_code": "24"
   },
   {
-    "lga": "ETI-OSA",
-    "ward": "ILADO/ETI-OSA AND ENVIRONS",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/08/06/001",
     "pu_name": "AJAH PRY. SCHOOL I",
     "name": "AJAH PRY. SCHOOL I",
@@ -47928,12 +47394,6 @@
     "state_code": "24"
   },
   {
-    "lga": "ETI-OSA",
-    "ward": "AJAH/SANGOTEDO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/08/07/001",
     "pu_name": "ADDO PRY. SCH. I",
     "name": "ADDO PRY. SCH. I",
@@ -48411,12 +47871,6 @@
     "state_code": "24"
   },
   {
-    "lga": "ETI-OSA",
-    "ward": "ADO/LANGBASA/BADORE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/08/08/001",
     "pu_name": "ADEMOLA OLOKUN",
     "name": "ADEMOLA OLOKUN",
@@ -48825,12 +48279,6 @@
     "pu_code": "24/08/08/046",
     "pu_name": "173, ISALE EKO WAY",
     "name": "173, ISALE EKO WAY",
-    "lga": "ETI-OSA",
-    "ward": "IKOYI I",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "ETI-OSA",
     "ward": "IKOYI I",
     "state": "Lagos",
@@ -49440,12 +48888,6 @@
     "state_code": "24"
   },
   {
-    "lga": "ETI-OSA",
-    "ward": "IKOYI II",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/08/10/001",
     "pu_name": "OBALENDE PRY. SCH. I",
     "name": "OBALENDE PRY. SCH. I",
@@ -50013,12 +49455,6 @@
     "state_code": "24"
   },
   {
-    "lga": "ETI-OSA",
-    "ward": "OBALENDE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/09/01/001",
     "pu_name": "PREMISES OF RCM SCH. OKEGUN",
     "name": "PREMISES OF RCM SCH. OKEGUN",
@@ -50199,12 +49635,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IBEJU/LEKKI",
-    "ward": "IBEJU I",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/09/02/001",
     "pu_name": "OPEN SPACE AT EGAN FOWOBI(OPEN SPACE IN FORNT OF BAALE'S HOUSE AT EGAN FOWOBI)",
     "name": "OPEN SPACE AT EGAN FOWOBI(OPEN SPACE IN FORNT OF BAALE'S HOUSE AT EGAN FOWOBI)",
@@ -50370,12 +49800,6 @@
     "pu_code": "24/09/02/019",
     "pu_name": "INFRONT OF OKEOLOKUN TOWN HALL",
     "name": "INFRONT OF OKEOLOKUN TOWN HALL",
-    "lga": "IBEJU/LEKKI",
-    "ward": "N2, (IBEJU II)",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IBEJU/LEKKI",
     "ward": "N2, (IBEJU II)",
     "state": "Lagos",
@@ -50571,12 +49995,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IBEJU/LEKKI",
-    "ward": "ORIMEDU I",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/09/04/001",
     "pu_name": "PREMISES OF C.P.S. IBERIKODO",
     "name": "PREMISES OF C.P.S. IBERIKODO",
@@ -50721,12 +50139,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IBEJU/LEKKI",
-    "ward": "02, (ORIMEDU II)",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/09/05/001",
     "pu_name": "OPEN SPACE AT SOLU ORUMIJA(OPEN SPACE IN FRONT OF BAALE'S HOUSE AT SOLU ORUMMIJA)",
     "name": "OPEN SPACE AT SOLU ORUMIJA(OPEN SPACE IN FRONT OF BAALE'S HOUSE AT SOLU ORUMMIJA)",
@@ -50856,12 +50268,6 @@
     "pu_code": "24/09/05/015",
     "pu_name": "OPEN SPACE IN FRONT OF HOUSE NO. 7 OLORUNSOGO STREET, ELEEKO",
     "name": "OPEN SPACE IN FRONT OF HOUSE NO. 7 OLORUNSOGO STREET, ELEEKO",
-    "lga": "IBEJU/LEKKI",
-    "ward": "03, (ORIMEDU III)",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IBEJU/LEKKI",
     "ward": "03, (ORIMEDU III)",
     "state": "Lagos",
@@ -51372,12 +50778,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IBEJU/LEKKI",
-    "ward": "P1, (IWEREKUN I)",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/09/07/001",
     "pu_name": "PREMISES OF L.G. SCH. BOGIJE",
     "name": "PREMISES OF L.G. SCH. BOGIJE",
@@ -51648,12 +51048,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IBEJU/LEKKI",
-    "ward": "IWEREKUN II",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/09/08/001",
     "pu_name": "PREMISES OF C.H.S. LEKKI - I",
     "name": "PREMISES OF C.H.S. LEKKI - I",
@@ -51756,12 +51150,6 @@
     "pu_code": "24/09/08/012",
     "pu_name": "ST. DAVID ANGLICAN PRIMARY SCHOOL OSOROKO",
     "name": "ST. DAVID ANGLICAN PRIMARY SCHOOL OSOROKO",
-    "lga": "IBEJU/LEKKI",
-    "ward": "S1, (LEKKI I)",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IBEJU/LEKKI",
     "ward": "S1, (LEKKI I)",
     "state": "Lagos",
@@ -51885,12 +51273,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IBEJU/LEKKI",
-    "ward": "LEKKI II",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/09/10/001",
     "pu_name": "PREMISES OF U.P.E. SIRIWON",
     "name": "PREMISES OF U.P.E. SIRIWON",
@@ -52008,12 +51390,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IBEJU/LEKKI",
-    "ward": "S2, (SIRIWON/IGBEKODO I)",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/09/11/001",
     "pu_name": "PREMISES OF C.P.S. OTOLU I",
     "name": "PREMISES OF C.P.S. OTOLU I",
@@ -52107,12 +51483,6 @@
     "pu_code": "24/09/11/011",
     "pu_name": "PREMISES OF R.C.M. SCH. IDATA",
     "name": "PREMISES OF R.C.M. SCH. IDATA",
-    "lga": "IBEJU/LEKKI",
-    "ward": "S,2A (SIRIWON/IGBEKODO II)",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IBEJU/LEKKI",
     "ward": "S,2A (SIRIWON/IGBEKODO II)",
     "state": "Lagos",
@@ -52464,12 +51834,6 @@
     "pu_code": "24/10/01/039",
     "pu_name": "13, OSHIYEMI STREET, OGBA",
     "name": "13, OSHIYEMI STREET, OGBA",
-    "lga": "IFAKO-IJAYE",
-    "ward": "IJAYE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IFAKO-IJAYE",
     "ward": "IJAYE",
     "state": "Lagos",
@@ -52893,12 +52257,6 @@
     "pu_code": "24/10/02/047",
     "pu_name": "PELE JUNCTION/BAOKU STR.",
     "name": "PELE JUNCTION/BAOKU STR.",
-    "lga": "IFAKO-IJAYE",
-    "ward": "OLD IFAKO/KARAOLE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IFAKO-IJAYE",
     "ward": "OLD IFAKO/KARAOLE",
     "state": "Lagos",
@@ -53643,12 +53001,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IFAKO-IJAYE",
-    "ward": "NEW IFAKO/OYEMEKUN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/10/04/001",
     "pu_name": "41, OLD AKUTE ROAD IJU",
     "name": "41, OLD AKUTE ROAD IJU",
@@ -53913,12 +53265,6 @@
     "pu_code": "24/10/04/030",
     "pu_name": "JUNC. AKINTE STR/NDIKE OBAWOLE",
     "name": "JUNC. AKINTE STR/NDIKE OBAWOLE",
-    "lga": "IFAKO-IJAYE",
-    "ward": "FAGBA/AKUTE ROAD",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IFAKO-IJAYE",
     "ward": "FAGBA/AKUTE ROAD",
     "state": "Lagos",
@@ -54573,12 +53919,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IFAKO-IJAYE",
-    "ward": "IJU ISAGA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/10/06/001",
     "pu_name": "326, IJU WATER WORKS ROAD, IJU",
     "name": "326, IJU WATER WORKS ROAD, IJU",
@@ -55101,12 +54441,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IFAKO-IJAYE",
-    "ward": "IJU-OBAWOLE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/10/07/001",
     "pu_name": "20, PIPE-LINE ROAD, NEW OKO-OBA",
     "name": "20, PIPE-LINE ROAD, NEW OKO-OBA",
@@ -55614,12 +54948,6 @@
     "pu_code": "24/10/07/057",
     "pu_name": "BY THE GATE OF DA-SILVER ESTATE OLD ABEOKUTA MOTOR RD",
     "name": "BY THE GATE OF DA-SILVER ESTATE OLD ABEOKUTA MOTOR RD",
-    "lga": "IFAKO-IJAYE",
-    "ward": "PAMADA/ABULE-EGBA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IFAKO-IJAYE",
     "ward": "PAMADA/ABULE-EGBA",
     "state": "Lagos",
@@ -57066,12 +56394,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IFAKO-IJAYE",
-    "ward": "IJAIYE/OJOKORO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/10/09/001",
     "pu_name": "IJAIYE OJOKORO HIGH SCHOOL",
     "name": "IJAIYE OJOKORO HIGH SCHOOL",
@@ -58152,12 +57474,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IFAKO-IJAYE",
-    "ward": "IJAIYE/AGBADO/KOLLINGTON",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/10/10/001",
     "pu_name": "1, OLUWASEYI ST, ALAGBADO",
     "name": "1, OLUWASEYI ST, ALAGBADO",
@@ -58575,12 +57891,6 @@
     "pu_code": "24/10/10/047",
     "pu_name": "ENTRANCE OF OLANIYI STR OFF LAMINA GANIU RD",
     "name": "ENTRANCE OF OLANIYI STR OFF LAMINA GANIU RD",
-    "lga": "IFAKO-IJAYE",
-    "ward": "ALAKUKO/KOLLINGTON",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IFAKO-IJAYE",
     "ward": "ALAKUKO/KOLLINGTON",
     "state": "Lagos",
@@ -59028,12 +58338,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IFAKO-IJAYE",
-    "ward": "AJEGUNLE/AKINDE/ANIMASHAUN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/11/01/001",
     "pu_name": "ANIFOWOSHE PRY. SCH.",
     "name": "ANIFOWOSHE PRY. SCH.",
@@ -59451,12 +58755,6 @@
     "pu_code": "24/11/01/047",
     "pu_name": "IN FRONT OF IKEJA LOCAL GOVT, OFFICE",
     "name": "IN FRONT OF IKEJA LOCAL GOVT, OFFICE",
-    "lga": "IKEJA",
-    "ward": "ANIFOWOSHE/IKEJA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKEJA",
     "ward": "ANIFOWOSHE/IKEJA",
     "state": "Lagos",
@@ -60552,12 +59850,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IKEJA",
-    "ward": "OJODU/AGIDINGBI/OMOLE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/11/03/001",
     "pu_name": "JUNCTION OF FAGBOHUN/BELLO ST.",
     "name": "JUNCTION OF FAGBOHUN/BELLO ST.",
@@ -61332,12 +60624,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IKEJA",
-    "ward": "ALAUSA/OREGUN/OLUSOSUN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/11/04/001",
     "pu_name": "IN FRONT OF BLK. D21 N.A.A QTRS.",
     "name": "IN FRONT OF BLK. D21 N.A.A QTRS.",
@@ -61665,12 +60951,6 @@
     "pu_code": "24/11/04/037",
     "pu_name": "IN FRONT OF NO.8 VALLEY VIEW STREET",
     "name": "IN FRONT OF NO.8 VALLEY VIEW STREET",
-    "lga": "IKEJA",
-    "ward": "AIRPORT/ONIPETESI/ONILEKERE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKEJA",
     "ward": "AIRPORT/ONIPETESI/ONILEKERE",
     "state": "Lagos",
@@ -62379,12 +61659,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IKEJA",
-    "ward": "IPODO/SERIKI ARO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/11/06/001",
     "pu_name": "OPEN SPACE AT MURI BUSARI ST. I",
     "name": "OPEN SPACE AT MURI BUSARI ST. I",
@@ -62721,12 +61995,6 @@
     "pu_code": "24/11/06/038",
     "pu_name": "DOWN AGBALAJOBI ESTATE",
     "name": "DOWN AGBALAJOBI ESTATE",
-    "lga": "IKEJA",
-    "ward": "ADEKUNLE VILL./ADENIYI JONES/OGBA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKEJA",
     "ward": "ADEKUNLE VILL./ADENIYI JONES/OGBA",
     "state": "Lagos",
@@ -63633,12 +62901,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IKEJA",
-    "ward": "OKE-IRA/AGUDA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/11/08/001",
     "pu_name": "ALONG OLORUNSOLA ST.",
     "name": "ALONG OLORUNSOLA ST.",
@@ -64098,12 +63360,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IKEJA",
-    "ward": "ONIGBONGBO/MILITARY CANTONMENT",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/11/09/001",
     "pu_name": "POLICE STATION GATE RESIDE ADEBAYO NIDOGAS",
     "name": "POLICE STATION GATE RESIDE ADEBAYO NIDOGAS",
@@ -64539,12 +63795,6 @@
     "pu_code": "24/11/09/049",
     "pu_name": "POLICE MICRO FINANCE BANK OPP ARCH BISHOP VINNING CHURCH",
     "name": "POLICE MICRO FINANCE BANK OPP ARCH BISHOP VINNING CHURCH",
-    "lga": "IKEJA",
-    "ward": "GRA/POLICE BARRACKS",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKEJA",
     "ward": "GRA/POLICE BARRACKS",
     "state": "Lagos",
@@ -65085,12 +64335,6 @@
     "pu_code": "24/11/10/060",
     "pu_name": "ENTRANCE OF ABEL  OYENIYI STR  BEHIND OPEBI GRAMMAR SCH",
     "name": "ENTRANCE OF ABEL  OYENIYI STR  BEHIND OPEBI GRAMMAR SCH",
-    "lga": "IKEJA",
-    "ward": "WASIMI/OPEBI/ALLEN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKEJA",
     "ward": "WASIMI/OPEBI/ALLEN",
     "state": "Lagos",
@@ -65961,12 +65205,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IKORODU",
-    "ward": "ISELE I",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/12/02/001",
     "pu_name": "JUNCTION OF OGUNFILE/RADEMO ST. IKD.",
     "name": "JUNCTION OF OGUNFILE/RADEMO ST. IKD.",
@@ -66174,12 +65412,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IKORODU",
-    "ward": "ISELE II",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/12/03/001",
     "pu_name": "OPPOSITE 31, EGUNAIYA ST. IKD.",
     "name": "OPPOSITE 31, EGUNAIYA ST. IKD.",
@@ -66381,12 +65613,6 @@
     "pu_code": "24/12/03/023",
     "pu_name": "SHAMSEL DEEN GRAMMAR SCHOOL, IKORODU. II",
     "name": "SHAMSEL DEEN GRAMMAR SCHOOL, IKORODU. II",
-    "lga": "IKORODU",
-    "ward": "ISELE III",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKORODU",
     "ward": "ISELE III",
     "state": "Lagos",
@@ -66891,12 +66117,6 @@
     "pu_code": "24/12/04/056",
     "pu_name": "1, OGUNNEYE ST, OFF OBAFEMI AWOLOWO WAY, OKE OTA ONA, IKORODU",
     "name": "1, OGUNNEYE ST, OFF OBAFEMI AWOLOWO WAY, OKE OTA ONA, IKORODU",
-    "lga": "IKORODU",
-    "ward": "AGA/IJIMU",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKORODU",
     "ward": "AGA/IJIMU",
     "state": "Lagos",
@@ -67614,12 +66834,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IKORODU",
-    "ward": "IPAKODO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/12/06/001",
     "pu_name": "JUNCTION OF ITUNMAJA/OWOYELE ST. IMOTA",
     "name": "JUNCTION OF ITUNMAJA/OWOYELE ST. IMOTA",
@@ -67749,12 +66963,6 @@
     "pu_code": "24/12/06/015",
     "pu_name": "U.P.E PLAYING GROUND IMOTA",
     "name": "U.P.E PLAYING GROUND IMOTA",
-    "lga": "IKORODU",
-    "ward": "IMOTA 1",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKORODU",
     "ward": "IMOTA 1",
     "state": "Lagos",
@@ -68013,12 +67221,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IKORODU",
-    "ward": "IMOTA II",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/12/08/001",
     "pu_name": "WITHIN ADAMO VILLAGE",
     "name": "WITHIN ADAMO VILLAGE",
@@ -68121,12 +67323,6 @@
     "pu_code": "24/12/08/012",
     "pu_name": "LG PRIMARY SCHOOL, ISIU II",
     "name": "LG PRIMARY SCHOOL, ISIU II",
-    "lga": "IKORODU",
-    "ward": "ISIU",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKORODU",
     "ward": "ISIU",
     "state": "Lagos",
@@ -68397,12 +67593,6 @@
     "pu_code": "24/12/09/030",
     "pu_name": "INFRONT OF AFOLAWO STREET, ALONG OFFIN / ORETA ROAD, IGBOGBO",
     "name": "INFRONT OF AFOLAWO STREET, ALONG OFFIN / ORETA ROAD, IGBOGBO",
-    "lga": "IKORODU",
-    "ward": "IGBOGBO I",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKORODU",
     "ward": "IGBOGBO I",
     "state": "Lagos",
@@ -68814,12 +68004,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IKORODU",
-    "ward": "IGBOGBO II",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/12/11/001",
     "pu_name": "COMMUNITY GRAMMAR SCHOOL BAIYEKU I",
     "name": "COMMUNITY GRAMMAR SCHOOL BAIYEKU I",
@@ -69075,12 +68259,6 @@
     "pu_code": "24/12/11/029",
     "pu_name": "OKUNUGA ROUND ABOUT, OFFIN-ILE",
     "name": "OKUNUGA ROUND ABOUT, OFFIN-ILE",
-    "lga": "IKORODU",
-    "ward": "BAIYEKU/ORETA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKORODU",
     "ward": "BAIYEKU/ORETA",
     "state": "Lagos",
@@ -69348,12 +68526,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IKORODU",
-    "ward": "IBESHE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/12/13/001",
     "pu_name": "WITHIN OJU OGUN, IJEDE",
     "name": "WITHIN OJU OGUN, IJEDE",
@@ -69537,12 +68709,6 @@
     "pu_code": "24/12/13/021",
     "pu_name": "OPEN FIELD OPPOSITE POWER FIELD PRY SCHOOL",
     "name": "OPEN FIELD OPPOSITE POWER FIELD PRY SCHOOL",
-    "lga": "IKORODU",
-    "ward": "IJEDE J",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKORODU",
     "ward": "IJEDE J",
     "state": "Lagos",
@@ -69786,12 +68952,6 @@
     "pu_code": "24/12/14/027",
     "pu_name": "IJEDE TOWN HALL, IJEDE",
     "name": "IJEDE TOWN HALL, IJEDE",
-    "lga": "IKORODU",
-    "ward": "IJEDE II",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKORODU",
     "ward": "IJEDE II",
     "state": "Lagos",
@@ -70098,12 +69258,6 @@
     "pu_code": "24/12/15/034",
     "pu_name": "WITHIN CPI  JUNCTION AGURA",
     "name": "WITHIN CPI  JUNCTION AGURA",
-    "lga": "IKORODU",
-    "ward": "AGURA/IPONMI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKORODU",
     "ward": "AGURA/IPONMI",
     "state": "Lagos",
@@ -70695,12 +69849,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IKORODU",
-    "ward": "ODOGUNYAN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/12/17/001",
     "pu_name": "WITHIN ITAMAGA VILLAGE 1",
     "name": "WITHIN ITAMAGA VILLAGE 1",
@@ -70866,12 +70014,6 @@
     "pu_code": "24/12/17/019",
     "pu_name": "AFRICAN BETHEL PRY. SCHOOL, MAYA II",
     "name": "AFRICAN BETHEL PRY. SCHOOL, MAYA II",
-    "lga": "IKORODU",
-    "ward": "ERIKORODU",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKORODU",
     "ward": "ERIKORODU",
     "state": "Lagos",
@@ -71265,12 +70407,6 @@
     "state_code": "24"
   },
   {
-    "lga": "IKORODU",
-    "ward": "AGBALA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/12/19/001",
     "pu_name": "WITHIN MOJODA VILLAGE",
     "name": "WITHIN MOJODA VILLAGE",
@@ -71337,12 +70473,6 @@
     "pu_code": "24/12/19/008",
     "pu_name": "BESIDE PUBLIC TANK WITHIN LIADI VILLAGE",
     "name": "BESIDE PUBLIC TANK WITHIN LIADI VILLAGE",
-    "lga": "IKORODU",
-    "ward": "OLORUNDA/IGBAGA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "IKORODU",
     "ward": "OLORUNDA/IGBAGA",
     "state": "Lagos",
@@ -72150,12 +71280,6 @@
     "state_code": "24"
   },
   {
-    "lga": "KOSOFE",
-    "ward": "OWORONSHOKI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/13/02/001",
     "pu_name": "JUNCTION OF DIYA ST./IDOWU AJAYI ST.",
     "name": "JUNCTION OF DIYA ST./IDOWU AJAYI ST.",
@@ -72867,12 +71991,6 @@
     "state_code": "24"
   },
   {
-    "lga": "KOSOFE",
-    "ward": "IFAKO/SOLUYI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/13/03/001",
     "pu_name": "JUNCTION OF SYLVIA CRESCENT/WILLIAMS CAREW ST.",
     "name": "JUNCTION OF SYLVIA CRESCENT/WILLIAMS CAREW ST.",
@@ -73326,12 +72444,6 @@
     "pu_code": "24/13/03/051",
     "pu_name": "SOBO SIFFRE RD, HOUSE NO 11, MENDE",
     "name": "SOBO SIFFRE RD, HOUSE NO 11, MENDE",
-    "lga": "KOSOFE",
-    "ward": "ANTHONY/AJAO ESTATE/MENDE/MARYLAND",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "KOSOFE",
     "ward": "ANTHONY/AJAO ESTATE/MENDE/MARYLAND",
     "state": "Lagos",
@@ -74367,12 +73479,6 @@
     "pu_code": "24/13/04/115",
     "pu_name": "BUARI ST, HOUSE NO. 15",
     "name": "BUARI ST, HOUSE NO. 15",
-    "lga": "KOSOFE",
-    "ward": "OJOTA/OGUDU",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "KOSOFE",
     "ward": "OJOTA/OGUDU",
     "state": "Lagos",
@@ -75984,12 +75090,6 @@
     "pu_code": "24/13/05/179",
     "pu_name": "7, GANIYU CLOSE ILE  EJA",
     "name": "7, GANIYU CLOSE ILE  EJA",
-    "lga": "KOSOFE",
-    "ward": "KETU/ALAPERE/AGIDI/ORISIGUN/KOSOFE/AJELOGO/AKANIMODO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "KOSOFE",
     "ward": "KETU/ALAPERE/AGIDI/ORISIGUN/KOSOFE/AJELOGO/AKANIMODO",
     "state": "Lagos",
@@ -77724,12 +76824,6 @@
     "state_code": "24"
   },
   {
-    "lga": "KOSOFE",
-    "ward": "IKOSI KETU/MILE 12/AGILITI/MAIDAN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/13/07/001",
     "pu_name": "JUNCTION OF ASSOCIATION AVENUE/ADEYEMI ST.",
     "name": "JUNCTION OF ASSOCIATION AVENUE/ADEYEMI ST.",
@@ -78846,12 +77940,6 @@
     "state_code": "24"
   },
   {
-    "lga": "KOSOFE",
-    "ward": "ISHERI-OLOWO-IRA/SHANGISHA/MAGODO PHASE I & II",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/13/08/001",
     "pu_name": "AGBOYI PRY. SCHOOL I",
     "name": "AGBOYI PRY. SCHOOL I",
@@ -78906,12 +77994,6 @@
     "state_code": "24"
   },
   {
-    "lga": "KOSOFE",
-    "ward": "AGBOYI I",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/13/09/001",
     "pu_name": "ITA BAALE, AGBOYI II",
     "name": "ITA BAALE, AGBOYI II",
@@ -78951,12 +78033,6 @@
     "pu_code": "24/13/09/005",
     "pu_name": "OPEN SPACE NEAR BAALE'S COMPOUND",
     "name": "OPEN SPACE NEAR BAALE'S COMPOUND",
-    "lga": "KOSOFE",
-    "ward": "AGBOYI II",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "KOSOFE",
     "ward": "AGBOYI II",
     "state": "Lagos",
@@ -79494,12 +78570,6 @@
     "state_code": "24"
   },
   {
-    "lga": "KOSOFE",
-    "ward": "OWODE ONIRIN/AJEGUNLE/ODO-OGUN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/14/01/001",
     "pu_name": "ST. JOSEPH CATH. SCH. I",
     "name": "ST. JOSEPH CATH. SCH. I",
@@ -79707,12 +78777,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS ISLAND",
-    "ward": "OLOWOGBOWO/ELEGBATA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/14/02/001",
     "pu_name": "ABIBU OKI/TAIWO ST. I",
     "name": "ABIBU OKI/TAIWO ST. I",
@@ -79860,12 +78924,6 @@
     "pu_code": "24/14/02/017",
     "pu_name": "FRONT OF OLUWOLE URBAN MALL",
     "name": "FRONT OF OLUWOLE URBAN MALL",
-    "lga": "LAGOS ISLAND",
-    "ward": "OLUWOLE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS ISLAND",
     "ward": "OLUWOLE",
     "state": "Lagos",
@@ -80100,12 +79158,6 @@
     "pu_code": "24/14/03/026",
     "pu_name": "OPPOSITE SUNTRUST BANK EREKO STR",
     "name": "OPPOSITE SUNTRUST BANK EREKO STR",
-    "lga": "LAGOS ISLAND",
-    "ward": "IDUMOTA/OKE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS ISLAND",
     "ward": "IDUMOTA/OKE",
     "state": "Lagos",
@@ -80382,12 +79434,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS ISLAND",
-    "ward": "OJU-OTO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/14/05/001",
     "pu_name": "ASANI/IDEWUOLO JUNCTION",
     "name": "ASANI/IDEWUOLO JUNCTION",
@@ -80559,12 +79605,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS ISLAND",
-    "ward": "OKO-AWO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/14/06/001",
     "pu_name": "OBADINA/IDOWU JUNCTION",
     "name": "OBADINA/IDOWU JUNCTION",
@@ -80694,12 +79734,6 @@
     "pu_code": "24/14/06/015",
     "pu_name": "N/AZIKIWE/FOLAWIYO JUNCTION",
     "name": "N/AZIKIWE/FOLAWIYO JUNCTION",
-    "lga": "LAGOS ISLAND",
-    "ward": "AGARAWU/OBADINA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS ISLAND",
     "ward": "AGARAWU/OBADINA",
     "state": "Lagos",
@@ -80922,12 +79956,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS ISLAND",
-    "ward": "IDUNTAFA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/14/08/001",
     "pu_name": "ISALE EKO GRAM. SCH. OJO GIWA I",
     "name": "ISALE EKO GRAM. SCH. OJO GIWA I",
@@ -81135,12 +80163,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS ISLAND",
-    "ward": "ILUPESI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/14/09/001",
     "pu_name": "ST. JOHN SCH. AROLOYA I",
     "name": "ST. JOHN SCH. AROLOYA I",
@@ -81252,12 +80274,6 @@
     "pu_code": "24/14/09/013",
     "pu_name": "4 COLLINS LANE",
     "name": "4 COLLINS LANE",
-    "lga": "LAGOS ISLAND",
-    "ward": "ISALE-AGBEDE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS ISLAND",
     "ward": "ISALE-AGBEDE",
     "state": "Lagos",
@@ -81417,12 +80433,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS ISLAND",
-    "ward": "OLOSUN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/14/11/001",
     "pu_name": "ST. PETERS FAJI, AJELE I",
     "name": "ST. PETERS FAJI, AJELE I",
@@ -81549,12 +80559,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS ISLAND",
-    "ward": "OLUSHI/KAKAWA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/14/12/001",
     "pu_name": "METHODIST BOYS HIGH SCH. BROAD ST.",
     "name": "METHODIST BOYS HIGH SCH. BROAD ST.",
@@ -81621,12 +80625,6 @@
     "pu_code": "24/14/12/008",
     "pu_name": "IN FRONT OF CAMPOS STADIUM, CAMPBELL STR",
     "name": "IN FRONT OF CAMPOS STADIUM, CAMPBELL STR",
-    "lga": "LAGOS ISLAND",
-    "ward": "POPO-AGUDA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS ISLAND",
     "ward": "POPO-AGUDA",
     "state": "Lagos",
@@ -81753,12 +80751,6 @@
     "pu_code": "24/14/13/014",
     "pu_name": "ANIKANTAMO/OLOWU JUNCTION",
     "name": "ANIKANTAMO/OLOWU JUNCTION",
-    "lga": "LAGOS ISLAND",
-    "ward": "ANIKANTAMO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS ISLAND",
     "ward": "ANIKANTAMO",
     "state": "Lagos",
@@ -81930,12 +80922,6 @@
     "pu_code": "24/14/14/019",
     "pu_name": "ODUNFA/ EWE INA/EVANS JUNCTION",
     "name": "ODUNFA/ EWE INA/EVANS JUNCTION",
-    "lga": "LAGOS ISLAND",
-    "ward": "OKO-FAJI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS ISLAND",
     "ward": "OKO-FAJI",
     "state": "Lagos",
@@ -82203,12 +81189,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS ISLAND",
-    "ward": "EIYEKOLE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/14/16/001",
     "pu_name": "EREKO METH. SCH. BECKLEY 1",
     "name": "EREKO METH. SCH. BECKLEY 1",
@@ -82329,12 +81309,6 @@
     "pu_code": "24/14/16/014",
     "pu_name": "17/27 MOLONEY STR OPP GTBANK",
     "name": "17/27 MOLONEY STR OPP GTBANK",
-    "lga": "LAGOS ISLAND",
-    "ward": "ONIKAN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS ISLAND",
     "ward": "ONIKAN",
     "state": "Lagos",
@@ -82506,12 +81480,6 @@
     "pu_code": "24/14/17/019",
     "pu_name": "OKESUNA/PIKE JUNCTION",
     "name": "OKESUNA/PIKE JUNCTION",
-    "lga": "LAGOS ISLAND",
-    "ward": "SANDGROUSE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS ISLAND",
     "ward": "SANDGROUSE",
     "state": "Lagos",
@@ -82773,12 +81741,6 @@
     "pu_code": "24/14/18/029",
     "pu_name": "OPEN SPACE IN FRONT OF 39 FREEMAN STR",
     "name": "OPEN SPACE IN FRONT OF 39 FREEMAN STR",
-    "lga": "LAGOS ISLAND",
-    "ward": "EPETEDO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS ISLAND",
     "ward": "EPETEDO",
     "state": "Lagos",
@@ -83109,12 +82071,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS ISLAND",
-    "ward": "LAFIAJI/EBUTE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/15/01/001",
     "pu_name": "JUNCTION OF PALACE RD./AJAYI ST. I",
     "name": "JUNCTION OF PALACE RD./AJAYI ST. I",
@@ -83244,12 +82200,6 @@
     "pu_code": "24/15/01/015",
     "pu_name": "AKINLOLU ST. (OPP. HOUSE 10)1",
     "name": "AKINLOLU ST. (OPP. HOUSE 10)1",
-    "lga": "LAGOS MAINLAND",
-    "ward": "OTTO/IDDO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS MAINLAND",
     "ward": "OTTO/IDDO",
     "state": "Lagos",
@@ -83904,12 +82854,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS MAINLAND",
-    "ward": "EPETEDO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/15/03/001",
     "pu_name": "IPONRI GRAM. SCH.",
     "name": "IPONRI GRAM. SCH.",
@@ -84183,12 +83127,6 @@
     "pu_code": "24/15/03/031",
     "pu_name": "IPONRI GRAM. SCH. I",
     "name": "IPONRI GRAM. SCH. I",
-    "lga": "LAGOS MAINLAND",
-    "ward": "OLALEYE VILLAGE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS MAINLAND",
     "ward": "OLALEYE VILLAGE",
     "state": "Lagos",
@@ -84834,12 +83772,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS MAINLAND",
-    "ward": "MAROKO/EBUTE METTA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/15/05/001",
     "pu_name": "BOLA ST. (HOUSE 8) I",
     "name": "BOLA ST. (HOUSE 8) I",
@@ -85272,12 +84204,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS MAINLAND",
-    "ward": "OYINGBO MARKET/EBUTE METTA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/15/06/001",
     "pu_name": "EBUTE METTA PRY. SCH. I",
     "name": "EBUTE METTA PRY. SCH. I",
@@ -85479,12 +84405,6 @@
     "pu_code": "24/15/06/023",
     "pu_name": "AGO-EGBA AFRICAN CHURCH PRY. SCH.",
     "name": "AGO-EGBA AFRICAN CHURCH PRY. SCH.",
-    "lga": "LAGOS MAINLAND",
-    "ward": "GLOVER/EBUTE METTA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS MAINLAND",
     "ward": "GLOVER/EBUTE METTA",
     "state": "Lagos",
@@ -85764,12 +84684,6 @@
     "pu_code": "24/15/07/031",
     "pu_name": "SALVATION ARMY PRY. SCH. III",
     "name": "SALVATION ARMY PRY. SCH. III",
-    "lga": "LAGOS MAINLAND",
-    "ward": "OKO-BABA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS MAINLAND",
     "ward": "OKO-BABA",
     "state": "Lagos",
@@ -86280,12 +85194,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS MAINLAND",
-    "ward": "OYADIRAN ESTATE/ABULE-OJA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/15/09/001",
     "pu_name": "ADEBISI/PANTI ST.",
     "name": "ADEBISI/PANTI ST.",
@@ -86640,12 +85548,6 @@
     "pu_code": "24/15/09/040",
     "pu_name": "SABO BUS STOP INFRONT OF FIDELITY BANK",
     "name": "SABO BUS STOP INFRONT OF FIDELITY BANK",
-    "lga": "LAGOS MAINLAND",
-    "ward": "ALAGOMEJI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "LAGOS MAINLAND",
     "ward": "ALAGOMEJI",
     "state": "Lagos",
@@ -87183,12 +86085,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS MAINLAND",
-    "ward": "IWAYA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/15/11/001",
     "pu_name": "AJE COMP. HIGH SCH.",
     "name": "AJE COMP. HIGH SCH.",
@@ -87612,12 +86508,6 @@
     "state_code": "24"
   },
   {
-    "lga": "LAGOS MAINLAND",
-    "ward": "YABA/IGBOBI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/16/01/001",
     "pu_name": "92, AGEGE MOTOR ROAD",
     "name": "92, AGEGE MOTOR ROAD",
@@ -87873,12 +86763,6 @@
     "pu_code": "24/16/01/029",
     "pu_name": "FASANYA/AYONUGA JUNCTION",
     "name": "FASANYA/AYONUGA JUNCTION",
-    "lga": "MUSHIN",
-    "ward": "ALAKARA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "MUSHIN",
     "ward": "ALAKARA",
     "state": "Lagos",
@@ -88185,12 +87069,6 @@
     "pu_code": "24/16/02/034",
     "pu_name": "2, IJAIYE STREET",
     "name": "2, IJAIYE STREET",
-    "lga": "MUSHIN",
-    "ward": "IDI-ORO/ODI-OLOWU",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "MUSHIN",
     "ward": "IDI-ORO/ODI-OLOWU",
     "state": "Lagos",
@@ -88506,12 +87384,6 @@
     "pu_code": "24/16/03/035",
     "pu_name": "ABIODUN PRIMARY SCHOOL GATE",
     "name": "ABIODUN PRIMARY SCHOOL GATE",
-    "lga": "MUSHIN",
-    "ward": "BABALOSA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "MUSHIN",
     "ward": "BABALOSA",
     "state": "Lagos",
@@ -88872,12 +87744,6 @@
     "pu_code": "24/16/04/040",
     "pu_name": "13, ALHAJI OTTA STREET",
     "name": "13, ALHAJI OTTA STREET",
-    "lga": "MUSHIN",
-    "ward": "OJUWOYE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "MUSHIN",
     "ward": "OJUWOYE",
     "state": "Lagos",
@@ -89442,12 +88308,6 @@
     "state_code": "24"
   },
   {
-    "lga": "MUSHIN",
-    "ward": "ILUPEJU",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/16/06/001",
     "pu_name": "73, OGUNMOKUN ST.",
     "name": "73, OGUNMOKUN ST.",
@@ -89712,12 +88572,6 @@
     "pu_code": "24/16/06/030",
     "pu_name": "26, COKER STREET",
     "name": "26, COKER STREET",
-    "lga": "MUSHIN",
-    "ward": "OLATEJU",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "MUSHIN",
     "ward": "OLATEJU",
     "state": "Lagos",
@@ -90168,12 +89022,6 @@
     "pu_code": "24/16/07/050",
     "pu_name": "21, AWOYOKUN ST.",
     "name": "21, AWOYOKUN ST.",
-    "lga": "MUSHIN",
-    "ward": "KAYODE/FADEYI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "MUSHIN",
     "ward": "KAYODE/FADEYI",
     "state": "Lagos",
@@ -90927,12 +89775,6 @@
     "state_code": "24"
   },
   {
-    "lga": "MUSHIN",
-    "ward": "MUSHIN/ATEWOLARA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/16/09/001",
     "pu_name": "ISOLO RD/ODEWOLE",
     "name": "ISOLO RD/ODEWOLE",
@@ -91503,12 +90345,6 @@
     "pu_code": "24/16/09/064",
     "pu_name": "LADIPO PRY. SCH. GATE",
     "name": "LADIPO PRY. SCH. GATE",
-    "lga": "MUSHIN",
-    "ward": "PAPA-AJAO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "MUSHIN",
     "ward": "PAPA-AJAO",
     "state": "Lagos",
@@ -92460,12 +91296,6 @@
     "state_code": "24"
   },
   {
-    "lga": "MUSHIN",
-    "ward": "ILASAMAJA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/16/11/001",
     "pu_name": "8, OYEKANMI ST. I",
     "name": "8, OYEKANMI ST. I",
@@ -93321,12 +92151,6 @@
     "state_code": "24"
   },
   {
-    "lga": "MUSHIN",
-    "ward": "BABALOSA/IDI-ARABA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/16/12/001",
     "pu_name": "KOBITI/AGEGE MOTOR ROAD JUNCTION",
     "name": "KOBITI/AGEGE MOTOR ROAD JUNCTION",
@@ -93879,12 +92703,6 @@
     "pu_code": "24/16/12/062",
     "pu_name": "3, MOSALASI STREET",
     "name": "3, MOSALASI STREET",
-    "lga": "MUSHIN",
-    "ward": "IDI-ARABA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "MUSHIN",
     "ward": "IDI-ARABA",
     "state": "Lagos",
@@ -95268,12 +94086,6 @@
     "state_code": "24"
   },
   {
-    "lga": "MUSHIN",
-    "ward": "ITIRE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/16/14/001",
     "pu_name": "ASSOCIATION AVENUE/ADEFOWOPE JUNCTION",
     "name": "ASSOCIATION AVENUE/ADEFOWOPE JUNCTION",
@@ -95475,12 +94287,6 @@
     "pu_code": "24/16/14/023",
     "pu_name": "ILUPEJU MODERN MARKET, TOWN PLANNING WAY",
     "name": "ILUPEJU MODERN MARKET, TOWN PLANNING WAY",
-    "lga": "MUSHIN",
-    "ward": "ILUPEJU INDUSTRIAL ESTATE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "MUSHIN",
     "ward": "ILUPEJU INDUSTRIAL ESTATE",
     "state": "Lagos",
@@ -96324,12 +95130,6 @@
     "state_code": "24"
   },
   {
-    "lga": "OJO",
-    "ward": "OJO TOWN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/17/02/001",
     "pu_name": "JUNCTION OF ALABA MARKET - ALONG BADAGRY EXP. ROAD.",
     "name": "JUNCTION OF ALABA MARKET - ALONG BADAGRY EXP. ROAD.",
@@ -96630,12 +95430,6 @@
     "pu_code": "24/17/02/034",
     "pu_name": "OPEN SPACE AT NO 6, AGOMALE STREET",
     "name": "OPEN SPACE AT NO 6, AGOMALE STREET",
-    "lga": "OJO",
-    "ward": "OKOKOMAIKO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "OJO",
     "ward": "OKOKOMAIKO",
     "state": "Lagos",
@@ -97137,12 +95931,6 @@
     "state_code": "24"
   },
   {
-    "lga": "OJO",
-    "ward": "AJANGBADI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/17/04/001",
     "pu_name": "OPEN SPACE AT NO. 8 KOMOLAFE AIYETORO, IJANIKIN",
     "name": "OPEN SPACE AT NO. 8 KOMOLAFE AIYETORO, IJANIKIN",
@@ -97524,12 +96312,6 @@
     "pu_code": "24/17/04/043",
     "pu_name": "BESIDE OBA PALACE IJANIKIN",
     "name": "BESIDE OBA PALACE IJANIKIN",
-    "lga": "OJO",
-    "ward": "IJANIKIN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "OJO",
     "ward": "IJANIKIN",
     "state": "Lagos",
@@ -98481,12 +97263,6 @@
     "state_code": "24"
   },
   {
-    "lga": "OJO",
-    "ward": "IBA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/17/06/001",
     "pu_name": "BESIDE THE PLAYING GROUND, KETU",
     "name": "BESIDE THE PLAYING GROUND, KETU",
@@ -99207,12 +97983,6 @@
     "state_code": "24"
   },
   {
-    "lga": "OJO",
-    "ward": "ILOGBO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/17/07/001",
     "pu_name": "OSOLU SEC. SCHOOL IREWE I",
     "name": "OSOLU SEC. SCHOOL IREWE I",
@@ -99294,12 +98064,6 @@
     "state_code": "24"
   },
   {
-    "lga": "OJO",
-    "ward": "IREWE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/17/08/001",
     "pu_name": "L.A. PRIMARY SCHOOL MOBA",
     "name": "L.A. PRIMARY SCHOOL MOBA",
@@ -99366,12 +98130,6 @@
     "pu_code": "24/17/08/008",
     "pu_name": "L.A. PRY. SCHOOL TAFFI AWORI",
     "name": "L.A. PRY. SCHOOL TAFFI AWORI",
-    "lga": "OJO",
-    "ward": "TAFI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "OJO",
     "ward": "TAFI",
     "state": "Lagos",
@@ -99576,12 +98334,6 @@
     "state_code": "24"
   },
   {
-    "lga": "OJO",
-    "ward": "ETEGBIN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/17/10/001",
     "pu_name": "ST. MARY PRY. SCHOOL IDOLUWO-ILE     I",
     "name": "ST. MARY PRY. SCHOOL IDOLUWO-ILE     I",
@@ -99648,12 +98400,6 @@
     "pu_code": "24/17/10/008",
     "pu_name": "ST PHILIP PRIMARY SCHOOL  ESOFIN",
     "name": "ST PHILIP PRIMARY SCHOOL  ESOFIN",
-    "lga": "OJO",
-    "ward": "IDOLUWO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "OJO",
     "ward": "IDOLUWO",
     "state": "Lagos",
@@ -100785,12 +99531,6 @@
     "state_code": "24"
   },
   {
-    "lga": "OJO",
-    "ward": "SABO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/18/01/001",
     "pu_name": "BOOTH AT THE ENTRANCE OF ALASIA COMPOUND I",
     "name": "BOOTH AT THE ENTRANCE OF ALASIA COMPOUND I",
@@ -101694,12 +100434,6 @@
     "pu_code": "24/18/01/101",
     "pu_name": "20, EWEJE STREET",
     "name": "20, EWEJE STREET",
-    "lga": "OSHODI/ISOLO",
-    "ward": "OSHODI/BOLADE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "OSHODI/ISOLO",
     "ward": "OSHODI/BOLADE",
     "state": "Lagos",
@@ -102714,12 +101448,6 @@
     "state_code": "24"
   },
   {
-    "lga": "OSHODI/ISOLO",
-    "ward": "ORILE-OSHODI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/18/03/001",
     "pu_name": "COMMUNITY CENTRE ISOLO",
     "name": "COMMUNITY CENTRE ISOLO",
@@ -103413,12 +102141,6 @@
     "state_code": "24"
   },
   {
-    "lga": "OSHODI/ISOLO",
-    "ward": "ISOLO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/18/04/001",
     "pu_name": "AJAO ESTATE PRY. SCHOOL I",
     "name": "AJAO ESTATE PRY. SCHOOL I",
@@ -103737,12 +102459,6 @@
     "pu_code": "24/18/04/036",
     "pu_name": "JUNCTION OF ADEWUNMI ABUDU /OSOLO WAY.",
     "name": "JUNCTION OF ADEWUNMI ABUDU /OSOLO WAY.",
-    "lga": "OSHODI/ISOLO",
-    "ward": "AJAO ESTATE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "OSHODI/ISOLO",
     "ward": "AJAO ESTATE",
     "state": "Lagos",
@@ -104433,12 +103149,6 @@
     "state_code": "24"
   },
   {
-    "lga": "OSHODI/ISOLO",
-    "ward": "ILASAMAJA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/18/06/001",
     "pu_name": "BOOTH AT 15, OGUNOLOKO ST. MAFOLUKU",
     "name": "BOOTH AT 15, OGUNOLOKO ST. MAFOLUKU",
@@ -105024,12 +103734,6 @@
     "state_code": "24"
   },
   {
-    "lga": "OSHODI/ISOLO",
-    "ward": "MAFOLUKU",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/18/07/001",
     "pu_name": "BOOTH AT JUNCTION OF JULIUS SOWUNMI ST./TIWALADE ST. SOGUNLE",
     "name": "BOOTH AT JUNCTION OF JULIUS SOWUNMI ST./TIWALADE ST. SOGUNLE",
@@ -105330,12 +104034,6 @@
     "pu_code": "24/18/07/034",
     "pu_name": "36, MAJEKODUNMI STREET, SHOGUNLE",
     "name": "36, MAJEKODUNMI STREET, SHOGUNLE",
-    "lga": "OSHODI/ISOLO",
-    "ward": "SOGUNLE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "OSHODI/ISOLO",
     "ward": "SOGUNLE",
     "state": "Lagos",
@@ -105813,12 +104511,6 @@
     "pu_code": "24/18/08/053",
     "pu_name": "2/4, SHOPEJU STREET.",
     "name": "2/4, SHOPEJU STREET.",
-    "lga": "OSHODI/ISOLO",
-    "ward": "SOGUNLE/ALASIA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "OSHODI/ISOLO",
     "ward": "SOGUNLE/ALASIA",
     "state": "Lagos",
@@ -106653,12 +105345,6 @@
     "state_code": "24"
   },
   {
-    "lga": "OSHODI/ISOLO",
-    "ward": "OKOTA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/18/10/001",
     "pu_name": "JUNCTION OF KAMORU ADEYEMI/DELE ASHIRU STREET",
     "name": "JUNCTION OF KAMORU ADEYEMI/DELE ASHIRU STREET",
@@ -107175,12 +105861,6 @@
     "pu_code": "24/18/10/058",
     "pu_name": "OPEN SPACE ALONG TAIWO ODUNUGA STR",
     "name": "OPEN SPACE ALONG TAIWO ODUNUGA STR",
-    "lga": "OSHODI/ISOLO",
-    "ward": "ISHAGATEDO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "OSHODI/ISOLO",
     "ward": "ISHAGATEDO",
     "state": "Lagos",
@@ -108861,12 +107541,6 @@
     "state_code": "24"
   },
   {
-    "lga": "OSHODI/ISOLO",
-    "ward": "OKE-AFA/EJIGBO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/19/01/001",
     "pu_name": "SANUSI ST. B/W HOUSE NOS. 18 & 20",
     "name": "SANUSI ST. B/W HOUSE NOS. 18 & 20",
@@ -109203,12 +107877,6 @@
     "pu_code": "24/19/01/038",
     "pu_name": "OLAOLU PRIMARY SCH",
     "name": "OLAOLU PRIMARY SCH",
-    "lga": "SOMOLU",
-    "ward": "ONIPANU",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "SOMOLU",
     "ward": "ONIPANU",
     "state": "Lagos",
@@ -109575,12 +108243,6 @@
     "state_code": "24"
   },
   {
-    "lga": "SOMOLU",
-    "ward": "PALMGROVE/IJEBUTEDO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/19/03/001",
     "pu_name": "BAILEY ST. IN FRONT OF HOUSE NO. 2",
     "name": "BAILEY ST. IN FRONT OF HOUSE NO. 2",
@@ -109872,12 +108534,6 @@
     "pu_code": "24/19/03/033",
     "pu_name": "PRIMARY HEALTH CENTRE, 19, ANIFOWOSHE STREET",
     "name": "PRIMARY HEALTH CENTRE, 19, ANIFOWOSHE STREET",
-    "lga": "SOMOLU",
-    "ward": "ALADE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "SOMOLU",
     "ward": "ALADE",
     "state": "Lagos",
@@ -110211,12 +108867,6 @@
     "pu_code": "24/19/04/037",
     "pu_name": "ARAROMI  ST HOUSE  27",
     "name": "ARAROMI  ST HOUSE  27",
-    "lga": "SOMOLU",
-    "ward": "BAJULAIYE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "SOMOLU",
     "ward": "BAJULAIYE",
     "state": "Lagos",
@@ -110586,12 +109236,6 @@
     "pu_code": "24/19/05/041",
     "pu_name": "OJELADE ST. IN FRONT OF HOUSE NO. 8",
     "name": "OJELADE ST. IN FRONT OF HOUSE NO. 8",
-    "lga": "SOMOLU",
-    "ward": "MAFOWOKU/PEDRO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "SOMOLU",
     "ward": "MAFOWOKU/PEDRO",
     "state": "Lagos",
@@ -111426,12 +110070,6 @@
     "state_code": "24"
   },
   {
-    "lga": "SOMOLU",
-    "ward": "LAD-LAK/BARIGA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/19/07/001",
     "pu_name": "ILAJE RD. B/W HOUSE NOS. 12 & 14",
     "name": "ILAJE RD. B/W HOUSE NOS. 12 & 14",
@@ -111945,12 +110583,6 @@
     "state_code": "24"
   },
   {
-    "lga": "SOMOLU",
-    "ward": "ILAJE/AKOKA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/19/08/001",
     "pu_name": "ADENEKAN ST./IMAGBON ST. JUNCTION",
     "name": "ADENEKAN ST./IMAGBON ST. JUNCTION",
@@ -112224,12 +110856,6 @@
     "pu_code": "24/19/08/031",
     "pu_name": "SHIRO ST HOUSE 28",
     "name": "SHIRO ST HOUSE 28",
-    "lga": "SOMOLU",
-    "ward": "IGBOBI/FADEYI",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "SOMOLU",
     "ward": "IGBOBI/FADEYI",
     "state": "Lagos",
@@ -112686,12 +111312,6 @@
     "state_code": "24"
   },
   {
-    "lga": "SOMOLU",
-    "ward": "FOLA AGORO/BAJULAIYE/IGBARI-AKOKA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/19/10/001",
     "pu_name": "IKD. RD/ALH. SOMADE ALLEY ST. JUNCTION",
     "name": "IKD. RD/ALH. SOMADE ALLEY ST. JUNCTION",
@@ -113136,12 +111756,6 @@
     "pu_code": "24/19/10/050",
     "pu_name": "MUTAIRU ST/ SOJI OSHODI ST JUNCTION",
     "name": "MUTAIRU ST/ SOJI OSHODI ST JUNCTION",
-    "lga": "SOMOLU",
-    "ward": "GBAGADA PHASE I OBANIKORO/PEDRO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "SOMOLU",
     "ward": "GBAGADA PHASE I OBANIKORO/PEDRO",
     "state": "Lagos",
@@ -113673,12 +112287,6 @@
     "pu_code": "24/19/11/059",
     "pu_name": "AYODEJI OTEGBOOLA ST/ALAKE ONILERE ST JUNCTION",
     "name": "AYODEJI OTEGBOOLA ST/ALAKE ONILERE ST JUNCTION",
-    "lga": "SOMOLU",
-    "ward": "GBAGADA PHASE II /BARIGA/APELEHIN",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "SOMOLU",
     "ward": "GBAGADA PHASE II /BARIGA/APELEHIN",
     "state": "Lagos",
@@ -114477,12 +113085,6 @@
     "state_code": "24"
   },
   {
-    "lga": "SOMOLU",
-    "ward": "ABULE-OKUTA/ILAJE/BARIGA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/20/01/001",
     "pu_name": "JUNCTION OF ABBI AVENUE/TAPA BELLO ST. I",
     "name": "JUNCTION OF ABBI AVENUE/TAPA BELLO ST. I",
@@ -115233,12 +113835,6 @@
     "pu_code": "24/20/01/084",
     "pu_name": "HOUSE NO. 22 ABU ST.",
     "name": "HOUSE NO. 22 ABU ST.",
-    "lga": "SURULERE",
-    "ward": "ORILE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "SURULERE",
     "ward": "ORILE",
     "state": "Lagos",
@@ -116289,12 +114885,6 @@
     "state_code": "24"
   },
   {
-    "lga": "SURULERE",
-    "ward": "AGUDA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/20/03/001",
     "pu_name": "JUNCTION OF SULAIMON ST./TENIOLA ST.",
     "name": "JUNCTION OF SULAIMON ST./TENIOLA ST.",
@@ -117069,12 +115659,6 @@
     "state_code": "24"
   },
   {
-    "lga": "SURULERE",
-    "ward": "IJESHATEDO",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/20/04/001",
     "pu_name": "ITIRE ROAD BY L.S.D.P.C. HOUSE NEAR NATIONAL OIL FILLING STATION I",
     "name": "ITIRE ROAD BY L.S.D.P.C. HOUSE NEAR NATIONAL OIL FILLING STATION I",
@@ -117543,12 +116127,6 @@
     "state_code": "24"
   },
   {
-    "lga": "SURULERE",
-    "ward": "AKINHANMI/COLE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/20/05/001",
     "pu_name": "JUNCTION OF BANJO ST./TEJUOSHO ROAD I",
     "name": "JUNCTION OF BANJO ST./TEJUOSHO ROAD I",
@@ -117876,12 +116454,6 @@
     "pu_code": "24/20/05/037",
     "pu_name": "IN FRONT OF HOUSE 11 FOLARIN ST.",
     "name": "IN FRONT OF HOUSE 11 FOLARIN ST.",
-    "lga": "SURULERE",
-    "ward": "YABA/OJUELEGBA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "SURULERE",
     "ward": "YABA/OJUELEGBA",
     "state": "Lagos",
@@ -118269,12 +116841,6 @@
     "pu_code": "24/20/06/043",
     "pu_name": "GBAJA GIRLS HIGH SCH.",
     "name": "GBAJA GIRLS HIGH SCH.",
-    "lga": "SURULERE",
-    "ward": "IGBAJA/STADIUM",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "SURULERE",
     "ward": "IGBAJA/STADIUM",
     "state": "Lagos",
@@ -118794,12 +117360,6 @@
     "state_code": "24"
   },
   {
-    "lga": "SURULERE",
-    "ward": "SHITTA/OGUNLANA DRIVE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/20/08/001",
     "pu_name": "COMMUNITY GRAMMAR SCHOOL",
     "name": "COMMUNITY GRAMMAR SCHOOL",
@@ -119142,12 +117702,6 @@
     "state_code": "24"
   },
   {
-    "lga": "SURULERE",
-    "ward": "ADENIRAN/OGUNSANYA",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/20/09/001",
     "pu_name": "BABA ANIMASHAUN ST. HOUSE NO. 196",
     "name": "BABA ANIMASHAUN ST. HOUSE NO. 196",
@@ -119421,12 +117975,6 @@
     "pu_code": "24/20/09/031",
     "pu_name": "IPONRI ESTATE HIGH SCHOOL.",
     "name": "IPONRI ESTATE HIGH SCHOOL.",
-    "lga": "SURULERE",
-    "ward": "IPONRI HOUSING ESTATE/ERIC MOORE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "SURULERE",
     "ward": "IPONRI HOUSING ESTATE/ERIC MOORE",
     "state": "Lagos",
@@ -119742,12 +118290,6 @@
     "pu_code": "24/20/10/035",
     "pu_name": "JUBILEE MODEL SENIOR GRAMMAR SCHOOL COKER MARKET ROAD",
     "name": "JUBILEE MODEL SENIOR GRAMMAR SCHOOL COKER MARKET ROAD",
-    "lga": "SURULERE",
-    "ward": "COKER",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "SURULERE",
     "ward": "COKER",
     "state": "Lagos",
@@ -120600,12 +119142,6 @@
     "state_code": "24"
   },
   {
-    "lga": "SURULERE",
-    "ward": "ITIRE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "pu_code": "24/20/12/001",
     "pu_name": "JUNCTION OF BAIYE ST./OLATILEWA ST. I",
     "name": "JUNCTION OF BAIYE ST./OLATILEWA ST. I",
@@ -121356,12 +119892,6 @@
     "pu_code": "24/20/12/084",
     "pu_name": "FOLAWIYO BANKOLE ST. BY HOUSE NO 23.",
     "name": "FOLAWIYO BANKOLE ST. BY HOUSE NO 23.",
-    "lga": "SURULERE",
-    "ward": "IKATE",
-    "state": "Lagos",
-    "state_code": "24"
-  },
-  {
     "lga": "SURULERE",
     "ward": "IKATE",
     "state": "Lagos",

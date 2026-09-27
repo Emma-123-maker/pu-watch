@@ -450,12 +450,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ALKALERI",
-    "ward": "ALKALERI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/01/02/001",
     "pu_name": "PALI EAST - K/ S / KWALA I",
     "name": "PALI EAST - K/ S / KWALA I",
@@ -672,12 +666,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ALKALERI",
-    "ward": "PALI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/01/03/001",
     "pu_name": "GAR FADA - K/ F/ S/ GAR",
     "name": "GAR FADA - K/ F/ S/ GAR",
@@ -807,12 +795,6 @@
     "pu_code": "05/01/03/015",
     "pu_name": "BADAKOSHI PRIMARY SCHOOL II",
     "name": "BADAKOSHI PRIMARY SCHOOL II",
-    "lga": "ALKALERI",
-    "ward": "GAR",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ALKALERI",
     "ward": "GAR",
     "state": "Bauchi",
@@ -1089,12 +1071,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ALKALERI",
-    "ward": "GWARAM",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/01/05/001",
     "pu_name": "MAIMADI MAKARANTA - MAIMADI PRIMARY SCHOOL I",
     "name": "MAIMADI MAKARANTA - MAIMADI PRIMARY SCHOOL I",
@@ -1197,12 +1173,6 @@
     "pu_code": "05/01/05/012",
     "pu_name": "JADA - K.S JADA",
     "name": "JADA - K.S JADA",
-    "lga": "ALKALERI",
-    "ward": "MAIMADI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ALKALERI",
     "ward": "MAIMADI",
     "state": "Bauchi",
@@ -1452,12 +1422,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ALKALERI",
-    "ward": "DAN KUNGIBAR",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/01/07/001",
     "pu_name": "BIRIM FADA - BIRIM DISPENSARY",
     "name": "BIRIM FADA - BIRIM DISPENSARY",
@@ -1677,12 +1641,6 @@
     "pu_code": "05/01/07/025",
     "pu_name": "TUDUN WADAN GACHI PRIMARY SCHOOL",
     "name": "TUDUN WADAN GACHI PRIMARY SCHOOL",
-    "lga": "ALKALERI",
-    "ward": "BIRIN/ GIGARA/ YANKARI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ALKALERI",
     "ward": "BIRIN/ GIGARA/ YANKARI",
     "state": "Bauchi",
@@ -2031,12 +1989,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ALKALERI",
-    "ward": "YULI/ LIM",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/01/09/001",
     "pu_name": "UNGUWAR JIBIR  DISTRICT HEAD OFFICE I",
     "name": "UNGUWAR JIBIR  DISTRICT HEAD OFFICE I",
@@ -2244,12 +2196,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ALKALERI",
-    "ward": "FUTUK",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/01/10/001",
     "pu_name": "MAKASA - MAKASA PRIMARY SCHOOL",
     "name": "MAKASA - MAKASA PRIMARY SCHOOL",
@@ -2415,12 +2361,6 @@
     "pu_code": "05/01/10/019",
     "pu_name": "YALO PRIMARY SCHOOL II",
     "name": "YALO PRIMARY SCHOOL II",
-    "lga": "ALKALERI",
-    "ward": "YALO",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ALKALERI",
     "ward": "YALO",
     "state": "Bauchi",
@@ -2754,12 +2694,6 @@
     "pu_code": "05/01/11/037",
     "pu_name": "UNG. SULE MAIGAMA",
     "name": "UNG. SULE MAIGAMA",
-    "lga": "ALKALERI",
-    "ward": "GWANA / MANSUR",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ALKALERI",
     "ward": "GWANA / MANSUR",
     "state": "Bauchi",
@@ -3255,12 +3189,6 @@
     "pu_code": "05/02/01/055",
     "pu_name": "SAMBO ILELAH DOYA QUATERS",
     "name": "SAMBO ILELAH DOYA QUATERS",
-    "lga": "BAUCHI",
-    "ward": "MAJIDADI 'A'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "BAUCHI",
     "ward": "MAJIDADI 'A'",
     "state": "Bauchi",
@@ -3891,12 +3819,6 @@
     "pu_code": "05/02/02/070",
     "pu_name": "PRIMARY HEALTH CARE UNG. MAHAUKATA",
     "name": "PRIMARY HEALTH CARE UNG. MAHAUKATA",
-    "lga": "BAUCHI",
-    "ward": "MAJIDADI 'B'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "BAUCHI",
     "ward": "MAJIDADI 'B'",
     "state": "Bauchi",
@@ -5451,12 +5373,6 @@
     "state_code": "05"
   },
   {
-    "lga": "BAUCHI",
-    "ward": "MAKAMA/SARKI BAKI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/02/04/001",
     "pu_name": "DISTRICT HEAD OFFICE, DISTRICT HEAD OFFICE",
     "name": "DISTRICT HEAD OFFICE, DISTRICT HEAD OFFICE",
@@ -5898,12 +5814,6 @@
     "state_code": "05"
   },
   {
-    "lga": "BAUCHI",
-    "ward": "ZUNGUR/LIMAN  KATAGUM",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/02/05/001",
     "pu_name": "BADAKOSHI, BADAKOSHI",
     "name": "BADAKOSHI, BADAKOSHI",
@@ -6186,12 +6096,6 @@
     "pu_code": "05/02/05/032",
     "pu_name": "UNGUWAR  RAMA, KOFAR  SARKI",
     "name": "UNGUWAR  RAMA, KOFAR  SARKI",
-    "lga": "BAUCHI",
-    "ward": "MUN/MUNSAL",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "BAUCHI",
     "ward": "MUN/MUNSAL",
     "state": "Bauchi",
@@ -6642,12 +6546,6 @@
     "pu_code": "05/02/06/050",
     "pu_name": "BAKIN KOGI II",
     "name": "BAKIN KOGI II",
-    "lga": "BAUCHI",
-    "ward": "DANDANGO/YAMRAT",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "BAUCHI",
     "ward": "DANDANGO/YAMRAT",
     "state": "Bauchi",
@@ -7788,12 +7686,6 @@
     "state_code": "05"
   },
   {
-    "lga": "BAUCHI",
-    "ward": "BIRSHI/MIRI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/02/08/001",
     "pu_name": "DURUM FULANI, PRIMARY SCHOOL I",
     "name": "DURUM FULANI, PRIMARY SCHOOL I",
@@ -7977,12 +7869,6 @@
     "pu_code": "05/02/08/021",
     "pu_name": "DURUM FULANI III",
     "name": "DURUM FULANI III",
-    "lga": "BAUCHI",
-    "ward": "KUNDUM/DURUM",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "BAUCHI",
     "ward": "KUNDUM/DURUM",
     "state": "Bauchi",
@@ -8628,12 +8514,6 @@
     "state_code": "05"
   },
   {
-    "lga": "BAUCHI",
-    "ward": "KANGYARE/TURWUN",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/02/10/001",
     "pu_name": "GALAMBI DISPENSARY, GALAMBI PUB-BUILD",
     "name": "GALAMBI DISPENSARY, GALAMBI PUB-BUILD",
@@ -8961,12 +8841,6 @@
     "pu_code": "05/02/10/037",
     "pu_name": "KATSALLE PRIMARY SCHOOL II",
     "name": "KATSALLE PRIMARY SCHOOL II",
-    "lga": "BAUCHI",
-    "ward": "GALAMBI/GWASKWARAM",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "BAUCHI",
     "ward": "GALAMBI/GWASKWARAM",
     "state": "Bauchi",
@@ -10359,12 +10233,6 @@
     "state_code": "05"
   },
   {
-    "lga": "BAUCHI",
-    "ward": "DAN'IYA HARDO",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/02/12/001",
     "pu_name": "B/MUTUM,     PRIMARY SCHOOL I",
     "name": "B/MUTUM,     PRIMARY SCHOOL I",
@@ -10878,12 +10746,6 @@
     "state_code": "05"
   },
   {
-    "lga": "BAUCHI",
-    "ward": "DAWAKI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/03/01/001",
     "pu_name": "YABRA/SABO/Y/SIMI,  PRIMARY SCHOOL I",
     "name": "YABRA/SABO/Y/SIMI,  PRIMARY SCHOOL I",
@@ -11001,12 +10863,6 @@
     "state_code": "05"
   },
   {
-    "lga": "BOGORO",
-    "ward": "BOGORO A",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/03/02/001",
     "pu_name": "GOBBIYA KASUWA,   GOBIYA PRIMARY SCHOOL I",
     "name": "GOBBIYA KASUWA,   GOBIYA PRIMARY SCHOOL I",
@@ -11064,12 +10920,6 @@
     "pu_code": "05/03/02/007",
     "pu_name": "GOBBIYA PHC",
     "name": "GOBBIYA PHC",
-    "lga": "BOGORO",
-    "ward": "BOGORO B",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "BOGORO",
     "ward": "BOGORO B",
     "state": "Bauchi",
@@ -11223,12 +11073,6 @@
     "pu_code": "05/03/03/017",
     "pu_name": "YELWAN GWARANGAH",
     "name": "YELWAN GWARANGAH",
-    "lga": "BOGORO",
-    "ward": "BOGORO C",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "BOGORO",
     "ward": "BOGORO C",
     "state": "Bauchi",
@@ -11415,12 +11259,6 @@
     "state_code": "05"
   },
   {
-    "lga": "BOGORO",
-    "ward": "BOGORO D",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/03/05/001",
     "pu_name": "DAZARA/UNG. RIMI,   UNG. RIMI PRIMARY SCHOOL I",
     "name": "DAZARA/UNG. RIMI,   UNG. RIMI PRIMARY SCHOOL I",
@@ -11496,12 +11334,6 @@
     "pu_code": "05/03/05/009",
     "pu_name": "GUH",
     "name": "GUH",
-    "lga": "BOGORO",
-    "ward": "B O I 'A'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "BOGORO",
     "ward": "B O I 'A'",
     "state": "Bauchi",
@@ -11625,12 +11457,6 @@
     "state_code": "05"
   },
   {
-    "lga": "BOGORO",
-    "ward": "B O I 'B'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/03/07/001",
     "pu_name": "GAMBAR ZUGUM,   G/Z PRIMARY SCHOOL",
     "name": "GAMBAR ZUGUM,   G/Z PRIMARY SCHOOL",
@@ -11706,12 +11532,6 @@
     "pu_code": "05/03/07/009",
     "pu_name": "GAMBAR LERE CIKIN GARI",
     "name": "GAMBAR LERE CIKIN GARI",
-    "lga": "BOGORO",
-    "ward": "B O I 'C'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "BOGORO",
     "ward": "B O I 'C'",
     "state": "Bauchi",
@@ -11802,12 +11622,6 @@
     "pu_code": "05/03/08/010",
     "pu_name": "KUNWUR",
     "name": "KUNWUR",
-    "lga": "BOGORO",
-    "ward": "LUSA  'A'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "BOGORO",
     "ward": "LUSA  'A'",
     "state": "Bauchi",
@@ -11922,12 +11736,6 @@
     "state_code": "05"
   },
   {
-    "lga": "BOGORO",
-    "ward": "LUSA  'B'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/03/10/001",
     "pu_name": "GIZAKI,  GIZAKI PRIMARY SCHOOL I",
     "name": "GIZAKI,  GIZAKI PRIMARY SCHOOL I",
@@ -12003,12 +11811,6 @@
     "pu_code": "05/03/10/009",
     "pu_name": "BUGUN B",
     "name": "BUGUN B",
-    "lga": "BOGORO",
-    "ward": "LUSA  'C'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "BOGORO",
     "ward": "LUSA  'C'",
     "state": "Bauchi",
@@ -12135,12 +11937,6 @@
     "pu_code": "05/04/01/014",
     "pu_name": "YABA PRIMARY SCHOOL, YABA",
     "name": "YABA PRIMARY SCHOOL, YABA",
-    "lga": "DAMBAM",
-    "ward": "GARUZA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DAMBAM",
     "ward": "GARUZA",
     "state": "Bauchi",
@@ -12312,12 +12108,6 @@
     "pu_code": "05/04/02/019",
     "pu_name": "MUZUWA HEALTH CARE CENTRE",
     "name": "MUZUWA HEALTH CARE CENTRE",
-    "lga": "DAMBAM",
-    "ward": "GURBANA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DAMBAM",
     "ward": "GURBANA",
     "state": "Bauchi",
@@ -12639,12 +12429,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DAMBAM",
-    "ward": "DAMBAM",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/04/04/001",
     "pu_name": "YANDA PRIMARY SCHOOL,  YANDA",
     "name": "YANDA PRIMARY SCHOOL,  YANDA",
@@ -12807,12 +12591,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DAMBAM",
-    "ward": "YANDA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/04/05/001",
     "pu_name": "YAME PRIMARY SCHOOL,  YAME",
     "name": "YAME PRIMARY SCHOOL,  YAME",
@@ -12942,12 +12720,6 @@
     "pu_code": "05/04/05/015",
     "pu_name": "YAME VETERINARY CLINIC, YAME",
     "name": "YAME VETERINARY CLINIC, YAME",
-    "lga": "DAMBAM",
-    "ward": "YAME",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DAMBAM",
     "ward": "YAME",
     "state": "Bauchi",
@@ -13116,12 +12888,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DAMBAM",
-    "ward": "DAGAUDA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/04/07/001",
     "pu_name": "KOFAR JAURO,  FESHINGO I",
     "name": "KOFAR JAURO,  FESHINGO I",
@@ -13197,12 +12963,6 @@
     "pu_code": "05/04/07/009",
     "pu_name": "GARIN ABA PRIMARY SCHOOL, GARIN ABA",
     "name": "GARIN ABA PRIMARY SCHOOL, GARIN ABA",
-    "lga": "DAMBAM",
-    "ward": "GARGAWA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DAMBAM",
     "ward": "GARGAWA",
     "state": "Bauchi",
@@ -13311,12 +13071,6 @@
     "pu_code": "05/04/08/012",
     "pu_name": "ZAURA PRIMARY SCHOOL, ZAURA II",
     "name": "ZAURA PRIMARY SCHOOL, ZAURA II",
-    "lga": "DAMBAM",
-    "ward": "ZAURA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DAMBAM",
     "ward": "ZAURA",
     "state": "Bauchi",
@@ -13440,12 +13194,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DAMBAM",
-    "ward": "JALAM CENTRAL",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/04/10/001",
     "pu_name": "DOROWA PRIMARY SCHOOL, DOROWA",
     "name": "DOROWA PRIMARY SCHOOL, DOROWA",
@@ -13530,12 +13278,6 @@
     "pu_code": "05/04/10/010",
     "pu_name": "MAGAMBO  PRIMARY SCHOOL, MAGAMBO",
     "name": "MAGAMBO  PRIMARY SCHOOL, MAGAMBO",
-    "lga": "DAMBAM",
-    "ward": "JALAM EAST",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DAMBAM",
     "ward": "JALAM EAST",
     "state": "Bauchi",
@@ -14073,12 +13815,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DARAZO",
-    "ward": "DARAZO",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/05/02/001",
     "pu_name": "FADA,   KOFAR  SARKIN  TAUYA I",
     "name": "FADA,   KOFAR  SARKIN  TAUYA I",
@@ -14331,12 +14067,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DARAZO",
-    "ward": "TAUYA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/05/03/001",
     "pu_name": "UNGUWAR SARKI,  KOFAR  FADA  GALADIMA",
     "name": "UNGUWAR SARKI,  KOFAR  FADA  GALADIMA",
@@ -14526,12 +14256,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DARAZO",
-    "ward": "GABARIN",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/05/04/001",
     "pu_name": "UNGUWAR WAZIRI,  VILLAGE HEAD OFFICE I",
     "name": "UNGUWAR WAZIRI,  VILLAGE HEAD OFFICE I",
@@ -14679,12 +14403,6 @@
     "pu_code": "05/05/04/017",
     "pu_name": "KWARI DISPENSERY",
     "name": "KWARI DISPENSERY",
-    "lga": "DARAZO",
-    "ward": "KONKIYAL",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DARAZO",
     "ward": "KONKIYAL",
     "state": "Bauchi",
@@ -14874,12 +14592,6 @@
     "pu_code": "05/05/05/021",
     "pu_name": "UPPER BASIC OFFICE",
     "name": "UPPER BASIC OFFICE",
-    "lga": "DARAZO",
-    "ward": "LAGO",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DARAZO",
     "ward": "LAGO",
     "state": "Bauchi",
@@ -15147,12 +14859,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DARAZO",
-    "ward": "SADE",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/05/07/001",
     "pu_name": "UNGUWAR FADA,  VILLAGE HEAD OFFICE I",
     "name": "UNGUWAR FADA,  VILLAGE HEAD OFFICE I",
@@ -15351,12 +15057,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DARAZO",
-    "ward": "LANZAI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/05/08/001",
     "pu_name": "MALURIN TUDU KOFAR JAURO(MALURIN KWARI KOFAR JAURO)",
     "name": "MALURIN TUDU KOFAR JAURO(MALURIN KWARI KOFAR JAURO)",
@@ -15468,12 +15168,6 @@
     "pu_code": "05/05/08/013",
     "pu_name": "MATERNITY CLINIC YAUTARE",
     "name": "MATERNITY CLINIC YAUTARE",
-    "lga": "DARAZO",
-    "ward": "YAUTARE",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DARAZO",
     "ward": "YAUTARE",
     "state": "Bauchi",
@@ -15651,12 +15345,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DARAZO",
-    "ward": "GABCIYARI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/05/10/001",
     "pu_name": "KOFAR FADA,    KOFAR FADA I",
     "name": "KOFAR FADA,    KOFAR FADA I",
@@ -15768,12 +15456,6 @@
     "pu_code": "05/05/10/013",
     "pu_name": "GARIN DIDI,   KOFAR SARKI",
     "name": "GARIN DIDI,   KOFAR SARKI",
-    "lga": "DARAZO",
-    "ward": "WAHU",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DARAZO",
     "ward": "WAHU",
     "state": "Bauchi",
@@ -16032,12 +15714,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DARAZO",
-    "ward": "PAPA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/06/01/001",
     "pu_name": "BAGEL CENTRAL, BAGEL PRIMARY SCHOOL",
     "name": "BAGEL CENTRAL, BAGEL PRIMARY SCHOOL",
@@ -16086,12 +15762,6 @@
     "pu_code": "05/06/01/006",
     "pu_name": "BAGEL PRIMARY SCHOOL",
     "name": "BAGEL PRIMARY SCHOOL",
-    "lga": "DASS",
-    "ward": "BAGEL/BAJAR",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DASS",
     "ward": "BAGEL/BAJAR",
     "state": "Bauchi",
@@ -16209,12 +15879,6 @@
     "pu_code": "05/06/02/013",
     "pu_name": "GOVT. SOCIAL WELFARE OFFICE  II",
     "name": "GOVT. SOCIAL WELFARE OFFICE  II",
-    "lga": "DASS",
-    "ward": "BUNDOT",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DASS",
     "ward": "BUNDOT",
     "state": "Bauchi",
@@ -16509,12 +16173,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DASS",
-    "ward": "BUNUNU CENTRAL",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/06/04/001",
     "pu_name": "GITAL/KARDAM,   NEAR GALADIMAN GITAL",
     "name": "GITAL/KARDAM,   NEAR GALADIMAN GITAL",
@@ -16641,12 +16299,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DASS",
-    "ward": "BUNUNU SOUTH",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/06/05/001",
     "pu_name": "GUMTI,   GUMTI PRIMARY SCHOOL",
     "name": "GUMTI,   GUMTI PRIMARY SCHOOL",
@@ -16722,12 +16374,6 @@
     "pu_code": "05/06/05/009",
     "pu_name": "LUMANA PRIMARY SCHOOL  II",
     "name": "LUMANA PRIMARY SCHOOL  II",
-    "lga": "DASS",
-    "ward": "BARAZA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DASS",
     "ward": "BARAZA",
     "state": "Bauchi",
@@ -16824,12 +16470,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DASS",
-    "ward": "DOTT",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/06/07/001",
     "pu_name": "DURR CENTRE,   DURR PRIMARY SCHOOL",
     "name": "DURR CENTRE,   DURR PRIMARY SCHOOL",
@@ -16887,12 +16527,6 @@
     "pu_code": "05/06/07/007",
     "pu_name": "DURR PRIMARY SCHOOL II",
     "name": "DURR PRIMARY SCHOOL II",
-    "lga": "DASS",
-    "ward": "DURR",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DASS",
     "ward": "DURR",
     "state": "Bauchi",
@@ -16971,12 +16605,6 @@
     "state_code": "05"
   },
   {
-    "lga": "DASS",
-    "ward": "POLCHI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/06/09/001",
     "pu_name": "GARIN WANDI,   GURAMA PRIMARY SCHOOL",
     "name": "GARIN WANDI,   GURAMA PRIMARY SCHOOL",
@@ -17034,12 +16662,6 @@
     "pu_code": "05/06/09/007",
     "pu_name": "GURUMA PRIMARY SCHOOL  II",
     "name": "GURUMA PRIMARY SCHOOL  II",
-    "lga": "DASS",
-    "ward": "WANDI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DASS",
     "ward": "WANDI",
     "state": "Bauchi",
@@ -17121,12 +16743,6 @@
     "pu_code": "05/06/10/009",
     "pu_name": "ZUMBUL PRIMARY SCHOOL  II",
     "name": "ZUMBUL PRIMARY SCHOOL  II",
-    "lga": "DASS",
-    "ward": "ZUMBUL/LUKSHI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "DASS",
     "ward": "ZUMBUL/LUKSHI",
     "state": "Bauchi",
@@ -17529,12 +17145,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GAMAWA",
-    "ward": "GAMAWA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/07/02/001",
     "pu_name": "KAFI ROMI, PRIMARY SCHOOL I",
     "name": "KAFI ROMI, PRIMARY SCHOOL I",
@@ -17637,12 +17247,6 @@
     "pu_code": "05/07/02/012",
     "pu_name": "AMARCHIYARI, AMARCHIYARI VILLAGE II",
     "name": "AMARCHIYARI, AMARCHIYARI VILLAGE II",
-    "lga": "GAMAWA",
-    "ward": "KAFIN  ROMI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "GAMAWA",
     "ward": "KAFIN  ROMI",
     "state": "Bauchi",
@@ -17883,12 +17487,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GAMAWA",
-    "ward": "GOLOLO",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/07/04/001",
     "pu_name": "KUBDIYA KOFAR FADA, VILLAGE HEAD OFFICE I",
     "name": "KUBDIYA KOFAR FADA, VILLAGE HEAD OFFICE I",
@@ -18108,12 +17706,6 @@
     "pu_code": "05/07/04/025",
     "pu_name": "LARISKI",
     "name": "LARISKI",
-    "lga": "GAMAWA",
-    "ward": "KUBDIYA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "GAMAWA",
     "ward": "KUBDIYA",
     "state": "Bauchi",
@@ -18372,12 +17964,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GAMAWA",
-    "ward": "ALAGARNO/JADORI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/07/06/001",
     "pu_name": "BULANNA  PRIMARY SCHOOL I",
     "name": "BULANNA  PRIMARY SCHOOL I",
@@ -18543,12 +18129,6 @@
     "pu_code": "05/07/06/019",
     "pu_name": "TUMBI",
     "name": "TUMBI",
-    "lga": "GAMAWA",
-    "ward": "TUMBI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "GAMAWA",
     "ward": "TUMBI",
     "state": "Bauchi",
@@ -19077,12 +18657,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GAMAWA",
-    "ward": "UDUBO",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/07/08/001",
     "pu_name": "TARMASUWA,  PRIMARY SCHOOL I",
     "name": "TARMASUWA,  PRIMARY SCHOOL I",
@@ -19194,12 +18768,6 @@
     "pu_code": "05/07/08/013",
     "pu_name": "GARIN  JANBIRI, PRIMARY SCHOOL",
     "name": "GARIN  JANBIRI, PRIMARY SCHOOL",
-    "lga": "GAMAWA",
-    "ward": "TARMASUWA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "GAMAWA",
     "ward": "TARMASUWA",
     "state": "Bauchi",
@@ -19485,12 +19053,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GAMAWA",
-    "ward": "RAGA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/07/10/001",
     "pu_name": "MARKADERI,    MARKADERI  VILLAGE",
     "name": "MARKADERI,    MARKADERI  VILLAGE",
@@ -19671,12 +19233,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GAMAWA",
-    "ward": "GADIYA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/07/11/001",
     "pu_name": "ZINDIWA,  ZINDIWA PRIMNARY SCHOOL I",
     "name": "ZINDIWA,  ZINDIWA PRIMNARY SCHOOL I",
@@ -19788,12 +19344,6 @@
     "pu_code": "05/07/11/013",
     "pu_name": "GARIN  MAKAMA,  MAKAMA  VILLAGE",
     "name": "GARIN  MAKAMA,  MAKAMA  VILLAGE",
-    "lga": "GAMAWA",
-    "ward": "ZINDI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "GAMAWA",
     "ward": "ZINDI",
     "state": "Bauchi",
@@ -20124,12 +19674,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GANJUWA",
-    "ward": "GANJUWA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/08/02/001",
     "pu_name": "GUNGURA,  GUNGURA PRIMARY SCHOOL I",
     "name": "GUNGURA,  GUNGURA PRIMARY SCHOOL I",
@@ -20313,12 +19857,6 @@
     "pu_code": "05/08/02/021",
     "pu_name": "GOVT DAY SEC. SCH GUNGURA",
     "name": "GOVT DAY SEC. SCH GUNGURA",
-    "lga": "GANJUWA",
-    "ward": "GUNGURA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "GANJUWA",
     "ward": "GUNGURA",
     "state": "Bauchi",
@@ -20604,12 +20142,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GANJUWA",
-    "ward": "KAFIN MADAKI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/08/04/001",
     "pu_name": "ZIDA,  ZIDA PRIMARY SCHOOL",
     "name": "ZIDA,  ZIDA PRIMARY SCHOOL",
@@ -20880,12 +20412,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GANJUWA",
-    "ward": "KARIYA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/08/05/001",
     "pu_name": "ZALANGA ZALANGA PRIMARY SCHOOL I",
     "name": "ZALANGA ZALANGA PRIMARY SCHOOL I",
@@ -21039,12 +20565,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GANJUWA",
-    "ward": "KUBI EAST",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/08/06/001",
     "pu_name": "KUBI,  KUBI PRIMARY SCHOOL I",
     "name": "KUBI,  KUBI PRIMARY SCHOOL I",
@@ -21174,12 +20694,6 @@
     "pu_code": "05/08/06/015",
     "pu_name": "GORI VILLAGE CENTRE",
     "name": "GORI VILLAGE CENTRE",
-    "lga": "GANJUWA",
-    "ward": "KUBI WEST",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "GANJUWA",
     "ward": "KUBI WEST",
     "state": "Bauchi",
@@ -21342,12 +20856,6 @@
     "pu_code": "05/08/07/018",
     "pu_name": "BURKU  II, KOFAR SARKI",
     "name": "BURKU  II, KOFAR SARKI",
-    "lga": "GANJUWA",
-    "ward": "MIYA  EAST",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "GANJUWA",
     "ward": "MIYA  EAST",
     "state": "Bauchi",
@@ -21651,12 +21159,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GANJUWA",
-    "ward": "MIYA  WEST",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/08/09/001",
     "pu_name": "UNGUWAR MADAKI,  KOFAR MADAKI",
     "name": "UNGUWAR MADAKI,  KOFAR MADAKI",
@@ -21828,12 +21330,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GANJUWA",
-    "ward": "NASARAWA NORTH",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/08/10/001",
     "pu_name": "DEGELE,  KOFAR SARKI DEGELE",
     "name": "DEGELE,  KOFAR SARKI DEGELE",
@@ -21963,12 +21459,6 @@
     "pu_code": "05/08/10/015",
     "pu_name": "DASHA,  KOFAR SARKI",
     "name": "DASHA,  KOFAR SARKI",
-    "lga": "GANJUWA",
-    "ward": "NASARAWA  SOUTH",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "GANJUWA",
     "ward": "NASARAWA  SOUTH",
     "state": "Bauchi",
@@ -22131,12 +21621,6 @@
     "pu_code": "05/08/11/018",
     "pu_name": "FIRO MATERNITY",
     "name": "FIRO MATERNITY",
-    "lga": "GANJUWA",
-    "ward": "YALI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "GANJUWA",
     "ward": "YALI",
     "state": "Bauchi",
@@ -22350,12 +21834,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GIADE",
-    "ward": "CHINKANI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/09/02/001",
     "pu_name": "SABON SARA,  PRIMARY SCHOOL",
     "name": "SABON SARA,  PRIMARY SCHOOL",
@@ -22491,12 +21969,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GIADE",
-    "ward": "SABON SARA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/09/03/001",
     "pu_name": "DOGUWA,   KOFAR SARKI- I",
     "name": "DOGUWA,   KOFAR SARKI- I",
@@ -22623,12 +22095,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GIADE",
-    "ward": "DOGUWA CENTRAL",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/09/04/001",
     "pu_name": "GARANYA,  KOFAR JAURO",
     "name": "GARANYA,  KOFAR JAURO",
@@ -22695,12 +22161,6 @@
     "pu_code": "05/09/04/008",
     "pu_name": "UNGUWAR GABAR GINDIN DURUMI",
     "name": "UNGUWAR GABAR GINDIN DURUMI",
-    "lga": "GIADE",
-    "ward": "DOGUWA  SOUTH",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "GIADE",
     "ward": "DOGUWA  SOUTH",
     "state": "Bauchi",
@@ -22941,12 +22401,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GIADE",
-    "ward": "GIADE",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/09/06/001",
     "pu_name": "ISAWA,   KOFAR FADA I",
     "name": "ISAWA,   KOFAR FADA I",
@@ -23100,12 +22554,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GIADE",
-    "ward": "ISAWA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/09/07/001",
     "pu_name": "UZUM,  SABUWA PRIMARY SCHOOL",
     "name": "UZUM,  SABUWA PRIMARY SCHOOL",
@@ -23178,12 +22626,6 @@
     "state_code": "05"
   },
   {
-    "lga": "GIADE",
-    "ward": "U.  ZUM 'A'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/09/08/001",
     "pu_name": "FAGUJI  YAMMA,  KOFAR JAURO",
     "name": "FAGUJI  YAMMA,  KOFAR JAURO",
@@ -23250,12 +22692,6 @@
     "pu_code": "05/09/08/008",
     "pu_name": "GOVERNMENT DAY SECONDARY SCHOOL FAGUJI",
     "name": "GOVERNMENT DAY SECONDARY SCHOOL FAGUJI",
-    "lga": "GIADE",
-    "ward": "UZUM 'B'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "GIADE",
     "ward": "UZUM 'B'",
     "state": "Bauchi",
@@ -23364,12 +22800,6 @@
     "pu_code": "05/09/09/012",
     "pu_name": "ZABI RUMFAR KASUWA",
     "name": "ZABI RUMFAR KASUWA",
-    "lga": "GIADE",
-    "ward": "ZABI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "GIADE",
     "ward": "ZABI",
     "state": "Bauchi",
@@ -23496,12 +22926,6 @@
     "pu_code": "05/09/10/014",
     "pu_name": "ZIRAMI RUMFAR KASUWA II",
     "name": "ZIRAMI RUMFAR KASUWA II",
-    "lga": "GIADE",
-    "ward": "ZIRRAMI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "GIADE",
     "ward": "ZIRRAMI",
     "state": "Bauchi",
@@ -23850,12 +23274,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ITAS/GADAU",
-    "ward": "ITAS",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/10/02/001",
     "pu_name": "MASHEMA GABAS,   KOFAR FADA",
     "name": "MASHEMA GABAS,   KOFAR FADA",
@@ -24081,12 +23499,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ITAS/GADAU",
-    "ward": "MASHEMA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/10/03/001",
     "pu_name": "GWARAI/GARA,  PRIMARY SCHOOL",
     "name": "GWARAI/GARA,  PRIMARY SCHOOL",
@@ -24216,12 +23628,6 @@
     "pu_code": "05/10/03/015",
     "pu_name": "GWARAI",
     "name": "GWARAI",
-    "lga": "ITAS/GADAU",
-    "ward": "GWARAI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ITAS/GADAU",
     "ward": "GWARAI",
     "state": "Bauchi",
@@ -24366,12 +23772,6 @@
     "pu_code": "05/10/04/016",
     "pu_name": "GAMBARA B",
     "name": "GAMBARA B",
-    "lga": "ITAS/GADAU",
-    "ward": "ABDALLAWA/MAGARYA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ITAS/GADAU",
     "ward": "ABDALLAWA/MAGARYA",
     "state": "Bauchi",
@@ -24525,12 +23925,6 @@
     "pu_code": "05/10/05/017",
     "pu_name": "YARAYI B",
     "name": "YARAYI B",
-    "lga": "ITAS/GADAU",
-    "ward": "BUZAWA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ITAS/GADAU",
     "ward": "BUZAWA",
     "state": "Bauchi",
@@ -24735,12 +24129,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ITAS/GADAU",
-    "ward": "BILKICHERI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/10/07/001",
     "pu_name": "BAMBAL GABAS,  PRIMARY SCHOOL",
     "name": "BAMBAL GABAS,  PRIMARY SCHOOL",
@@ -24861,12 +24249,6 @@
     "pu_code": "05/10/07/014",
     "pu_name": "GARIN DOLE B",
     "name": "GARIN DOLE B",
-    "lga": "ITAS/GADAU",
-    "ward": "BAMBAL",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ITAS/GADAU",
     "ward": "BAMBAL",
     "state": "Bauchi",
@@ -25143,12 +24525,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ITAS/GADAU",
-    "ward": "GADAU",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/10/09/001",
     "pu_name": "YANCHERI,   KOFAR FADA",
     "name": "YANCHERI,   KOFAR FADA",
@@ -25323,12 +24699,6 @@
     "pu_code": "05/10/09/020",
     "pu_name": "KASHURI YAMMA",
     "name": "KASHURI YAMMA",
-    "lga": "ITAS/GADAU",
-    "ward": "KASHURI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ITAS/GADAU",
     "ward": "KASHURI",
     "state": "Bauchi",
@@ -25677,12 +25047,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ITAS/GADAU",
-    "ward": "ZUBUKI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/11/01/001",
     "pu_name": "SHAMAKI ,  LIBRARY I",
     "name": "SHAMAKI ,  LIBRARY I",
@@ -25803,12 +25167,6 @@
     "pu_code": "05/11/01/014",
     "pu_name": "YARIMARI CENTRAL PRIMARY SCHOOL",
     "name": "YARIMARI CENTRAL PRIMARY SCHOOL",
-    "lga": "JAMA'ARE",
-    "ward": "JAMA'ARE 'A'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "JAMA'ARE",
     "ward": "JAMA'ARE 'A'",
     "state": "Bauchi",
@@ -25977,12 +25335,6 @@
     "state_code": "05"
   },
   {
-    "lga": "JAMA'ARE",
-    "ward": "JAMA'ARE 'B'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/11/03/001",
     "pu_name": "UNGUWAN TSAMIYA MAI UNGIS HOUSE",
     "name": "UNGUWAN TSAMIYA MAI UNGIS HOUSE",
@@ -26076,12 +25428,6 @@
     "pu_code": "05/11/03/011",
     "pu_name": "YANGAMAI PRIMARY SCHOOL",
     "name": "YANGAMAI PRIMARY SCHOOL",
-    "lga": "JAMA'ARE",
-    "ward": "JAMA'ARE 'C'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "JAMA'ARE",
     "ward": "JAMA'ARE 'C'",
     "state": "Bauchi",
@@ -26259,12 +25605,6 @@
     "state_code": "05"
   },
   {
-    "lga": "JAMA'ARE",
-    "ward": "JAMA'ARE 'D'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/11/05/001",
     "pu_name": "KOFAR FADA DISTRICT HEAD I",
     "name": "KOFAR FADA DISTRICT HEAD I",
@@ -26331,12 +25671,6 @@
     "pu_code": "05/11/05/008",
     "pu_name": "BAKIN KASUWA,  BAKIN KASUWA",
     "name": "BAKIN KASUWA,  BAKIN KASUWA",
-    "lga": "JAMA'ARE",
-    "ward": "DOGON JEJI 'A'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "JAMA'ARE",
     "ward": "DOGON JEJI 'A'",
     "state": "Bauchi",
@@ -26424,12 +25758,6 @@
     "state_code": "05"
   },
   {
-    "lga": "JAMA'ARE",
-    "ward": "DOGON JEJI 'B'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/11/07/001",
     "pu_name": "GONGO,   GONGO PRIMARY SCHOOL I",
     "name": "GONGO,   GONGO PRIMARY SCHOOL I",
@@ -26496,12 +25824,6 @@
     "pu_code": "05/11/07/008",
     "pu_name": "FATISKE,  H. JAURO",
     "name": "FATISKE,  H. JAURO",
-    "lga": "JAMA'ARE",
-    "ward": "DOGON JEJI 'C'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "JAMA'ARE",
     "ward": "DOGON JEJI 'C'",
     "state": "Bauchi",
@@ -26688,12 +26010,6 @@
     "state_code": "05"
   },
   {
-    "lga": "JAMA'ARE",
-    "ward": "HANAFARI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/11/09/001",
     "pu_name": "GALDIMARI,  PRIMARY SCHOOL I",
     "name": "GALDIMARI,  PRIMARY SCHOOL I",
@@ -26820,12 +26136,6 @@
     "state_code": "05"
   },
   {
-    "lga": "JAMA'ARE",
-    "ward": "GALDIMARI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/11/10/001",
     "pu_name": "JURARA,  PRIMARY SCHOOL I",
     "name": "JURARA,  PRIMARY SCHOOL I",
@@ -26928,12 +26238,6 @@
     "pu_code": "05/11/10/012",
     "pu_name": "KUDUWO,  K/JAURO",
     "name": "KUDUWO,  K/JAURO",
-    "lga": "JAMA'ARE",
-    "ward": "JURARA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "JAMA'ARE",
     "ward": "JURARA",
     "state": "Bauchi",
@@ -27384,12 +26688,6 @@
     "pu_code": "05/12/01/050",
     "pu_name": "F.R.S.C. OFFICE AZARE",
     "name": "F.R.S.C. OFFICE AZARE",
-    "lga": "KATAGUM",
-    "ward": "TSAKUWA KOFAR GABAS/ KOFAR KUKA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "KATAGUM",
     "ward": "TSAKUWA KOFAR GABAS/ KOFAR KUKA",
     "state": "Bauchi",
@@ -28206,12 +27504,6 @@
     "state_code": "05"
   },
   {
-    "lga": "KATAGUM",
-    "ward": "NASARAWA BAKIN KASUWA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/12/03/001",
     "pu_name": "MADANGALA  PRIMARY SCHOOL,   PRIMARY SCHOOL",
     "name": "MADANGALA  PRIMARY SCHOOL,   PRIMARY SCHOOL",
@@ -28599,12 +27891,6 @@
     "state_code": "05"
   },
   {
-    "lga": "KATAGUM",
-    "ward": "MADANGALA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/12/04/001",
     "pu_name": "MADARA DISTRICT HEAD'S OFFICE,     DISTRICT HEAD'S OFFICE",
     "name": "MADARA DISTRICT HEAD'S OFFICE,     DISTRICT HEAD'S OFFICE",
@@ -28767,12 +28053,6 @@
     "state_code": "05"
   },
   {
-    "lga": "KATAGUM",
-    "ward": "MADARA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/12/05/001",
     "pu_name": "BUSKURI  PRIMARY SCHOOL,    PRIMARY SCHOOL",
     "name": "BUSKURI  PRIMARY SCHOOL,    PRIMARY SCHOOL",
@@ -28929,12 +28209,6 @@
     "pu_code": "05/12/05/018",
     "pu_name": "BUSKURI JUNIOR SEC. SCH",
     "name": "BUSKURI JUNIOR SEC. SCH",
-    "lga": "KATAGUM",
-    "ward": "BUSKURI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "KATAGUM",
     "ward": "BUSKURI",
     "state": "Bauchi",
@@ -29160,12 +28434,6 @@
     "pu_code": "05/12/06/025",
     "pu_name": "RAGWAM DISPENSARY",
     "name": "RAGWAM DISPENSARY",
-    "lga": "KATAGUM",
-    "ward": "RAGWAM/MAGONSHI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "KATAGUM",
     "ward": "RAGWAM/MAGONSHI",
     "state": "Bauchi",
@@ -29442,12 +28710,6 @@
     "state_code": "05"
   },
   {
-    "lga": "KATAGUM",
-    "ward": "GAMBAKI/BIDIR",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/12/08/001",
     "pu_name": "DISTRICT HEAD OFFICE,    DISTRICT HEAD OFFICE I",
     "name": "DISTRICT HEAD OFFICE,    DISTRICT HEAD OFFICE I",
@@ -29631,12 +28893,6 @@
     "pu_code": "05/12/08/021",
     "pu_name": "TASHAR ABARSHI",
     "name": "TASHAR ABARSHI",
-    "lga": "KATAGUM",
-    "ward": "CHINADE",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "KATAGUM",
     "ward": "CHINADE",
     "state": "Bauchi",
@@ -29895,12 +29151,6 @@
     "state_code": "05"
   },
   {
-    "lga": "KATAGUM",
-    "ward": "BULKACHUWA/DAGARO",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/12/10/001",
     "pu_name": "YAYU PRIMARY SCHOOL,   PRIMARY SCHOOL",
     "name": "YAYU PRIMARY SCHOOL,   PRIMARY SCHOOL",
@@ -30057,12 +29307,6 @@
     "pu_code": "05/12/10/018",
     "pu_name": "RUGAR RAFI, GINDIN BOREHOLE",
     "name": "RUGAR RAFI, GINDIN BOREHOLE",
-    "lga": "KATAGUM",
-    "ward": "YAYU",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "KATAGUM",
     "ward": "YAYU",
     "state": "Bauchi",
@@ -30276,12 +29520,6 @@
     "state_code": "05"
   },
   {
-    "lga": "KATAGUM",
-    "ward": "MADACHI/GANGAI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/13/01/001",
     "pu_name": "UNG. AJIYA,    B.S.A.P. BADARA",
     "name": "UNG. AJIYA,    B.S.A.P. BADARA",
@@ -30438,12 +29676,6 @@
     "pu_code": "05/13/01/018",
     "pu_name": "BAKIN KASUWA BADARA",
     "name": "BAKIN KASUWA BADARA",
-    "lga": "KIRFI",
-    "ward": "BADARA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "KIRFI",
     "ward": "BADARA",
     "state": "Bauchi",
@@ -30693,12 +29925,6 @@
     "state_code": "05"
   },
   {
-    "lga": "KIRFI",
-    "ward": "BARA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/13/03/001",
     "pu_name": "BENI,   PRIMARY SCHOOL I",
     "name": "BENI,   PRIMARY SCHOOL I",
@@ -30816,12 +30042,6 @@
     "state_code": "05"
   },
   {
-    "lga": "KIRFI",
-    "ward": "BENI 'A'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/13/04/001",
     "pu_name": "GUYABA EAST,   PRIMARY SCHOOL I",
     "name": "GUYABA EAST,   PRIMARY SCHOOL I",
@@ -30897,12 +30117,6 @@
     "pu_code": "05/13/04/009",
     "pu_name": "GUYABA PHC CENTER",
     "name": "GUYABA PHC CENTER",
-    "lga": "KIRFI",
-    "ward": "BENI 'B'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "KIRFI",
     "ward": "BENI 'B'",
     "state": "Bauchi",
@@ -31020,12 +30234,6 @@
     "pu_code": "05/13/05/013",
     "pu_name": "RIBAN GARMU SABON LAYI",
     "name": "RIBAN GARMU SABON LAYI",
-    "lga": "KIRFI",
-    "ward": "DEWU CENTRAL",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "KIRFI",
     "ward": "DEWU CENTRAL",
     "state": "Bauchi",
@@ -31152,12 +30360,6 @@
     "pu_code": "05/13/06/014",
     "pu_name": "KAFIN IYA GARU SECURITY",
     "name": "KAFIN IYA GARU SECURITY",
-    "lga": "KIRFI",
-    "ward": "DEWU EAST",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "KIRFI",
     "ward": "DEWU EAST",
     "state": "Bauchi",
@@ -31353,12 +30555,6 @@
     "state_code": "05"
   },
   {
-    "lga": "KIRFI",
-    "ward": "KIRFI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/13/08/001",
     "pu_name": "SHANGO,   PRIMARY SCHOOL",
     "name": "SHANGO,   PRIMARY SCHOOL",
@@ -31476,12 +30672,6 @@
     "state_code": "05"
   },
   {
-    "lga": "KIRFI",
-    "ward": "SHANGO",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/13/09/001",
     "pu_name": "KWALA GANJUWA,   KOFAR SARKI",
     "name": "KWALA GANJUWA,   KOFAR SARKI",
@@ -31539,12 +30729,6 @@
     "pu_code": "05/13/09/007",
     "pu_name": "DEGA,    KOFAR SARKI",
     "name": "DEGA,    KOFAR SARKI",
-    "lga": "KIRFI",
-    "ward": "TUBULE",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "KIRFI",
     "ward": "TUBULE",
     "state": "Bauchi",
@@ -31716,12 +30900,6 @@
     "pu_code": "05/13/10/019",
     "pu_name": "CHELEDI SCIENCE PRI. SCHOOL.",
     "name": "CHELEDI SCIENCE PRI. SCHOOL.",
-    "lga": "KIRFI",
-    "ward": "WANKA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "KIRFI",
     "ward": "WANKA",
     "state": "Bauchi",
@@ -31980,12 +31158,6 @@
     "state_code": "05"
   },
   {
-    "lga": "MISAU",
-    "ward": "ZADAWA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/14/02/001",
     "pu_name": "BETI/GALDIMAWO,   BETI PRIMARY SCHOOL",
     "name": "BETI/GALDIMAWO,   BETI PRIMARY SCHOOL",
@@ -32133,12 +31305,6 @@
     "pu_code": "05/14/02/017",
     "pu_name": "GALDIMAWO",
     "name": "GALDIMAWO",
-    "lga": "MISAU",
-    "ward": "BETI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "MISAU",
     "ward": "BETI",
     "state": "Bauchi",
@@ -32310,12 +31476,6 @@
     "pu_code": "05/14/03/019",
     "pu_name": "RIJIYAR UMALA",
     "name": "RIJIYAR UMALA",
-    "lga": "MISAU",
-    "ward": "JARKASA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "MISAU",
     "ward": "JARKASA",
     "state": "Bauchi",
@@ -32943,12 +32103,6 @@
     "state_code": "05"
   },
   {
-    "lga": "MISAU",
-    "ward": "KUKADI/GUNDARI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/14/05/001",
     "pu_name": "AJILI/SAMADAWO, AJILI PRIMARY SCHOOL",
     "name": "AJILI/SAMADAWO, AJILI PRIMARY SCHOOL",
@@ -33210,12 +32364,6 @@
     "state_code": "05"
   },
   {
-    "lga": "MISAU",
-    "ward": "AJILIN/GUGULIN",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/14/06/001",
     "pu_name": "TOFU,   TOFU PRIMARY SCHOOL",
     "name": "TOFU,   TOFU PRIMARY SCHOOL",
@@ -33363,12 +32511,6 @@
     "pu_code": "05/14/06/017",
     "pu_name": "HALAYIDI, GIDAN BATURE II",
     "name": "HALAYIDI, GIDAN BATURE II",
-    "lga": "MISAU",
-    "ward": "TOFU",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "MISAU",
     "ward": "TOFU",
     "state": "Bauchi",
@@ -33567,12 +32709,6 @@
     "pu_code": "05/14/07/022",
     "pu_name": "UNGUWAR AREWA",
     "name": "UNGUWAR AREWA",
-    "lga": "MISAU",
-    "ward": "HARDAWA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "MISAU",
     "ward": "HARDAWA",
     "state": "Bauchi",
@@ -33849,12 +32985,6 @@
     "state_code": "05"
   },
   {
-    "lga": "MISAU",
-    "ward": "SARMA/AKUYAM",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/14/09/001",
     "pu_name": "SIRKO/LUGGUDI,   PRIMARY SCHOOL",
     "name": "SIRKO/LUGGUDI,   PRIMARY SCHOOL",
@@ -33930,12 +33060,6 @@
     "pu_code": "05/14/09/009",
     "pu_name": "LUGGUDI",
     "name": "LUGGUDI",
-    "lga": "MISAU",
-    "ward": "SIRKO",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "MISAU",
     "ward": "SIRKO",
     "state": "Bauchi",
@@ -34080,12 +33204,6 @@
     "pu_code": "05/14/10/016",
     "pu_name": "SABON LAYI",
     "name": "SABON LAYI",
-    "lga": "MISAU",
-    "ward": "GWARAM",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "MISAU",
     "ward": "GWARAM",
     "state": "Bauchi",
@@ -34632,12 +33750,6 @@
     "state_code": "05"
   },
   {
-    "lga": "NINGI",
-    "ward": "NINGI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/15/02/001",
     "pu_name": "DINGIS KOFAR MAI UNGUWA",
     "name": "DINGIS KOFAR MAI UNGUWA",
@@ -34839,12 +33951,6 @@
     "pu_code": "05/15/02/023",
     "pu_name": "GUGGUBA DISPENSARY",
     "name": "GUGGUBA DISPENSARY",
-    "lga": "NINGI",
-    "ward": "DINGIS",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "NINGI",
     "ward": "DINGIS",
     "state": "Bauchi",
@@ -35175,12 +34281,6 @@
     "state_code": "05"
   },
   {
-    "lga": "NINGI",
-    "ward": "NASARU",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/15/04/001",
     "pu_name": "KAFIN ZAKI,   KAFIN ZAKI PRIMARY SCHOOL",
     "name": "KAFIN ZAKI,   KAFIN ZAKI PRIMARY SCHOOL",
@@ -35382,12 +34482,6 @@
     "pu_code": "05/15/04/023",
     "pu_name": "TSANGAYAR MARKE PRI SCH ISLAMIYYA",
     "name": "TSANGAYAR MARKE PRI SCH ISLAMIYYA",
-    "lga": "NINGI",
-    "ward": "JANGU",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "NINGI",
     "ward": "JANGU",
     "state": "Bauchi",
@@ -35703,12 +34797,6 @@
     "pu_code": "05/15/05/035",
     "pu_name": "RUWAN DINYA",
     "name": "RUWAN DINYA",
-    "lga": "NINGI",
-    "ward": "BALMA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "NINGI",
     "ward": "BALMA",
     "state": "Bauchi",
@@ -36039,12 +35127,6 @@
     "state_code": "05"
   },
   {
-    "lga": "NINGI",
-    "ward": "KUDU / YAMMA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/15/07/001",
     "pu_name": "ZIDA,   KOFAR MALLAM IBRAHIM",
     "name": "ZIDA,   KOFAR MALLAM IBRAHIM",
@@ -36273,12 +35355,6 @@
     "pu_code": "05/15/07/026",
     "pu_name": "TASHAR MAJE",
     "name": "TASHAR MAJE",
-    "lga": "NINGI",
-    "ward": "TIFFI / GUDA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "NINGI",
     "ward": "TIFFI / GUDA",
     "state": "Bauchi",
@@ -36591,12 +35667,6 @@
     "state_code": "05"
   },
   {
-    "lga": "NINGI",
-    "ward": "BURRA / KYATA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/15/09/001",
     "pu_name": "GAMADORO,  KOFAR MAI UNGUWA",
     "name": "GAMADORO,  KOFAR MAI UNGUWA",
@@ -36825,12 +35895,6 @@
     "pu_code": "05/15/09/026",
     "pu_name": "KAJALA DISPENSARY",
     "name": "KAJALA DISPENSARY",
-    "lga": "NINGI",
-    "ward": "SAMA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "NINGI",
     "ward": "SAMA",
     "state": "Bauchi",
@@ -37188,12 +36252,6 @@
     "state_code": "05"
   },
   {
-    "lga": "NINGI",
-    "ward": "BASHE",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/15/11/001",
     "pu_name": "GWANDABI  I,  GWANDABI PRIMARY SCHOOL",
     "name": "GWANDABI  I,  GWANDABI PRIMARY SCHOOL",
@@ -37491,12 +36549,6 @@
     "state_code": "05"
   },
   {
-    "lga": "NINGI",
-    "ward": "KURMI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/16/01/001",
     "pu_name": "ANDUBUN GABAS, PRIMARY SCHOOL",
     "name": "ANDUBUN GABAS, PRIMARY SCHOOL",
@@ -37641,12 +36693,6 @@
     "state_code": "05"
   },
   {
-    "lga": "SHIRA",
-    "ward": "ANDUBUN",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/16/02/001",
     "pu_name": "SAMBUWAL GABAS,  PRIMARY SCHOOL",
     "name": "SAMBUWAL GABAS,  PRIMARY SCHOOL",
@@ -37776,12 +36822,6 @@
     "pu_code": "05/16/02/015",
     "pu_name": "GARIN MAGAJI,   KOFAR SARKI GARIN MAGAJI",
     "name": "GARIN MAGAJI,   KOFAR SARKI GARIN MAGAJI",
-    "lga": "SHIRA",
-    "ward": "SAMBUWAL",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "SHIRA",
     "ward": "SAMBUWAL",
     "state": "Bauchi",
@@ -38076,12 +37116,6 @@
     "state_code": "05"
   },
   {
-    "lga": "SHIRA",
-    "ward": "BUKUL/BANGIRE",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/16/04/001",
     "pu_name": "DISINA UNG. DAMAMISAU,   DISTRICT HEAD OFFICE",
     "name": "DISINA UNG. DAMAMISAU,   DISTRICT HEAD OFFICE",
@@ -38298,12 +37332,6 @@
     "state_code": "05"
   },
   {
-    "lga": "SHIRA",
-    "ward": "DISINA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/16/05/001",
     "pu_name": "FAGGO YAMMA,   KOFAR FADA",
     "name": "FAGGO YAMMA,   KOFAR FADA",
@@ -38487,12 +37515,6 @@
     "pu_code": "05/16/05/021",
     "pu_name": "AUYAKARI  KOFAR SARKIN AUYAKARI",
     "name": "AUYAKARI  KOFAR SARKIN AUYAKARI",
-    "lga": "SHIRA",
-    "ward": "FAGGO",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "SHIRA",
     "ward": "FAGGO",
     "state": "Bauchi",
@@ -38697,12 +37719,6 @@
     "state_code": "05"
   },
   {
-    "lga": "SHIRA",
-    "ward": "BELI/GAGIDABA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/16/07/001",
     "pu_name": "KILBORI GABAS PRIMARY SCHOOL",
     "name": "KILBORI GABAS PRIMARY SCHOOL",
@@ -38859,12 +37875,6 @@
     "pu_code": "05/16/07/018",
     "pu_name": "KAHIN,   KOFAR SARKI-II",
     "name": "KAHIN,   KOFAR SARKI-II",
-    "lga": "SHIRA",
-    "ward": "KILBORI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "SHIRA",
     "ward": "KILBORI",
     "state": "Bauchi",
@@ -39240,12 +38250,6 @@
     "state_code": "05"
   },
   {
-    "lga": "SHIRA",
-    "ward": "SHIRA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/16/09/001",
     "pu_name": "TSAFI,   KOFAR SARKI- I",
     "name": "TSAFI,   KOFAR SARKI- I",
@@ -39417,12 +38421,6 @@
     "state_code": "05"
   },
   {
-    "lga": "SHIRA",
-    "ward": "TSAFI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/16/10/001",
     "pu_name": "TUMFAFI GABAS,   KOFAR SARKI",
     "name": "TUMFAFI GABAS,   KOFAR SARKI",
@@ -39552,12 +38550,6 @@
     "pu_code": "05/16/10/015",
     "pu_name": "FARIN DUTSE,   KOFAR SARKI",
     "name": "FARIN DUTSE,   KOFAR SARKI",
-    "lga": "SHIRA",
-    "ward": "TUMFAFI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "SHIRA",
     "ward": "TUMFAFI",
     "state": "Bauchi",
@@ -39702,12 +38694,6 @@
     "pu_code": "05/16/11/016",
     "pu_name": "FAWARIN DARAJIYAWA,   KOFAR SARKIN DARAJIYA",
     "name": "FAWARIN DARAJIYAWA,   KOFAR SARKIN DARAJIYA",
-    "lga": "SHIRA",
-    "ward": "ZUBO",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "SHIRA",
     "ward": "ZUBO",
     "state": "Bauchi",
@@ -39870,12 +38856,6 @@
     "pu_code": "05/17/01/018",
     "pu_name": "BANGON ZARI  PRIMARY SCHOOL II",
     "name": "BANGON ZARI  PRIMARY SCHOOL II",
-    "lga": "TAFAWA BALEWA",
-    "ward": "KARDAM 'A'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "TAFAWA BALEWA",
     "ward": "KARDAM 'A'",
     "state": "Bauchi",
@@ -40047,12 +39027,6 @@
     "pu_code": "05/17/02/019",
     "pu_name": "SATI MUSA II",
     "name": "SATI MUSA II",
-    "lga": "TAFAWA BALEWA",
-    "ward": "KARDAM 'B'",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "TAFAWA BALEWA",
     "ward": "KARDAM 'B'",
     "state": "Bauchi",
@@ -40257,12 +39231,6 @@
     "state_code": "05"
   },
   {
-    "lga": "TAFAWA BALEWA",
-    "ward": "LERE NORTH",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/17/04/001",
     "pu_name": "MARTIN GIJI/DAJI,   MARTIN PRIMARY SCHOOL I",
     "name": "MARTIN GIJI/DAJI,   MARTIN PRIMARY SCHOOL I",
@@ -40410,12 +39378,6 @@
     "pu_code": "05/17/04/017",
     "pu_name": "KAL",
     "name": "KAL",
-    "lga": "TAFAWA BALEWA",
-    "ward": "LERE  SOUTH",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "TAFAWA BALEWA",
     "ward": "LERE  SOUTH",
     "state": "Bauchi",
@@ -40614,12 +39576,6 @@
     "pu_code": "05/17/05/022",
     "pu_name": "AKUSHA",
     "name": "AKUSHA",
-    "lga": "TAFAWA BALEWA",
-    "ward": "TAPSHIN",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "TAFAWA BALEWA",
     "ward": "TAPSHIN",
     "state": "Bauchi",
@@ -41139,12 +40095,6 @@
     "state_code": "05"
   },
   {
-    "lga": "TAFAWA BALEWA",
-    "ward": "WAI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/17/07/001",
     "pu_name": "BALL  I,   BALL PRIMARY SCHOOL",
     "name": "BALL  I,   BALL PRIMARY SCHOOL",
@@ -41319,12 +40269,6 @@
     "pu_code": "05/17/07/020",
     "pu_name": "YOLA NORA YAMMA",
     "name": "YOLA NORA YAMMA",
-    "lga": "TAFAWA BALEWA",
-    "ward": "BALL",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "TAFAWA BALEWA",
     "ward": "BALL",
     "state": "Bauchi",
@@ -41520,12 +40464,6 @@
     "state_code": "05"
   },
   {
-    "lga": "TAFAWA BALEWA",
-    "ward": "BULA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/17/09/001",
     "pu_name": "DAJIN  I,   DAJIN PRIMARY SCHOOL",
     "name": "DAJIN  I,   DAJIN PRIMARY SCHOOL",
@@ -41673,12 +40611,6 @@
     "pu_code": "05/17/09/017",
     "pu_name": "POLCHI II",
     "name": "POLCHI II",
-    "lga": "TAFAWA BALEWA",
-    "ward": "DAJIN",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "TAFAWA BALEWA",
     "ward": "DAJIN",
     "state": "Bauchi",
@@ -41922,12 +40854,6 @@
     "pu_code": "05/17/10/027",
     "pu_name": "GANSHIYA",
     "name": "GANSHIYA",
-    "lga": "TAFAWA BALEWA",
-    "ward": "DULL",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "TAFAWA BALEWA",
     "ward": "DULL",
     "state": "Bauchi",
@@ -42342,12 +41268,6 @@
     "pu_code": "05/17/11/046",
     "pu_name": "TAKIN FULANI",
     "name": "TAKIN FULANI",
-    "lga": "TAFAWA BALEWA",
-    "ward": "BUNUNU",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "TAFAWA BALEWA",
     "ward": "BUNUNU",
     "state": "Bauchi",
@@ -42993,12 +41913,6 @@
     "state_code": "05"
   },
   {
-    "lga": "TORO",
-    "ward": "TORO / TULAI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/18/02/001",
     "pu_name": "TILDE CENTRAL  PRIMARY SCHOOL I",
     "name": "TILDE CENTRAL  PRIMARY SCHOOL I",
@@ -43440,12 +42354,6 @@
     "state_code": "05"
   },
   {
-    "lga": "TORO",
-    "ward": "TILDEN FULANI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/18/03/001",
     "pu_name": "RIBINA  I,  KOFAR SARKI",
     "name": "RIBINA  I,  KOFAR SARKI",
@@ -43782,12 +42690,6 @@
     "pu_code": "05/18/03/038",
     "pu_name": "BARGAN FULANI PRIMARY SCHOOL II",
     "name": "BARGAN FULANI PRIMARY SCHOOL II",
-    "lga": "TORO",
-    "ward": "RIBINA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "TORO",
     "ward": "RIBINA",
     "state": "Bauchi",
@@ -44136,12 +43038,6 @@
     "state_code": "05"
   },
   {
-    "lga": "TORO",
-    "ward": "MARA / PALAMA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/18/05/001",
     "pu_name": "RAUTA  I,   PRIMARY SCHOOL",
     "name": "RAUTA  I,   PRIMARY SCHOOL",
@@ -44361,12 +43257,6 @@
     "pu_code": "05/18/05/025",
     "pu_name": "BAKIN RUWA DISPENSARY",
     "name": "BAKIN RUWA DISPENSARY",
-    "lga": "TORO",
-    "ward": "RAUTA / GEJI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "TORO",
     "ward": "RAUTA / GEJI",
     "state": "Bauchi",
@@ -44841,12 +43731,6 @@
     "state_code": "05"
   },
   {
-    "lga": "TORO",
-    "ward": "JAMA'A / ZARANDA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/18/07/001",
     "pu_name": "LAME  I,   PRIMARY SCHOOL",
     "name": "LAME  I,   PRIMARY SCHOOL",
@@ -45003,12 +43887,6 @@
     "pu_code": "05/18/07/018",
     "pu_name": "PRIMARY HEALTH CARE LAME",
     "name": "PRIMARY HEALTH CARE LAME",
-    "lga": "TORO",
-    "ward": "LAME",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "TORO",
     "ward": "LAME",
     "state": "Bauchi",
@@ -45357,12 +44235,6 @@
     "state_code": "05"
   },
   {
-    "lga": "TORO",
-    "ward": "WONU",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/18/09/001",
     "pu_name": "ZALAU  I,   PRIMARY SCHOOL",
     "name": "ZALAU  I,   PRIMARY SCHOOL",
@@ -45687,12 +44559,6 @@
     "state_code": "05"
   },
   {
-    "lga": "TORO",
-    "ward": "ZALAU / RISHI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/18/10/001",
     "pu_name": "BANGON  TAMA,   PRIMARY SCHOOL",
     "name": "BANGON  TAMA,   PRIMARY SCHOOL",
@@ -45990,12 +44856,6 @@
     "state_code": "05"
   },
   {
-    "lga": "TORO",
-    "ward": "TAMA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/18/11/001",
     "pu_name": "RAHAMA,   RAHAMA PRIMARY SCHOOL",
     "name": "RAHAMA,   RAHAMA PRIMARY SCHOOL",
@@ -46221,12 +45081,6 @@
     "state_code": "05"
   },
   {
-    "lga": "TORO",
-    "ward": "RAHAMA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/19/01/001",
     "pu_name": "KADALE BUBUNA, KOFAR MAI UNGUWA",
     "name": "KADALE BUBUNA, KOFAR MAI UNGUWA",
@@ -46371,12 +45225,6 @@
     "state_code": "05"
   },
   {
-    "lga": "WARJI",
-    "ward": "BAIMA NORTH / WEST",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/19/02/001",
     "pu_name": "UNGUWAR DOGO, KOFAR MAI UNGUWA L",
     "name": "UNGUWAR DOGO, KOFAR MAI UNGUWA L",
@@ -46512,12 +45360,6 @@
     "state_code": "05"
   },
   {
-    "lga": "WARJI",
-    "ward": "BAIMA  SOUTH/EAST",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/19/03/001",
     "pu_name": "G/KANMASAYA I,   KANMASAYA PRIMARY SCHOOL I",
     "name": "G/KANMASAYA I,   KANMASAYA PRIMARY SCHOOL I",
@@ -46644,12 +45486,6 @@
     "state_code": "05"
   },
   {
-    "lga": "WARJI",
-    "ward": "DAGU EAST",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/19/04/001",
     "pu_name": "BAKI (DISA),  DISA PRIMARY SCHOOL",
     "name": "BAKI (DISA),  DISA PRIMARY SCHOOL",
@@ -46716,12 +45552,6 @@
     "pu_code": "05/19/04/008",
     "pu_name": "GANJI,  KOFAR MAI UNGUWA II",
     "name": "GANJI,  KOFAR MAI UNGUWA II",
-    "lga": "WARJI",
-    "ward": "DAGU WEST",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "WARJI",
     "ward": "DAGU WEST",
     "state": "Bauchi",
@@ -46848,12 +45678,6 @@
     "pu_code": "05/19/05/014",
     "pu_name": "BURAN KWARI,   KOFAR MALLAM HAJI II",
     "name": "BURAN KWARI,   KOFAR MALLAM HAJI II",
-    "lga": "WARJI",
-    "ward": "GABANGA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "WARJI",
     "ward": "GABANGA",
     "state": "Bauchi",
@@ -47013,12 +45837,6 @@
     "state_code": "05"
   },
   {
-    "lga": "WARJI",
-    "ward": "KATANGA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/19/07/001",
     "pu_name": "DANSAI,   KOFAR SARKIN RANGA",
     "name": "DANSAI,   KOFAR SARKIN RANGA",
@@ -47139,12 +45957,6 @@
     "pu_code": "05/19/07/014",
     "pu_name": "LUNGWA PRIMARY SCHOOL",
     "name": "LUNGWA PRIMARY SCHOOL",
-    "lga": "WARJI",
-    "ward": "RANGA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "WARJI",
     "ward": "RANGA",
     "state": "Bauchi",
@@ -47304,12 +46116,6 @@
     "state_code": "05"
   },
   {
-    "lga": "WARJI",
-    "ward": "TIYIN",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/19/09/001",
     "pu_name": "UNGUWAR B. ABDU,  KOFAR ABDU DISA",
     "name": "UNGUWAR B. ABDU,  KOFAR ABDU DISA",
@@ -47403,12 +46209,6 @@
     "pu_code": "05/19/09/011",
     "pu_name": "HARDO YAKA NORMADIC PRI SCH",
     "name": "HARDO YAKA NORMADIC PRI SCH",
-    "lga": "WARJI",
-    "ward": "TUDUN WADA EAST",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "WARJI",
     "ward": "TUDUN WADA EAST",
     "state": "Bauchi",
@@ -47553,12 +46353,6 @@
     "pu_code": "05/19/10/016",
     "pu_name": "KUNGOYOM,  KOFAR MAI UNGUWA",
     "name": "KUNGOYOM,  KOFAR MAI UNGUWA",
-    "lga": "WARJI",
-    "ward": "TUDUN WADA WEST",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "WARJI",
     "ward": "TUDUN WADA WEST",
     "state": "Bauchi",
@@ -47871,12 +46665,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ZAKI",
-    "ward": "BURSALI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/20/02/001",
     "pu_name": "UNGUWAR DAN BOZA,  K.F.G.",
     "name": "UNGUWAR DAN BOZA,  K.F.G.",
@@ -48132,12 +46920,6 @@
     "pu_code": "05/20/02/029",
     "pu_name": "TARBUWA DESPENSARY",
     "name": "TARBUWA DESPENSARY",
-    "lga": "ZAKI",
-    "ward": "KATAGUM",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ZAKI",
     "ward": "KATAGUM",
     "state": "Bauchi",
@@ -48450,12 +47232,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ZAKI",
-    "ward": "TASHENA / GADAI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/20/04/001",
     "pu_name": "MAKAWA PRIMARY SCHOOL I",
     "name": "MAKAWA PRIMARY SCHOOL I",
@@ -48603,12 +47379,6 @@
     "pu_code": "05/20/04/017",
     "pu_name": "BABBAN FANFO GARA",
     "name": "BABBAN FANFO GARA",
-    "lga": "ZAKI",
-    "ward": "MAKAWA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ZAKI",
     "ward": "MAKAWA",
     "state": "Bauchi",
@@ -48849,12 +47619,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ZAKI",
-    "ward": "SAKWA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/20/06/001",
     "pu_name": "GUMAI EAST,   PRIMARY SCHOOL",
     "name": "GUMAI EAST,   PRIMARY SCHOOL",
@@ -49026,12 +47790,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ZAKI",
-    "ward": "GUMAI",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/20/07/001",
     "pu_name": "MURMUR,  PRIMARY SCHOOL",
     "name": "MURMUR,  PRIMARY SCHOOL",
@@ -49161,12 +47919,6 @@
     "pu_code": "05/20/07/015",
     "pu_name": "ALH. MAI DARIYA BOREHOLE",
     "name": "ALH. MAI DARIYA BOREHOLE",
-    "lga": "ZAKI",
-    "ward": "MURMUR NORTH",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ZAKI",
     "ward": "MURMUR NORTH",
     "state": "Bauchi",
@@ -49362,12 +48114,6 @@
     "state_code": "05"
   },
   {
-    "lga": "ZAKI",
-    "ward": "MURMUR  SOUTH",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "pu_code": "05/20/09/001",
     "pu_name": "ALANGAWARI,   PRIMARY SCHOOL I",
     "name": "ALANGAWARI,   PRIMARY SCHOOL I",
@@ -49533,12 +48279,6 @@
     "pu_code": "05/20/09/019",
     "pu_name": "DUKUWA KAFIN LARABAWA",
     "name": "DUKUWA KAFIN LARABAWA",
-    "lga": "ZAKI",
-    "ward": "ALANGAWARI / KAFIN / LARABAWA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ZAKI",
     "ward": "ALANGAWARI / KAFIN / LARABAWA",
     "state": "Bauchi",
@@ -49746,12 +48486,6 @@
     "pu_code": "05/20/10/023",
     "pu_name": "GURKA PRI. HEALTH CARE",
     "name": "GURKA PRI. HEALTH CARE",
-    "lga": "ZAKI",
-    "ward": "MAIWA",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ZAKI",
     "ward": "MAIWA",
     "state": "Bauchi",
@@ -49968,12 +48702,6 @@
     "pu_code": "05/20/11/024",
     "pu_name": "AUYAKARI PRI. SCHOOL II",
     "name": "AUYAKARI PRI. SCHOOL II",
-    "lga": "ZAKI",
-    "ward": "MAINAKO",
-    "state": "Bauchi",
-    "state_code": "05"
-  },
-  {
     "lga": "ZAKI",
     "ward": "MAINAKO",
     "state": "Bauchi",

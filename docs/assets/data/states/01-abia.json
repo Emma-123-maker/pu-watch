@@ -468,12 +468,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ABA NORTH",
-    "ward": "EZIAMA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/01/02/001",
     "pu_name": "NGWA CULTURAL HALL - NGWA CULTURAL HALL I",
     "name": "NGWA CULTURAL HALL - NGWA CULTURAL HALL I",
@@ -855,12 +849,6 @@
     "pu_code": "01/01/02/045",
     "pu_name": "NGWA CULTURAL HALL V",
     "name": "NGWA CULTURAL HALL V",
-    "lga": "ABA NORTH",
-    "ward": "INDUSTRIAL AREA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ABA NORTH",
     "ward": "INDUSTRIAL AREA",
     "state": "Abia",
@@ -1272,12 +1260,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ABA NORTH",
-    "ward": "OSUSU I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/01/04/001",
     "pu_name": "OSUSU SECONDARY SCHOOL  - SCHOOL PREMISES I",
     "name": "OSUSU SECONDARY SCHOOL  - SCHOOL PREMISES I",
@@ -1602,12 +1584,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ABA NORTH",
-    "ward": "OSUSU II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/01/05/001",
     "pu_name": "HOLY GHOST COMM. SCHOOL  - SCHOOL PREMISES I",
     "name": "HOLY GHOST COMM. SCHOOL  - SCHOOL PREMISES I",
@@ -1863,12 +1839,6 @@
     "pu_code": "01/01/05/029",
     "pu_name": "EKWEREAZU TOWN HALL II",
     "name": "EKWEREAZU TOWN HALL II",
-    "lga": "ABA NORTH",
-    "ward": "ST.EUGENES BY OKIGWE RD.",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ABA NORTH",
     "ward": "ST.EUGENES BY OKIGWE RD.",
     "state": "Abia",
@@ -2244,12 +2214,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ABA NORTH",
-    "ward": "URATTA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/01/07/001",
     "pu_name": "GULF COURSE PRIMARY SCHOOL  - SCHOOL PREMISES I",
     "name": "GULF COURSE PRIMARY SCHOOL  - SCHOOL PREMISES I",
@@ -2577,12 +2541,6 @@
     "pu_code": "01/01/07/037",
     "pu_name": "BATA PREM IV",
     "name": "BATA PREM IV",
-    "lga": "ABA NORTH",
-    "ward": "OLD ABA GRA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ABA NORTH",
     "ward": "OLD ABA GRA",
     "state": "Abia",
@@ -2970,12 +2928,6 @@
     "pu_code": "01/01/08/043",
     "pu_name": "UDOGU UMUOLA SQUARE VII",
     "name": "UDOGU UMUOLA SQUARE VII",
-    "lga": "ABA NORTH",
-    "ward": "UMUOLA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ABA NORTH",
     "ward": "UMUOLA",
     "state": "Abia",
@@ -3801,12 +3753,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ABA NORTH",
-    "ward": "ARIARIA MARKET",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/01/10/001",
     "pu_name": "WILCOX MEM. SEC. SCH.  - SCHOOL PREMISES I",
     "name": "WILCOX MEM. SEC. SCH.  - SCHOOL PREMISES I",
@@ -4086,12 +4032,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ABA NORTH",
-    "ward": "OGBOR I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/01/11/001",
     "pu_name": "OGBOR HILL PRIM. SCHOOL - SCHOOL PREMISES I",
     "name": "OGBOR HILL PRIM. SCHOOL - SCHOOL PREMISES I",
@@ -4326,12 +4266,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ABA NORTH",
-    "ward": "OGBOR II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/01/12/001",
     "pu_name": "UMUOGOR/UMUASOKE HALL-COUNCIL HALL I",
     "name": "UMUOGOR/UMUASOKE HALL-COUNCIL HALL I",
@@ -4542,12 +4476,6 @@
     "pu_code": "01/01/12/024",
     "pu_name": "UMUOGOR COUNCIL HALL II",
     "name": "UMUOGOR COUNCIL HALL II",
-    "lga": "ABA NORTH",
-    "ward": "UMUOGOR",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ABA NORTH",
     "ward": "UMUOGOR",
     "state": "Abia",
@@ -5058,12 +4986,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ABA SOUTH",
-    "ward": "EZIUKWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/02/02/001",
     "pu_name": "ASA RAILWAY HALT PRIMARY SCHOOL I",
     "name": "ASA RAILWAY HALT PRIMARY SCHOOL I",
@@ -5391,12 +5313,6 @@
     "pu_code": "01/02/02/037",
     "pu_name": "UKPOR HALL III",
     "name": "UKPOR HALL III",
-    "lga": "ABA SOUTH",
-    "ward": "ASA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ABA SOUTH",
     "ward": "ASA",
     "state": "Abia",
@@ -5847,12 +5763,6 @@
     "pu_code": "01/02/03/052",
     "pu_name": "UMUOKPOJI HALL IV.",
     "name": "UMUOKPOJI HALL IV.",
-    "lga": "ABA SOUTH",
-    "ward": "ENYIMBA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ABA SOUTH",
     "ward": "ENYIMBA",
     "state": "Abia",
@@ -6462,12 +6372,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ABA SOUTH",
-    "ward": "NGWA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/02/05/001",
     "pu_name": "OHAZU I AKOLI HALL I",
     "name": "OHAZU I AKOLI HALL I",
@@ -6882,12 +6786,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ABA SOUTH",
-    "ward": "OHAZU I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/02/06/001",
     "pu_name": "OHAZU II-NDIEGORO VILLAGE HALL I",
     "name": "OHAZU II-NDIEGORO VILLAGE HALL I",
@@ -7158,12 +7056,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ABA SOUTH",
-    "ward": "OHAZU II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/02/07/001",
     "pu_name": "IGWEBUIKE-UMUAGBA  I  SEC.SCHOOL I",
     "name": "IGWEBUIKE-UMUAGBA  I  SEC.SCHOOL I",
@@ -7419,12 +7311,6 @@
     "pu_code": "01/02/07/030",
     "pu_name": "NNENTU PRIMARY SCHOOL II",
     "name": "NNENTU PRIMARY SCHOOL II",
-    "lga": "ABA SOUTH",
-    "ward": "IGWEBUIKE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ABA SOUTH",
     "ward": "IGWEBUIKE",
     "state": "Abia",
@@ -7791,12 +7677,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ABA SOUTH",
-    "ward": "EKEOHA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/02/09/001",
     "pu_name": "GLOUCESTER-AMAOKWE ITEM HALL I",
     "name": "GLOUCESTER-AMAOKWE ITEM HALL I",
@@ -8121,12 +8001,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ABA SOUTH",
-    "ward": "GLOUCESTER",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/02/10/001",
     "pu_name": "MOSQUE -SCHOOL OF HEALTH I",
     "name": "MOSQUE -SCHOOL OF HEALTH I",
@@ -8445,12 +8319,6 @@
     "pu_code": "01/02/10/036",
     "pu_name": "NNEWI YOUTH HALL IV",
     "name": "NNEWI YOUTH HALL IV",
-    "lga": "ABA SOUTH",
-    "ward": "MOSQUE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ABA SOUTH",
     "ward": "MOSQUE",
     "state": "Abia",
@@ -8802,12 +8670,6 @@
     "pu_code": "01/02/11/040",
     "pu_name": "NDOKI ROAD PRIMARY SCHOOL VI",
     "name": "NDOKI ROAD PRIMARY SCHOOL VI",
-    "lga": "ABA SOUTH",
-    "ward": "ABA RIVER",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ABA SOUTH",
     "ward": "ABA RIVER",
     "state": "Abia",
@@ -9201,12 +9063,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ABA SOUTH",
-    "ward": "ABA TOWN HALL",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/03/01/001",
     "pu_name": "ATAN ABAM I/ ATAN PRIMARY SCHOOL",
     "name": "ATAN ABAM I/ ATAN PRIMARY SCHOOL",
@@ -9369,12 +9225,6 @@
     "state_code": "01"
   },
   {
-    "lga": "AROCHUKWU",
-    "ward": "OVUKWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/03/02/001",
     "pu_name": "NDI AWORO/NDI IROHADIMA ABAM PRIM.SVHL.II",
     "name": "NDI AWORO/NDI IROHADIMA ABAM PRIM.SVHL.II",
@@ -9504,12 +9354,6 @@
     "pu_code": "01/03/02/015",
     "pu_name": "IDIMA ABAM COMMUNITY CENTRAL SCHOOL",
     "name": "IDIMA ABAM COMMUNITY CENTRAL SCHOOL",
-    "lga": "AROCHUKWU",
-    "ward": "OHAEKE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "AROCHUKWU",
     "ward": "OHAEKE",
     "state": "Abia",
@@ -9669,12 +9513,6 @@
     "state_code": "01"
   },
   {
-    "lga": "AROCHUKWU",
-    "ward": "OHAFOR I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/03/04/001",
     "pu_name": "NDI EBE I/COMM. PRIM.SCHL NDI EBE",
     "name": "NDI EBE I/COMM. PRIM.SCHL NDI EBE",
@@ -9759,12 +9597,6 @@
     "pu_code": "01/03/04/010",
     "pu_name": "COMMUNITY PRI. SCH. NDI INYA",
     "name": "COMMUNITY PRI. SCH. NDI INYA",
-    "lga": "AROCHUKWU",
-    "ward": "OHAFOR II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "AROCHUKWU",
     "ward": "OHAFOR II",
     "state": "Abia",
@@ -9960,12 +9792,6 @@
     "state_code": "01"
   },
   {
-    "lga": "AROCHUKWU",
-    "ward": "AROCHUKWU I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/03/06/001",
     "pu_name": "OBINKITA I/ARO CENT. SCHOOL I",
     "name": "OBINKITA I/ARO CENT. SCHOOL I",
@@ -10128,12 +9954,6 @@
     "state_code": "01"
   },
   {
-    "lga": "AROCHUKWU",
-    "ward": "AROCHUKWU II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/03/07/001",
     "pu_name": "OBINTO I/IHE CENT. SCHOOL",
     "name": "OBINTO I/IHE CENT. SCHOOL",
@@ -10281,12 +10101,6 @@
     "pu_code": "01/03/07/018",
     "pu_name": "AGBO HALL ATAN",
     "name": "AGBO HALL ATAN",
-    "lga": "AROCHUKWU",
-    "ward": "IKWUN IHECHIOWA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "AROCHUKWU",
     "ward": "IKWUN IHECHIOWA",
     "state": "Abia",
@@ -10467,12 +10281,6 @@
     "pu_code": "01/03/08/020",
     "pu_name": "UMUZOMABO MARKET SQUARE",
     "name": "UMUZOMABO MARKET SQUARE",
-    "lga": "AROCHUKWU",
-    "ward": "ELEOHA IHECHIOWA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "AROCHUKWU",
     "ward": "ELEOHA IHECHIOWA",
     "state": "Abia",
@@ -10695,12 +10503,6 @@
     "state_code": "01"
   },
   {
-    "lga": "AROCHUKWU",
-    "ward": "UTUTU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/03/10/001",
     "pu_name": "OBIEZE/OHABUIKE PRIM.SCH",
     "name": "OBIEZE/OHABUIKE PRIM.SCH",
@@ -10758,12 +10560,6 @@
     "pu_code": "01/03/10/007",
     "pu_name": "OBIEZE VILLAGE SQUARE, ISU",
     "name": "OBIEZE VILLAGE SQUARE, ISU",
-    "lga": "AROCHUKWU",
-    "ward": "ISU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "AROCHUKWU",
     "ward": "ISU",
     "state": "Abia",
@@ -10899,12 +10695,6 @@
     "pu_code": "01/03/11/015",
     "pu_name": "MGBALA EKPE II, AMANGWU",
     "name": "MGBALA EKPE II, AMANGWU",
-    "lga": "AROCHUKWU",
-    "ward": "AROCHUKWU III",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "AROCHUKWU",
     "ward": "AROCHUKWU III",
     "state": "Abia",
@@ -11109,12 +10899,6 @@
     "state_code": "01"
   },
   {
-    "lga": "BENDE",
-    "ward": "AMANKALU/AKOLIUFU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/04/02/001",
     "pu_name": "ETITIULO-ETITIULO PRIM.SCH",
     "name": "ETITIULO-ETITIULO PRIM.SCH",
@@ -11286,12 +11070,6 @@
     "state_code": "01"
   },
   {
-    "lga": "BENDE",
-    "ward": "BENDE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/04/03/001",
     "pu_name": "AMAEZE-AMAEZE PRIM.SCH",
     "name": "AMAEZE-AMAEZE PRIM.SCH",
@@ -11445,12 +11223,6 @@
     "state_code": "01"
   },
   {
-    "lga": "BENDE",
-    "ward": "UGWUEKE/EZEUKWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/04/04/001",
     "pu_name": "ONUIBINA-ONUIBINA PRIM.SCH I",
     "name": "ONUIBINA-ONUIBINA PRIM.SCH I",
@@ -11577,12 +11349,6 @@
     "state_code": "01"
   },
   {
-    "lga": "BENDE",
-    "ward": "IGBERE 'A'",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/04/05/001",
     "pu_name": "OKPOSI-EZIAMA HALL",
     "name": "OKPOSI-EZIAMA HALL",
@@ -11676,12 +11442,6 @@
     "pu_code": "01/04/05/011",
     "pu_name": "OHUMOLA-OHUMOLA VILL. SQ. II",
     "name": "OHUMOLA-OHUMOLA VILL. SQ. II",
-    "lga": "BENDE",
-    "ward": "IGBERE 'B'",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "BENDE",
     "ward": "IGBERE 'B'",
     "state": "Abia",
@@ -11859,12 +11619,6 @@
     "state_code": "01"
   },
   {
-    "lga": "BENDE",
-    "ward": "ITEM A",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/04/07/001",
     "pu_name": "EZI UFU OKOKO - EZI UFU HALL",
     "name": "EZI UFU OKOKO - EZI UFU HALL",
@@ -11964,12 +11718,6 @@
     "state_code": "01"
   },
   {
-    "lga": "BENDE",
-    "ward": "ITEM B",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/04/08/001",
     "pu_name": "AKANU - PRI. SCH. AKANU",
     "name": "AKANU - PRI. SCH. AKANU",
@@ -12036,12 +11784,6 @@
     "pu_code": "01/04/08/008",
     "pu_name": "OKAI - UMUAKPA PRI. SCH.",
     "name": "OKAI - UMUAKPA PRI. SCH.",
-    "lga": "BENDE",
-    "ward": "ITEM C",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "BENDE",
     "ward": "ITEM C",
     "state": "Abia",
@@ -12201,12 +11943,6 @@
     "state_code": "01"
   },
   {
-    "lga": "BENDE",
-    "ward": "ITUMBAUZO",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/04/10/001",
     "pu_name": "ETITI OZU - ETITI OZU PRI. SCH. I",
     "name": "ETITI OZU - ETITI OZU PRI. SCH. I",
@@ -12342,12 +12078,6 @@
     "state_code": "01"
   },
   {
-    "lga": "BENDE",
-    "ward": "OZUITEM",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/04/11/001",
     "pu_name": "UMUHU - COMM. SCH. UMUHU",
     "name": "UMUHU - COMM. SCH. UMUHU",
@@ -12432,12 +12162,6 @@
     "pu_code": "01/04/11/010",
     "pu_name": "EZECHI - AMAZU CIVIC CENTRE",
     "name": "EZECHI - AMAZU CIVIC CENTRE",
-    "lga": "BENDE",
-    "ward": "UMUHU / EZECHI",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "BENDE",
     "ward": "UMUHU / EZECHI",
     "state": "Abia",
@@ -12705,12 +12429,6 @@
     "state_code": "01"
   },
   {
-    "lga": "BENDE",
-    "ward": "UMU - IMENYI",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/04/13/001",
     "pu_name": "AMAMBA - CENTRAL SCH. AMAMBA / AGBOZU",
     "name": "AMAMBA - CENTRAL SCH. AMAMBA / AGBOZU",
@@ -12909,12 +12627,6 @@
     "state_code": "01"
   },
   {
-    "lga": "BENDE",
-    "ward": "UZUAKOLI",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/05/01/001",
     "pu_name": "AWOMUKWU COMM. SCHAMOMUKWU",
     "name": "AWOMUKWU COMM. SCHAMOMUKWU",
@@ -13077,12 +12789,6 @@
     "state_code": "01"
   },
   {
-    "lga": "IKWUANO",
-    "ward": "OLOKO I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/05/02/001",
     "pu_name": "AZUIYI SQUARE - AZUIYI",
     "name": "AZUIYI SQUARE - AZUIYI",
@@ -13176,12 +12882,6 @@
     "pu_code": "01/05/02/011",
     "pu_name": "NDI  NKITA SETTLEMENT",
     "name": "NDI  NKITA SETTLEMENT",
-    "lga": "IKWUANO",
-    "ward": "OLOKO II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "IKWUANO",
     "ward": "OLOKO II",
     "state": "Abia",
@@ -13308,12 +13008,6 @@
     "pu_code": "01/05/03/014",
     "pu_name": "AMURO MARKET SQUARE",
     "name": "AMURO MARKET SQUARE",
-    "lga": "IKWUANO",
-    "ward": "IBERE I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "IKWUANO",
     "ward": "IBERE I",
     "state": "Abia",
@@ -13455,12 +13149,6 @@
     "state_code": "01"
   },
   {
-    "lga": "IKWUANO",
-    "ward": "IBERE II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/05/05/001",
     "pu_name": "AMAWOM CENTRAL SCHOOL",
     "name": "AMAWOM CENTRAL SCHOOL",
@@ -13581,12 +13269,6 @@
     "pu_code": "01/05/05/014",
     "pu_name": "AHIAMA UMUARIAGA MARKET",
     "name": "AHIAMA UMUARIAGA MARKET",
-    "lga": "IKWUANO",
-    "ward": "OBORO I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "IKWUANO",
     "ward": "OBORO I",
     "state": "Abia",
@@ -13737,12 +13419,6 @@
     "state_code": "01"
   },
   {
-    "lga": "IKWUANO",
-    "ward": "OBORO II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/05/07/001",
     "pu_name": "NDORO CENTRAL SCHOOL - NDORO I",
     "name": "NDORO CENTRAL SCHOOL - NDORO I",
@@ -13854,12 +13530,6 @@
     "pu_code": "01/05/07/013",
     "pu_name": "AHUWA COMM. SCH. AHUWA II",
     "name": "AHUWA COMM. SCH. AHUWA II",
-    "lga": "IKWUANO",
-    "ward": "OBORO III",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "IKWUANO",
     "ward": "OBORO III",
     "state": "Abia",
@@ -13986,12 +13656,6 @@
     "pu_code": "01/05/08/014",
     "pu_name": "NNONO CENTRAL SCH. I",
     "name": "NNONO CENTRAL SCH. I",
-    "lga": "IKWUANO",
-    "ward": "OBORO IV",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "IKWUANO",
     "ward": "OBORO IV",
     "state": "Abia",
@@ -14142,12 +13806,6 @@
     "state_code": "01"
   },
   {
-    "lga": "IKWUANO",
-    "ward": "ARIAM",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/05/10/001",
     "pu_name": "ARIAM USAKA CENTRAL SCHOOLAMAEGBU",
     "name": "ARIAM USAKA CENTRAL SCHOOLAMAEGBU",
@@ -14232,12 +13890,6 @@
     "pu_code": "01/05/10/010",
     "pu_name": "NDI OBUBA AMAEGBU VILLAGE",
     "name": "NDI OBUBA AMAEGBU VILLAGE",
-    "lga": "IKWUANO",
-    "ward": "USAKA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "IKWUANO",
     "ward": "USAKA",
     "state": "Abia",
@@ -14409,12 +14061,6 @@
     "pu_code": "01/06/010/015",
     "pu_name": "AMOGWE VILLAGE SQUARE, UMUEZENTA",
     "name": "AMOGWE VILLAGE SQUARE, UMUEZENTA",
-    "lga": "ISIALA NGWA NORTH",
-    "ward": "AMASAA NSULU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ISIALA NGWA NORTH",
     "ward": "AMASAA NSULU",
     "state": "Abia",
@@ -14637,12 +14283,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISIALA NGWA NORTH",
-    "ward": "UMUNNA NSULU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/06/03/001",
     "pu_name": "OKPUALA / AMAWOM / ACHARA - EZIALA MKT. SQUARE",
     "name": "OKPUALA / AMAWOM / ACHARA - EZIALA MKT. SQUARE",
@@ -14772,12 +14412,6 @@
     "pu_code": "01/06/03/015",
     "pu_name": "ACHARA OKPULO AGBURUIKE VILLAGE HALL",
     "name": "ACHARA OKPULO AGBURUIKE VILLAGE HALL",
-    "lga": "ISIALA NGWA NORTH",
-    "ward": "ISIALA NSULU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ISIALA NGWA NORTH",
     "ward": "ISIALA NSULU",
     "state": "Abia",
@@ -15018,12 +14652,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISIALA NGWA NORTH",
-    "ward": "NGWA UKWU I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/06/05/001",
     "pu_name": "UMUALA - CIVIL HALL UMUALA",
     "name": "UMUALA - CIVIL HALL UMUALA",
@@ -15258,12 +14886,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISIALA NGWA NORTH",
-    "ward": "NGWA UKWU II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/06/06/001",
     "pu_name": "IHIE UMUNNACHI - VILLAGE SQUARE UMUNNACHI",
     "name": "IHIE UMUNNACHI - VILLAGE SQUARE UMUNNACHI",
@@ -15321,12 +14943,6 @@
     "pu_code": "01/06/06/007",
     "pu_name": "MIGRANT FARMERS' PRIMARY SCHOOL EGBELU IHIE",
     "name": "MIGRANT FARMERS' PRIMARY SCHOOL EGBELU IHIE",
-    "lga": "ISIALA NGWA NORTH",
-    "ward": "IHIE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ISIALA NGWA NORTH",
     "ward": "IHIE",
     "state": "Abia",
@@ -15513,12 +15129,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISIALA NGWA NORTH",
-    "ward": "AMASAA NTIGHA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/06/08/001",
     "pu_name": "UMUOKATU - VILLAGE HALL UMUOKATU",
     "name": "UMUOKATU - VILLAGE HALL UMUOKATU",
@@ -15630,12 +15240,6 @@
     "pu_code": "01/06/08/013",
     "pu_name": "CENTRAL SCHOOL, UMUALATA",
     "name": "CENTRAL SCHOOL, UMUALATA",
-    "lga": "ISIALA NGWA NORTH",
-    "ward": "AMAPU NTIGHA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ISIALA NGWA NORTH",
     "ward": "AMAPU NTIGHA",
     "state": "Abia",
@@ -15858,12 +15462,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISIALA NGWA NORTH",
-    "ward": "UMUOHA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/06/10/001",
     "pu_name": "IGBERE QUARTERS - NBAWSI C/S (FAITH TERBANACLE)",
     "name": "IGBERE QUARTERS - NBAWSI C/S (FAITH TERBANACLE)",
@@ -15957,12 +15555,6 @@
     "pu_code": "01/06/10/011",
     "pu_name": "UMUELEMOHA - VILLAGE HALL UMUELEMOHA",
     "name": "UMUELEMOHA - VILLAGE HALL UMUELEMOHA",
-    "lga": "ISIALA NGWA NORTH",
-    "ward": "MBAWSI / UMUOMAINTA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ISIALA NGWA NORTH",
     "ward": "MBAWSI / UMUOMAINTA",
     "state": "Abia",
@@ -16149,12 +15741,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISIALA NGWA SOUTH",
-    "ward": "AMAISE / AMAISE ANABA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/07/02/001",
     "pu_name": "NGWAOBI - CENTRAL SCHOOL",
     "name": "NGWAOBI - CENTRAL SCHOOL",
@@ -16257,12 +15843,6 @@
     "pu_code": "01/07/02/013",
     "pu_name": "OBI NGWAOBI - HEALTH CENTRE",
     "name": "OBI NGWAOBI - HEALTH CENTRE",
-    "lga": "ISIALA NGWA SOUTH",
-    "ward": "NGWAOBI",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ISIALA NGWA SOUTH",
     "ward": "NGWAOBI",
     "state": "Abia",
@@ -16416,12 +15996,6 @@
     "pu_code": "01/07/03/017",
     "pu_name": "AMAUDO VILLAGE HALL OWERRINTA",
     "name": "AMAUDO VILLAGE HALL OWERRINTA",
-    "lga": "ISIALA NGWA SOUTH",
-    "ward": "MBUTU UKWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ISIALA NGWA SOUTH",
     "ward": "MBUTU UKWU",
     "state": "Abia",
@@ -16584,12 +16158,6 @@
     "pu_code": "01/07/04/018",
     "pu_name": "UMUGWU - UMUABARAKU VILLAGE HALL",
     "name": "UMUGWU - UMUABARAKU VILLAGE HALL",
-    "lga": "ISIALA NGWA SOUTH",
-    "ward": "MBUTU NGWA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ISIALA NGWA SOUTH",
     "ward": "MBUTU NGWA",
     "state": "Abia",
@@ -16848,12 +16416,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISIALA NGWA SOUTH",
-    "ward": "EHINA GURU OSOKWA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/07/06/001",
     "pu_name": "UMUOKOGU - VILLAGE HALL",
     "name": "UMUOKOGU - VILLAGE HALL",
@@ -17070,12 +16632,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISIALA NGWA SOUTH",
-    "ward": "AKUNEKPU EZIAMA NA OBUBA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/07/07/001",
     "pu_name": "UMUIRE - VILLAGE HALL",
     "name": "UMUIRE - VILLAGE HALL",
@@ -17250,12 +16806,6 @@
     "pu_code": "01/07/07/020",
     "pu_name": "AHIA ORIE - OKPU SQUARE",
     "name": "AHIA ORIE - OKPU SQUARE",
-    "lga": "ISIALA NGWA SOUTH",
-    "ward": "OMOBA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ISIALA NGWA SOUTH",
     "ward": "OMOBA",
     "state": "Abia",
@@ -17442,12 +16992,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISIALA NGWA SOUTH",
-    "ward": "OVUNGWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/07/09/001",
     "pu_name": "OBIEKWESU - VILLAGE HALL",
     "name": "OBIEKWESU - VILLAGE HALL",
@@ -17586,12 +17130,6 @@
     "pu_code": "01/07/09/016",
     "pu_name": "UMUEGORO  - VILLAGE HALL",
     "name": "UMUEGORO  - VILLAGE HALL",
-    "lga": "ISIALA NGWA SOUTH",
-    "ward": "OVUOKWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ISIALA NGWA SOUTH",
     "ward": "OVUOKWU",
     "state": "Abia",
@@ -17742,12 +17280,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISIALA NGWA SOUTH",
-    "ward": "OKPORO AHABA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/08/01/001",
     "pu_name": "AMIYI EVENING MARKET - AMIYI",
     "name": "AMIYI EVENING MARKET - AMIYI",
@@ -17859,12 +17391,6 @@
     "pu_code": "01/08/01/013",
     "pu_name": "AMAHIA MARKET SQUARE",
     "name": "AMAHIA MARKET SQUARE",
-    "lga": "ISUIKWUATO",
-    "ward": "IMENYI",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ISUIKWUATO",
     "ward": "IMENYI",
     "state": "Abia",
@@ -18033,12 +17559,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISUIKWUATO",
-    "ward": "EZERE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/08/03/001",
     "pu_name": "ORIE MARKET SQAURE - UMUASUA",
     "name": "ORIE MARKET SQAURE - UMUASUA",
@@ -18132,12 +17652,6 @@
     "pu_code": "01/08/03/011",
     "pu_name": "AMABA CENTRAL SCHOOL",
     "name": "AMABA CENTRAL SCHOOL",
-    "lga": "ISUIKWUATO",
-    "ward": "ISIALA AMAWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ISUIKWUATO",
     "ward": "ISIALA AMAWU",
     "state": "Abia",
@@ -18315,12 +17829,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISUIKWUATO",
-    "ward": "ISU AMAWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/08/05/001",
     "pu_name": "ACHA SECONDARY SCHOOL - ACHA",
     "name": "ACHA SECONDARY SCHOOL - ACHA",
@@ -18465,12 +17973,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISUIKWUATO",
-    "ward": "OGUNDUASA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/08/06/001",
     "pu_name": "AMAWO VILLAGE SQUARE - MGBELU UMUNNEKJWU",
     "name": "AMAWO VILLAGE SQUARE - MGBELU UMUNNEKJWU",
@@ -18555,12 +18057,6 @@
     "pu_code": "01/08/06/010",
     "pu_name": "AMANKWO VILLAGE SQUARE - AGBO UMUNNEKWU",
     "name": "AMANKWO VILLAGE SQUARE - AGBO UMUNNEKWU",
-    "lga": "ISUIKWUATO",
-    "ward": "UMUNNEKWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ISUIKWUATO",
     "ward": "UMUNNEKWU",
     "state": "Abia",
@@ -18702,12 +18198,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISUIKWUATO",
-    "ward": "ACHARA / MGBUGWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/08/08/001",
     "pu_name": "AKPUKPA COMMUNITY SCHOOL - AKPUKPA",
     "name": "AKPUKPA COMMUNITY SCHOOL - AKPUKPA",
@@ -18825,12 +18315,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISUIKWUATO",
-    "ward": "IKEAGHA I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/08/09/001",
     "pu_name": "UTURU SECONDARY SCHOOL - ISUNABO",
     "name": "UTURU SECONDARY SCHOOL - ISUNABO",
@@ -18942,12 +18426,6 @@
     "pu_code": "01/08/09/013",
     "pu_name": "UTURU PRIMARY SCHOOL NUVURUNVU",
     "name": "UTURU PRIMARY SCHOOL NUVURUNVU",
-    "lga": "ISUIKWUATO",
-    "ward": "IKEAGHA II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "ISUIKWUATO",
     "ward": "IKEAGHA II",
     "state": "Abia",
@@ -19143,12 +18621,6 @@
     "state_code": "01"
   },
   {
-    "lga": "ISUIKWUATO",
-    "ward": "UMUANYI / ABSU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/09/01/001",
     "pu_name": "OSUSU AMAIKWU - OSUSU AMAUKWU VILLAGE SQUARE",
     "name": "OSUSU AMAIKWU - OSUSU AMAUKWU VILLAGE SQUARE",
@@ -19287,12 +18759,6 @@
     "pu_code": "01/09/01/017",
     "pu_name": "NTIGHAUZO SOUTH PRIMARY SCHOOL",
     "name": "NTIGHAUZO SOUTH PRIMARY SCHOOL",
-    "lga": "OBINGWA",
-    "ward": "ABAYI  I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "OBINGWA",
     "ward": "ABAYI  I",
     "state": "Abia",
@@ -19731,12 +19197,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OBINGWA",
-    "ward": "ABAYI  II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/09/03/001",
     "pu_name": "UMUOPARA  VILLAGE SQUARE",
     "name": "UMUOPARA  VILLAGE SQUARE",
@@ -20001,12 +19461,6 @@
     "pu_code": "01/09/03/030",
     "pu_name": "ITU-OSAA COUNCIL HALL",
     "name": "ITU-OSAA COUNCIL HALL",
-    "lga": "OBINGWA",
-    "ward": "MGBOKO UMUANUNU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "OBINGWA",
     "ward": "MGBOKO UMUANUNU",
     "state": "Abia",
@@ -20319,12 +19773,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OBINGWA",
-    "ward": "MGBOKO ITUNGWA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/09/05/001",
     "pu_name": "IHEOJI / UMUOJIMA - IHEOJI / UMUOJIMA VILL. SQ",
     "name": "IHEOJI / UMUOJIMA - IHEOJI / UMUOJIMA VILL. SQ",
@@ -20613,12 +20061,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OBINGWA",
-    "ward": "AHIABA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/09/06/001",
     "pu_name": "UMUNWANKWO - UUNWANKWO  VILLAGE HALL",
     "name": "UMUNWANKWO - UUNWANKWO  VILLAGE HALL",
@@ -20757,12 +20199,6 @@
     "pu_code": "01/09/06/016",
     "pu_name": "UMUOKWARA-UKWU VILLAGE HALL",
     "name": "UMUOKWARA-UKWU VILLAGE HALL",
-    "lga": "OBINGWA",
-    "ward": "MABOKO AMAIRI",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "OBINGWA",
     "ward": "MABOKO AMAIRI",
     "state": "Abia",
@@ -21120,12 +20556,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OBINGWA",
-    "ward": "ALAUKWU OHANZE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/09/08/001",
     "pu_name": "AKOLI -  AKOLI  VILLAGE HALL",
     "name": "AKOLI -  AKOLI  VILLAGE HALL",
@@ -21396,12 +20826,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OBINGWA",
-    "ward": "AKUMAIMO",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/09/09/001",
     "pu_name": "UMUDOSI  -  MKT.   SQUARE",
     "name": "UMUDOSI  -  MKT.   SQUARE",
@@ -21645,12 +21069,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OBINGWA",
-    "ward": "NDIAKATA / AMAIRINABUA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/09/10/001",
     "pu_name": "OKENYI - OKENYI  VILLAGE HALL",
     "name": "OKENYI - OKENYI  VILLAGE HALL",
@@ -21789,12 +21207,6 @@
     "pu_code": "01/09/10/016",
     "pu_name": "OKENYI VILLAGE HALL II",
     "name": "OKENYI VILLAGE HALL II",
-    "lga": "OBINGWA",
-    "ward": "NTIGHAUZO AMAIRI",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "OBINGWA",
     "ward": "NTIGHAUZO AMAIRI",
     "state": "Abia",
@@ -21993,12 +21405,6 @@
     "pu_code": "01/09/11/022",
     "pu_name": "ABALA NKAMIRI VILLAGE SQ II",
     "name": "ABALA NKAMIRI VILLAGE SQ II",
-    "lga": "OBINGWA",
-    "ward": "IBEME",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "OBINGWA",
     "ward": "IBEME",
     "state": "Abia",
@@ -22419,12 +21825,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OHAFIA",
-    "ward": "ISIAMA OHAFIA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/10/02/001",
     "pu_name": "NDI IDIKA MGBAGA COMP. HALL",
     "name": "NDI IDIKA MGBAGA COMP. HALL",
@@ -22635,12 +22035,6 @@
     "pu_code": "01/10/02/024",
     "pu_name": "NDI AGWU HALL ABUOKAFIA, EBEM",
     "name": "NDI AGWU HALL ABUOKAFIA, EBEM",
-    "lga": "OHAFIA",
-    "ward": "EBEM OHAFIA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "OHAFIA",
     "ward": "EBEM OHAFIA",
     "state": "Abia",
@@ -22953,12 +22347,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OHAFIA",
-    "ward": "NDI ELU NKPORO",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/10/04/001",
     "pu_name": "NDI ASIGHA / AKARONU / ANYA AMAUKWU - WOMEN HALL",
     "name": "NDI ASIGHA / AKARONU / ANYA AMAUKWU - WOMEN HALL",
@@ -23124,12 +22512,6 @@
     "pu_code": "01/10/04/019",
     "pu_name": "ELEBE NDI NYOM AMAOKWE, VILLAGE BUOFIA",
     "name": "ELEBE NDI NYOM AMAOKWE, VILLAGE BUOFIA",
-    "lga": "OHAFIA",
-    "ward": "NDI ETITI NKPORO",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "OHAFIA",
     "ward": "NDI ETITI NKPORO",
     "state": "Abia",
@@ -23361,12 +22743,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OHAFIA",
-    "ward": "AMAEKE ABIRIBA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/10/06/001",
     "pu_name": "NDI OKOCHA / UBAM - NDI OKOCHA VILLAGE SQUARE",
     "name": "NDI OKOCHA / UBAM - NDI OKOCHA VILLAGE SQUARE",
@@ -23529,12 +22905,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OHAFIA",
-    "ward": "AMAOGUDU ABIRIBA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/10/07/001",
     "pu_name": "KAMALU - OKAGWO AGBOJI HALL",
     "name": "KAMALU - OKAGWO AGBOJI HALL",
@@ -23619,12 +22989,6 @@
     "pu_code": "01/10/07/010",
     "pu_name": "AMAELU  II - AMAELU  HALL",
     "name": "AMAELU  II - AMAELU  HALL",
-    "lga": "OHAFIA",
-    "ward": "AGBOJI ABIRIBA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "OHAFIA",
     "ward": "AGBOJI ABIRIBA",
     "state": "Abia",
@@ -23883,12 +23247,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OHAFIA",
-    "ward": "OHAFOR OHAFIA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/10/09/001",
     "pu_name": "NDI OWAN / UME COMPS - ANYAFUMBA HALL",
     "name": "NDI OWAN / UME COMPS - ANYAFUMBA HALL",
@@ -24132,12 +23490,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OHAFIA",
-    "ward": "OKAMU OHAFIA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/10/10/001",
     "pu_name": "COMM. PRI. SCH. ABIA - ABIA COMM. PRI. SCH.",
     "name": "COMM. PRI. SCH. ABIA - ABIA COMM. PRI. SCH.",
@@ -24354,12 +23706,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OHAFIA",
-    "ward": "ANIA OHOAFIA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/10/11/001",
     "pu_name": "NDI OJI / IBE / ONYEUGU   /UKA NDUKA - NDI AGBAI VILLAGE SQUARE",
     "name": "NDI OJI / IBE / ONYEUGU   /UKA NDUKA - NDI AGBAI VILLAGE SQUARE",
@@ -24558,12 +23904,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OHAFIA",
-    "ward": "NDI AGBO NKPORO",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/11/01/001",
     "pu_name": "UMUOKOROCHA SQUARE",
     "name": "UMUOKOROCHA SQUARE",
@@ -24666,12 +24006,6 @@
     "pu_code": "01/11/01/012",
     "pu_name": "COMMUNITY PRIMARY SCHOOL I, AMAVO",
     "name": "COMMUNITY PRIMARY SCHOOL I, AMAVO",
-    "lga": "OSISIOMA",
-    "ward": "AMAVO",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "OSISIOMA",
     "ward": "AMAVO",
     "state": "Abia",
@@ -25347,12 +24681,6 @@
     "pu_code": "01/11/02/076",
     "pu_name": "ABAYI OGBULIGBA VILLAGE SQUARE III",
     "name": "ABAYI OGBULIGBA VILLAGE SQUARE III",
-    "lga": "OSISIOMA",
-    "ward": "AMAITOLU MBUTU UMUOJIMA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "OSISIOMA",
     "ward": "AMAITOLU MBUTU UMUOJIMA",
     "state": "Abia",
@@ -26259,12 +25587,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OSISIOMA",
-    "ward": "AMASATOR",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/11/04/001",
     "pu_name": "OKPUALA - ARO VILLAGE HALL",
     "name": "OKPUALA - ARO VILLAGE HALL",
@@ -26376,12 +25698,6 @@
     "pu_code": "01/11/04/013",
     "pu_name": "UMUAMA CIVIC CENTRE",
     "name": "UMUAMA CIVIC CENTRE",
-    "lga": "OSISIOMA",
-    "ward": "ARO - NGWA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "OSISIOMA",
     "ward": "ARO - NGWA",
     "state": "Abia",
@@ -26523,12 +25839,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OSISIOMA",
-    "ward": "AMA - ASAA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/11/06/001",
     "pu_name": "OKPUALA UKWU COMM. SCHOOL - OKPUALA UKWU I",
     "name": "OKPUALA UKWU COMM. SCHOOL - OKPUALA UKWU I",
@@ -26649,12 +25959,6 @@
     "pu_code": "01/11/06/014",
     "pu_name": "AMAIYI COUNCIL HALL",
     "name": "AMAIYI COUNCIL HALL",
-    "lga": "OSISIOMA",
-    "ward": "OSO - OKWA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "OSISIOMA",
     "ward": "OSO - OKWA",
     "state": "Abia",
@@ -26922,12 +26226,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OSISIOMA",
-    "ward": "URTTA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/11/08/001",
     "pu_name": "AMAPUIPE COMM. SCHOOL",
     "name": "AMAPUIPE COMM. SCHOOL",
@@ -27090,12 +26388,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OSISIOMA",
-    "ward": "AMATOR",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/11/09/001",
     "pu_name": "OKPUALA UMU GWOR HALL / OKPUALA UMU GWOR I",
     "name": "OKPUALA UMU GWOR HALL / OKPUALA UMU GWOR I",
@@ -27162,12 +26454,6 @@
     "pu_code": "01/11/09/008",
     "pu_name": "AMAPU UMUAVOR PRIMARY SCHOOL",
     "name": "AMAPU UMUAVOR PRIMARY SCHOOL",
-    "lga": "OSISIOMA",
-    "ward": "UMUNNEISE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "OSISIOMA",
     "ward": "UMUNNEISE",
     "state": "Abia",
@@ -27318,12 +26604,6 @@
     "state_code": "01"
   },
   {
-    "lga": "OSISIOMA",
-    "ward": "OKPOR - UMUOBO",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/12/01/001",
     "pu_name": "OBEGU I - OBEGU VILLAGE HALL",
     "name": "OBEGU I - OBEGU VILLAGE HALL",
@@ -27381,12 +26661,6 @@
     "pu_code": "01/12/01/007",
     "pu_name": "UMUOSUEKE II UMUOSUEKE CIVIC HALL",
     "name": "UMUOSUEKE II UMUOSUEKE CIVIC HALL",
-    "lga": "UGWUNAGBO",
-    "ward": "WARD ONE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UGWUNAGBO",
     "ward": "WARD ONE",
     "state": "Abia",
@@ -27468,12 +26742,6 @@
     "pu_code": "01/12/02/009",
     "pu_name": "OSUSUAKU VILLAGE HALL",
     "name": "OSUSUAKU VILLAGE HALL",
-    "lga": "UGWUNAGBO",
-    "ward": "WARD TWO",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UGWUNAGBO",
     "ward": "WARD TWO",
     "state": "Abia",
@@ -27600,12 +26868,6 @@
     "pu_code": "01/12/03/014",
     "pu_name": "UMUMAOKE PRIAMRY SCHOOL II",
     "name": "UMUMAOKE PRIAMRY SCHOOL II",
-    "lga": "UGWUNAGBO",
-    "ward": "WARD THREE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UGWUNAGBO",
     "ward": "WARD THREE",
     "state": "Abia",
@@ -27945,12 +27207,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UGWUNAGBO",
-    "ward": "WARD FOUR",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/12/05/001",
     "pu_name": "AKANU NGWA 1- AKANU NGWA PRIMARY SCHOOL",
     "name": "AKANU NGWA 1- AKANU NGWA PRIMARY SCHOOL",
@@ -28086,12 +27342,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UGWUNAGBO",
-    "ward": "WARD FIVE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/12/06/001",
     "pu_name": "ASA UMUAKWA 1- ASA UMUAKWA PRI. SCHOOL",
     "name": "ASA UMUAKWA 1- ASA UMUAKWA PRI. SCHOOL",
@@ -28176,12 +27426,6 @@
     "pu_code": "01/12/06/010",
     "pu_name": "AMAPU UMUODO 11- AMAPU UMUODO CIVIC HALL",
     "name": "AMAPU UMUODO 11- AMAPU UMUODO CIVIC HALL",
-    "lga": "UGWUNAGBO",
-    "ward": "WARD SIX",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UGWUNAGBO",
     "ward": "WARD SIX",
     "state": "Abia",
@@ -28422,12 +27666,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UGWUNAGBO",
-    "ward": "WARD SEVEN",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/12/08/001",
     "pu_name": "UMUGO  I - UMUGO PRIMARY SCHOOL",
     "name": "UMUGO  I - UMUGO PRIMARY SCHOOL",
@@ -28581,12 +27819,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UGWUNAGBO",
-    "ward": "WARD EIGHT",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/12/09/001",
     "pu_name": "IHIEUKWU  I - IHIEUKWU PRIMARY SCHOOL",
     "name": "IHIEUKWU  I - IHIEUKWU PRIMARY SCHOOL",
@@ -28731,12 +27963,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UGWUNAGBO",
-    "ward": "WARD NINE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/12/10/001",
     "pu_name": "NGWAIYIEKWE  I - NGWAIYIEKWE PRIMARY SCHOOL",
     "name": "NGWAIYIEKWE  I - NGWAIYIEKWE PRIMARY SCHOOL",
@@ -28818,12 +28044,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UGWUNAGBO",
-    "ward": "WARD TEN",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/13/01/001",
     "pu_name": "AKANU VILLAGE HALL - UMUGBUEZE/AKANU",
     "name": "AKANU VILLAGE HALL - UMUGBUEZE/AKANU",
@@ -28878,12 +28098,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UKWA EAST",
-    "ward": "IKWURIATOR EAST",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/13/02/001",
     "pu_name": "COMMUNITY PRIMARY SCHOOL ABAKI - ABAKI",
     "name": "COMMUNITY PRIMARY SCHOOL ABAKI - ABAKI",
@@ -28914,12 +28128,6 @@
     "pu_code": "01/13/02/004",
     "pu_name": "UMUOGOR VILLAGE HALL - UMUOGOR",
     "name": "UMUOGOR VILLAGE HALL - UMUOGOR",
-    "lga": "UKWA EAST",
-    "ward": "IKWURIATOR WEST",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UKWA EAST",
     "ward": "IKWURIATOR WEST",
     "state": "Abia",
@@ -29007,12 +28215,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UKWA EAST",
-    "ward": "AZUMINI",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/13/04/001",
     "pu_name": "CPS AKIRIKA UKU - AKIRIKI UKU  I",
     "name": "CPS AKIRIKA UKU - AKIRIKI UKU  I",
@@ -29061,12 +28263,6 @@
     "pu_code": "01/13/04/006",
     "pu_name": "COMMUNITY PRIMARY SCHOOL II, AKIRIKA-UKU",
     "name": "COMMUNITY PRIMARY SCHOOL II, AKIRIKA-UKU",
-    "lga": "UKWA EAST",
-    "ward": "UMUIGUBE ACHARA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UKWA EAST",
     "ward": "UMUIGUBE ACHARA",
     "state": "Abia",
@@ -29190,12 +28386,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UKWA EAST",
-    "ward": "AKWETE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/13/06/001",
     "pu_name": "OBOHIA TOWN HALL - OBOHIA  I",
     "name": "OBOHIA TOWN HALL - OBOHIA  I",
@@ -29253,12 +28443,6 @@
     "pu_code": "01/13/06/007",
     "pu_name": "CENTRAL SCHOOL OBOHIA II",
     "name": "CENTRAL SCHOOL OBOHIA II",
-    "lga": "UKWA EAST",
-    "ward": "OBOHIA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UKWA EAST",
     "ward": "OBOHIA",
     "state": "Abia",
@@ -29373,12 +28557,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UKWA EAST",
-    "ward": "IKWUEKE EAST",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/13/08/001",
     "pu_name": "OHANSO VILLAGE HALL - OHANSO  I",
     "name": "OHANSO VILLAGE HALL - OHANSO  I",
@@ -29427,12 +28605,6 @@
     "pu_code": "01/13/08/006",
     "pu_name": "MKPUOHIA  OBA VILLAGE HALL - MKPUOHIA . OBA  II",
     "name": "MKPUOHIA  OBA VILLAGE HALL - MKPUOHIA . OBA  II",
-    "lga": "UKWA EAST",
-    "ward": "IKWUEKE  WEST",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UKWA EAST",
     "ward": "IKWUEKE  WEST",
     "state": "Abia",
@@ -29547,12 +28719,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UKWA EAST",
-    "ward": "NKPOROBE/OHURU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/13/10/001",
     "pu_name": "OHANKU VILLAGE HALL - OHANKU  I",
     "name": "OHANKU VILLAGE HALL - OHANKU  I",
@@ -29628,12 +28794,6 @@
     "pu_code": "01/13/10/009",
     "pu_name": "COMMUNITY PRIMARY SCHOOL, OHANKU",
     "name": "COMMUNITY PRIMARY SCHOOL, OHANKU",
-    "lga": "UKWA EAST",
-    "ward": "IKWUORIE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UKWA EAST",
     "ward": "IKWUORIE",
     "state": "Abia",
@@ -29757,12 +28917,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UKWA  WEST",
-    "ward": "ASA NORTH",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/14/02/001",
     "pu_name": "CENTRAL SCHOOL OBOKWE / OBOKWE I",
     "name": "CENTRAL SCHOOL OBOKWE / OBOKWE I",
@@ -29811,12 +28965,6 @@
     "pu_code": "01/14/02/006",
     "pu_name": "OBOKWE GENERAL COUNCIL HALL 1",
     "name": "OBOKWE GENERAL COUNCIL HALL 1",
-    "lga": "UKWA  WEST",
-    "ward": "OBOKWE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UKWA  WEST",
     "ward": "OBOKWE",
     "state": "Abia",
@@ -29931,12 +29079,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UKWA  WEST",
-    "ward": "OGWE",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/14/04/001",
     "pu_name": "COMMUNITY PRIMARY SCHOOL / UMUAKA  I",
     "name": "COMMUNITY PRIMARY SCHOOL / UMUAKA  I",
@@ -30012,12 +29154,6 @@
     "pu_code": "01/14/04/009",
     "pu_name": "UMUAKA HEALTH CENTRE/UMUAKA IV",
     "name": "UMUAKA HEALTH CENTRE/UMUAKA IV",
-    "lga": "UKWA  WEST",
-    "ward": "ASA SOUTH",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UKWA  WEST",
     "ward": "ASA SOUTH",
     "state": "Abia",
@@ -30177,12 +29313,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UKWA  WEST",
-    "ward": "OBUZOR",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/14/06/001",
     "pu_name": "UMUOKWULU VILLAGE SQUARE / UMUOKWULU",
     "name": "UMUOKWULU VILLAGE SQUARE / UMUOKWULU",
@@ -30327,12 +29457,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UKWA  WEST",
-    "ward": "IPU WEST",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/14/07/001",
     "pu_name": "OBECHIE CENTRAL SCHOOL / OBECHIE I",
     "name": "OBECHIE CENTRAL SCHOOL / OBECHIE I",
@@ -30441,12 +29565,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UKWA  WEST",
-    "ward": "IPU  EAST",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/14/08/001",
     "pu_name": "UZUAKU  PRIMARY SCHOOL / UZUAKU I",
     "name": "UZUAKU  PRIMARY SCHOOL / UZUAKU I",
@@ -30549,12 +29667,6 @@
     "pu_code": "01/14/08/012",
     "pu_name": "AMANAPIA VILL SQ. II",
     "name": "AMANAPIA VILL SQ. II",
-    "lga": "UKWA  WEST",
-    "ward": "IPU   SOUTH",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UKWA  WEST",
     "ward": "IPU   SOUTH",
     "state": "Abia",
@@ -30723,12 +29835,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UKWA  WEST",
-    "ward": "OZAA UKWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/14/10/001",
     "pu_name": "OBAHU COMMUNITY HALL / OBAHU",
     "name": "OBAHU COMMUNITY HALL / OBAHU",
@@ -30831,12 +29937,6 @@
     "pu_code": "01/14/10/013",
     "pu_name": "UMUOKWOR PRI. SCHOOL",
     "name": "UMUOKWOR PRI. SCHOOL",
-    "lga": "UKWA  WEST",
-    "ward": "OZAA  WEST",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UKWA  WEST",
     "ward": "OZAA  WEST",
     "state": "Abia",
@@ -31158,12 +30258,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMUAHIA NORTH",
-    "ward": "IBEKU EAST  I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/15/02/001",
     "pu_name": "UBANI - UBANI CENTRAL SCHOOL",
     "name": "UBANI - UBANI CENTRAL SCHOOL",
@@ -31383,12 +30477,6 @@
     "pu_code": "01/15/02/025",
     "pu_name": "UMUAKANU VILLAGE SQR. EMEDE IBEKU",
     "name": "UMUAKANU VILLAGE SQR. EMEDE IBEKU",
-    "lga": "UMUAHIA NORTH",
-    "ward": "IBEKU EAST  II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMUAHIA NORTH",
     "ward": "IBEKU EAST  II",
     "state": "Abia",
@@ -31854,12 +30942,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMUAHIA NORTH",
-    "ward": "NDUME",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/15/04/001",
     "pu_name": "AJATA OKWURU  I - AJATA OKWURU VILLAGE SQUARE",
     "name": "AJATA OKWURU  I - AJATA OKWURU VILLAGE SQUARE",
@@ -31935,12 +31017,6 @@
     "pu_code": "01/15/04/009",
     "pu_name": "AMUZORO ELU-ELU",
     "name": "AMUZORO ELU-ELU",
-    "lga": "UMUAHIA NORTH",
-    "ward": "IBEKU WEST",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMUAHIA NORTH",
     "ward": "IBEKU WEST",
     "state": "Abia",
@@ -32847,12 +31923,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMUAHIA NORTH",
-    "ward": "UMUAHIA URBAN  I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/15/06/001",
     "pu_name": "ITEM STREET - UMUWAYA PRIMARY SCHOOL",
     "name": "ITEM STREET - UMUWAYA PRIMARY SCHOOL",
@@ -33249,12 +32319,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMUAHIA NORTH",
-    "ward": "UMUAHIA URBAN  II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/15/07/001",
     "pu_name": "OSSAH/PALM/OGUTA/JOS - URBAN II PRIMARY SCHOOOL  I",
     "name": "OSSAH/PALM/OGUTA/JOS - URBAN II PRIMARY SCHOOOL  I",
@@ -33498,12 +32562,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMUAHIA NORTH",
-    "ward": "UMUAHIA URBAN  III",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/15/08/001",
     "pu_name": "UMUAWA ALAOCHA  I - UMUAWA ALAOCHA PRIMARY SCHOOL",
     "name": "UMUAWA ALAOCHA  I - UMUAWA ALAOCHA PRIMARY SCHOOL",
@@ -33615,12 +32673,6 @@
     "pu_code": "01/15/08/013",
     "pu_name": "UMUYOTA ALAIKE COMMUNITY CIVIC HALL",
     "name": "UMUYOTA ALAIKE COMMUNITY CIVIC HALL",
-    "lga": "UMUAHIA NORTH",
-    "ward": "NKWOACHARA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMUAHIA NORTH",
     "ward": "NKWOACHARA",
     "state": "Abia",
@@ -33756,12 +32808,6 @@
     "pu_code": "01/15/09/015",
     "pu_name": "OKAIUGA NKWOEGWU",
     "name": "OKAIUGA NKWOEGWU",
-    "lga": "UMUAHIA NORTH",
-    "ward": "NKWOEGWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMUAHIA NORTH",
     "ward": "NKWOEGWU",
     "state": "Abia",
@@ -33942,12 +32988,6 @@
     "pu_code": "01/15/10/021",
     "pu_name": "OKPUALA UMUEKWULE VILLAGE SQUARE",
     "name": "OKPUALA UMUEKWULE VILLAGE SQUARE",
-    "lga": "UMUAHIA NORTH",
-    "ward": "AFUGIRI",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMUAHIA NORTH",
     "ward": "AFUGIRI",
     "state": "Abia",
@@ -34143,12 +33183,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMUAHIA NORTH",
-    "ward": "UMUHU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/15/12/001",
     "pu_name": "ISINGWU  I - AMAFOR UKWU CIVIC CENTRE",
     "name": "ISINGWU  I - AMAFOR UKWU CIVIC CENTRE",
@@ -34287,12 +33321,6 @@
     "pu_code": "01/15/12/016",
     "pu_name": "AMAFOR   COMMUNITY   SECONDARY SCHOOL ISINGWU",
     "name": "AMAFOR   COMMUNITY   SECONDARY SCHOOL ISINGWU",
-    "lga": "UMUAHIA NORTH",
-    "ward": "ISINGWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMUAHIA NORTH",
     "ward": "ISINGWU",
     "state": "Abia",
@@ -34452,12 +33480,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMUAHIA  SOUTH",
-    "ward": "EZELEKE/OGBODIUKWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/16/02/001",
     "pu_name": "EKENOBIZI/DIKEUKWU - DIKEKWU HALL",
     "name": "EKENOBIZI/DIKEUKWU - DIKEKWU HALL",
@@ -34611,12 +33633,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMUAHIA  SOUTH",
-    "ward": "OMAEGWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/16/03/001",
     "pu_name": "UMUNWANWA/NGODO - UMUNWANWA CENTRAL SCHOOL",
     "name": "UMUNWANWA/NGODO - UMUNWANWA CENTRAL SCHOOL",
@@ -34719,12 +33735,6 @@
     "pu_code": "01/16/03/012",
     "pu_name": "OGBODIOHURU - OGBODIOHURU TOWN HALL",
     "name": "OGBODIOHURU - OGBODIOHURU TOWN HALL",
-    "lga": "UMUAHIA  SOUTH",
-    "ward": "OHIAOCHA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMUAHIA  SOUTH",
     "ward": "OHIAOCHA",
     "state": "Abia",
@@ -34965,12 +33975,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMUAHIA  SOUTH",
-    "ward": "AHIAUKWU  I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/16/05/001",
     "pu_name": "OKAYIUGA/MBARAMA - OKAYIUGA HALL",
     "name": "OKAYIUGA/MBARAMA - OKAYIUGA HALL",
@@ -35124,12 +34128,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMUAHIA  SOUTH",
-    "ward": "AHIAUKWU  II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/16/06/001",
     "pu_name": "UMUEZEALA - ISI COURT",
     "name": "UMUEZEALA - ISI COURT",
@@ -35247,12 +34245,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMUAHIA  SOUTH",
-    "ward": "OLD UMUAHIA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/16/07/001",
     "pu_name": "UMUOKOROKWU/OBIZI - AMAKAMA CENTRAL SCHOOL",
     "name": "UMUOKOROKWU/OBIZI - AMAKAMA CENTRAL SCHOOL",
@@ -35346,12 +34338,6 @@
     "pu_code": "01/16/07/011",
     "pu_name": "OBIZI AMAKAMA HALL",
     "name": "OBIZI AMAKAMA HALL",
-    "lga": "UMUAHIA  SOUTH",
-    "ward": "AMAKAMA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMUAHIA  SOUTH",
     "ward": "AMAKAMA",
     "state": "Abia",
@@ -35619,12 +34605,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMUAHIA  SOUTH",
-    "ward": "UBAKALA  'A'",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/16/09/001",
     "pu_name": "UMUAKO - ST. PETERS PRIMARY SCHOOL",
     "name": "UMUAKO - ST. PETERS PRIMARY SCHOOL",
@@ -35700,12 +34680,6 @@
     "pu_code": "01/16/09/009",
     "pu_name": "UMUOGBUEHI VILL. HALL NSIRIMO",
     "name": "UMUOGBUEHI VILL. HALL NSIRIMO",
-    "lga": "UMUAHIA  SOUTH",
-    "ward": "NSIRIMO",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMUAHIA  SOUTH",
     "ward": "NSIRIMO",
     "state": "Abia",
@@ -35883,12 +34857,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMUAHIA  SOUTH",
-    "ward": "UBAKALA  'B'",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/17/01/001",
     "pu_name": "UMUCHA VILLAGE SQUARE",
     "name": "UMUCHA VILLAGE SQUARE",
@@ -36045,12 +35013,6 @@
     "pu_code": "01/17/01/018",
     "pu_name": "UGWUOWERE",
     "name": "UGWUOWERE",
-    "lga": "UMU - NNEOCHI",
-    "ward": "AMUDA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMU - NNEOCHI",
     "ward": "AMUDA",
     "state": "Abia",
@@ -36228,12 +35190,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMU - NNEOCHI",
-    "ward": "UMUAKU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/17/03/001",
     "pu_name": "MBAEZI TOWN HALL I",
     "name": "MBAEZI TOWN HALL I",
@@ -36351,12 +35307,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMU - NNEOCHI",
-    "ward": "MBALA/ACHARA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/17/04/001",
     "pu_name": "OBINOHIA TOWN HALL",
     "name": "OBINOHIA TOWN HALL",
@@ -36441,12 +35391,6 @@
     "pu_code": "01/17/04/010",
     "pu_name": "OBULOZU VILLAGE SQUARE",
     "name": "OBULOZU VILLAGE SQUARE",
-    "lga": "UMU - NNEOCHI",
-    "ward": "EZINGODO",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMU - NNEOCHI",
     "ward": "EZINGODO",
     "state": "Abia",
@@ -36660,12 +35604,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMU - NNEOCHI",
-    "ward": "NDIAWA/UMUELEM/I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/17/06/001",
     "pu_name": "MBARA AKPAKA SQUARE",
     "name": "MBARA AKPAKA SQUARE",
@@ -36738,12 +35676,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMU - NNEOCHI",
-    "ward": "EZIAMA - UGWU",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/17/07/001",
     "pu_name": "EZIAMA COMMUNITY SCHOOL I",
     "name": "EZIAMA COMMUNITY SCHOOL I",
@@ -36810,12 +35742,6 @@
     "pu_code": "01/17/07/008",
     "pu_name": "AHIA UTUTU MARKET SQUARE",
     "name": "AHIA UTUTU MARKET SQUARE",
-    "lga": "UMU - NNEOCHI",
-    "ward": "EZIAMA - AGBO",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMU - NNEOCHI",
     "ward": "EZIAMA - AGBO",
     "state": "Abia",
@@ -36897,12 +35823,6 @@
     "pu_code": "01/17/08/009",
     "pu_name": "AROIKPA VILLAGE SQUARE",
     "name": "AROIKPA VILLAGE SQUARE",
-    "lga": "UMU - NNEOCHI",
-    "ward": "UBAHU/AKAWA/AROKPA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMU - NNEOCHI",
     "ward": "UBAHU/AKAWA/AROKPA",
     "state": "Abia",
@@ -37035,12 +35955,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMU - NNEOCHI",
-    "ward": "UMUCHIEZE  I",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/17/10/001",
     "pu_name": "NKOTO URU VILLAGE SQUARE",
     "name": "NKOTO URU VILLAGE SQUARE",
@@ -37116,12 +36030,6 @@
     "pu_code": "01/17/10/009",
     "pu_name": "MBARA  MBALA SQUARE",
     "name": "MBARA  MBALA SQUARE",
-    "lga": "UMU - NNEOCHI",
-    "ward": "UMUCHIEZE  II",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMU - NNEOCHI",
     "ward": "UMUCHIEZE  II",
     "state": "Abia",
@@ -37236,12 +36144,6 @@
     "state_code": "01"
   },
   {
-    "lga": "UMU - NNEOCHI",
-    "ward": "UMUCHIEZE  III",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "pu_code": "01/17/12/001",
     "pu_name": "NGODO STATE PRIMARY SCHOOL I",
     "name": "NGODO STATE PRIMARY SCHOOL I",
@@ -37326,12 +36228,6 @@
     "pu_code": "01/17/12/010",
     "pu_name": "UMULOBO VILLAGE SQUARE",
     "name": "UMULOBO VILLAGE SQUARE",
-    "lga": "UMU - NNEOCHI",
-    "ward": "OBINOLU/OBIAGU/LA",
-    "state": "Abia",
-    "state_code": "01"
-  },
-  {
     "lga": "UMU - NNEOCHI",
     "ward": "OBINOLU/OBIAGU/LA",
     "state": "Abia",

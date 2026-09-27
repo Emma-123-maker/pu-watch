@@ -54,12 +54,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ASA",
-    "ward": "YOWERE/SOSOKI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/01/02/001",
     "pu_name": "ADIGBONGBO L.G.E.A SCH",
     "name": "ADIGBONGBO L.G.E.A SCH",
@@ -108,12 +102,6 @@
     "pu_code": "23/01/02/006",
     "pu_name": "OKE-PETE OLORI LGEA SCH",
     "name": "OKE-PETE OLORI LGEA SCH",
-    "lga": "ASA",
-    "ward": "ADIGBONGBO/AWE/ORIMARO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ASA",
     "ward": "ADIGBONGBO/AWE/ORIMARO",
     "state": "Kwara",
@@ -195,12 +183,6 @@
     "pu_code": "23/01/03/009",
     "pu_name": "AGBOOLU LGEA SCHOOL",
     "name": "AGBOOLU LGEA SCHOOL",
-    "lga": "ASA",
-    "ward": "ELEBUE/AGBONA/FATA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ASA",
     "ward": "ELEBUE/AGBONA/FATA",
     "state": "Kwara",
@@ -306,12 +288,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ASA",
-    "ward": "ONIRE/ODEGIWA/ALAPA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/01/05/001",
     "pu_name": "ALAPETE DISPENSARY",
     "name": "ALAPETE DISPENSARY",
@@ -366,12 +342,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ASA",
-    "ward": "YOWERE 11/OKEWERU",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/01/06/001",
     "pu_name": "DONGARI ETILE L.G.E.A SCH",
     "name": "DONGARI ETILE L.G.E.A SCH",
@@ -393,12 +363,6 @@
     "pu_code": "23/01/06/003",
     "pu_name": "DONGARI LGEA SCH II",
     "name": "DONGARI LGEA SCH II",
-    "lga": "ASA",
-    "ward": "GAMBARI/AIYEKALE",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ASA",
     "ward": "GAMBARI/AIYEKALE",
     "state": "Kwara",
@@ -444,12 +408,6 @@
     "pu_code": "23/01/07/005",
     "pu_name": "BERIKODO LGEA SCH II",
     "name": "BERIKODO LGEA SCH II",
-    "lga": "ASA",
-    "ward": "EFUE/BERIKODO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ASA",
     "ward": "EFUE/BERIKODO",
     "state": "Kwara",
@@ -513,12 +471,6 @@
     "pu_code": "23/01/08/007",
     "pu_name": "COMPREHENSIVE HEALTH CARE",
     "name": "COMPREHENSIVE HEALTH CARE",
-    "lga": "ASA",
-    "ward": "OWODE/GBOGUN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ASA",
     "ward": "OWODE/GBOGUN",
     "state": "Kwara",
@@ -687,12 +639,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ASA",
-    "ward": "BALLAH/OTTE",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/01/10/001",
     "pu_name": "REKE  L.G.E.A.SCH",
     "name": "REKE  L.G.E.A.SCH",
@@ -759,12 +705,6 @@
     "pu_code": "23/01/10/008",
     "pu_name": "ORI-ERU LGEA SCH",
     "name": "ORI-ERU LGEA SCH",
-    "lga": "ASA",
-    "ward": "OGBONDOROKO/REKE",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ASA",
     "ward": "OGBONDOROKO/REKE",
     "state": "Kwara",
@@ -879,12 +819,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ASA",
-    "ward": "AGO-OJA/OSHIN/SAPATI/LADUBA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/01/12/001",
     "pu_name": "AFON  L.G.E.A.SCH",
     "name": "AFON  L.G.E.A.SCH",
@@ -960,12 +894,6 @@
     "pu_code": "23/01/12/009",
     "pu_name": "APA - ONIMALU LGEA SCH",
     "name": "APA - ONIMALU LGEA SCH",
-    "lga": "ASA",
-    "ward": "AFON",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ASA",
     "ward": "AFON",
     "state": "Kwara",
@@ -1080,12 +1008,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ASA",
-    "ward": "ILA-OJA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/01/14/001",
     "pu_name": "OGELE  L.G.E.A.SCH",
     "name": "OGELE  L.G.E.A.SCH",
@@ -1185,12 +1107,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ASA",
-    "ward": "OGELE",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/01/15/001",
     "pu_name": "ST KELVIN  L.G.E.A.SCH I",
     "name": "ST KELVIN  L.G.E.A.SCH I",
@@ -1272,12 +1188,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ASA",
-    "ward": "BUDO-EGBA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/01/16/001",
     "pu_name": "OKESHO  L.G.E.A.SCH",
     "name": "OKESHO  L.G.E.A.SCH",
@@ -1308,12 +1218,6 @@
     "pu_code": "23/01/16/004",
     "pu_name": "AFEYIN LGEA SCH",
     "name": "AFEYIN LGEA SCH",
-    "lga": "ASA",
-    "ward": "OKESHO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ASA",
     "ward": "OKESHO",
     "state": "Kwara",
@@ -1395,12 +1299,6 @@
     "pu_code": "23/01/17/009",
     "pu_name": "ODO-ODE LGEA SCH II",
     "name": "ODO-ODE LGEA SCH II",
-    "lga": "ASA",
-    "ward": "ODO-ODE/ABOTO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ASA",
     "ward": "ODO-ODE/ABOTO",
     "state": "Kwara",
@@ -1626,12 +1524,6 @@
     "pu_code": "23/02/01/025",
     "pu_name": "FEREKERU SHIYA OPEN SPACE",
     "name": "FEREKERU SHIYA OPEN SPACE",
-    "lga": "BARUTEN",
-    "ward": "BORIYA/SHIYA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "BARUTEN",
     "ward": "BORIYA/SHIYA",
     "state": "Kwara",
@@ -1971,12 +1863,6 @@
     "state_code": "23"
   },
   {
-    "lga": "BARUTEN",
-    "ward": "GURE/GWASORO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/02/03/001",
     "pu_name": "GUKONBU MARKET",
     "name": "GUKONBU MARKET",
@@ -2052,12 +1938,6 @@
     "pu_code": "23/02/03/009",
     "pu_name": "OLD MARKET TOBURE",
     "name": "OLD MARKET TOBURE",
-    "lga": "BARUTEN",
-    "ward": "GWEDEBERERU/BABANE",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "BARUTEN",
     "ward": "GWEDEBERERU/BABANE",
     "state": "Kwara",
@@ -2244,12 +2124,6 @@
     "state_code": "23"
   },
   {
-    "lga": "BARUTEN",
-    "ward": "GWANARA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/02/05/001",
     "pu_name": "KPAKOTORU  L.G.E.A.SCH",
     "name": "KPAKOTORU  L.G.E.A.SCH",
@@ -2415,12 +2289,6 @@
     "pu_code": "23/02/05/019",
     "pu_name": "MEDINA AREA OPEN SPACE",
     "name": "MEDINA AREA OPEN SPACE",
-    "lga": "BARUTEN",
-    "ward": "ILESHA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "BARUTEN",
     "ward": "ILESHA",
     "state": "Kwara",
@@ -2607,12 +2475,6 @@
     "state_code": "23"
   },
   {
-    "lga": "BARUTEN",
-    "ward": "KENU/TABERU",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/02/07/001",
     "pu_name": "GBONGBORU  L.G.E.A.SCH",
     "name": "GBONGBORU  L.G.E.A.SCH",
@@ -2733,12 +2595,6 @@
     "pu_code": "23/02/07/014",
     "pu_name": "KOROBORI LGEA SCHOOL",
     "name": "KOROBORI LGEA SCHOOL",
-    "lga": "BARUTEN",
-    "ward": "KPAURA/YAKIRU",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "BARUTEN",
     "ward": "KPAURA/YAKIRU",
     "state": "Kwara",
@@ -2946,12 +2802,6 @@
     "pu_code": "23/02/08/023",
     "pu_name": "DAMERA DISPENSARY",
     "name": "DAMERA DISPENSARY",
-    "lga": "BARUTEN",
-    "ward": "KIYORU/BWEN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "BARUTEN",
     "ward": "KIYORU/BWEN",
     "state": "Kwara",
@@ -3219,12 +3069,6 @@
     "state_code": "23"
   },
   {
-    "lga": "BARUTEN",
-    "ward": "OKUTA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/02/10/001",
     "pu_name": "TEBETABERU MARKET",
     "name": "TEBETABERU MARKET",
@@ -3327,12 +3171,6 @@
     "pu_code": "23/02/10/012",
     "pu_name": "AGBANKA OPEN SPACE",
     "name": "AGBANKA OPEN SPACE",
-    "lga": "BARUTEN",
-    "ward": "SHINAWU/TUNBUYAN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "BARUTEN",
     "ward": "SHINAWU/TUNBUYAN",
     "state": "Kwara",
@@ -3537,12 +3375,6 @@
     "state_code": "23"
   },
   {
-    "lga": "BARUTEN",
-    "ward": "YASHIKIRA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/03/01/001",
     "pu_name": "L.G.E.A SCH SOMASUN I",
     "name": "L.G.E.A SCH SOMASUN I",
@@ -3717,12 +3549,6 @@
     "pu_code": "23/03/01/020",
     "pu_name": "OPEN SPACE EMI LIMAN MOSQUE",
     "name": "OPEN SPACE EMI LIMAN MOSQUE",
-    "lga": "EDU",
-    "ward": "LAFIAGI 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "EDU",
     "ward": "LAFIAGI 1",
     "state": "Kwara",
@@ -3927,12 +3753,6 @@
     "state_code": "23"
   },
   {
-    "lga": "EDU",
-    "ward": "LAFIAGI 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/03/03/001",
     "pu_name": "L.G.E.A SCH ZAMBUFU",
     "name": "L.G.E.A SCH ZAMBUFU",
@@ -4104,12 +3924,6 @@
     "state_code": "23"
   },
   {
-    "lga": "EDU",
-    "ward": "LAFIAGI 111",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/03/04/001",
     "pu_name": "OPEN SPACE LUMABA VILLAGE",
     "name": "OPEN SPACE LUMABA VILLAGE",
@@ -4263,12 +4077,6 @@
     "state_code": "23"
   },
   {
-    "lga": "EDU",
-    "ward": "LAFIAGI 1V",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/03/05/001",
     "pu_name": "L.G.E.A SCH KANGE",
     "name": "L.G.E.A SCH KANGE",
@@ -4407,12 +4215,6 @@
     "pu_code": "23/03/05/016",
     "pu_name": "L.G.E.A PRY SCH. PATIDATI",
     "name": "L.G.E.A PRY SCH. PATIDATI",
-    "lga": "EDU",
-    "ward": "TSARAGI 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "EDU",
     "ward": "TSARAGI 1",
     "state": "Kwara",
@@ -4599,12 +4401,6 @@
     "state_code": "23"
   },
   {
-    "lga": "EDU",
-    "ward": "TSARAGI 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/03/07/001",
     "pu_name": "DISTRICT OFFICE TSARAGI I",
     "name": "DISTRICT OFFICE TSARAGI I",
@@ -4785,12 +4581,6 @@
     "state_code": "23"
   },
   {
-    "lga": "EDU",
-    "ward": "TSARAGI 111",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/03/08/001",
     "pu_name": "DISTRICT OFFICE TSONGA",
     "name": "DISTRICT OFFICE TSONGA",
@@ -4935,12 +4725,6 @@
     "state_code": "23"
   },
   {
-    "lga": "EDU",
-    "ward": "TSONGA 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/03/09/001",
     "pu_name": "L.G.E.A SCH DUMAGI I",
     "name": "L.G.E.A SCH DUMAGI I",
@@ -5043,12 +4827,6 @@
     "pu_code": "23/03/09/012",
     "pu_name": "COMMNITY SCH.KANKOFU",
     "name": "COMMNITY SCH.KANKOFU",
-    "lga": "EDU",
-    "ward": "TSONGA 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "EDU",
     "ward": "TSONGA 11",
     "state": "Kwara",
@@ -5172,12 +4950,6 @@
     "state_code": "23"
   },
   {
-    "lga": "EDU",
-    "ward": "TSONGA 111",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/04/01/001",
     "pu_name": "ST CYPRIAN SCH. ERUKU I",
     "name": "ST CYPRIAN SCH. ERUKU I",
@@ -5235,12 +5007,6 @@
     "pu_code": "23/04/01/007",
     "pu_name": "CO-OPERATIVE L.G.E.A SCH ERUKU II",
     "name": "CO-OPERATIVE L.G.E.A SCH ERUKU II",
-    "lga": "EKITI",
-    "ward": "ERUKU",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "EKITI",
     "ward": "ERUKU",
     "state": "Kwara",
@@ -5319,12 +5085,6 @@
     "state_code": "23"
   },
   {
-    "lga": "EKITI",
-    "ward": "ISAPA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/04/03/001",
     "pu_name": "COMM SCH KORO",
     "name": "COMM SCH KORO",
@@ -5364,12 +5124,6 @@
     "pu_code": "23/04/03/005",
     "pu_name": "HEALTH CENTRE, BOLORUNDURO",
     "name": "HEALTH CENTRE, BOLORUNDURO",
-    "lga": "EKITI",
-    "ward": "KORO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "EKITI",
     "ward": "KORO",
     "state": "Kwara",
@@ -5430,12 +5184,6 @@
     "state_code": "23"
   },
   {
-    "lga": "EKITI",
-    "ward": "OBBO-AIYEGGUNLE 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/04/05/001",
     "pu_name": "OPEN SPACE ILEMO OBBO-AIYEGUNLE I",
     "name": "OPEN SPACE ILEMO OBBO-AIYEGUNLE I",
@@ -5484,12 +5232,6 @@
     "pu_code": "23/04/05/006",
     "pu_name": "ST LUKE'S PRIMARY SCHOOL, ILEMO",
     "name": "ST LUKE'S PRIMARY SCHOOL, ILEMO",
-    "lga": "EKITI",
-    "ward": "OBBO-AIYEGGUNLE 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "EKITI",
     "ward": "OBBO-AIYEGGUNLE 11",
     "state": "Kwara",
@@ -5553,12 +5295,6 @@
     "pu_code": "23/04/06/007",
     "pu_name": "COMMUNITY PRIMARY SCHOOL, EJIU - ILE",
     "name": "COMMUNITY PRIMARY SCHOOL, EJIU - ILE",
-    "lga": "EKITI",
-    "ward": "OBBO-ILE",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "EKITI",
     "ward": "OBBO-ILE",
     "state": "Kwara",
@@ -5646,12 +5382,6 @@
     "state_code": "23"
   },
   {
-    "lga": "EKITI",
-    "ward": "OSI 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/04/08/001",
     "pu_name": "ST BRIDGETS SCH, OSI",
     "name": "ST BRIDGETS SCH, OSI",
@@ -5709,12 +5439,6 @@
     "pu_code": "23/04/08/007",
     "pu_name": "OLD MARKET, OSI",
     "name": "OLD MARKET, OSI",
-    "lga": "EKITI",
-    "ward": "OSI 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "EKITI",
     "ward": "OSI 11",
     "state": "Kwara",
@@ -5838,12 +5562,6 @@
     "state_code": "23"
   },
   {
-    "lga": "EKITI",
-    "ward": "OPIN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/04/10/001",
     "pu_name": "CENTRAL L.G.E.A SCH, OKE-OPIN",
     "name": "CENTRAL L.G.E.A SCH, OKE-OPIN",
@@ -5910,12 +5628,6 @@
     "pu_code": "23/04/10/008",
     "pu_name": "OPEN SPACE HEALTH CENTRE, ETAN",
     "name": "OPEN SPACE HEALTH CENTRE, ETAN",
-    "lga": "EKITI",
-    "ward": "OKE-OPIN/ETAN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "EKITI",
     "ward": "OKE-OPIN/ETAN",
     "state": "Kwara",
@@ -6021,12 +5733,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IFELODUN",
-    "ward": "OKE-ODE 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/05/02/001",
     "pu_name": "ECWA SCH SHAGBE I",
     "name": "ECWA SCH SHAGBE I",
@@ -6126,12 +5832,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IFELODUN",
-    "ward": "OKE-ODE 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/05/03/001",
     "pu_name": "COMM SCH ALADE",
     "name": "COMM SCH ALADE",
@@ -6207,12 +5907,6 @@
     "pu_code": "23/05/03/009",
     "pu_name": "COMM SCH  GBEDE",
     "name": "COMM SCH  GBEDE",
-    "lga": "IFELODUN",
-    "ward": "OKE-ODE 111",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "IFELODUN",
     "ward": "OKE-ODE 111",
     "state": "Kwara",
@@ -6312,12 +6006,6 @@
     "pu_code": "23/05/04/011",
     "pu_name": "JAMAT NASIR ISLAM LGEA SCHOOL,ORA",
     "name": "JAMAT NASIR ISLAM LGEA SCHOOL,ORA",
-    "lga": "IFELODUN",
-    "ward": "ORA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "IFELODUN",
     "ward": "ORA",
     "state": "Kwara",
@@ -6522,12 +6210,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IFELODUN",
-    "ward": "ILE-IRE",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/05/06/001",
     "pu_name": "COMM SCH AGUNJIN",
     "name": "COMM SCH AGUNJIN",
@@ -6594,12 +6276,6 @@
     "pu_code": "23/05/06/008",
     "pu_name": "ECWA SCH PATAKO",
     "name": "ECWA SCH PATAKO",
-    "lga": "IFELODUN",
-    "ward": "AGUNJIN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "IFELODUN",
     "ward": "AGUNJIN",
     "state": "Kwara",
@@ -6795,12 +6471,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IFELODUN",
-    "ward": "ORO-AGO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/05/08/001",
     "pu_name": "COMM SCH OMUPO",
     "name": "COMM SCH OMUPO",
@@ -6981,12 +6651,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IFELODUN",
-    "ward": "OMUPO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/05/09/001",
     "pu_name": "COMM SCH SHARE",
     "name": "COMM SCH SHARE",
@@ -7098,12 +6762,6 @@
     "pu_code": "23/05/09/013",
     "pu_name": "CAC PRIMARY & SECONDARY SCH. SHARE",
     "name": "CAC PRIMARY & SECONDARY SCH. SHARE",
-    "lga": "IFELODUN",
-    "ward": "SHARE 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "IFELODUN",
     "ward": "SHARE 1",
     "state": "Kwara",
@@ -7227,12 +6885,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IFELODUN",
-    "ward": "SHARE 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/05/11/001",
     "pu_name": "KATALAGBON OPEN SPACE",
     "name": "KATALAGBON OPEN SPACE",
@@ -7323,12 +6975,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IFELODUN",
-    "ward": "SHARE 111",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/05/12/001",
     "pu_name": "OPEN SPACE GBOGILEMU",
     "name": "OPEN SPACE GBOGILEMU",
@@ -7395,12 +7041,6 @@
     "pu_code": "23/05/12/008",
     "pu_name": "OPEN SPACE MALETE   AREA LOMA",
     "name": "OPEN SPACE MALETE   AREA LOMA",
-    "lga": "IFELODUN",
-    "ward": "SHARE 1V",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "IFELODUN",
     "ward": "SHARE 1V",
     "state": "Kwara",
@@ -7509,12 +7149,6 @@
     "pu_code": "23/05/13/012",
     "pu_name": "COMMUNITY SCH. KPIANGBIA",
     "name": "COMMUNITY SCH. KPIANGBIA",
-    "lga": "IFELODUN",
-    "ward": "SHARE V",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "IFELODUN",
     "ward": "SHARE V",
     "state": "Kwara",
@@ -7638,12 +7272,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IFELODUN",
-    "ward": "IGBAJA 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/05/15/001",
     "pu_name": "COMM SCH OFFARESE",
     "name": "COMM SCH OFFARESE",
@@ -7719,12 +7347,6 @@
     "pu_code": "23/05/15/009",
     "pu_name": "COMM SCH ONIJO",
     "name": "COMM SCH ONIJO",
-    "lga": "IFELODUN",
-    "ward": "IGBAJA 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "IFELODUN",
     "ward": "IGBAJA 11",
     "state": "Kwara",
@@ -7815,12 +7437,6 @@
     "pu_code": "23/05/16/010",
     "pu_name": "COMM SCH KUNMI",
     "name": "COMM SCH KUNMI",
-    "lga": "IFELODUN",
-    "ward": "IGBAJA 111",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "IFELODUN",
     "ward": "IGBAJA 111",
     "state": "Kwara",
@@ -7938,12 +7554,6 @@
     "pu_code": "23/05/17/013",
     "pu_name": "JIMBA OJA MARKET OPEN SPACE",
     "name": "JIMBA OJA MARKET OPEN SPACE",
-    "lga": "IFELODUN",
-    "ward": "IDOFIAN 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "IFELODUN",
     "ward": "IDOFIAN 1",
     "state": "Kwara",
@@ -8148,12 +7758,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IFELODUN",
-    "ward": "IDOFIAN 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/06/01/001",
     "pu_name": "OKAKA LGEA SCH OKAKA",
     "name": "OKAKA LGEA SCH OKAKA",
@@ -8301,12 +7905,6 @@
     "pu_code": "23/06/01/017",
     "pu_name": "AGBEYANGI LGEA SCH",
     "name": "AGBEYANGI LGEA SCH",
-    "lga": "ILORIN EAST",
-    "ward": "AGBEYANGI/GBADAMU/OSIN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN EAST",
     "ward": "AGBEYANGI/GBADAMU/OSIN",
     "state": "Kwara",
@@ -8514,12 +8112,6 @@
     "pu_code": "23/06/02/023",
     "pu_name": "ODE ILE ELERAN II",
     "name": "ODE ILE ELERAN II",
-    "lga": "ILORIN EAST",
-    "ward": "GAMBARI 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN EAST",
     "ward": "GAMBARI 1",
     "state": "Kwara",
@@ -8781,12 +8373,6 @@
     "pu_code": "23/06/03/029",
     "pu_name": "OPEN SPACE GWARI",
     "name": "OPEN SPACE GWARI",
-    "lga": "ILORIN EAST",
-    "ward": "BALOGUN GAMBARI 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN EAST",
     "ward": "BALOGUN GAMBARI 11",
     "state": "Kwara",
@@ -9315,12 +8901,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN EAST",
-    "ward": "IBAGUN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/06/05/001",
     "pu_name": "FAMOLE L.G.E.A SCH",
     "name": "FAMOLE L.G.E.A SCH",
@@ -9393,12 +8973,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN EAST",
-    "ward": "APADO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/06/06/001",
     "pu_name": "OLORO L.G.E.A SCH",
     "name": "OLORO L.G.E.A SCH",
@@ -9465,12 +9039,6 @@
     "pu_code": "23/06/06/008",
     "pu_name": "IPONRIN L.G.E.A SCH",
     "name": "IPONRIN L.G.E.A SCH",
-    "lga": "ILORIN EAST",
-    "ward": "IPONRIN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN EAST",
     "ward": "IPONRIN",
     "state": "Kwara",
@@ -9813,12 +9381,6 @@
     "pu_code": "23/06/07/038",
     "pu_name": "MAGAJI ARE JUNIOR SEC SCH IDI-APE",
     "name": "MAGAJI ARE JUNIOR SEC SCH IDI-APE",
-    "lga": "ILORIN EAST",
-    "ward": "MAGAJI ARE 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN EAST",
     "ward": "MAGAJI ARE 1",
     "state": "Kwara",
@@ -10203,12 +9765,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN EAST",
-    "ward": "MAGAJI ARE 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/06/09/001",
     "pu_name": "ELESINMETA L.G.E.A. SCH I",
     "name": "ELESINMETA L.G.E.A. SCH I",
@@ -10374,12 +9930,6 @@
     "pu_code": "23/06/09/019",
     "pu_name": "OLORORO VILLAGE (OPEN SPACE)",
     "name": "OLORORO VILLAGE (OPEN SPACE)",
-    "lga": "ILORIN EAST",
-    "ward": "MARAFA/PEPELE",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN EAST",
     "ward": "MARAFA/PEPELE",
     "state": "Kwara",
@@ -10569,12 +10119,6 @@
     "pu_code": "23/06/10/021",
     "pu_name": "ALASE HEALTH CENTRE",
     "name": "ALASE HEALTH CENTRE",
-    "lga": "ILORIN EAST",
-    "ward": "MAYA/ILE-APA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN EAST",
     "ward": "MAYA/ILE-APA",
     "state": "Kwara",
@@ -10809,12 +10353,6 @@
     "pu_code": "23/06/11/026",
     "pu_name": "OPEN SPACE BARIGUDU SULU IDI ORI",
     "name": "OPEN SPACE BARIGUDU SULU IDI ORI",
-    "lga": "ILORIN EAST",
-    "ward": "OKE OYI/OKE OSE/ALALUBOSA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN EAST",
     "ward": "OKE OYI/OKE OSE/ALALUBOSA",
     "state": "Kwara",
@@ -11100,12 +10638,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN EAST",
-    "ward": "ZANGO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/07/01/001",
     "pu_name": "FUFU L.G.E.A SCH",
     "name": "FUFU L.G.E.A SCH",
@@ -11196,12 +10728,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN-SOUTH",
-    "ward": "AKANBI -1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/07/02/001",
     "pu_name": "OPEN SPACE KAJOLA VILLAGE",
     "name": "OPEN SPACE KAJOLA VILLAGE",
@@ -11268,12 +10794,6 @@
     "pu_code": "23/07/02/008",
     "pu_name": "JOROMO OSHIN L.G.E.A SCH II",
     "name": "JOROMO OSHIN L.G.E.A SCH II",
-    "lga": "ILORIN-SOUTH",
-    "ward": "AKANBI -11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN-SOUTH",
     "ward": "AKANBI -11",
     "state": "Kwara",
@@ -11733,12 +11253,6 @@
     "pu_code": "23/07/03/051",
     "pu_name": "BOLORUNDURO COMM. INFRONT OF IROYIN AYO BLOCK INDUSTRY",
     "name": "BOLORUNDURO COMM. INFRONT OF IROYIN AYO BLOCK INDUSTRY",
-    "lga": "ILORIN-SOUTH",
-    "ward": "AKANBI -111",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN-SOUTH",
     "ward": "AKANBI -111",
     "state": "Kwara",
@@ -12231,12 +11745,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN-SOUTH",
-    "ward": "AKANBI -1V",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/07/05/001",
     "pu_name": "KANGILE L.G.E.A SCH",
     "name": "KANGILE L.G.E.A SCH",
@@ -12597,12 +12105,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN-SOUTH",
-    "ward": "AKANBI -V",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/07/06/001",
     "pu_name": "AREA COURT CENTRE IGBORO",
     "name": "AREA COURT CENTRE IGBORO",
@@ -12783,12 +12285,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN-SOUTH",
-    "ward": "BALOGUN-FULANI I",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/07/07/001",
     "pu_name": "OPEN SPACE ODE BALOGUN FULANI I",
     "name": "OPEN SPACE ODE BALOGUN FULANI I",
@@ -12918,12 +12414,6 @@
     "pu_code": "23/07/07/015",
     "pu_name": "OPEN SPACE ELERE COMPOUND, SABO-LINE",
     "name": "OPEN SPACE ELERE COMPOUND, SABO-LINE",
-    "lga": "ILORIN-SOUTH",
-    "ward": "BALOGUN-FULANI 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN-SOUTH",
     "ward": "BALOGUN-FULANI 11",
     "state": "Kwara",
@@ -13077,12 +12567,6 @@
     "pu_code": "23/07/08/017",
     "pu_name": "OPEN SPACE, OPEYEMI EYE CLINIC CENTRE, SABO-LINE ISALE",
     "name": "OPEN SPACE, OPEYEMI EYE CLINIC CENTRE, SABO-LINE ISALE",
-    "lga": "ILORIN-SOUTH",
-    "ward": "BALOGUN-FULANI 111",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN-SOUTH",
     "ward": "BALOGUN-FULANI 111",
     "state": "Kwara",
@@ -13278,12 +12762,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN-SOUTH",
-    "ward": "OKAKA 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/07/10/001",
     "pu_name": "ANSARUL-ISLAM L.G.E.A SCH I",
     "name": "ANSARUL-ISLAM L.G.E.A SCH I",
@@ -13464,12 +12942,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN-SOUTH",
-    "ward": "OKAKA 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/07/11/001",
     "pu_name": "OPEN SPACE ODE AKARAJE",
     "name": "OPEN SPACE ODE AKARAJE",
@@ -13635,12 +13107,6 @@
     "pu_code": "23/07/11/019",
     "pu_name": "OPEN SPACE, OPP. RASCO PHARMACY EDUN JUNCTION, OFF EMIRS ROAD",
     "name": "OPEN SPACE, OPP. RASCO PHARMACY EDUN JUNCTION, OFF EMIRS ROAD",
-    "lga": "ILORIN-SOUTH",
-    "ward": "OKE-OGUN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN-SOUTH",
     "ward": "OKE-OGUN",
     "state": "Kwara",
@@ -13983,12 +13449,6 @@
     "pu_code": "23/08/01/038",
     "pu_name": "OPEN SPAN AKONI KORO",
     "name": "OPEN SPAN AKONI KORO",
-    "lga": "ILORIN-WEST",
-    "ward": "ADEWOLE",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN-WEST",
     "ward": "ADEWOLE",
     "state": "Kwara",
@@ -14616,12 +14076,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN-WEST",
-    "ward": "AJIKOBI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/08/03/001",
     "pu_name": "ODE ALIKALI (YIDI ROAD)",
     "name": "ODE ALIKALI (YIDI ROAD)",
@@ -14850,12 +14304,6 @@
     "pu_code": "23/08/03/026",
     "pu_name": "OPEN SPACE TEMIDERE",
     "name": "OPEN SPACE TEMIDERE",
-    "lga": "ILORIN-WEST",
-    "ward": "BABOKO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN-WEST",
     "ward": "BABOKO",
     "state": "Kwara",
@@ -15144,12 +14592,6 @@
     "pu_code": "23/08/04/032",
     "pu_name": "OPEN SPACE OPPOSITE B DIVISION",
     "name": "OPEN SPACE OPPOSITE B DIVISION",
-    "lga": "ILORIN-WEST",
-    "ward": "BADARI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN-WEST",
     "ward": "BADARI",
     "state": "Kwara",
@@ -15759,12 +15201,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN-WEST",
-    "ward": "BALOGUN ALANAMU CENTRAL",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/08/06/001",
     "pu_name": "ODE ISIAKA OMOBA",
     "name": "ODE ISIAKA OMOBA",
@@ -16002,12 +15438,6 @@
     "pu_code": "23/08/06/027",
     "pu_name": "BAPTIST LGEA SCHOOL IV",
     "name": "BAPTIST LGEA SCHOOL IV",
-    "lga": "ILORIN-WEST",
-    "ward": "MAGAJI NGERI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN-WEST",
     "ward": "MAGAJI NGERI",
     "state": "Kwara",
@@ -16275,12 +15705,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN-WEST",
-    "ward": "OLOJE",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/08/08/001",
     "pu_name": "ODE MOGAJI OGIDI",
     "name": "ODE MOGAJI OGIDI",
@@ -16446,12 +15870,6 @@
     "pu_code": "23/08/08/019",
     "pu_name": "ODE OLORI",
     "name": "ODE OLORI",
-    "lga": "ILORIN-WEST",
-    "ward": "OGIDI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN-WEST",
     "ward": "OGIDI",
     "state": "Kwara",
@@ -16875,12 +16293,6 @@
     "pu_code": "23/08/09/047",
     "pu_name": "OPEN SPACE GBON GBON",
     "name": "OPEN SPACE GBON GBON",
-    "lga": "ILORIN-WEST",
-    "ward": "OJUEKUN/ZARUMI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN-WEST",
     "ward": "OJUEKUN/ZARUMI",
     "state": "Kwara",
@@ -17328,12 +16740,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN-WEST",
-    "ward": "OKO-ERIN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/08/11/001",
     "pu_name": "OJUDE UBANDAWAKI",
     "name": "OJUDE UBANDAWAKI",
@@ -17526,12 +16932,6 @@
     "pu_code": "23/08/11/022",
     "pu_name": "OPEN SPACE ODE AGAKA ALADIRE",
     "name": "OPEN SPACE ODE AGAKA ALADIRE",
-    "lga": "ILORIN-WEST",
-    "ward": "UBANDAWAKI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ILORIN-WEST",
     "ward": "UBANDAWAKI",
     "state": "Kwara",
@@ -17889,12 +17289,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ILORIN-WEST",
-    "ward": "WARRAH/EGBE JILA/OSHIN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/09/01/001",
     "pu_name": "OLD POLICE STATION AJASE-IPO",
     "name": "OLD POLICE STATION AJASE-IPO",
@@ -18102,12 +17496,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IREPODUN",
-    "ward": "AJASE IPO 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/09/02/001",
     "pu_name": "L.G.E.A. SCH AGBONDA",
     "name": "L.G.E.A. SCH AGBONDA",
@@ -18243,12 +17631,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IREPODUN",
-    "ward": "AJASE IPO 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/09/03/001",
     "pu_name": "HOME ECONS CENTRE ARANDUN",
     "name": "HOME ECONS CENTRE ARANDUN",
@@ -18375,12 +17757,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IREPODUN",
-    "ward": "ARANDUN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/09/04/001",
     "pu_name": "ILE OBA ESIE",
     "name": "ILE OBA ESIE",
@@ -18456,12 +17832,6 @@
     "pu_code": "23/09/04/009",
     "pu_name": "OKE-ILEGUN, NEAR BOREHOLE, OPEN SPACE",
     "name": "OKE-ILEGUN, NEAR BOREHOLE, OPEN SPACE",
-    "lga": "IREPODUN",
-    "ward": "ESIE/IJAN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "IREPODUN",
     "ward": "ESIE/IJAN",
     "state": "Kwara",
@@ -18603,12 +17973,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IREPODUN",
-    "ward": "IPETU/RORE/ARAN-ORIN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/09/06/001",
     "pu_name": "ILE OLUPO  OKE OMU-ARAN I",
     "name": "ILE OLUPO  OKE OMU-ARAN I",
@@ -18711,12 +18075,6 @@
     "pu_code": "23/09/06/012",
     "pu_name": "ST. PAUL SCH. II",
     "name": "ST. PAUL SCH. II",
-    "lga": "IREPODUN",
-    "ward": "OMU-ARAN 1 (ARAN)",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "IREPODUN",
     "ward": "OMU-ARAN 1 (ARAN)",
     "state": "Kwara",
@@ -18876,12 +18234,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IREPODUN",
-    "ward": "OMU-ARAN 11 (IHAYE)",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/09/08/001",
     "pu_name": "ILE OLASANKALE OMU-ARAN",
     "name": "ILE OLASANKALE OMU-ARAN",
@@ -19035,12 +18387,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IREPODUN",
-    "ward": "OMU-ARAN 111 (IFAJA)",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/09/09/001",
     "pu_name": "AFIN OLORO OKERIMI ORO",
     "name": "AFIN OLORO OKERIMI ORO",
@@ -19134,12 +18480,6 @@
     "pu_code": "23/09/09/011",
     "pu_name": "OBA OLORO OPEN SPACE, ORO",
     "name": "OBA OLORO OPEN SPACE, ORO",
-    "lga": "IREPODUN",
-    "ward": "ORO 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "IREPODUN",
     "ward": "ORO 1",
     "state": "Kwara",
@@ -19317,12 +18657,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IREPODUN",
-    "ward": "ORO 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/09/11/001",
     "pu_name": "ILE OBA OKO",
     "name": "ILE OBA OKO",
@@ -19377,12 +18711,6 @@
     "state_code": "23"
   },
   {
-    "lga": "IREPODUN",
-    "ward": "OKO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/10/01/001",
     "pu_name": "MARKET CENTRE OPEN SPACE",
     "name": "MARKET CENTRE OPEN SPACE",
@@ -19428,12 +18756,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ISIN",
-    "ward": "ALLA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/10/02/001",
     "pu_name": "ST ANDREW L.G.E.A SCH",
     "name": "ST ANDREW L.G.E.A SCH",
@@ -19473,12 +18795,6 @@
     "pu_code": "23/10/02/005",
     "pu_name": "MUSLIM COMMUNITY LGEA SCHOOL",
     "name": "MUSLIM COMMUNITY LGEA SCHOOL",
-    "lga": "ISIN",
-    "ward": "EDIDI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ISIN",
     "ward": "EDIDI",
     "state": "Kwara",
@@ -19551,12 +18867,6 @@
     "pu_code": "23/10/03/008",
     "pu_name": "LGEA SCH KAJOLA",
     "name": "LGEA SCH KAJOLA",
-    "lga": "ISIN",
-    "ward": "ISANLU 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ISIN",
     "ward": "ISANLU 1",
     "state": "Kwara",
@@ -19644,12 +18954,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ISIN",
-    "ward": "ISANLU 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/10/05/001",
     "pu_name": "OKE IGUNSIN OPEN SPACE",
     "name": "OKE IGUNSIN OPEN SPACE",
@@ -19731,12 +19035,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ISIN",
-    "ward": "IJARA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/10/06/001",
     "pu_name": "ILE OBA OPEN SPACE",
     "name": "ILE OBA OPEN SPACE",
@@ -19785,12 +19083,6 @@
     "pu_code": "23/10/06/006",
     "pu_name": "MATERNITY CENTRE OPEN SPACE II",
     "name": "MATERNITY CENTRE OPEN SPACE II",
-    "lga": "ISIN",
-    "ward": "IWO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ISIN",
     "ward": "IWO",
     "state": "Kwara",
@@ -19878,12 +19170,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ISIN",
-    "ward": "OWU ISIN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/10/08/001",
     "pu_name": "GARAGE OKE ONIGBIN OPEN SPACE",
     "name": "GARAGE OKE ONIGBIN OPEN SPACE",
@@ -19956,12 +19242,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ISIN",
-    "ward": "OKE ONIGBIN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/10/09/001",
     "pu_name": "PAMO LGEA SCH",
     "name": "PAMO LGEA SCH",
@@ -20010,12 +19290,6 @@
     "pu_code": "23/10/09/014",
     "pu_name": "HEALTH CENTRE ARAROMI",
     "name": "HEALTH CENTRE ARAROMI",
-    "lga": "ISIN",
-    "ward": "SABAJA/PAMO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ISIN",
     "ward": "SABAJA/PAMO",
     "state": "Kwara",
@@ -20094,12 +19368,6 @@
     "state_code": "23"
   },
   {
-    "lga": "ISIN",
-    "ward": "OKE ABA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/10/11/001",
     "pu_name": "AIYEKALE OLLA OPEN SPACE",
     "name": "AIYEKALE OLLA OPEN SPACE",
@@ -20157,12 +19425,6 @@
     "pu_code": "23/10/11/007",
     "pu_name": "PRIMARY HEALTH CENTRE OLLA",
     "name": "PRIMARY HEALTH CENTRE OLLA",
-    "lga": "ISIN",
-    "ward": "OLLA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "ISIN",
     "ward": "OLLA",
     "state": "Kwara",
@@ -20280,12 +19542,6 @@
     "pu_code": "23/11/01/013",
     "pu_name": "LOKO MOSHE KLGEA",
     "name": "LOKO MOSHE KLGEA",
-    "lga": "KAIAMA",
-    "ward": "ADENA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "KAIAMA",
     "ward": "ADENA",
     "state": "Kwara",
@@ -20472,12 +19728,6 @@
     "state_code": "23"
   },
   {
-    "lga": "KAIAMA",
-    "ward": "BANI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/11/03/001",
     "pu_name": "KANIKOKO PRY SCH I",
     "name": "KANIKOKO PRY SCH I",
@@ -20622,12 +19872,6 @@
     "state_code": "23"
   },
   {
-    "lga": "KAIAMA",
-    "ward": "GWANABE 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/11/04/001",
     "pu_name": "GWATTEKUTA KLGEA SCH",
     "name": "GWATTEKUTA KLGEA SCH",
@@ -20730,12 +19974,6 @@
     "pu_code": "23/11/04/012",
     "pu_name": "GURE PANJI OPEN SPACE",
     "name": "GURE PANJI OPEN SPACE",
-    "lga": "KAIAMA",
-    "ward": "GWANABE 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "KAIAMA",
     "ward": "GWANABE 11",
     "state": "Kwara",
@@ -20877,12 +20115,6 @@
     "state_code": "23"
   },
   {
-    "lga": "KAIAMA",
-    "ward": "GWARI A (GWARIA)",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/11/06/001",
     "pu_name": "CENTRAL PRY SCH, KAIAMA",
     "name": "CENTRAL PRY SCH, KAIAMA",
@@ -20940,12 +20172,6 @@
     "pu_code": "23/11/06/007",
     "pu_name": "SERIKIN NOMA OPEN SPACE",
     "name": "SERIKIN NOMA OPEN SPACE",
-    "lga": "KAIAMA",
-    "ward": "KAIAMA 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "KAIAMA",
     "ward": "KAIAMA 1",
     "state": "Kwara",
@@ -21069,12 +20295,6 @@
     "state_code": "23"
   },
   {
-    "lga": "KAIAMA",
-    "ward": "KAIAMA 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/11/08/001",
     "pu_name": "KABARU OPEN SPACE",
     "name": "KABARU OPEN SPACE",
@@ -21147,12 +20367,6 @@
     "state_code": "23"
   },
   {
-    "lga": "KAIAMA",
-    "ward": "KAIAMA 111",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/11/09/001",
     "pu_name": "KIBENFADI KLGEA SCH",
     "name": "KIBENFADI KLGEA SCH",
@@ -21201,12 +20415,6 @@
     "pu_code": "23/11/09/006",
     "pu_name": "TUNGA GARUWA CENTRAL MRKT",
     "name": "TUNGA GARUWA CENTRAL MRKT",
-    "lga": "KAIAMA",
-    "ward": "KEMANJI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "KAIAMA",
     "ward": "KEMANJI",
     "state": "Kwara",
@@ -21333,12 +20541,6 @@
     "pu_code": "23/11/10/014",
     "pu_name": "NANU OPEN SPACE",
     "name": "NANU OPEN SPACE",
-    "lga": "KAIAMA",
-    "ward": "WAJIBE",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "KAIAMA",
     "ward": "WAJIBE",
     "state": "Kwara",
@@ -21525,12 +20727,6 @@
     "state_code": "23"
   },
   {
-    "lga": "MORO",
-    "ward": "JEBBA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/12/02/001",
     "pu_name": "VIEWING CENTRE BODE-SAADU",
     "name": "VIEWING CENTRE BODE-SAADU",
@@ -21648,12 +20844,6 @@
     "state_code": "23"
   },
   {
-    "lga": "MORO",
-    "ward": "BODE-SAADU",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/12/03/001",
     "pu_name": "LGEA  SCH OKEMI",
     "name": "LGEA  SCH OKEMI",
@@ -21684,12 +20874,6 @@
     "pu_code": "23/12/03/004",
     "pu_name": "LGEA  SCH MAYA",
     "name": "LGEA  SCH MAYA",
-    "lga": "MORO",
-    "ward": "OKEMI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "MORO",
     "ward": "OKEMI",
     "state": "Kwara",
@@ -21768,12 +20952,6 @@
     "state_code": "23"
   },
   {
-    "lga": "MORO",
-    "ward": "LANWA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/12/05/001",
     "pu_name": "LGEA  SCH EJIDONGARI",
     "name": "LGEA  SCH EJIDONGARI",
@@ -21813,12 +20991,6 @@
     "pu_code": "23/12/05/005",
     "pu_name": "OPEN SPACE KANGODABE",
     "name": "OPEN SPACE KANGODABE",
-    "lga": "MORO",
-    "ward": "EJIDONGARI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "MORO",
     "ward": "EJIDONGARI",
     "state": "Kwara",
@@ -21906,12 +21078,6 @@
     "state_code": "23"
   },
   {
-    "lga": "MORO",
-    "ward": "OKUTALA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/12/07/001",
     "pu_name": "LGEA  SCH OGUNTULU",
     "name": "LGEA  SCH OGUNTULU",
@@ -21969,12 +21135,6 @@
     "pu_code": "23/12/07/007",
     "pu_name": "OPEN SPACE IGBIRA",
     "name": "OPEN SPACE IGBIRA",
-    "lga": "MORO",
-    "ward": "BABADUDU",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "MORO",
     "ward": "BABADUDU",
     "state": "Kwara",
@@ -22044,12 +21204,6 @@
     "state_code": "23"
   },
   {
-    "lga": "MORO",
-    "ward": "OLORU",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/12/09/001",
     "pu_name": "MATERNITY DISPENSARY BUDO-OKE",
     "name": "MATERNITY DISPENSARY BUDO-OKE",
@@ -22098,12 +21252,6 @@
     "pu_code": "23/12/09/006",
     "pu_name": "OPEN SPACE ABAMBA",
     "name": "OPEN SPACE ABAMBA",
-    "lga": "MORO",
-    "ward": "PAKUNMO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "MORO",
     "ward": "PAKUNMO",
     "state": "Kwara",
@@ -22191,12 +21339,6 @@
     "state_code": "23"
   },
   {
-    "lga": "MORO",
-    "ward": "WOMI/AYAKI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/12/11/001",
     "pu_name": "L.G.E.A SCH TEPATAN",
     "name": "L.G.E.A SCH TEPATAN",
@@ -22272,12 +21414,6 @@
     "pu_code": "23/12/11/009",
     "pu_name": "HEALTH CENTER ELEKOYANGAN",
     "name": "HEALTH CENTER ELEKOYANGAN",
-    "lga": "MORO",
-    "ward": "ABATI/ALARA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "MORO",
     "ward": "ABATI/ALARA",
     "state": "Kwara",
@@ -22428,12 +21564,6 @@
     "state_code": "23"
   },
   {
-    "lga": "MORO",
-    "ward": "SHAO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/12/13/001",
     "pu_name": "L.G.E.A SCH JEUNKUNNU",
     "name": "L.G.E.A SCH JEUNKUNNU",
@@ -22464,12 +21594,6 @@
     "pu_code": "23/12/13/004",
     "pu_name": "L.G.E.A SCH OLOWU",
     "name": "L.G.E.A SCH OLOWU",
-    "lga": "MORO",
-    "ward": "LOGUN/JEHUNKUNNU",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "MORO",
     "ward": "LOGUN/JEHUNKUNNU",
     "state": "Kwara",
@@ -22521,12 +21645,6 @@
     "state_code": "23"
   },
   {
-    "lga": "MORO",
-    "ward": "MALETE/GBUGUDU",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/12/15/001",
     "pu_name": "L.G.E.A SCH BUDO ARE",
     "name": "L.G.E.A SCH BUDO ARE",
@@ -22557,12 +21675,6 @@
     "pu_code": "23/12/15/004",
     "pu_name": "L.G.E.A SCH AGAR",
     "name": "L.G.E.A SCH AGAR",
-    "lga": "MORO",
-    "ward": "AJANAKU",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "MORO",
     "ward": "AJANAKU",
     "state": "Kwara",
@@ -22659,12 +21771,6 @@
     "state_code": "23"
   },
   {
-    "lga": "MORO",
-    "ward": "MEGIDA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/12/17/001",
     "pu_name": "L.G.E.A SCH AROBADI",
     "name": "L.G.E.A SCH AROBADI",
@@ -22713,12 +21819,6 @@
     "pu_code": "23/12/17/006",
     "pu_name": "OPEN SPACE ALATEKO",
     "name": "OPEN SPACE ALATEKO",
-    "lga": "MORO",
-    "ward": "AROBADI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "MORO",
     "ward": "AROBADI",
     "state": "Kwara",
@@ -22881,12 +21981,6 @@
     "pu_code": "23/13/01/018",
     "pu_name": "OPEN SPACE AKINGBASA AREA",
     "name": "OPEN SPACE AKINGBASA AREA",
-    "lga": "OFFA",
-    "ward": "BALOGUN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OFFA",
     "ward": "BALOGUN",
     "state": "Kwara",
@@ -23091,12 +22185,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OFFA",
-    "ward": "SHAWO SOUTH WEST",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/13/03/001",
     "pu_name": "OPEN SPACE, BOLUDE AREA",
     "name": "OPEN SPACE, BOLUDE AREA",
@@ -23217,12 +22305,6 @@
     "pu_code": "23/13/03/014",
     "pu_name": "OPEN SPACE IKOLABA II",
     "name": "OPEN SPACE IKOLABA II",
-    "lga": "OFFA",
-    "ward": "SHAWO CENTRAL",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OFFA",
     "ward": "SHAWO CENTRAL",
     "state": "Kwara",
@@ -23355,12 +22437,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OFFA",
-    "ward": "SHAWO SOUTH EAST",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/13/05/001",
     "pu_name": "OPEN SPACE, ONIJU AREA",
     "name": "OPEN SPACE, ONIJU AREA",
@@ -23445,12 +22521,6 @@
     "pu_code": "23/13/05/010",
     "pu_name": "OPEN SPACE IGBORO HEALTH CENTRE",
     "name": "OPEN SPACE IGBORO HEALTH CENTRE",
-    "lga": "OFFA",
-    "ward": "ESSA - A",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OFFA",
     "ward": "ESSA - A",
     "state": "Kwara",
@@ -23550,12 +22620,6 @@
     "pu_code": "23/13/06/011",
     "pu_name": "OPEN SPACE ESSA SQUARE",
     "name": "OPEN SPACE ESSA SQUARE",
-    "lga": "OFFA",
-    "ward": "ESSA - B",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OFFA",
     "ward": "ESSA - B",
     "state": "Kwara",
@@ -23709,12 +22773,6 @@
     "pu_code": "23/13/07/017",
     "pu_name": "G.D.S.S. OFFA",
     "name": "G.D.S.S. OFFA",
-    "lga": "OFFA",
-    "ward": "ESSA - C",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OFFA",
     "ward": "ESSA - C",
     "state": "Kwara",
@@ -23901,12 +22959,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OFFA",
-    "ward": "OJOMU NORTH/NORTH WEST",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/13/09/001",
     "pu_name": "OPEN SPACE ESO BABA ALATA",
     "name": "OPEN SPACE ESO BABA ALATA",
@@ -24015,12 +23067,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OFFA",
-    "ward": "OJOMU  CENTRAL 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/13/10/001",
     "pu_name": "OPEN SPACE OBATIWAJUOYE AREA",
     "name": "OPEN SPACE OBATIWAJUOYE AREA",
@@ -24114,12 +23160,6 @@
     "pu_code": "23/13/10/011",
     "pu_name": "ST. THOMAS LGEA SCHOOL",
     "name": "ST. THOMAS LGEA SCHOOL",
-    "lga": "OFFA",
-    "ward": "OJOMU  CENTRAL 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OFFA",
     "ward": "OJOMU  CENTRAL 11",
     "state": "Kwara",
@@ -24279,12 +23319,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OFFA",
-    "ward": "OJOMU  SOUTH EAST",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/13/12/001",
     "pu_name": "IGBOIDUN L.G.E.A",
     "name": "IGBOIDUN L.G.E.A",
@@ -24333,12 +23367,6 @@
     "pu_code": "23/13/12/006",
     "pu_name": "LGEA GBOSUN OGBONDOROKO",
     "name": "LGEA GBOSUN OGBONDOROKO",
-    "lga": "OFFA",
-    "ward": "IGBOIDUN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OFFA",
     "ward": "IGBOIDUN",
     "state": "Kwara",
@@ -24411,12 +23439,6 @@
     "pu_code": "23/14/01/008",
     "pu_name": "PASERE OPEN SPACE",
     "name": "PASERE OPEN SPACE",
-    "lga": "OKE - ERO",
-    "ward": "AIYEDUN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OKE - ERO",
     "ward": "AIYEDUN",
     "state": "Kwara",
@@ -24504,12 +23526,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OKE - ERO",
-    "ward": "EKAN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/14/03/001",
     "pu_name": "COMM L.G.E.A SCH IMOJI",
     "name": "COMM L.G.E.A SCH IMOJI",
@@ -24549,12 +23565,6 @@
     "pu_code": "23/14/03/005",
     "pu_name": "ILALE COMMUNITY MARKET",
     "name": "ILALE COMMUNITY MARKET",
-    "lga": "OKE - ERO",
-    "ward": "IMOJI/ILALE/ERINMOPE",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OKE - ERO",
     "ward": "IMOJI/ILALE/ERINMOPE",
     "state": "Kwara",
@@ -24651,12 +23661,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OKE - ERO",
-    "ward": "ILOFFA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/14/05/001",
     "pu_name": "EGOSI TOWN HALL",
     "name": "EGOSI TOWN HALL",
@@ -24738,12 +23742,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OKE - ERO",
-    "ward": "IMODE/EGOSI",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/14/06/001",
     "pu_name": "ADULT L.G.E.A SCH",
     "name": "ADULT L.G.E.A SCH",
@@ -24798,12 +23796,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OKE - ERO",
-    "ward": "IDOFIN IGBANA 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/14/07/001",
     "pu_name": "MOTOR PARK",
     "name": "MOTOR PARK",
@@ -24843,12 +23835,6 @@
     "pu_code": "23/14/07/005",
     "pu_name": "KADE",
     "name": "KADE",
-    "lga": "OKE - ERO",
-    "ward": "IDOFIN IGBANA 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OKE - ERO",
     "ward": "IDOFIN IGBANA 11",
     "state": "Kwara",
@@ -24936,12 +23922,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OKE - ERO",
-    "ward": "IDOFIN /ODO-ASHE",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/14/09/001",
     "pu_name": "AFIN COMPOUND",
     "name": "AFIN COMPOUND",
@@ -25023,12 +24003,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OKE - ERO",
-    "ward": "ODO-OWA 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/14/10/001",
     "pu_name": "IPEKUN COMPOUND",
     "name": "IPEKUN COMPOUND",
@@ -25086,12 +24060,6 @@
     "pu_code": "23/14/10/007",
     "pu_name": "KAJOLA MARKET",
     "name": "KAJOLA MARKET",
-    "lga": "OKE - ERO",
-    "ward": "ODO-OWA 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OKE - ERO",
     "ward": "ODO-OWA 11",
     "state": "Kwara",
@@ -25206,12 +24174,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OYUN",
-    "ward": "ERIN-ILE SOUTH",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/15/02/001",
     "pu_name": "LGEA SCH, ILEMONA",
     "name": "LGEA SCH, ILEMONA",
@@ -25311,12 +24273,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OYUN",
-    "ward": "ILEMONA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/15/03/001",
     "pu_name": "TOWN HAL, IGBONA",
     "name": "TOWN HAL, IGBONA",
@@ -25383,12 +24339,6 @@
     "pu_code": "23/15/03/008",
     "pu_name": "IDI-APA SURULERE",
     "name": "IDI-APA SURULERE",
-    "lga": "OYUN",
-    "ward": "IGBONA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OYUN",
     "ward": "IGBONA",
     "state": "Kwara",
@@ -25467,12 +24417,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OYUN",
-    "ward": "IRRA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/15/05/001",
     "pu_name": "LGEA SCH , INAJA MALIKI",
     "name": "LGEA SCH , INAJA MALIKI",
@@ -25521,12 +24465,6 @@
     "pu_code": "23/15/05/006",
     "pu_name": "LGEA SCH, AFIJAGBA",
     "name": "LGEA SCH, AFIJAGBA",
-    "lga": "OYUN",
-    "ward": "INAJA/AHOGBADA",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OYUN",
     "ward": "INAJA/AHOGBADA",
     "state": "Kwara",
@@ -25614,12 +24552,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OYUN",
-    "ward": "IKOTUN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/15/07/001",
     "pu_name": "MUSLIM LGEA SCH, OJOKU",
     "name": "MUSLIM LGEA SCH, OJOKU",
@@ -25695,12 +24627,6 @@
     "pu_code": "23/15/07/009",
     "pu_name": "OPEN SPACE ALERE OJOKU",
     "name": "OPEN SPACE ALERE OJOKU",
-    "lga": "OYUN",
-    "ward": "OJOKU",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OYUN",
     "ward": "OJOKU",
     "state": "Kwara",
@@ -25824,12 +24750,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OYUN",
-    "ward": "IJAGBO",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/15/09/001",
     "pu_name": "INFRONT OF ONILU'S COMP, IGOSUN",
     "name": "INFRONT OF ONILU'S COMP, IGOSUN",
@@ -25878,12 +24798,6 @@
     "pu_code": "23/15/09/006",
     "pu_name": "INFRONT OF OLU-ODE'S COMP, IGOSUN",
     "name": "INFRONT OF OLU-ODE'S COMP, IGOSUN",
-    "lga": "OYUN",
-    "ward": "IGOSUN",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OYUN",
     "ward": "IGOSUN",
     "state": "Kwara",
@@ -25992,12 +24906,6 @@
     "pu_code": "23/15/10/012",
     "pu_name": "OPEN SPACE ORIWO-IPEE",
     "name": "OPEN SPACE ORIWO-IPEE",
-    "lga": "OYUN",
-    "ward": "IPEE",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "OYUN",
     "ward": "IPEE",
     "state": "Kwara",
@@ -26121,12 +25029,6 @@
     "state_code": "23"
   },
   {
-    "lga": "OYUN",
-    "ward": "ERIN-ILE NORTH",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/16/01/001",
     "pu_name": "BASIC HEALTH CENTRE",
     "name": "BASIC HEALTH CENTRE",
@@ -26226,12 +25128,6 @@
     "state_code": "23"
   },
   {
-    "lga": "PATIGI",
-    "ward": "PATIGI 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/16/02/001",
     "pu_name": "EFUNGUNZHI OPEN SPACE",
     "name": "EFUNGUNZHI OPEN SPACE",
@@ -26280,12 +25176,6 @@
     "pu_code": "23/16/02/006",
     "pu_name": "NDAWODI TSAWATSWAN OPEN SPACE",
     "name": "NDAWODI TSAWATSWAN OPEN SPACE",
-    "lga": "PATIGI",
-    "ward": "PATIGI 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "PATIGI",
     "ward": "PATIGI 11",
     "state": "Kwara",
@@ -26358,12 +25248,6 @@
     "pu_code": "23/16/03/008",
     "pu_name": "SHESHI SHAABA OPEN SPACE",
     "name": "SHESHI SHAABA OPEN SPACE",
-    "lga": "PATIGI",
-    "ward": "PATIGI 111",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "PATIGI",
     "ward": "PATIGI 111",
     "state": "Kwara",
@@ -26454,12 +25338,6 @@
     "pu_code": "23/16/04/010",
     "pu_name": "GUDUGI LGEA PRIMARY SCHOOL",
     "name": "GUDUGI LGEA PRIMARY SCHOOL",
-    "lga": "PATIGI",
-    "ward": "PATIGI 1V",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "PATIGI",
     "ward": "PATIGI 1V",
     "state": "Kwara",
@@ -26601,12 +25479,6 @@
     "state_code": "23"
   },
   {
-    "lga": "PATIGI",
-    "ward": "KPADA 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/16/06/001",
     "pu_name": "ECHIWADA LGEA SCH",
     "name": "ECHIWADA LGEA SCH",
@@ -26715,12 +25587,6 @@
     "state_code": "23"
   },
   {
-    "lga": "PATIGI",
-    "ward": "KPADA 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/16/07/001",
     "pu_name": "AGBORO LGEA SCH",
     "name": "AGBORO LGEA SCH",
@@ -26778,12 +25644,6 @@
     "pu_code": "23/16/07/007",
     "pu_name": "OPOTA/OKOLUSHE OPEN SPACE",
     "name": "OPOTA/OKOLUSHE OPEN SPACE",
-    "lga": "PATIGI",
-    "ward": "KPADA 111",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "PATIGI",
     "ward": "KPADA 111",
     "state": "Kwara",
@@ -26874,12 +25734,6 @@
     "pu_code": "23/16/08/010",
     "pu_name": "DAKANI L.G.E.A PRY SCHOOL",
     "name": "DAKANI L.G.E.A PRY SCHOOL",
-    "lga": "PATIGI",
-    "ward": "LADE 1",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "PATIGI",
     "ward": "LADE 1",
     "state": "Kwara",
@@ -27003,12 +25857,6 @@
     "state_code": "23"
   },
   {
-    "lga": "PATIGI",
-    "ward": "LADE 11",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "pu_code": "23/16/10/001",
     "pu_name": "EDOGI-CHAPPA LGEA SCH",
     "name": "EDOGI-CHAPPA LGEA SCH",
@@ -27120,12 +25968,6 @@
     "pu_code": "23/16/10/013",
     "pu_name": "KANWORO L.G.E.A. PRIMARY SCHOOL",
     "name": "KANWORO L.G.E.A. PRIMARY SCHOOL",
-    "lga": "PATIGI",
-    "ward": "LADE 111",
-    "state": "Kwara",
-    "state_code": "23"
-  },
-  {
     "lga": "PATIGI",
     "ward": "LADE 111",
     "state": "Kwara",

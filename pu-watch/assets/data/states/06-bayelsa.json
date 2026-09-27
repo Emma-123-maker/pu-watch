@@ -207,12 +207,6 @@
     "state_code": "06"
   },
   {
-    "lga": "BRASS",
-    "ward": "BRASS 1",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/01/02/001",
     "pu_name": "TWON COMMUNITY KEMMER OPEN SPACE",
     "name": "TWON COMMUNITY KEMMER OPEN SPACE",
@@ -375,12 +369,6 @@
     "state_code": "06"
   },
   {
-    "lga": "BRASS",
-    "ward": "BRASS WARD II",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/01/03/001",
     "pu_name": "SIERI POLO COMMUNITY HALL",
     "name": "SIERI POLO COMMUNITY HALL",
@@ -492,12 +480,6 @@
     "pu_code": "06/01/03/013",
     "pu_name": "WALTER KIRI OPEN SPACE",
     "name": "WALTER KIRI OPEN SPACE",
-    "lga": "BRASS",
-    "ward": "EWOAMA/FANTUO",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "BRASS",
     "ward": "EWOAMA/FANTUO",
     "state": "Bayelsa",
@@ -651,12 +633,6 @@
     "pu_code": "06/01/04/017",
     "pu_name": "GANYE POLO OPEN SPACE",
     "name": "GANYE POLO OPEN SPACE",
-    "lga": "BRASS",
-    "ward": "OKPOAMA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "BRASS",
     "ward": "OKPOAMA",
     "state": "Bayelsa",
@@ -828,12 +804,6 @@
     "pu_code": "06/01/05/019",
     "pu_name": "FLORIA OPEN SPACE",
     "name": "FLORIA OPEN SPACE",
-    "lga": "BRASS",
-    "ward": "ODIOMA/DIEMA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "BRASS",
     "ward": "ODIOMA/DIEMA",
     "state": "Bayelsa",
@@ -1029,12 +999,6 @@
     "state_code": "06"
   },
   {
-    "lga": "BRASS",
-    "ward": "CAPE FARMOSA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/01/07/001",
     "pu_name": "EREWEIBIE COMMUNITY HALL",
     "name": "EREWEIBIE COMMUNITY HALL",
@@ -1179,12 +1143,6 @@
     "state_code": "06"
   },
   {
-    "lga": "BRASS",
-    "ward": "KONGHO",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/01/08/001",
     "pu_name": "OPU - OGINIBIRI COMMUNITY HALL",
     "name": "OPU - OGINIBIRI COMMUNITY HALL",
@@ -1287,12 +1245,6 @@
     "pu_code": "06/01/08/012",
     "pu_name": "OGONI CAMP OPEN SPACE",
     "name": "OGONI CAMP OPEN SPACE",
-    "lga": "BRASS",
-    "ward": "OGINIBIRI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "BRASS",
     "ward": "OGINIBIRI",
     "state": "Bayelsa",
@@ -1461,12 +1413,6 @@
     "state_code": "06"
   },
   {
-    "lga": "BRASS",
-    "ward": "MINIBIE",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/01/10/001",
     "pu_name": "TOMSHAI SANGANA OPEN SPACE",
     "name": "TOMSHAI SANGANA OPEN SPACE",
@@ -1596,12 +1542,6 @@
     "pu_code": "06/01/10/015",
     "pu_name": "STATE SCHOOL III, NEW SANGANA",
     "name": "STATE SCHOOL III, NEW SANGANA",
-    "lga": "BRASS",
-    "ward": "SANGANA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "BRASS",
     "ward": "SANGANA",
     "state": "Bayelsa",
@@ -1797,12 +1737,6 @@
     "state_code": "06"
   },
   {
-    "lga": "EKEREMOR",
-    "ward": "TARAKIRI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/02/02/001",
     "pu_name": "KALATUWARE COMPOUND",
     "name": "KALATUWARE COMPOUND",
@@ -1938,12 +1872,6 @@
     "state_code": "06"
   },
   {
-    "lga": "EKEREMOR",
-    "ward": "OYIAKIRI I",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/02/03/001",
     "pu_name": "MEDEWARE SQUARE",
     "name": "MEDEWARE SQUARE",
@@ -2070,12 +1998,6 @@
     "state_code": "06"
   },
   {
-    "lga": "EKEREMOR",
-    "ward": "OYIAKIRI II",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/02/04/001",
     "pu_name": "KANREN/OMGBONTU",
     "name": "KANREN/OMGBONTU",
@@ -2151,12 +2073,6 @@
     "pu_code": "06/02/04/009",
     "pu_name": "AKEYAGBENE/KURUBOUGBENE",
     "name": "AKEYAGBENE/KURUBOUGBENE",
-    "lga": "EKEREMOR",
-    "ward": "OYIAKIRI III",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "EKEREMOR",
     "ward": "OYIAKIRI III",
     "state": "Bayelsa",
@@ -2247,12 +2163,6 @@
     "pu_code": "06/02/05/010",
     "pu_name": "OPEN SPACE TENBIRI",
     "name": "OPEN SPACE TENBIRI",
-    "lga": "EKEREMOR",
-    "ward": "OYIAKIRI IV",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "EKEREMOR",
     "ward": "OYIAKIRI IV",
     "state": "Bayelsa",
@@ -2475,12 +2385,6 @@
     "state_code": "06"
   },
   {
-    "lga": "EKEREMOR",
-    "ward": "OPOROMOR I",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/02/07/001",
     "pu_name": "BOLOU EGEDE PRIMARY SCHOOL",
     "name": "BOLOU EGEDE PRIMARY SCHOOL",
@@ -2682,12 +2586,6 @@
     "pu_code": "06/02/07/023",
     "pu_name": "MIGRANT FISHERMAN CHILDREN SCH. APODOBIA NORGBENE II",
     "name": "MIGRANT FISHERMAN CHILDREN SCH. APODOBIA NORGBENE II",
-    "lga": "EKEREMOR",
-    "ward": "OPOROMOR II",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "EKEREMOR",
     "ward": "OPOROMOR II",
     "state": "Bayelsa",
@@ -3072,12 +2970,6 @@
     "state_code": "06"
   },
   {
-    "lga": "EKEREMOR",
-    "ward": "OPOROMOR III",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/02/09/001",
     "pu_name": "ABIRI I SQUARE",
     "name": "ABIRI I SQUARE",
@@ -3366,12 +3258,6 @@
     "state_code": "06"
   },
   {
-    "lga": "EKEREMOR",
-    "ward": "OPOROMOR IV",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/02/10/001",
     "pu_name": "BIOWEI PRI. SCHOOL",
     "name": "BIOWEI PRI. SCHOOL",
@@ -3552,12 +3438,6 @@
     "state_code": "06"
   },
   {
-    "lga": "EKEREMOR",
-    "ward": "OPOROMOR V",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/02/11/001",
     "pu_name": "ZAFAWEI/IGBONS/AKORI/AGINABIRI SQUARE",
     "name": "ZAFAWEI/IGBONS/AKORI/AGINABIRI SQUARE",
@@ -3723,12 +3603,6 @@
     "pu_code": "06/02/11/019",
     "pu_name": "COM. PRI. SCH. OROBIRI",
     "name": "COM. PRI. SCH. OROBIRI",
-    "lga": "EKEREMOR",
-    "ward": "EDUWINI I",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "EKEREMOR",
     "ward": "EDUWINI I",
     "state": "Bayelsa",
@@ -3996,12 +3870,6 @@
     "state_code": "06"
   },
   {
-    "lga": "EKEREMOR",
-    "ward": "EDUWINI II",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/03/01/001",
     "pu_name": "YAINMOAMA TOWN HALL",
     "name": "YAINMOAMA TOWN HALL",
@@ -4086,12 +3954,6 @@
     "pu_code": "06/03/01/010",
     "pu_name": "AMAKIRIBIAMA OPEN SQUARE",
     "name": "AMAKIRIBIAMA OPEN SQUARE",
-    "lga": "KOLOKUMA/OPOKUMA",
-    "ward": "ODI (NORTH) I",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "KOLOKUMA/OPOKUMA",
     "ward": "ODI (NORTH) I",
     "state": "Bayelsa",
@@ -4233,12 +4095,6 @@
     "state_code": "06"
   },
   {
-    "lga": "KOLOKUMA/OPOKUMA",
-    "ward": "ODI (CENTRAL) II",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/03/03/001",
     "pu_name": "OGBOLOMA TOWN HALL",
     "name": "OGBOLOMA TOWN HALL",
@@ -4374,12 +4230,6 @@
     "state_code": "06"
   },
   {
-    "lga": "KOLOKUMA/OPOKUMA",
-    "ward": "ODI (SOUTH) III",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/03/04/001",
     "pu_name": "IKATIBIRI TOWN HALL",
     "name": "IKATIBIRI TOWN HALL",
@@ -4491,12 +4341,6 @@
     "pu_code": "06/03/04/013",
     "pu_name": "EKPEINBIRI TOWN HALL",
     "name": "EKPEINBIRI TOWN HALL",
-    "lga": "KOLOKUMA/OPOKUMA",
-    "ward": "KAIAMA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "KOLOKUMA/OPOKUMA",
     "ward": "KAIAMA",
     "state": "Bayelsa",
@@ -4647,12 +4491,6 @@
     "state_code": "06"
   },
   {
-    "lga": "KOLOKUMA/OPOKUMA",
-    "ward": "KAIAMA/OLOBIRI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/03/06/001",
     "pu_name": "SAMPOU NORTH TOWN HALL I",
     "name": "SAMPOU NORTH TOWN HALL I",
@@ -4746,12 +4584,6 @@
     "pu_code": "06/03/06/011",
     "pu_name": "AYAKORO-AMA OPEN SPACE",
     "name": "AYAKORO-AMA OPEN SPACE",
-    "lga": "KOLOKUMA/OPOKUMA",
-    "ward": "SAMPOU/KALAMA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "KOLOKUMA/OPOKUMA",
     "ward": "SAMPOU/KALAMA",
     "state": "Bayelsa",
@@ -4884,12 +4716,6 @@
     "state_code": "06"
   },
   {
-    "lga": "KOLOKUMA/OPOKUMA",
-    "ward": "OPOKUMA NORTH",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/03/08/001",
     "pu_name": "EWELIWARI TOWN SQUARE",
     "name": "EWELIWARI TOWN SQUARE",
@@ -5010,12 +4836,6 @@
     "pu_code": "06/03/08/014",
     "pu_name": "TEIKIRI PLAYGROUND",
     "name": "TEIKIRI PLAYGROUND",
-    "lga": "KOLOKUMA/OPOKUMA",
-    "ward": "OPOKUMASOUTH",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "KOLOKUMA/OPOKUMA",
     "ward": "OPOKUMASOUTH",
     "state": "Bayelsa",
@@ -5202,12 +5022,6 @@
     "state_code": "06"
   },
   {
-    "lga": "KOLOKUMA/OPOKUMA",
-    "ward": "SEIBOKOROGHA (SABAGREIA) 1",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/03/10/001",
     "pu_name": "OLODANI TOWN HALL I",
     "name": "OLODANI TOWN HALL I",
@@ -5298,12 +5112,6 @@
     "state_code": "06"
   },
   {
-    "lga": "KOLOKUMA/OPOKUMA",
-    "ward": "OKOLOBA (SABAGREIA) II",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/03/11/001",
     "pu_name": "GBAGBAWARI TOWN HALL I",
     "name": "GBAGBAWARI TOWN HALL I",
@@ -5388,12 +5196,6 @@
     "pu_code": "06/03/11/010",
     "pu_name": "BOUTORU TOWN HALL",
     "name": "BOUTORU TOWN HALL",
-    "lga": "KOLOKUMA/OPOKUMA",
-    "ward": "IGBEDI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "KOLOKUMA/OPOKUMA",
     "ward": "IGBEDI",
     "state": "Bayelsa",
@@ -5562,12 +5364,6 @@
     "state_code": "06"
   },
   {
-    "lga": "NEMBE",
-    "ward": "OGBOLOMABIRI 1",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/04/02/001",
     "pu_name": "ISOUKIRI COMP/POST OFFICE",
     "name": "ISOUKIRI COMP/POST OFFICE",
@@ -5688,12 +5484,6 @@
     "pu_code": "06/04/02/014",
     "pu_name": "CHIEF AMANGI/CHIEF AMANGI SQUARE",
     "name": "CHIEF AMANGI/CHIEF AMANGI SQUARE",
-    "lga": "NEMBE",
-    "ward": "OGBOLOMABIRI 11",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "NEMBE",
     "ward": "OGBOLOMABIRI 11",
     "state": "Bayelsa",
@@ -5844,12 +5634,6 @@
     "state_code": "06"
   },
   {
-    "lga": "NEMBE",
-    "ward": "OGBOLOMABIRI 111",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/04/04/001",
     "pu_name": "SIKAKA POLO/KING OGBODO SQUARE",
     "name": "SIKAKA POLO/KING OGBODO SQUARE",
@@ -5943,12 +5727,6 @@
     "pu_code": "06/04/04/011",
     "pu_name": "ILULU 111/ALABARABAS COMPOUND",
     "name": "ILULU 111/ALABARABAS COMPOUND",
-    "lga": "NEMBE",
-    "ward": "BASSAMBIRI 1",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "NEMBE",
     "ward": "BASSAMBIRI 1",
     "state": "Bayelsa",
@@ -6081,12 +5859,6 @@
     "state_code": "06"
   },
   {
-    "lga": "NEMBE",
-    "ward": "BASSAMBIRI 11",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/04/06/001",
     "pu_name": "OKIPIRI/VILLAGE SQUARE",
     "name": "OKIPIRI/VILLAGE SQUARE",
@@ -6153,12 +5925,6 @@
     "pu_code": "06/04/06/008",
     "pu_name": "FEDEL POLO",
     "name": "FEDEL POLO",
-    "lga": "NEMBE",
-    "ward": "BASSAMBIRI 111",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "NEMBE",
     "ward": "BASSAMBIRI 111",
     "state": "Bayelsa",
@@ -6240,12 +6006,6 @@
     "pu_code": "06/04/07/009",
     "pu_name": "COMMUNITY PRY SCHOOL. OBIOKU",
     "name": "COMMUNITY PRY SCHOOL. OBIOKU",
-    "lga": "NEMBE",
-    "ward": "BASSAMBIRI 1V",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "NEMBE",
     "ward": "BASSAMBIRI 1V",
     "state": "Bayelsa",
@@ -6504,12 +6264,6 @@
     "state_code": "06"
   },
   {
-    "lga": "NEMBE",
-    "ward": "IGBETA-EWOAMA/FANTUO",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/04/09/001",
     "pu_name": "CHIEF KANTY COMP/CHIEF KANTY SQUARE",
     "name": "CHIEF KANTY COMP/CHIEF KANTY SQUARE",
@@ -6690,12 +6444,6 @@
     "state_code": "06"
   },
   {
-    "lga": "NEMBE",
-    "ward": "OKOROMA 1",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/04/10/001",
     "pu_name": "OLOGOAMA SCH. COMPOUND",
     "name": "OLOGOAMA SCH. COMPOUND",
@@ -6870,12 +6618,6 @@
     "pu_code": "06/04/10/020",
     "pu_name": "ELEPA MARKET SQUARE",
     "name": "ELEPA MARKET SQUARE",
-    "lga": "NEMBE",
-    "ward": "OKOROMA 11",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "NEMBE",
     "ward": "OKOROMA 11",
     "state": "Bayelsa",
@@ -7083,12 +6825,6 @@
     "pu_code": "06/04/11/023",
     "pu_name": "ORUGBANI TOWN HALL",
     "name": "ORUGBANI TOWN HALL",
-    "lga": "NEMBE",
-    "ward": "MINI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "NEMBE",
     "ward": "MINI",
     "state": "Bayelsa",
@@ -7356,12 +7092,6 @@
     "state_code": "06"
   },
   {
-    "lga": "NEMBE",
-    "ward": "IKENSI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/04/13/001",
     "pu_name": "OTUMAMA TOWN SQUARE",
     "name": "OTUMAMA TOWN SQUARE",
@@ -7524,12 +7254,6 @@
     "state_code": "06"
   },
   {
-    "lga": "NEMBE",
-    "ward": "OLUASIRI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/05/01/001",
     "pu_name": "G.S.S. OGBIA TOWN",
     "name": "G.S.S. OGBIA TOWN",
@@ -7677,12 +7401,6 @@
     "pu_code": "06/05/01/017",
     "pu_name": "PYN GOVERNMENT QUARTERS-OGBIA",
     "name": "PYN GOVERNMENT QUARTERS-OGBIA",
-    "lga": "OGBIA",
-    "ward": "OGBIA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "OGBIA",
     "ward": "OGBIA",
     "state": "Bayelsa",
@@ -7914,12 +7632,6 @@
     "state_code": "06"
   },
   {
-    "lga": "OGBIA",
-    "ward": "OTUOKPOTI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/05/03/001",
     "pu_name": "DERIME - AYAKORO",
     "name": "DERIME - AYAKORO",
@@ -8085,12 +7797,6 @@
     "pu_code": "06/05/03/019",
     "pu_name": "OBAKU - OTUEDU",
     "name": "OBAKU - OTUEDU",
-    "lga": "OGBIA",
-    "ward": "OLOGI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "OGBIA",
     "ward": "OLOGI",
     "state": "Bayelsa",
@@ -8322,12 +8028,6 @@
     "state_code": "06"
   },
   {
-    "lga": "OGBIA",
-    "ward": "ANYAMA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/05/05/001",
     "pu_name": "TOWN HALL - OKODI",
     "name": "TOWN HALL - OKODI",
@@ -8553,12 +8253,6 @@
     "state_code": "06"
   },
   {
-    "lga": "OGBIA",
-    "ward": "OKODI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/05/06/001",
     "pu_name": "G.S.S. OTUASEGA",
     "name": "G.S.S. OTUASEGA",
@@ -8739,12 +8433,6 @@
     "state_code": "06"
   },
   {
-    "lga": "OGBIA",
-    "ward": "OTUASEGA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/05/07/001",
     "pu_name": "EMEYAL I TOWN HALL",
     "name": "EMEYAL I TOWN HALL",
@@ -8874,12 +8562,6 @@
     "pu_code": "06/05/07/015",
     "pu_name": "PRIMARY SCHOOL EMEYAL II",
     "name": "PRIMARY SCHOOL EMEYAL II",
-    "lga": "OGBIA",
-    "ward": "EMEYAL",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "OGBIA",
     "ward": "EMEYAL",
     "state": "Bayelsa",
@@ -9102,12 +8784,6 @@
     "state_code": "06"
   },
   {
-    "lga": "OGBIA",
-    "ward": "IMIRINGI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/05/09/001",
     "pu_name": "KOLO I TOWN HALL",
     "name": "KOLO I TOWN HALL",
@@ -9243,12 +8919,6 @@
     "state_code": "06"
   },
   {
-    "lga": "OGBIA",
-    "ward": "KOLO",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/05/10/001",
     "pu_name": "O.G.S. OLOIBIRI",
     "name": "O.G.S. OLOIBIRI",
@@ -9333,12 +9003,6 @@
     "pu_code": "06/05/10/010",
     "pu_name": "OLOIBIRI COURT HALL",
     "name": "OLOIBIRI COURT HALL",
-    "lga": "OGBIA",
-    "ward": "OLOIBIRI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "OGBIA",
     "ward": "OLOIBIRI",
     "state": "Bayelsa",
@@ -9591,12 +9255,6 @@
     "pu_code": "06/05/11/028",
     "pu_name": "ADIKE SQUARE",
     "name": "ADIKE SQUARE",
-    "lga": "OGBIA",
-    "ward": "OPUME",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "OGBIA",
     "ward": "OPUME",
     "state": "Bayelsa",
@@ -9858,12 +9516,6 @@
     "pu_code": "06/05/12/029",
     "pu_name": "AGRIC STATION, LABOUR LINE",
     "name": "AGRIC STATION, LABOUR LINE",
-    "lga": "OGBIA",
-    "ward": "OTAKEME",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "OGBIA",
     "ward": "OTAKEME",
     "state": "Bayelsa",
@@ -10311,12 +9963,6 @@
     "state_code": "06"
   },
   {
-    "lga": "OGBIA",
-    "ward": "OTUABULA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/06/01/001",
     "pu_name": "AYAMA ; CPS HALL I",
     "name": "AYAMA ; CPS HALL I",
@@ -10428,12 +10074,6 @@
     "pu_code": "06/06/01/013",
     "pu_name": "EYEHWARE",
     "name": "EYEHWARE",
-    "lga": "SAGBAMA",
-    "ward": "AGBERE",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "SAGBAMA",
     "ward": "AGBERE",
     "state": "Bayelsa",
@@ -10746,12 +10386,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SAGBAMA",
-    "ward": "ANGALABIRI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/06/03/001",
     "pu_name": "OGBERIDOLOEDIAGBO - TOWN HALL",
     "name": "OGBERIDOLOEDIAGBO - TOWN HALL",
@@ -10908,12 +10542,6 @@
     "pu_code": "06/06/03/018",
     "pu_name": "ERHUROWHAWHA",
     "name": "ERHUROWHAWHA",
-    "lga": "SAGBAMA",
-    "ward": "OFONI I",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "SAGBAMA",
     "ward": "OFONI I",
     "state": "Bayelsa",
@@ -11136,12 +10764,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SAGBAMA",
-    "ward": "OFONI II",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/06/05/001",
     "pu_name": "AGBOBUWARE - GOVT. REST, HOUSE",
     "name": "AGBOBUWARE - GOVT. REST, HOUSE",
@@ -11349,12 +10971,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SAGBAMA",
-    "ward": "EBEDEBIRI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/06/06/001",
     "pu_name": "TANYIN - TOWN HALL",
     "name": "TANYIN - TOWN HALL",
@@ -11457,12 +11073,6 @@
     "pu_code": "06/06/06/012",
     "pu_name": "POLOWARE SQUARE",
     "name": "POLOWARE SQUARE",
-    "lga": "SAGBAMA",
-    "ward": "OSSIAMA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "SAGBAMA",
     "ward": "OSSIAMA",
     "state": "Bayelsa",
@@ -11595,12 +11205,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SAGBAMA",
-    "ward": "ASAMABIRI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/06/08/001",
     "pu_name": "GBEKEBOR - COMP SQUARE",
     "name": "GBEKEBOR - COMP SQUARE",
@@ -11718,12 +11322,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SAGBAMA",
-    "ward": "ODONI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/06/09/001",
     "pu_name": "ABAZI - COMP. SQUARE",
     "name": "ABAZI - COMP. SQUARE",
@@ -11799,12 +11397,6 @@
     "pu_code": "06/06/09/009",
     "pu_name": "APINA SQUARE",
     "name": "APINA SQUARE",
-    "lga": "SAGBAMA",
-    "ward": "TROFANI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "SAGBAMA",
     "ward": "TROFANI",
     "state": "Bayelsa",
@@ -11958,12 +11550,6 @@
     "pu_code": "06/06/10/017",
     "pu_name": "AGBEIOWEI PLAY GROUND",
     "name": "AGBEIOWEI PLAY GROUND",
-    "lga": "SAGBAMA",
-    "ward": "SAGBAMA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "SAGBAMA",
     "ward": "SAGBAMA",
     "state": "Bayelsa",
@@ -12177,12 +11763,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SAGBAMA",
-    "ward": "AGORO",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/06/12/001",
     "pu_name": "AYAMA/EGBABIRI - SEC. SCH. HALL",
     "name": "AYAMA/EGBABIRI - SEC. SCH. HALL",
@@ -12285,12 +11865,6 @@
     "pu_code": "06/06/12/012",
     "pu_name": "OYEINDOUBRA NEIN",
     "name": "OYEINDOUBRA NEIN",
-    "lga": "SAGBAMA",
-    "ward": "TORU-EBENI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "SAGBAMA",
     "ward": "TORU-EBENI",
     "state": "Bayelsa",
@@ -12450,12 +12024,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SAGBAMA",
-    "ward": "ADAGBABIRI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/06/14/001",
     "pu_name": "OSEKWENIKE TOWN HALL",
     "name": "OSEKWENIKE TOWN HALL",
@@ -12585,12 +12153,6 @@
     "pu_code": "06/06/14/015",
     "pu_name": "HEALTH CENTRE SQUARE",
     "name": "HEALTH CENTRE SQUARE",
-    "lga": "SAGBAMA",
-    "ward": "OSEKWENIKE",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "SAGBAMA",
     "ward": "OSEKWENIKE",
     "state": "Bayelsa",
@@ -12939,12 +12501,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SOUTHERN IJAW",
-    "ward": "OPOROMA 1",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/07/02/001",
     "pu_name": "ADUBABIRI OPEN SPACE I",
     "name": "ADUBABIRI OPEN SPACE I",
@@ -13173,12 +12729,6 @@
     "pu_code": "06/07/02/026",
     "pu_name": "TARAKIRI COMMUNITY SECONDARY SCHOOL",
     "name": "TARAKIRI COMMUNITY SECONDARY SCHOOL",
-    "lga": "SOUTHERN IJAW",
-    "ward": "OPOROMA   II",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "SOUTHERN IJAW",
     "ward": "OPOROMA   II",
     "state": "Bayelsa",
@@ -13500,12 +13050,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SOUTHERN IJAW",
-    "ward": "OLODIAMA  I",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/07/04/001",
     "pu_name": "ABEBIRI OPEN SPACE",
     "name": "ABEBIRI OPEN SPACE",
@@ -13776,12 +13320,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SOUTHERN IJAW",
-    "ward": "OLODIAMA  II",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/07/05/001",
     "pu_name": "OPOUWARI OPEN SAPCE",
     "name": "OPOUWARI OPEN SAPCE",
@@ -13998,12 +13536,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SOUTHERN IJAW",
-    "ward": "OTUAN",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/07/06/001",
     "pu_name": "ZION OPEN SPACE",
     "name": "ZION OPEN SPACE",
@@ -14139,12 +13671,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SOUTHERN IJAW",
-    "ward": "WEST BOMO",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/07/07/001",
     "pu_name": "IPAIN POLO COMM. SQUARE",
     "name": "IPAIN POLO COMM. SQUARE",
@@ -14262,12 +13788,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SOUTHERN IJAW",
-    "ward": "CENTRAL BOMO I",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/07/08/001",
     "pu_name": "ALAMIE POLO OPEN SPACE",
     "name": "ALAMIE POLO OPEN SPACE",
@@ -14379,12 +13899,6 @@
     "pu_code": "06/07/08/013",
     "pu_name": "OYEREGBENE PLAY GROUND",
     "name": "OYEREGBENE PLAY GROUND",
-    "lga": "SOUTHERN IJAW",
-    "ward": "CENTRAL BOMO II",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "SOUTHERN IJAW",
     "ward": "CENTRAL BOMO II",
     "state": "Bayelsa",
@@ -14610,12 +14124,6 @@
     "pu_code": "06/07/09/025",
     "pu_name": "BOWMAN'S EGBE HALL",
     "name": "BOWMAN'S EGBE HALL",
-    "lga": "SOUTHERN IJAW",
-    "ward": "AMASSOMA  I",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "SOUTHERN IJAW",
     "ward": "AMASSOMA  I",
     "state": "Bayelsa",
@@ -14892,12 +14400,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SOUTHERN IJAW",
-    "ward": "AMASSOMA  II",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/07/11/001",
     "pu_name": "EBUKU OPEN SPACE",
     "name": "EBUKU OPEN SPACE",
@@ -15108,12 +14610,6 @@
     "pu_code": "06/07/11/024",
     "pu_name": "DAZI TOWN HALL",
     "name": "DAZI TOWN HALL",
-    "lga": "SOUTHERN IJAW",
-    "ward": "AMASSOMA III",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "SOUTHERN IJAW",
     "ward": "AMASSOMA III",
     "state": "Bayelsa",
@@ -15408,12 +14904,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SOUTHERN IJAW",
-    "ward": "EAST BOMO I",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/07/13/001",
     "pu_name": "OPUPOLO",
     "name": "OPUPOLO",
@@ -15624,12 +15114,6 @@
     "pu_code": "06/07/13/024",
     "pu_name": "COMMUNITY COMPREHENSIVE SECONDARY SCHOOL KEMEIN-AMA",
     "name": "COMMUNITY COMPREHENSIVE SECONDARY SCHOOL KEMEIN-AMA",
-    "lga": "SOUTHERN IJAW",
-    "ward": "EAST BOMO II",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "SOUTHERN IJAW",
     "ward": "EAST BOMO II",
     "state": "Bayelsa",
@@ -15909,12 +15393,6 @@
     "pu_code": "06/07/14/031",
     "pu_name": "OFINDEI MEMORIAL COMMUNITY SQUARE",
     "name": "OFINDEI MEMORIAL COMMUNITY SQUARE",
-    "lga": "SOUTHERN IJAW",
-    "ward": "FOROPA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "SOUTHERN IJAW",
     "ward": "FOROPA",
     "state": "Bayelsa",
@@ -16263,12 +15741,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SOUTHERN IJAW",
-    "ward": "APOI",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/07/16/001",
     "pu_name": "OWEIBOWARI OPEN SPACE",
     "name": "OWEIBOWARI OPEN SPACE",
@@ -16593,12 +16065,6 @@
     "state_code": "06"
   },
   {
-    "lga": "SOUTHERN IJAW",
-    "ward": "UKUBIE",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/07/17/001",
     "pu_name": "AKPELE OPEN SPACE",
     "name": "AKPELE OPEN SPACE",
@@ -16881,12 +16347,6 @@
     "pu_code": "06/07/17/032",
     "pu_name": "MANGI OPEN SPACE II",
     "name": "MANGI OPEN SPACE II",
-    "lga": "SOUTHERN IJAW",
-    "ward": "KOLUAMA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "SOUTHERN IJAW",
     "ward": "KOLUAMA",
     "state": "Bayelsa",
@@ -17352,12 +16812,6 @@
     "state_code": "06"
   },
   {
-    "lga": "YENAGOA",
-    "ward": "ATTISSA I",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/08/02/001",
     "pu_name": "EKPERIWARI PRIMARY SCHOOL",
     "name": "EKPERIWARI PRIMARY SCHOOL",
@@ -17523,12 +16977,6 @@
     "pu_code": "06/08/02/019",
     "pu_name": "C.S.S. YENAKA",
     "name": "C.S.S. YENAKA",
-    "lga": "YENAGOA",
-    "ward": "ATTISSA II",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "YENAGOA",
     "ward": "ATTISSA II",
     "state": "Bayelsa",
@@ -17817,12 +17265,6 @@
     "pu_code": "06/08/03/032",
     "pu_name": "OGU GRAMMER SCHOOL",
     "name": "OGU GRAMMER SCHOOL",
-    "lga": "YENAGOA",
-    "ward": "ATTISSA III",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "YENAGOA",
     "ward": "ATTISSA III",
     "state": "Bayelsa",
@@ -18246,12 +17688,6 @@
     "pu_code": "06/08/04/047",
     "pu_name": "YENEGWE PRIMARY HEALTH CENTRE",
     "name": "YENEGWE PRIMARY HEALTH CENTRE",
-    "lga": "YENAGOA",
-    "ward": "EPIE I",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "YENAGOA",
     "ward": "EPIE I",
     "state": "Bayelsa",
@@ -19005,12 +18441,6 @@
     "state_code": "06"
   },
   {
-    "lga": "YENAGOA",
-    "ward": "EPIE 11",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/08/06/001",
     "pu_name": "AYAMAZE COMP.",
     "name": "AYAMAZE COMP.",
@@ -19587,12 +19017,6 @@
     "state_code": "06"
   },
   {
-    "lga": "YENAGOA",
-    "ward": "EPIE III",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/08/07/001",
     "pu_name": "AKIRIWARI COMP. SQUARE",
     "name": "AKIRIWARI COMP. SQUARE",
@@ -19764,12 +19188,6 @@
     "state_code": "06"
   },
   {
-    "lga": "YENAGOA",
-    "ward": "GBARAIN I",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/08/08/001",
     "pu_name": "TAMUKUNU OPEN SPACE",
     "name": "TAMUKUNU OPEN SPACE",
@@ -19923,12 +19341,6 @@
     "state_code": "06"
   },
   {
-    "lga": "YENAGOA",
-    "ward": "GBARAIN II",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/08/09/001",
     "pu_name": "AGWE OPEN SPACE",
     "name": "AGWE OPEN SPACE",
@@ -20040,12 +19452,6 @@
     "pu_code": "06/08/09/013",
     "pu_name": "OYORO OPEN SPACE",
     "name": "OYORO OPEN SPACE",
-    "lga": "YENAGOA",
-    "ward": "GBARAIN III",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "YENAGOA",
     "ward": "GBARAIN III",
     "state": "Bayelsa",
@@ -20223,12 +19629,6 @@
     "state_code": "06"
   },
   {
-    "lga": "YENAGOA",
-    "ward": "EKPETIAMA I",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/08/11/001",
     "pu_name": "IMAGBELEBIRI OPEN SPACE",
     "name": "IMAGBELEBIRI OPEN SPACE",
@@ -20373,12 +19773,6 @@
     "state_code": "06"
   },
   {
-    "lga": "YENAGOA",
-    "ward": "EKPETIAMA 11",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/08/12/001",
     "pu_name": "OGOINTI OPEN SPACE",
     "name": "OGOINTI OPEN SPACE",
@@ -20463,12 +19857,6 @@
     "pu_code": "06/08/12/010",
     "pu_name": "BISENI SEC SCHOOL II",
     "name": "BISENI SEC SCHOOL II",
-    "lga": "YENAGOA",
-    "ward": "BISENI 1",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "YENAGOA",
     "ward": "BISENI 1",
     "state": "Bayelsa",
@@ -20577,12 +19965,6 @@
     "pu_code": "06/08/13/012",
     "pu_name": "OZAKARAWARI SQUARE",
     "name": "OZAKARAWARI SQUARE",
-    "lga": "YENAGOA",
-    "ward": "BISENI 11",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "YENAGOA",
     "ward": "BISENI 11",
     "state": "Bayelsa",
@@ -20706,12 +20088,6 @@
     "state_code": "06"
   },
   {
-    "lga": "YENAGOA",
-    "ward": "OKORDIA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "pu_code": "06/08/15/001",
     "pu_name": "AYAMA SCHOOL",
     "name": "AYAMA SCHOOL",
@@ -20814,12 +20190,6 @@
     "pu_code": "06/08/15/012",
     "pu_name": "ISOKI-ZARAMA PLAY GROUND",
     "name": "ISOKI-ZARAMA PLAY GROUND",
-    "lga": "YENAGOA",
-    "ward": "ZARAMA",
-    "state": "Bayelsa",
-    "state_code": "06"
-  },
-  {
     "lga": "YENAGOA",
     "ward": "ZARAMA",
     "state": "Bayelsa",

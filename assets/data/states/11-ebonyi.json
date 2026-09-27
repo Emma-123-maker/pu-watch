@@ -207,12 +207,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ABAKALIKI",
-    "ward": "ABAKPA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/01/02/001",
     "pu_name": "OGUCHIE PLAY GROUND",
     "name": "OGUCHIE PLAY GROUND",
@@ -333,12 +327,6 @@
     "pu_code": "11/01/02/014",
     "pu_name": "EGWUDINEGU HALL",
     "name": "EGWUDINEGU HALL",
-    "lga": "ABAKALIKI",
-    "ward": "AMACHI (NDEBO)",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ABAKALIKI",
     "ward": "AMACHI (NDEBO)",
     "state": "Ebonyi",
@@ -474,12 +462,6 @@
     "pu_code": "11/01/03/015",
     "pu_name": "AMETTA MARKET SQ.",
     "name": "AMETTA MARKET SQ.",
-    "lga": "ABAKALIKI",
-    "ward": "AMACHI (NDEGU)",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ABAKALIKI",
     "ward": "AMACHI (NDEGU)",
     "state": "Ebonyi",
@@ -702,12 +684,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ABAKALIKI",
-    "ward": "AMAGU / ENYIGBA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/01/05/001",
     "pu_name": "OKPUITUMO PLAY GROUND",
     "name": "OKPUITUMO PLAY GROUND",
@@ -897,12 +873,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ABAKALIKI",
-    "ward": "AMAGU UNUHU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/01/06/001",
     "pu_name": "IGWEORIE OPEN SPACE I",
     "name": "IGWEORIE OPEN SPACE I",
@@ -1068,12 +1038,6 @@
     "pu_code": "11/01/06/019",
     "pu_name": "ACHI JUNCTION BY UDEMEZUE",
     "name": "ACHI JUNCTION BY UDEMEZUE",
-    "lga": "ABAKALIKI",
-    "ward": "AZUMINI/AZUGWU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ABAKALIKI",
     "ward": "AZUMINI/AZUGWU",
     "state": "Ebonyi",
@@ -1287,12 +1251,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ABAKALIKI",
-    "ward": "AZUIYIOKWU LAYOUT",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/01/08/001",
     "pu_name": "UDOKA HALL I",
     "name": "UDOKA HALL I",
@@ -1464,12 +1422,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ABAKALIKI",
-    "ward": "AZUIYI UDENE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/01/09/001",
     "pu_name": "IBULA PLAY GROUND",
     "name": "IBULA PLAY GROUND",
@@ -1617,12 +1569,6 @@
     "pu_code": "11/01/09/017",
     "pu_name": "NDIANUMACHA EDDA MARKET SQ",
     "name": "NDIANUMACHA EDDA MARKET SQ",
-    "lga": "ABAKALIKI",
-    "ward": "EDDA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ABAKALIKI",
     "ward": "EDDA",
     "state": "Ebonyi",
@@ -1926,12 +1872,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ABAKALIKI",
-    "ward": "IZZI UNUHU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/01/11/001",
     "pu_name": "OWERRI HALL I",
     "name": "OWERRI HALL I",
@@ -2175,12 +2115,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ABAKALIKI",
-    "ward": "NDIAGU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/01/12/001",
     "pu_name": "NDIGWE PLAY GROUND",
     "name": "NDIGWE PLAY GROUND",
@@ -2283,12 +2217,6 @@
     "pu_code": "11/01/12/012",
     "pu_name": "EDUPFU MBA OFFIA P/G",
     "name": "EDUPFU MBA OFFIA P/G",
-    "lga": "ABAKALIKI",
-    "ward": "OKPOITUMO NDEBOR",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ABAKALIKI",
     "ward": "OKPOITUMO NDEBOR",
     "state": "Ebonyi",
@@ -2424,12 +2352,6 @@
     "pu_code": "11/01/13/015",
     "pu_name": "AGARAMUGO SECONDARY SCH.",
     "name": "AGARAMUGO SECONDARY SCH.",
-    "lga": "ABAKALIKI",
-    "ward": "OKPOITUMO NDIEGU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ABAKALIKI",
     "ward": "OKPOITUMO NDIEGU",
     "state": "Ebonyi",
@@ -2751,12 +2673,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ABAKALIKI",
-    "ward": "TIMBER SHED",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/02/01/001",
     "pu_name": "AMACHI PLAY GROUND I",
     "name": "AMACHI PLAY GROUND I",
@@ -2859,12 +2775,6 @@
     "pu_code": "11/02/01/012",
     "pu_name": "AMAEGBU SQUARE",
     "name": "AMAEGBU SQUARE",
-    "lga": "AFIKPO NORTH",
-    "ward": "AMATA-AKPOHA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "AFIKPO NORTH",
     "ward": "AMATA-AKPOHA",
     "state": "Ebonyi",
@@ -2982,12 +2892,6 @@
     "pu_code": "11/02/02/013",
     "pu_name": "OKOTUM VILLAGE SQUARE",
     "name": "OKOTUM VILLAGE SQUARE",
-    "lga": "AFIKPO NORTH",
-    "ward": "AMOGU AKPOHA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "AFIKPO NORTH",
     "ward": "AMOGU AKPOHA",
     "state": "Ebonyi",
@@ -3141,12 +3045,6 @@
     "pu_code": "11/02/03/017",
     "pu_name": "NDE AKPU AMUJI PLAYGROUND",
     "name": "NDE AKPU AMUJI PLAYGROUND",
-    "lga": "AFIKPO NORTH",
-    "ward": "EZEKE AMASIRI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "AFIKPO NORTH",
     "ward": "EZEKE AMASIRI",
     "state": "Ebonyi",
@@ -3309,12 +3207,6 @@
     "pu_code": "11/02/04/018",
     "pu_name": "OGO EZI ENI",
     "name": "OGO EZI ENI",
-    "lga": "AFIKPO NORTH",
-    "ward": "POPERI AMASIRI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "AFIKPO NORTH",
     "ward": "POPERI AMASIRI",
     "state": "Ebonyi",
@@ -3582,12 +3474,6 @@
     "state_code": "11"
   },
   {
-    "lga": "AFIKPO NORTH",
-    "ward": "ITIM AFIKPO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/02/06/001",
     "pu_name": "EZI AKPUEKE VILLAGE SQUARE",
     "name": "EZI AKPUEKE VILLAGE SQUARE",
@@ -3768,12 +3654,6 @@
     "state_code": "11"
   },
   {
-    "lga": "AFIKPO NORTH",
-    "ward": "IBII/OZIZA AFIKPO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/02/07/001",
     "pu_name": "NNAENYIM VILLAGE SQUARE I",
     "name": "NNAENYIM VILLAGE SQUARE I",
@@ -3936,12 +3816,6 @@
     "state_code": "11"
   },
   {
-    "lga": "AFIKPO NORTH",
-    "ward": "NKPOGHORO AFIKPO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/02/08/001",
     "pu_name": "UKPA/AMACHI PRIMARY SCHOOL",
     "name": "UKPA/AMACHI PRIMARY SCHOOL",
@@ -4086,12 +3960,6 @@
     "state_code": "11"
   },
   {
-    "lga": "AFIKPO NORTH",
-    "ward": "OHAISU AFIKPO A",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/02/09/001",
     "pu_name": "AMANGBALA SQUARE",
     "name": "AMANGBALA SQUARE",
@@ -4212,12 +4080,6 @@
     "pu_code": "11/02/09/014",
     "pu_name": "OHABUIKE PRIMARY SCHOOL",
     "name": "OHABUIKE PRIMARY SCHOOL",
-    "lga": "AFIKPO NORTH",
-    "ward": "OHAISU AFIKPO B",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "AFIKPO NORTH",
     "ward": "OHAISU AFIKPO B",
     "state": "Ebonyi",
@@ -4377,12 +4239,6 @@
     "state_code": "11"
   },
   {
-    "lga": "AFIKPO NORTH",
-    "ward": "UGWUEGU AFIKPO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/02/11/001",
     "pu_name": "EZI OTI INYA",
     "name": "EZI OTI INYA",
@@ -4527,12 +4383,6 @@
     "state_code": "11"
   },
   {
-    "lga": "AFIKPO NORTH",
-    "ward": "UWANA AFIKPO 1",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/02/12/001",
     "pu_name": "EZI AKAA",
     "name": "EZI AKAA",
@@ -4608,12 +4458,6 @@
     "pu_code": "11/02/12/009",
     "pu_name": "EZI NDE OKORO INYA FRONT.",
     "name": "EZI NDE OKORO INYA FRONT.",
-    "lga": "AFIKPO NORTH",
-    "ward": "UWANA AFIKPO II",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "AFIKPO NORTH",
     "ward": "UWANA AFIKPO II",
     "state": "Ebonyi",
@@ -4755,12 +4599,6 @@
     "state_code": "11"
   },
   {
-    "lga": "AFIKPO  SOUTH",
-    "ward": "AMAEKE EKOLI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/03/02/001",
     "pu_name": "EKEJE TOWN HALL",
     "name": "EKEJE TOWN HALL",
@@ -4836,12 +4674,6 @@
     "pu_code": "11/03/02/009",
     "pu_name": "NDIBA V/SQ.",
     "name": "NDIBA V/SQ.",
-    "lga": "AFIKPO  SOUTH",
-    "ward": "AMAIGBO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "AFIKPO  SOUTH",
     "ward": "AMAIGBO",
     "state": "Ebonyi",
@@ -4959,12 +4791,6 @@
     "pu_code": "11/03/03/013",
     "pu_name": "ANYAFUMBA HALL",
     "name": "ANYAFUMBA HALL",
-    "lga": "AFIKPO  SOUTH",
-    "ward": "AMANGWU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "AFIKPO  SOUTH",
     "ward": "AMANGWU",
     "state": "Ebonyi",
@@ -5115,12 +4941,6 @@
     "state_code": "11"
   },
   {
-    "lga": "AFIKPO  SOUTH",
-    "ward": "AMIRI EKOLI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/03/05/001",
     "pu_name": "EZI EDDA COMMUNITY HALL I",
     "name": "EZI EDDA COMMUNITY HALL I",
@@ -5214,12 +5034,6 @@
     "pu_code": "11/03/05/011",
     "pu_name": "ECHARA VILLAGE HALL II",
     "name": "ECHARA VILLAGE HALL II",
-    "lga": "AFIKPO  SOUTH",
-    "ward": "AMOSO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "AFIKPO  SOUTH",
     "ward": "AMOSO",
     "state": "Ebonyi",
@@ -5379,12 +5193,6 @@
     "state_code": "11"
   },
   {
-    "lga": "AFIKPO  SOUTH",
-    "ward": "EBUNWANA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/03/07/001",
     "pu_name": "EMEKWE PRIMARY SCHOOL I",
     "name": "EMEKWE PRIMARY SCHOOL I",
@@ -5496,12 +5304,6 @@
     "pu_code": "11/03/07/013",
     "pu_name": "EDDAGBO VILLAGE SQUARE",
     "name": "EDDAGBO VILLAGE SQUARE",
-    "lga": "AFIKPO  SOUTH",
-    "ward": "NDIOKE EKOLI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "AFIKPO  SOUTH",
     "ward": "NDIOKE EKOLI",
     "state": "Ebonyi",
@@ -5679,12 +5481,6 @@
     "state_code": "11"
   },
   {
-    "lga": "AFIKPO  SOUTH",
-    "ward": "NGUZU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/03/09/001",
     "pu_name": "AKPUGHURU TOWN HALL",
     "name": "AKPUGHURU TOWN HALL",
@@ -5778,12 +5574,6 @@
     "pu_code": "11/03/09/011",
     "pu_name": "OGBU VILLAGE HALL",
     "name": "OGBU VILLAGE HALL",
-    "lga": "AFIKPO  SOUTH",
-    "ward": "OGBU (AMATO)",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "AFIKPO  SOUTH",
     "ward": "OGBU (AMATO)",
     "state": "Ebonyi",
@@ -5961,12 +5751,6 @@
     "state_code": "11"
   },
   {
-    "lga": "AFIKPO  SOUTH",
-    "ward": "OSO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/03/11/001",
     "pu_name": "CENTRAL SCHOOL OWUTU I",
     "name": "CENTRAL SCHOOL OWUTU I",
@@ -6114,12 +5898,6 @@
     "pu_code": "11/03/11/017",
     "pu_name": "UDEAZI VILLAGE HALL II",
     "name": "UDEAZI VILLAGE HALL II",
-    "lga": "AFIKPO  SOUTH",
-    "ward": "OWUTU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "AFIKPO  SOUTH",
     "ward": "OWUTU",
     "state": "Ebonyi",
@@ -6297,12 +6075,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EBONYI",
-    "ward": "ABAKPA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/04/02/001",
     "pu_name": "OBEAGU ABOFIA HALL",
     "name": "OBEAGU ABOFIA HALL",
@@ -6423,12 +6195,6 @@
     "pu_code": "11/04/02/014",
     "pu_name": "EDUKWU IGWU PLAY GROUND",
     "name": "EDUKWU IGWU PLAY GROUND",
-    "lga": "EBONYI",
-    "ward": "ABOFIA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EBONYI",
     "ward": "ABOFIA",
     "state": "Ebonyi",
@@ -6573,12 +6339,6 @@
     "pu_code": "11/04/03/016",
     "pu_name": "EDUPHU IGWE PLAY GROUND",
     "name": "EDUPHU IGWE PLAY GROUND",
-    "lga": "EBONYI",
-    "ward": "AGALEGU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EBONYI",
     "ward": "AGALEGU",
     "state": "Ebonyi",
@@ -6756,12 +6516,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EBONYI",
-    "ward": "ECHIABA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/04/05/001",
     "pu_name": "EGWUDINAGU HALL",
     "name": "EGWUDINAGU HALL",
@@ -6882,12 +6636,6 @@
     "pu_code": "11/04/05/014",
     "pu_name": "OVUDU ASHIOGBU PLAY GROUND EPHENYIM VILLAGE",
     "name": "OVUDU ASHIOGBU PLAY GROUND EPHENYIM VILLAGE",
-    "lga": "EBONYI",
-    "ward": "EGWUDINAGU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EBONYI",
     "ward": "EGWUDINAGU",
     "state": "Ebonyi",
@@ -7092,12 +6840,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EBONYI",
-    "ward": "ENYIBICHIRI I",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/04/07/001",
     "pu_name": "ENYIBICHIRI PLAY GROUND",
     "name": "ENYIBICHIRI PLAY GROUND",
@@ -7200,12 +6942,6 @@
     "pu_code": "11/04/07/012",
     "pu_name": "UKWU OBELEBE  ONYIKWA MARKET SQUARE",
     "name": "UKWU OBELEBE  ONYIKWA MARKET SQUARE",
-    "lga": "EBONYI",
-    "ward": "ENYIBICHIRI II",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EBONYI",
     "ward": "ENYIBICHIRI II",
     "state": "Ebonyi",
@@ -7419,12 +7155,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EBONYI",
-    "ward": "KPIRIKPIRI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/04/09/001",
     "pu_name": "MBEKE PRIMARY SCHOOL",
     "name": "MBEKE PRIMARY SCHOOL",
@@ -7596,12 +7326,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EBONYI",
-    "ward": "MBEKE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/04/10/001",
     "pu_name": "OGBALA PRIMARY SCHOOL",
     "name": "OGBALA PRIMARY SCHOOL",
@@ -7713,12 +7437,6 @@
     "pu_code": "11/04/10/013",
     "pu_name": "NDIAWOKE PLAY GROUND",
     "name": "NDIAWOKE PLAY GROUND",
-    "lga": "EBONYI",
-    "ward": "NDIAGU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EBONYI",
     "ward": "NDIAGU",
     "state": "Ebonyi",
@@ -7932,12 +7650,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EBONYI",
-    "ward": "NDIEBOR",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/04/12/001",
     "pu_name": "OKWORIKE PLAY GROUND",
     "name": "OKWORIKE PLAY GROUND",
@@ -8031,12 +7743,6 @@
     "pu_code": "11/04/12/011",
     "pu_name": "ALEKE OKPUCHA JUNCTION ONU ISHIEKE",
     "name": "ALEKE OKPUCHA JUNCTION ONU ISHIEKE",
-    "lga": "EBONYI",
-    "ward": "ONUENYIM",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EBONYI",
     "ward": "ONUENYIM",
     "state": "Ebonyi",
@@ -8232,12 +7938,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EBONYI",
-    "ward": "URBAN NEW LAYOUT",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/05/01/001",
     "pu_name": "CENTRAL SCHOOL AMUDA",
     "name": "CENTRAL SCHOOL AMUDA",
@@ -8331,12 +8031,6 @@
     "pu_code": "11/05/01/011",
     "pu_name": "AMAWULA  VILLAGE SQUARE",
     "name": "AMAWULA  VILLAGE SQUARE",
-    "lga": "EZZA NORTH",
-    "ward": "AMUDA / AMAWULA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EZZA NORTH",
     "ward": "AMUDA / AMAWULA",
     "state": "Ebonyi",
@@ -8487,12 +8181,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EZZA NORTH",
-    "ward": "EKKA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/05/03/001",
     "pu_name": "UMUEKEE INYERE HALL",
     "name": "UMUEKEE INYERE HALL",
@@ -8541,12 +8229,6 @@
     "pu_code": "11/05/03/006",
     "pu_name": "NGAMGBO IDEMBIA",
     "name": "NGAMGBO IDEMBIA",
-    "lga": "EZZA NORTH",
-    "ward": "INYERE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EZZA NORTH",
     "ward": "INYERE",
     "state": "Ebonyi",
@@ -8715,12 +8397,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EZZA NORTH",
-    "ward": "NDIAGUAZU - UMUOGHARA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/05/05/001",
     "pu_name": "OHAIKE",
     "name": "OHAIKE",
@@ -8847,12 +8523,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EZZA NORTH",
-    "ward": "NKOMORO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/05/06/001",
     "pu_name": "CENTRAL PRIMARY SCHOOL AMAGU I",
     "name": "CENTRAL PRIMARY SCHOOL AMAGU I",
@@ -8964,12 +8634,6 @@
     "pu_code": "11/05/06/013",
     "pu_name": "ACHIAGU OGBOJI",
     "name": "ACHIAGU OGBOJI",
-    "lga": "EZZA NORTH",
-    "ward": "OGBOJI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EZZA NORTH",
     "ward": "OGBOJI",
     "state": "Ebonyi",
@@ -9219,12 +8883,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EZZA NORTH",
-    "ward": "OKPOSI UMUOGHARA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/05/08/001",
     "pu_name": "ORIE NDUHU",
     "name": "ORIE NDUHU",
@@ -9453,12 +9111,6 @@
     "pu_code": "11/05/08/026",
     "pu_name": "OHATAEKWE TOWN HALL",
     "name": "OHATAEKWE TOWN HALL",
-    "lga": "EZZA NORTH",
-    "ward": "OMEGE UMUEZEOKOHA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EZZA NORTH",
     "ward": "OMEGE UMUEZEOKOHA",
     "state": "Ebonyi",
@@ -9753,12 +9405,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EZZA NORTH",
-    "ward": "ORIUZOR",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/05/10/001",
     "pu_name": "C.P.S OSHIEGBE I",
     "name": "C.P.S OSHIEGBE I",
@@ -9933,12 +9579,6 @@
     "pu_code": "11/05/10/020",
     "pu_name": "UKWOMA P/G",
     "name": "UKWOMA P/G",
-    "lga": "EZZA NORTH",
-    "ward": "OSHIEGBE UMUEZEOKOHA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EZZA NORTH",
     "ward": "OSHIEGBE UMUEZEOKOHA",
     "state": "Ebonyi",
@@ -10161,12 +9801,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EZZA NORTH",
-    "ward": "UMUEZEOKA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/06/01/001",
     "pu_name": "ABAJI VILLAGE SQUARE",
     "name": "ABAJI VILLAGE SQUARE",
@@ -10260,12 +9894,6 @@
     "pu_code": "11/06/01/011",
     "pu_name": "AMAEKPEKERE NDIAGU AZU PLAY/GROUND",
     "name": "AMAEKPEKERE NDIAGU AZU PLAY/GROUND",
-    "lga": "EZZA SOUTH",
-    "ward": "AMAEZEKWE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EZZA SOUTH",
     "ward": "AMAEZEKWE",
     "state": "Ebonyi",
@@ -10452,12 +10080,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EZZA SOUTH",
-    "ward": "AMAGU/NSOKKARA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/06/03/001",
     "pu_name": "NGAMGBO ODANARA VILLAGE SQUARE",
     "name": "NGAMGBO ODANARA VILLAGE SQUARE",
@@ -10569,12 +10191,6 @@
     "pu_code": "11/06/03/013",
     "pu_name": "EZEKUNA PLAY GROUND II",
     "name": "EZEKUNA PLAY GROUND II",
-    "lga": "EZZA SOUTH",
-    "ward": "AMANA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EZZA SOUTH",
     "ward": "AMANA",
     "state": "Ebonyi",
@@ -10764,12 +10380,6 @@
     "pu_code": "11/06/04/021",
     "pu_name": "OMO IMO HEALTH CENTER",
     "name": "OMO IMO HEALTH CENTER",
-    "lga": "EZZA SOUTH",
-    "ward": "AMEKA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EZZA SOUTH",
     "ward": "AMEKA",
     "state": "Ebonyi",
@@ -11019,12 +10629,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EZZA SOUTH",
-    "ward": "AMUDO/OKOFFIA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/06/06/001",
     "pu_name": "COMM. SECONDARY SCHOOL AMUZU  I",
     "name": "COMM. SECONDARY SCHOOL AMUZU  I",
@@ -11187,12 +10791,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EZZA SOUTH",
-    "ward": "AMUZU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/06/07/001",
     "pu_name": "NGAMGBO AMEBO VILLAGE SQUARE I",
     "name": "NGAMGBO AMEBO VILLAGE SQUARE I",
@@ -11286,12 +10884,6 @@
     "pu_code": "11/06/07/011",
     "pu_name": "NGAMGBO ABAM VILLAGE SQUARE",
     "name": "NGAMGBO ABAM VILLAGE SQUARE",
-    "lga": "EZZA SOUTH",
-    "ward": "ECHARA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EZZA SOUTH",
     "ward": "ECHARA",
     "state": "Ebonyi",
@@ -11409,12 +11001,6 @@
     "pu_code": "11/06/08/013",
     "pu_name": "IMEABALI VILLAGE SQUARE II",
     "name": "IMEABALI VILLAGE SQUARE II",
-    "lga": "EZZA SOUTH",
-    "ward": "EZZAMA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EZZA SOUTH",
     "ward": "EZZAMA",
     "state": "Ebonyi",
@@ -11586,12 +11172,6 @@
     "pu_code": "11/06/09/019",
     "pu_name": "ONU ORIE BOREHOLE",
     "name": "ONU ORIE BOREHOLE",
-    "lga": "EZZA SOUTH",
-    "ward": "IKWUATOR/IDEMBIA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "EZZA SOUTH",
     "ward": "IKWUATOR/IDEMBIA",
     "state": "Ebonyi",
@@ -11787,12 +11367,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EZZA SOUTH",
-    "ward": "ONUEKE URBAN",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/06/11/001",
     "pu_name": "C.P.S UMUNWAGU",
     "name": "C.P.S UMUNWAGU",
@@ -11928,12 +11502,6 @@
     "state_code": "11"
   },
   {
-    "lga": "EZZA SOUTH",
-    "ward": "UMUNWAGU / IDEMBIA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/07/01/001",
     "pu_name": "EDUKWU ENYIM PLAY GROUND",
     "name": "EDUKWU ENYIM PLAY GROUND",
@@ -12018,12 +11586,6 @@
     "pu_code": "11/07/01/010",
     "pu_name": "AMAENYI MARKET SQUARE",
     "name": "AMAENYI MARKET SQUARE",
-    "lga": "IKWO",
-    "ward": "AMA INYIMA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IKWO",
     "ward": "AMA INYIMA",
     "state": "Ebonyi",
@@ -12183,12 +11745,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IKWO",
-    "ward": "ECHIALIKE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/07/03/001",
     "pu_name": "ECHARA UKWU PLAY GROUND",
     "name": "ECHARA UKWU PLAY GROUND",
@@ -12291,12 +11847,6 @@
     "pu_code": "11/07/03/012",
     "pu_name": "AZUINYIMA PLAY GROUND",
     "name": "AZUINYIMA PLAY GROUND",
-    "lga": "IKWO",
-    "ward": "EKA AWOKE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IKWO",
     "ward": "EKA AWOKE",
     "state": "Ebonyi",
@@ -12429,12 +11979,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IKWO",
-    "ward": "EKPANWUDELE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/07/05/001",
     "pu_name": "NKWUDA MARKET SQUARE",
     "name": "NKWUDA MARKET SQUARE",
@@ -12528,12 +12072,6 @@
     "pu_code": "11/07/05/011",
     "pu_name": "NDUGWU NDIEGU AMANGWURU",
     "name": "NDUGWU NDIEGU AMANGWURU",
-    "lga": "IKWO",
-    "ward": "EKPELU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IKWO",
     "ward": "EKPELU",
     "state": "Ebonyi",
@@ -12774,12 +12312,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IKWO",
-    "ward": "ENYIBICHIRI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/07/07/001",
     "pu_name": "EDUKWU AGBALAGU",
     "name": "EDUKWU AGBALAGU",
@@ -12891,12 +12423,6 @@
     "pu_code": "11/07/07/013",
     "pu_name": "EDUKWU NWORIE PLAY GROUND",
     "name": "EDUKWU NWORIE PLAY GROUND",
-    "lga": "IKWO",
-    "ward": "ETAM",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IKWO",
     "ward": "ETAM",
     "state": "Ebonyi",
@@ -13038,12 +12564,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IKWO",
-    "ward": "IGBUDU I",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/07/09/001",
     "pu_name": "OME MARKET SQUARE",
     "name": "OME MARKET SQUARE",
@@ -13092,12 +12612,6 @@
     "pu_code": "11/07/09/006",
     "pu_name": "NDI EBONYI PLAY GROUND",
     "name": "NDI EBONYI PLAY GROUND",
-    "lga": "IKWO",
-    "ward": "IGBUDU II",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IKWO",
     "ward": "IGBUDU II",
     "state": "Ebonyi",
@@ -13179,12 +12693,6 @@
     "pu_code": "11/07/10/009",
     "pu_name": "EGU ADAKA PLAY GROUND",
     "name": "EGU ADAKA PLAY GROUND",
-    "lga": "IKWO",
-    "ward": "INYIMAGU I",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IKWO",
     "ward": "INYIMAGU I",
     "state": "Ebonyi",
@@ -13389,12 +12897,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IKWO",
-    "ward": "INYIMAGU II",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/07/12/001",
     "pu_name": "NDIECHI AMAGU PLAY GROUND",
     "name": "NDIECHI AMAGU PLAY GROUND",
@@ -13575,12 +13077,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IKWO",
-    "ward": "NDIAGU AMAGU I",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/07/13/001",
     "pu_name": "ENYIBICHIRI AMAGU PLAY GROUND",
     "name": "ENYIBICHIRI AMAGU PLAY GROUND",
@@ -13701,12 +13197,6 @@
     "pu_code": "11/07/13/014",
     "pu_name": "NGAMGBO NCHUONU OGBULE P /G",
     "name": "NGAMGBO NCHUONU OGBULE P /G",
-    "lga": "IKWO",
-    "ward": "NDIAGU AMAGU II",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IKWO",
     "ward": "NDIAGU AMAGU II",
     "state": "Ebonyi",
@@ -13866,12 +13356,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IKWO",
-    "ward": "NDIAGU ECHARA I",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/07/15/001",
     "pu_name": "NDIOGODOSHI GROUND FARM",
     "name": "NDIOGODOSHI GROUND FARM",
@@ -14016,12 +13500,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IKWO",
-    "ward": "NDIAGU ECHARA II",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/07/16/001",
     "pu_name": "AGALAGU PLAY GROUND",
     "name": "AGALAGU PLAY GROUND",
@@ -14139,12 +13617,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IKWO",
-    "ward": "NDUFU AMAGU I",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/07/17/001",
     "pu_name": "NDIAGU IGKWELEDOHA",
     "name": "NDIAGU IGKWELEDOHA",
@@ -14247,12 +13719,6 @@
     "pu_code": "11/07/17/012",
     "pu_name": "NWELEM VILLAGE SQUARE",
     "name": "NWELEM VILLAGE SQUARE",
-    "lga": "IKWO",
-    "ward": "NDUFU AMAGU II",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IKWO",
     "ward": "NDUFU AMAGU II",
     "state": "Ebonyi",
@@ -14451,12 +13917,6 @@
     "pu_code": "11/07/18/022",
     "pu_name": "OMEGE PLAY GROUND",
     "name": "OMEGE PLAY GROUND",
-    "lga": "IKWO",
-    "ward": "NDUFU ALIKE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IKWO",
     "ward": "NDUFU ALIKE",
     "state": "Ebonyi",
@@ -14670,12 +14130,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IKWO",
-    "ward": "NDUFU ECHARA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/07/20/001",
     "pu_name": "C.P.S NOYO",
     "name": "C.P.S NOYO",
@@ -14787,12 +14241,6 @@
     "pu_code": "11/07/20/013",
     "pu_name": "OFUTU PLAY GROUND",
     "name": "OFUTU PLAY GROUND",
-    "lga": "IKWO",
-    "ward": "NOYE ALIKE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IKWO",
     "ward": "NOYE ALIKE",
     "state": "Ebonyi",
@@ -14934,12 +14382,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ISHIELU",
-    "ward": "AGBA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/08/02/001",
     "pu_name": "NDI AGU AZU ORA HALL",
     "name": "NDI AGU AZU ORA HALL",
@@ -14988,12 +14430,6 @@
     "pu_code": "11/08/02/006",
     "pu_name": "AMANANKWA P/GROUND",
     "name": "AMANANKWA P/GROUND",
-    "lga": "ISHIELU",
-    "ward": "AMAEZU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ISHIELU",
     "ward": "AMAEZU",
     "state": "Ebonyi",
@@ -15054,12 +14490,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ISHIELU",
-    "ward": "AZUINYABA 'A'",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/08/04/001",
     "pu_name": "OGBOGUM PLAY GROUND",
     "name": "OGBOGUM PLAY GROUND",
@@ -15099,12 +14529,6 @@
     "pu_code": "11/08/04/005",
     "pu_name": "AZUOFIA PRIMARY SCHOOL  I",
     "name": "AZUOFIA PRIMARY SCHOOL  I",
-    "lga": "ISHIELU",
-    "ward": "AZUINYABA 'B'",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ISHIELU",
     "ward": "AZUINYABA 'B'",
     "state": "Ebonyi",
@@ -15246,12 +14670,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ISHIELU",
-    "ward": "EZILLO I",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/08/06/001",
     "pu_name": "UMUEZEKOHA T/HALL",
     "name": "UMUEZEKOHA T/HALL",
@@ -15372,12 +14790,6 @@
     "pu_code": "11/08/06/014",
     "pu_name": "UMUEZOKE PLAY GROUND II",
     "name": "UMUEZOKE PLAY GROUND II",
-    "lga": "ISHIELU",
-    "ward": "EZILLO II",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ISHIELU",
     "ward": "EZILLO II",
     "state": "Ebonyi",
@@ -15567,12 +14979,6 @@
     "pu_code": "11/08/07/021",
     "pu_name": "NGAMGBO EGUELI P/G",
     "name": "NGAMGBO EGUELI P/G",
-    "lga": "ISHIELU",
-    "ward": "EZZAGU I (OGBOJI)",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ISHIELU",
     "ward": "EZZAGU I (OGBOJI)",
     "state": "Ebonyi",
@@ -15921,12 +15327,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ISHIELU",
-    "ward": "EZZAGU II (NKOMORO)",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/08/09/001",
     "pu_name": "AGUWENKAYA PLAY GROUND",
     "name": "AGUWENKAYA PLAY GROUND",
@@ -15984,12 +15384,6 @@
     "pu_code": "11/08/09/007",
     "pu_name": "UMUEZE VILLAGE SQUARE",
     "name": "UMUEZE VILLAGE SQUARE",
-    "lga": "ISHIELU",
-    "ward": "IYONU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ISHIELU",
     "ward": "IYONU",
     "state": "Ebonyi",
@@ -16176,12 +15570,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ISHIELU",
-    "ward": "NKALAGU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/08/11/001",
     "pu_name": "NIGERCEM NURSERY SCHOOL",
     "name": "NIGERCEM NURSERY SCHOOL",
@@ -16284,12 +15672,6 @@
     "pu_code": "11/08/11/012",
     "pu_name": "EGUEKE PLAY GROUND",
     "name": "EGUEKE PLAY GROUND",
-    "lga": "ISHIELU",
-    "ward": "NKALAHA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ISHIELU",
     "ward": "NKALAHA",
     "state": "Ebonyi",
@@ -16503,12 +15885,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ISHIELU",
-    "ward": "NTEZI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/08/13/001",
     "pu_name": "OHUALI PLAY GROUND",
     "name": "OHUALI PLAY GROUND",
@@ -16593,12 +15969,6 @@
     "pu_code": "11/08/13/010",
     "pu_name": "IHUZAM PLAY GROUND",
     "name": "IHUZAM PLAY GROUND",
-    "lga": "ISHIELU",
-    "ward": "OBEAGU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ISHIELU",
     "ward": "OBEAGU",
     "state": "Ebonyi",
@@ -16716,12 +16086,6 @@
     "pu_code": "11/08/14/013",
     "pu_name": "C.P.S AGUOZU",
     "name": "C.P.S AGUOZU",
-    "lga": "ISHIELU",
-    "ward": "OHOFIA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ISHIELU",
     "ward": "OHOFIA",
     "state": "Ebonyi",
@@ -16899,12 +16263,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ISHIELU",
-    "ward": "OKPOTO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/08/16/001",
     "pu_name": "AZUZURU PRIMARY SCHOOL CAMPUS II",
     "name": "AZUZURU PRIMARY SCHOOL CAMPUS II",
@@ -17076,12 +16434,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ISHIELU",
-    "ward": "UMUHUALI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/09/01/001",
     "pu_name": "EGBE UMUHUEBE PLAY GROUND",
     "name": "EGBE UMUHUEBE PLAY GROUND",
@@ -17217,12 +16569,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IVO",
-    "ward": "AKAEZE UKWU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/09/02/001",
     "pu_name": "C.P.S AKAEZE UKWU",
     "name": "C.P.S AKAEZE UKWU",
@@ -17340,12 +16686,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IVO",
-    "ward": "AMAEZE ISHIAGU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/09/03/001",
     "pu_name": "AKANU PLAY GROUND",
     "name": "AKANU PLAY GROUND",
@@ -17454,12 +16794,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IVO",
-    "ward": "AMAGU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/09/04/001",
     "pu_name": "AMAONYE PLAY GROUND",
     "name": "AMAONYE PLAY GROUND",
@@ -17550,12 +16884,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IVO",
-    "ward": "AMONYE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/09/05/001",
     "pu_name": "C.C.S AKAEZE I",
     "name": "C.C.S AKAEZE I",
@@ -17631,12 +16959,6 @@
     "pu_code": "11/09/05/009",
     "pu_name": "CHILDREN OF LIGHT NURSERY AND PRY. SCH.",
     "name": "CHILDREN OF LIGHT NURSERY AND PRY. SCH.",
-    "lga": "IVO",
-    "ward": "IHENTA OGIDI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IVO",
     "ward": "IHENTA OGIDI",
     "state": "Ebonyi",
@@ -17742,12 +17064,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IVO",
-    "ward": "IYIOJI AKAEZE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/09/07/001",
     "pu_name": "NDIOKORO UKWU PRIMARY SCHOOL",
     "name": "NDIOKORO UKWU PRIMARY SCHOOL",
@@ -17823,12 +17139,6 @@
     "pu_code": "11/09/07/009",
     "pu_name": "NDI-IBE NDIOBASI PLAY GROUND",
     "name": "NDI-IBE NDIOBASI PLAY GROUND",
-    "lga": "IVO",
-    "ward": "NDIOKORO UKWU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IVO",
     "ward": "NDIOKORO UKWU",
     "state": "Ebonyi",
@@ -17943,12 +17253,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IVO",
-    "ward": "NGWOGWO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/09/09/001",
     "pu_name": "AMANTA PLAY GROUND",
     "name": "AMANTA PLAY GROUND",
@@ -18033,12 +17337,6 @@
     "pu_code": "11/09/09/010",
     "pu_name": "MAIN POINT TRANSFORMER",
     "name": "MAIN POINT TRANSFORMER",
-    "lga": "IVO",
-    "ward": "OBINAGU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IVO",
     "ward": "OBINAGU",
     "state": "Ebonyi",
@@ -18153,12 +17451,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IVO",
-    "ward": "OKUE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/09/11/001",
     "pu_name": "UMOBO PRIMARY SCHOOL",
     "name": "UMOBO PRIMARY SCHOOL",
@@ -18252,12 +17544,6 @@
     "pu_code": "11/09/11/011",
     "pu_name": "ELUEKE PLAY GROUND",
     "name": "ELUEKE PLAY GROUND",
-    "lga": "IVO",
-    "ward": "UMOBO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IVO",
     "ward": "UMOBO",
     "state": "Ebonyi",
@@ -18534,12 +17820,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IZZI",
-    "ward": "AGBAJA MGBO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/10/02/001",
     "pu_name": "COMMUNITY HEALTH CENTRE",
     "name": "COMMUNITY HEALTH CENTRE",
@@ -18714,12 +17994,6 @@
     "pu_code": "11/10/02/020",
     "pu_name": "OBEGU IGBOKE MKT",
     "name": "OBEGU IGBOKE MKT",
-    "lga": "IZZI",
-    "ward": "AGBAJA ANYANWUIGWE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IZZI",
     "ward": "AGBAJA ANYANWUIGWE",
     "state": "Ebonyi",
@@ -18909,12 +18183,6 @@
     "pu_code": "11/10/03/021",
     "pu_name": "SUDAN UNITED MISSION HOSPITAL II",
     "name": "SUDAN UNITED MISSION HOSPITAL II",
-    "lga": "IZZI",
-    "ward": "AGBAJA OFFIA ONWE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IZZI",
     "ward": "AGBAJA OFFIA ONWE",
     "state": "Ebonyi",
@@ -19173,12 +18441,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IZZI",
-    "ward": "EZZA INYIMAGU IGBUHU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/10/05/001",
     "pu_name": "IGWELEDOHA VILLAGE HALL",
     "name": "IGWELEDOHA VILLAGE HALL",
@@ -19308,12 +18570,6 @@
     "pu_code": "11/10/05/015",
     "pu_name": "EFUNAGU VILLAGE HALL III",
     "name": "EFUNAGU VILLAGE HALL III",
-    "lga": "IZZI",
-    "ward": "EZZA INYIMAGU - IGWELEDOHA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IZZI",
     "ward": "EZZA INYIMAGU - IGWELEDOHA",
     "state": "Ebonyi",
@@ -19473,12 +18729,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IZZI",
-    "ward": "EZZA INYIMAGU - IZIOGO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/10/07/001",
     "pu_name": "EGUEFI VILLAGE HALL",
     "name": "EGUEFI VILLAGE HALL",
@@ -19608,12 +18858,6 @@
     "pu_code": "11/10/07/015",
     "pu_name": "OVUDUECHI MARKET SQUARE II",
     "name": "OVUDUECHI MARKET SQUARE II",
-    "lga": "IZZI",
-    "ward": "EZZA INYIMAGU NDIAGU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IZZI",
     "ward": "EZZA INYIMAGU NDIAGU",
     "state": "Ebonyi",
@@ -19776,12 +19020,6 @@
     "pu_code": "11/10/08/018",
     "pu_name": "NDIGWE PRI. SCH. II",
     "name": "NDIGWE PRI. SCH. II",
-    "lga": "IZZI",
-    "ward": "IGBEAGU NDUOGBU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IZZI",
     "ward": "IGBEAGU NDUOGBU",
     "state": "Ebonyi",
@@ -19980,12 +19218,6 @@
     "pu_code": "11/10/09/022",
     "pu_name": "NDIAKPURATA OGUZORONWEYA MKT. SQ.",
     "name": "NDIAKPURATA OGUZORONWEYA MKT. SQ.",
-    "lga": "IZZI",
-    "ward": "IGBEAGU NDI ETTAH",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IZZI",
     "ward": "IGBEAGU NDI ETTAH",
     "state": "Ebonyi",
@@ -20208,12 +19440,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IZZI",
-    "ward": "IGBEAGU  III",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/10/11/001",
     "pu_name": "INYIMAGU CENTRAL SCHOOL IBOKO I",
     "name": "INYIMAGU CENTRAL SCHOOL IBOKO I",
@@ -20412,12 +19638,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IZZI",
-    "ward": "MGBALAUKWU INYIMAGU I",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/10/12/001",
     "pu_name": "EDENYIEKA VILLAGE HALL",
     "name": "EDENYIEKA VILLAGE HALL",
@@ -20538,12 +19758,6 @@
     "pu_code": "11/10/12/014",
     "pu_name": "NDIENWUOGU VIL HALL II",
     "name": "NDIENWUOGU VIL HALL II",
-    "lga": "IZZI",
-    "ward": "MGBALAUKWU INYIMAGU II",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IZZI",
     "ward": "MGBALAUKWU INYIMAGU II",
     "state": "Ebonyi",
@@ -20697,12 +19911,6 @@
     "pu_code": "11/10/13/017",
     "pu_name": "NDIOBOVU MKT. SQ.",
     "name": "NDIOBOVU MKT. SQ.",
-    "lga": "IZZI",
-    "ward": "NDIEZE INYIMAGU MGBABELUZOR",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "IZZI",
     "ward": "NDIEZE INYIMAGU MGBABELUZOR",
     "state": "Ebonyi",
@@ -21033,12 +20241,6 @@
     "state_code": "11"
   },
   {
-    "lga": "IZZI",
-    "ward": "NDIEZE INYIMAGU II NDIABOR ISHIAGU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/11/01/001",
     "pu_name": "ISI-UZOR PRIMARY SCHOOL",
     "name": "ISI-UZOR PRIMARY SCHOOL",
@@ -21174,12 +20376,6 @@
     "state_code": "11"
   },
   {
-    "lga": "OHAOZARA",
-    "ward": "AMAECHI OKPOSI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/11/02/001",
     "pu_name": "EZUKU EBEM PLAY GROUND  I",
     "name": "EZUKU EBEM PLAY GROUND  I",
@@ -21273,12 +20469,6 @@
     "pu_code": "11/11/02/011",
     "pu_name": "EZUKU EZE NWAKUMA AMENE PLAY GROUND",
     "name": "EZUKU EZE NWAKUMA AMENE PLAY GROUND",
-    "lga": "OHAOZARA",
-    "ward": "ENE- NA - EZERAKU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "OHAOZARA",
     "ward": "ENE- NA - EZERAKU",
     "state": "Ebonyi",
@@ -21465,12 +20655,6 @@
     "state_code": "11"
   },
   {
-    "lga": "OHAOZARA",
-    "ward": "MGBOM OKPOSI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/11/04/001",
     "pu_name": "UBURU CENTRAL SCHOOL",
     "name": "UBURU CENTRAL SCHOOL",
@@ -21615,12 +20799,6 @@
     "state_code": "11"
   },
   {
-    "lga": "OHAOZARA",
-    "ward": "OBIOZARA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/11/05/001",
     "pu_name": "UMUAKUMA PRIMARY SCHOOL",
     "name": "UMUAKUMA PRIMARY SCHOOL",
@@ -21732,12 +20910,6 @@
     "pu_code": "11/11/05/013",
     "pu_name": "OBIAGU MGBOM 'N' ACHARA PRIMARY SCHOOL",
     "name": "OBIAGU MGBOM 'N' ACHARA PRIMARY SCHOOL",
-    "lga": "OHAOZARA",
-    "ward": "OKPOSI ACHARA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "OHAOZARA",
     "ward": "OKPOSI ACHARA",
     "state": "Ebonyi",
@@ -21951,12 +21123,6 @@
     "state_code": "11"
   },
   {
-    "lga": "OHAOZARA",
-    "ward": "OKPOSI OKWU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/11/07/001",
     "pu_name": "AJA MGBOM TOWN HALL  I",
     "name": "AJA MGBOM TOWN HALL  I",
@@ -22086,12 +21252,6 @@
     "pu_code": "11/11/07/015",
     "pu_name": "EGUINYIMA HEALTH CENTRE",
     "name": "EGUINYIMA HEALTH CENTRE",
-    "lga": "OHAOZARA",
-    "ward": "UGBOGOLOGO UGWULANGWU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "OHAOZARA",
     "ward": "UGBOGOLOGO UGWULANGWU",
     "state": "Ebonyi",
@@ -22251,12 +21411,6 @@
     "state_code": "11"
   },
   {
-    "lga": "OHAOZARA",
-    "ward": "UHUOTARU UGWULANGWU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/11/09/001",
     "pu_name": "ENUAGU PRIMARY SCHOOL",
     "name": "ENUAGU PRIMARY SCHOOL",
@@ -22350,12 +21504,6 @@
     "pu_code": "11/11/09/011",
     "pu_name": "UMUCHIMA COMMUNITY PRIMARY SCHOOL II",
     "name": "UMUCHIMA COMMUNITY PRIMARY SCHOOL II",
-    "lga": "OHAOZARA",
-    "ward": "UMUCHIMA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "OHAOZARA",
     "ward": "UMUCHIMA",
     "state": "Ebonyi",
@@ -22515,12 +21663,6 @@
     "state_code": "11"
   },
   {
-    "lga": "OHAOZARA",
-    "ward": "UMUNAGA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/11/11/001",
     "pu_name": "UMUOBUNA PRIMARY SCHOOL",
     "name": "UMUOBUNA PRIMARY SCHOOL",
@@ -22623,12 +21765,6 @@
     "pu_code": "11/11/11/012",
     "pu_name": "AKPARATA VILLAGE SQUARE",
     "name": "AKPARATA VILLAGE SQUARE",
-    "lga": "OHAOZARA",
-    "ward": "UMUOBUNA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "OHAOZARA",
     "ward": "UMUOBUNA",
     "state": "Ebonyi",
@@ -22755,12 +21891,6 @@
     "pu_code": "11/12/01/014",
     "pu_name": "UGBONA PLAY GROUND",
     "name": "UGBONA PLAY GROUND",
-    "lga": "OHAUKWU",
-    "ward": "EFFIUM I",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "OHAUKWU",
     "ward": "EFFIUM I",
     "state": "Ebonyi",
@@ -23064,12 +22194,6 @@
     "state_code": "11"
   },
   {
-    "lga": "OHAUKWU",
-    "ward": "EFFIUM  II",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/12/03/001",
     "pu_name": "NWAFIA UFIEOBOTO MKT. SQUARE",
     "name": "NWAFIA UFIEOBOTO MKT. SQUARE",
@@ -23367,12 +22491,6 @@
     "state_code": "11"
   },
   {
-    "lga": "OHAUKWU",
-    "ward": "EZZAMGBO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/12/04/001",
     "pu_name": "EJIRIKE PRI. SCHOOL  EKWASSI",
     "name": "EJIRIKE PRI. SCHOOL  EKWASSI",
@@ -23457,12 +22575,6 @@
     "pu_code": "11/12/04/010",
     "pu_name": "NDIAGUONWE MKT SQUARE",
     "name": "NDIAGUONWE MKT SQUARE",
-    "lga": "OHAUKWU",
-    "ward": "ISHI NGBO I",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "OHAUKWU",
     "ward": "ISHI NGBO I",
     "state": "Ebonyi",
@@ -23661,12 +22773,6 @@
     "pu_code": "11/12/05/022",
     "pu_name": "NWAFFIA ELECHI MKQ SQUARE",
     "name": "NWAFFIA ELECHI MKQ SQUARE",
-    "lga": "OHAUKWU",
-    "ward": "ISHI NGBO II",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "OHAUKWU",
     "ward": "ISHI NGBO II",
     "state": "Ebonyi",
@@ -23925,12 +23031,6 @@
     "state_code": "11"
   },
   {
-    "lga": "OHAUKWU",
-    "ward": "NGBO",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/12/07/001",
     "pu_name": "CENTRAL SCHOOL NGBO HALL  I",
     "name": "CENTRAL SCHOOL NGBO HALL  I",
@@ -24078,12 +23178,6 @@
     "pu_code": "11/12/07/017",
     "pu_name": "OBODO OKAKOBO P/G",
     "name": "OBODO OKAKOBO P/G",
-    "lga": "OHAUKWU",
-    "ward": "OKPOSHI  I",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "OHAUKWU",
     "ward": "OKPOSHI  I",
     "state": "Ebonyi",
@@ -24246,12 +23340,6 @@
     "pu_code": "11/12/08/018",
     "pu_name": "ABOGODO PRIMARY SCHOOL",
     "name": "ABOGODO PRIMARY SCHOOL",
-    "lga": "OHAUKWU",
-    "ward": "OKPOSHI II",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "OHAUKWU",
     "ward": "OKPOSHI II",
     "state": "Ebonyi",
@@ -24474,12 +23562,6 @@
     "state_code": "11"
   },
   {
-    "lga": "OHAUKWU",
-    "ward": "UMUAGARA / AMECHI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/12/10/001",
     "pu_name": "UKPESHI PRIMARY  SCHOOL NDULO",
     "name": "UKPESHI PRIMARY  SCHOOL NDULO",
@@ -24696,12 +23778,6 @@
     "state_code": "11"
   },
   {
-    "lga": "OHAUKWU",
-    "ward": "UMU OGUDU OSHIA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/12/11/001",
     "pu_name": "NWAFIA OBODO OGBAENI BOOTH   I",
     "name": "NWAFIA OBODO OGBAENI BOOTH   I",
@@ -24864,12 +23940,6 @@
     "state_code": "11"
   },
   {
-    "lga": "OHAUKWU",
-    "ward": "UMU OGUDU AKPU I",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/12/12/001",
     "pu_name": "IJINIKE HIGH SCHOOL UMUOGUDUAKPU HALL I",
     "name": "IJINIKE HIGH SCHOOL UMUOGUDUAKPU HALL I",
@@ -25005,12 +24075,6 @@
     "state_code": "11"
   },
   {
-    "lga": "OHAUKWU",
-    "ward": "UMU OGUDU AKPU II",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/12/13/001",
     "pu_name": "INYAFOR VILLAGE SQUARE BOOTH I",
     "name": "INYAFOR VILLAGE SQUARE BOOTH I",
@@ -25086,12 +24150,6 @@
     "pu_code": "11/12/13/009",
     "pu_name": "ONWIGWE P/G",
     "name": "ONWIGWE P/G",
-    "lga": "OHAUKWU",
-    "ward": "WIGBEKE I",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "OHAUKWU",
     "ward": "WIGBEKE I",
     "state": "Ebonyi",
@@ -25395,12 +24453,6 @@
     "state_code": "11"
   },
   {
-    "lga": "OHAUKWU",
-    "ward": "WIGBEKE II",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/12/15/001",
     "pu_name": "UFFIACHA VILLAGE SQUARE BOOTH I",
     "name": "UFFIACHA VILLAGE SQUARE BOOTH I",
@@ -25449,12 +24501,6 @@
     "pu_code": "11/12/15/006",
     "pu_name": "UBEGU VILL. SQUARE",
     "name": "UBEGU VILL. SQUARE",
-    "lga": "OHAUKWU",
-    "ward": "WIGBEKE III",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "OHAUKWU",
     "ward": "WIGBEKE III",
     "state": "Ebonyi",
@@ -25590,12 +24636,6 @@
     "pu_code": "11/13/01/015",
     "pu_name": "ABAISHIELI  PLAY GROUND",
     "name": "ABAISHIELI  PLAY GROUND",
-    "lga": "ONICHA",
-    "ward": "ABAOMEGE",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ONICHA",
     "ward": "ABAOMEGE",
     "state": "Ebonyi",
@@ -25821,12 +24861,6 @@
     "pu_code": "11/13/02/025",
     "pu_name": "NWEKE OJIMBA TOWN HALL ISIACHI",
     "name": "NWEKE OJIMBA TOWN HALL ISIACHI",
-    "lga": "ONICHA",
-    "ward": "AGBABOR-ISU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ONICHA",
     "ward": "AGBABOR-ISU",
     "state": "Ebonyi",
@@ -26067,12 +25101,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ONICHA",
-    "ward": "AMANATOR-ISU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/13/04/001",
     "pu_name": "UKWU UBE SQUARE I",
     "name": "UKWU UBE SQUARE I",
@@ -26139,12 +25167,6 @@
     "pu_code": "11/13/04/008",
     "pu_name": "ABALIFI PLAY GROUND",
     "name": "ABALIFI PLAY GROUND",
-    "lga": "ONICHA",
-    "ward": "EBIA OSHIRI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ONICHA",
     "ward": "EBIA OSHIRI",
     "state": "Ebonyi",
@@ -26403,12 +25425,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ONICHA",
-    "ward": "ENUAGU-ONICHA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/13/06/001",
     "pu_name": "NGAMGBO INYIMA",
     "name": "NGAMGBO INYIMA",
@@ -26634,12 +25650,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ONICHA",
-    "ward": "ISINKWO-UKAWU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/13/07/001",
     "pu_name": "AKANU PRIMARY SCHOOL",
     "name": "AKANU PRIMARY SCHOOL",
@@ -26784,12 +25794,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ONICHA",
-    "ward": "ISI-ONICHA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/13/08/001",
     "pu_name": "UMUARISI PLAY GROUND",
     "name": "UMUARISI PLAY GROUND",
@@ -26889,12 +25893,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ONICHA",
-    "ward": "OBEAGU-ISU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/13/09/001",
     "pu_name": "CENTRAL SCHOOL OSHIRI",
     "name": "CENTRAL SCHOOL OSHIRI",
@@ -26979,12 +25977,6 @@
     "pu_code": "11/13/09/010",
     "pu_name": "EGUOGBAKPAKA",
     "name": "EGUOGBAKPAKA",
-    "lga": "ONICHA",
-    "ward": "OGUDUOKWO OSHIRI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ONICHA",
     "ward": "OGUDUOKWO OSHIRI",
     "state": "Ebonyi",
@@ -27162,12 +26154,6 @@
     "state_code": "11"
   },
   {
-    "lga": "ONICHA",
-    "ward": "OKUZU-UKAWU",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "pu_code": "11/13/11/001",
     "pu_name": "EZECHI TOWN HALL",
     "name": "EZECHI TOWN HALL",
@@ -27279,12 +26265,6 @@
     "pu_code": "11/13/11/013",
     "pu_name": "ENYIMA OGWOGWU PLAY GROUND",
     "name": "ENYIMA OGWOGWU PLAY GROUND",
-    "lga": "ONICHA",
-    "ward": "UGWU-OSHIRI",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ONICHA",
     "ward": "UGWU-OSHIRI",
     "state": "Ebonyi",
@@ -27474,12 +26454,6 @@
     "pu_code": "11/13/12/021",
     "pu_name": "OGAMGBO UTARAEZE PLAY GROUND",
     "name": "OGAMGBO UTARAEZE PLAY GROUND",
-    "lga": "ONICHA",
-    "ward": "UMUDOMI-ONICHA",
-    "state": "Ebonyi",
-    "state_code": "11"
-  },
-  {
     "lga": "ONICHA",
     "ward": "UMUDOMI-ONICHA",
     "state": "Ebonyi",

@@ -126,12 +126,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ANIOCHA NORTH",
-    "ward": "OBIOR",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/01/02/001",
     "pu_name": "GBONOZA P/S - ISHIEKPE QUARTERS I",
     "name": "GBONOZA P/S - ISHIEKPE QUARTERS I",
@@ -294,12 +288,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ANIOCHA NORTH",
-    "ward": "ONICHA UGBO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/01/03/001",
     "pu_name": "OFUNNE P/S - UKPATU QUARTERS",
     "name": "OFUNNE P/S - UKPATU QUARTERS",
@@ -393,12 +381,6 @@
     "pu_code": "10/01/03/011",
     "pu_name": "OBOMKPA MIXED SEC SCH UKPATU",
     "name": "OBOMKPA MIXED SEC SCH UKPATU",
-    "lga": "ANIOCHA NORTH",
-    "ward": "OBOMKPA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ANIOCHA NORTH",
     "ward": "OBOMKPA",
     "state": "Delta",
@@ -576,12 +558,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ANIOCHA NORTH",
-    "ward": "ONICHA - OLONA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/01/05/001",
     "pu_name": "AZAGBA P/S - IKEM QUARTERS",
     "name": "AZAGBA P/S - IKEM QUARTERS",
@@ -735,12 +711,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ANIOCHA NORTH",
-    "ward": "ISSELE - AZAGBA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/01/06/001",
     "pu_name": "EGBUNE P/S - OGBE-UTU QUARTERS I",
     "name": "EGBUNE P/S - OGBE-UTU QUARTERS I",
@@ -879,12 +849,6 @@
     "pu_code": "10/01/06/016",
     "pu_name": "BURR PRY SCH, IDUMU AHABA QTRS I",
     "name": "BURR PRY SCH, IDUMU AHABA QTRS I",
-    "lga": "ANIOCHA NORTH",
-    "ward": "ISSELE UKU I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ANIOCHA NORTH",
     "ward": "ISSELE UKU I",
     "state": "Delta",
@@ -1089,12 +1053,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ANIOCHA NORTH",
-    "ward": "ISSELE UKU II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/01/08/001",
     "pu_name": "IKEKE P/S - IDUMU OBU QUARTERS",
     "name": "IKEKE P/S - IDUMU OBU QUARTERS",
@@ -1221,12 +1179,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ANIOCHA NORTH",
-    "ward": "IDUMUJE - UNOR",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/01/09/001",
     "pu_name": "EKO 'A' P/S - OGBE OFU/INYIOGO QUARTERS I",
     "name": "EKO 'A' P/S - OGBE OFU/INYIOGO QUARTERS I",
@@ -1335,12 +1287,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ANIOCHA NORTH",
-    "ward": "UKWU - NZU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/01/10/001",
     "pu_name": "PAUL EMECHETA P/S - UMUOLO QUARTERS I",
     "name": "PAUL EMECHETA P/S - UMUOLO QUARTERS I",
@@ -1425,12 +1371,6 @@
     "pu_code": "10/01/10/010",
     "pu_name": "EZIUZOR PRY SCH OGBE OBI QTRS III",
     "name": "EZIUZOR PRY SCH OGBE OBI QTRS III",
-    "lga": "ANIOCHA NORTH",
-    "ward": "EZI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ANIOCHA NORTH",
     "ward": "EZI",
     "state": "Delta",
@@ -1584,12 +1524,6 @@
     "pu_code": "10/02/01/017",
     "pu_name": "ABOH MARKET SQUARE, ABOH OGWASHI",
     "name": "ABOH MARKET SQUARE, ABOH OGWASHI",
-    "lga": "ANIOCHA - SOUTH",
-    "ward": "OGWASHI - UKU VILLAGE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ANIOCHA - SOUTH",
     "ward": "OGWASHI - UKU VILLAGE",
     "state": "Delta",
@@ -1860,12 +1794,6 @@
     "pu_code": "10/02/02/030",
     "pu_name": "OGBE-UBU SQUARE-007 JUNCTION",
     "name": "OGBE-UBU SQUARE-007 JUNCTION",
-    "lga": "ANIOCHA - SOUTH",
-    "ward": "OGWASHI - UKU I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ANIOCHA - SOUTH",
     "ward": "OGWASHI - UKU I",
     "state": "Delta",
@@ -2214,12 +2142,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ANIOCHA - SOUTH",
-    "ward": "OGWASHI - UKU II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/02/04/001",
     "pu_name": "OGBE-ANI P/S, ONICHA-UKU",
     "name": "OGBE-ANI P/S, ONICHA-UKU",
@@ -2373,12 +2295,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ANIOCHA - SOUTH",
-    "ward": "UBULU - UKU I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/02/05/001",
     "pu_name": "AKPAMA VILLAGE, AKPAMA/IDUMUBO",
     "name": "AKPAMA VILLAGE, AKPAMA/IDUMUBO",
@@ -2523,12 +2439,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ANIOCHA - SOUTH",
-    "ward": "UBULU - UKU II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/02/06/001",
     "pu_name": "ANIOBODO PRIMARY SCHOOL, ANIOSHEI/AGBUDU I",
     "name": "ANIOBODO PRIMARY SCHOOL, ANIOSHEI/AGBUDU I",
@@ -2604,12 +2514,6 @@
     "pu_code": "10/02/06/009",
     "pu_name": "ASHABA UBULU PRIMARY SCHOOL, ASHABA UBULU II",
     "name": "ASHABA UBULU PRIMARY SCHOOL, ASHABA UBULU II",
-    "lga": "ANIOCHA - SOUTH",
-    "ward": "UBULU - UNOR",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ANIOCHA - SOUTH",
     "ward": "UBULU - UNOR",
     "state": "Delta",
@@ -2760,12 +2664,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ANIOCHA - SOUTH",
-    "ward": "NSUKWA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/02/08/001",
     "pu_name": "ANIOGOR PRIMARY SCHOOL, UMUJEME I",
     "name": "ANIOGOR PRIMARY SCHOOL, UMUJEME I",
@@ -2877,12 +2775,6 @@
     "pu_code": "10/02/08/013",
     "pu_name": "EJEME SECONDARY SCHOOL, EJEME ANIOGOR",
     "name": "EJEME SECONDARY SCHOOL, EJEME ANIOGOR",
-    "lga": "ANIOCHA - SOUTH",
-    "ward": "EJEME",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ANIOCHA - SOUTH",
     "ward": "EJEME",
     "state": "Delta",
@@ -3015,12 +2907,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ANIOCHA - SOUTH",
-    "ward": "ISHEAGU-EWULU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/02/10/001",
     "pu_name": "ANIGE PRIMARY SCHOOL, IKOKOGBE I",
     "name": "ANIGE PRIMARY SCHOOL, IKOKOGBE I",
@@ -3120,12 +3006,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ANIOCHA - SOUTH",
-    "ward": "ABA - UNOR",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/02/11/001",
     "pu_name": "UTOLI PRIMARY SCHOOL, IDUMU-UTU/OGBE-AKWU",
     "name": "UTOLI PRIMARY SCHOOL, IDUMU-UTU/OGBE-AKWU",
@@ -3201,12 +3081,6 @@
     "pu_code": "10/02/11/009",
     "pu_name": "OKITI MIX. SECONDARY SCHOOL, NEW ROAD/OGBE OFU II",
     "name": "OKITI MIX. SECONDARY SCHOOL, NEW ROAD/OGBE OFU II",
-    "lga": "ANIOCHA - SOUTH",
-    "ward": "UBULU OKITI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ANIOCHA - SOUTH",
     "ward": "UBULU OKITI",
     "state": "Delta",
@@ -3438,12 +3312,6 @@
     "state_code": "10"
   },
   {
-    "lga": "BOMADI",
-    "ward": "BOMADI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/03/02/001",
     "pu_name": "MAMAKEBIRI/OSUOWARE KPAKIAMA",
     "name": "MAMAKEBIRI/OSUOWARE KPAKIAMA",
@@ -3615,12 +3483,6 @@
     "state_code": "10"
   },
   {
-    "lga": "BOMADI",
-    "ward": "KPAKIAMA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/03/03/001",
     "pu_name": "AGBOZE QUARTERS AGBOZE HALL ESANMA",
     "name": "AGBOZE QUARTERS AGBOZE HALL ESANMA",
@@ -3777,12 +3639,6 @@
     "pu_code": "10/03/03/018",
     "pu_name": "WOMEN FISHING CAMP ESANMA.",
     "name": "WOMEN FISHING CAMP ESANMA.",
-    "lga": "BOMADI",
-    "ward": "ESANMA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "BOMADI",
     "ward": "ESANMA",
     "state": "Delta",
@@ -4005,12 +3861,6 @@
     "state_code": "10"
   },
   {
-    "lga": "BOMADI",
-    "ward": "OGRIAGBENE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/03/05/001",
     "pu_name": "ELOHIM CITY TOWN HALL",
     "name": "ELOHIM CITY TOWN HALL",
@@ -4137,12 +3987,6 @@
     "state_code": "10"
   },
   {
-    "lga": "BOMADI",
-    "ward": "KOLAFIOGBENE/EKAMETAGBENE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/03/06/001",
     "pu_name": "GODDAY/MANAGER/TEIBOWEI O/S OGBEINAMA",
     "name": "GODDAY/MANAGER/TEIBOWEI O/S OGBEINAMA",
@@ -4245,12 +4089,6 @@
     "pu_code": "10/03/06/012",
     "pu_name": "TEKEME, OGBEIAMA SEC. SCH.OGBEIAMA.",
     "name": "TEKEME, OGBEIAMA SEC. SCH.OGBEIAMA.",
-    "lga": "BOMADI",
-    "ward": "OGBEINAMA/OKOLOBA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "BOMADI",
     "ward": "OGBEINAMA/OKOLOBA",
     "state": "Delta",
@@ -4464,12 +4302,6 @@
     "state_code": "10"
   },
   {
-    "lga": "BOMADI",
-    "ward": "AKUGBENE  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/03/08/001",
     "pu_name": "CARTER/BLACK  CARTER TOWN HALL AKUGBENE",
     "name": "CARTER/BLACK  CARTER TOWN HALL AKUGBENE",
@@ -4662,12 +4494,6 @@
     "pu_code": "10/03/08/022",
     "pu_name": "BENITU/TUATIMIYAI HALL AKUGBENE II.",
     "name": "BENITU/TUATIMIYAI HALL AKUGBENE II.",
-    "lga": "BOMADI",
-    "ward": "AKUGBENE  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "BOMADI",
     "ward": "AKUGBENE  II",
     "state": "Delta",
@@ -4881,12 +4707,6 @@
     "state_code": "10"
   },
   {
-    "lga": "BOMADI",
-    "ward": "AKUGBENE  III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/03/10/001",
     "pu_name": "WAREBO/ARENU/OGIDI, O/S OGODOBIRI",
     "name": "WAREBO/ARENU/OGIDI, O/S OGODOBIRI",
@@ -4989,12 +4809,6 @@
     "pu_code": "10/03/10/012",
     "pu_name": "SOJA-KURIAPRE QTRS, OGODOBIRI.",
     "name": "SOJA-KURIAPRE QTRS, OGODOBIRI.",
-    "lga": "BOMADI",
-    "ward": "OGO - EZE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "BOMADI",
     "ward": "OGO - EZE",
     "state": "Delta",
@@ -5190,12 +5004,6 @@
     "state_code": "10"
   },
   {
-    "lga": "BURUTU",
-    "ward": "TORUGBENE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/04/02/001",
     "pu_name": "OZIARAUOPOMU  -  PRIMARY SCHOOL, HALL",
     "name": "OZIARAUOPOMU  -  PRIMARY SCHOOL, HALL",
@@ -5316,12 +5124,6 @@
     "pu_code": "10/04/02/014",
     "pu_name": "HOLY CITY ZION - ZION  P/G",
     "name": "HOLY CITY ZION - ZION  P/G",
-    "lga": "BURUTU",
-    "ward": "TAMIGBE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "BURUTU",
     "ward": "TAMIGBE",
     "state": "Delta",
@@ -5502,12 +5304,6 @@
     "pu_code": "10/04/03/020",
     "pu_name": "AKEREBUNU QUARTERS PLAYGROUND",
     "name": "AKEREBUNU QUARTERS PLAYGROUND",
-    "lga": "BURUTU",
-    "ward": "TUOMO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "BURUTU",
     "ward": "TUOMO",
     "state": "Delta",
@@ -5793,12 +5589,6 @@
     "state_code": "10"
   },
   {
-    "lga": "BURUTU",
-    "ward": "SEIMBIRI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/04/05/001",
     "pu_name": "SAWEI  I & II - NISSAMA   P/G",
     "name": "SAWEI  I & II - NISSAMA   P/G",
@@ -6060,12 +5850,6 @@
     "state_code": "10"
   },
   {
-    "lga": "BURUTU",
-    "ward": "OJOBO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/04/06/001",
     "pu_name": "BOLOU-NDORO  -  PRIMARY  SCHOOL, HALL",
     "name": "BOLOU-NDORO  -  PRIMARY  SCHOOL, HALL",
@@ -6222,12 +6006,6 @@
     "pu_code": "10/04/06/018",
     "pu_name": "EGRANGBENE  PRIMARY SCHOOL  HALL II",
     "name": "EGRANGBENE  PRIMARY SCHOOL  HALL II",
-    "lga": "BURUTU",
-    "ward": "BULOU - NDORO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "BURUTU",
     "ward": "BULOU - NDORO",
     "state": "Delta",
@@ -6432,12 +6210,6 @@
     "state_code": "10"
   },
   {
-    "lga": "BURUTU",
-    "ward": "NGBILEBIRI  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/04/08/001",
     "pu_name": "FUNWARE  -  FUNWARE   P/G",
     "name": "FUNWARE  -  FUNWARE   P/G",
@@ -6531,12 +6303,6 @@
     "pu_code": "10/04/08/011",
     "pu_name": "EYENEMUGHA  -  PRIMARY  SCHOOL HALL",
     "name": "EYENEMUGHA  -  PRIMARY  SCHOOL HALL",
-    "lga": "BURUTU",
-    "ward": "NGBILEBIRI  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "BURUTU",
     "ward": "NGBILEBIRI  II",
     "state": "Delta",
@@ -6690,12 +6456,6 @@
     "pu_code": "10/04/09/017",
     "pu_name": "IWREAGBADO -  IWREAGBADO   P/G",
     "name": "IWREAGBADO -  IWREAGBADO   P/G",
-    "lga": "BURUTU",
-    "ward": "OGBOLUBIRI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "BURUTU",
     "ward": "OGBOLUBIRI",
     "state": "Delta",
@@ -6876,12 +6636,6 @@
     "pu_code": "10/04/10/020",
     "pu_name": "KEREMO  -  PRIMARY  SCHOOL HALL",
     "name": "KEREMO  -  PRIMARY  SCHOOL HALL",
-    "lga": "BURUTU",
-    "ward": "OBOTEBE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "BURUTU",
     "ward": "OBOTEBE",
     "state": "Delta",
@@ -7158,12 +6912,6 @@
     "state_code": "10"
   },
   {
-    "lga": "BURUTU",
-    "ward": "OGULAGHA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/05/01/001",
     "pu_name": "ABRAKA  P.O/ABRAKA  JUNCTION",
     "name": "ABRAKA  P.O/ABRAKA  JUNCTION",
@@ -7416,12 +7164,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ETHIOPE  EAST",
-    "ward": "ABRAKA  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/05/02/001",
     "pu_name": "ABRAKA  INLAND/ABRAKA INLAND  T/HALL",
     "name": "ABRAKA  INLAND/ABRAKA INLAND  T/HALL",
@@ -7560,12 +7302,6 @@
     "pu_code": "10/05/02/016",
     "pu_name": "ERHO-ABRAKA COMMUNITY TOWN HALL",
     "name": "ERHO-ABRAKA COMMUNITY TOWN HALL",
-    "lga": "ETHIOPE  EAST",
-    "ward": "ABRAKA  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ETHIOPE  EAST",
     "ward": "ABRAKA  II",
     "state": "Delta",
@@ -7746,12 +7482,6 @@
     "pu_code": "10/05/03/020",
     "pu_name": "OPEN SPACE BY ODUMERE JUNCTION",
     "name": "OPEN SPACE BY ODUMERE JUNCTION",
-    "lga": "ETHIOPE  EAST",
-    "ward": "ABRAKA  III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ETHIOPE  EAST",
     "ward": "ABRAKA  III",
     "state": "Delta",
@@ -7983,12 +7713,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ETHIOPE  EAST",
-    "ward": "AGBON  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/05/05/001",
     "pu_name": "OVIORE/OVIORIE  P/S  I",
     "name": "OVIORE/OVIORIE  P/S  I",
@@ -8172,12 +7896,6 @@
     "pu_code": "10/05/05/021",
     "pu_name": "OVU GRAMMAR SCHOOL, OVU",
     "name": "OVU GRAMMAR SCHOOL, OVU",
-    "lga": "ETHIOPE  EAST",
-    "ward": "AGBON  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ETHIOPE  EAST",
     "ward": "AGBON  II",
     "state": "Delta",
@@ -8427,12 +8145,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ETHIOPE  EAST",
-    "ward": "AGBON  III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/05/07/001",
     "pu_name": "ORHOAKPOR/ORHOAKPOR SECONDARY SCHOOL",
     "name": "ORHOAKPOR/ORHOAKPOR SECONDARY SCHOOL",
@@ -8517,12 +8229,6 @@
     "pu_code": "10/05/07/010",
     "pu_name": "NEW COMMUNITY TOWN HALL",
     "name": "NEW COMMUNITY TOWN HALL",
-    "lga": "ETHIOPE  EAST",
-    "ward": "AGBON  IV",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ETHIOPE  EAST",
     "ward": "AGBON  IV",
     "state": "Delta",
@@ -8703,12 +8409,6 @@
     "pu_code": "10/05/08/020",
     "pu_name": "POSTAL AGENCY, OKPARA WATERSIDE",
     "name": "POSTAL AGENCY, OKPARA WATERSIDE",
-    "lga": "ETHIOPE  EAST",
-    "ward": "AGBON  V",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ETHIOPE  EAST",
     "ward": "AGBON  V",
     "state": "Delta",
@@ -8976,12 +8676,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ETHIOPE  EAST",
-    "ward": "AGBON  VI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/05/10/001",
     "pu_name": "SAMAGIDI/IBRUVWE   P/S",
     "name": "SAMAGIDI/IBRUVWE   P/S",
@@ -9117,12 +8811,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ETHIOPE  EAST",
-    "ward": "AGBON  VII",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/05/11/001",
     "pu_name": "FRONT OF OBOH'S COMPOUND, ISIOKOLO",
     "name": "FRONT OF OBOH'S COMPOUND, ISIOKOLO",
@@ -9198,12 +8886,6 @@
     "pu_code": "10/05/11/009",
     "pu_name": "OPEN SPACE BY UKUDJAVWERI JUNCTION",
     "name": "OPEN SPACE BY UKUDJAVWERI JUNCTION",
-    "lga": "ETHIOPE  EAST",
-    "ward": "AGBON  VIII",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ETHIOPE  EAST",
     "ward": "AGBON  VIII",
     "state": "Delta",
@@ -9372,12 +9054,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ETHIOPE  WEST",
-    "ward": "MOSOGAR I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/06/02/001",
     "pu_name": "OKUEGBAPHA/OPEN SPACE",
     "name": "OKUEGBAPHA/OPEN SPACE",
@@ -9489,12 +9165,6 @@
     "pu_code": "10/06/02/013",
     "pu_name": "IGHOYETA SECONDARY SCHOOL UGBOKPA",
     "name": "IGHOYETA SECONDARY SCHOOL UGBOKPA",
-    "lga": "ETHIOPE  WEST",
-    "ward": "MOSOGAR II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ETHIOPE  WEST",
     "ward": "MOSOGAR II",
     "state": "Delta",
@@ -9735,12 +9405,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ETHIOPE  WEST",
-    "ward": "JESSE  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/06/04/001",
     "pu_name": "AJAVWINI I/AJAVWINI PRIMARY SCHOOL",
     "name": "AJAVWINI I/AJAVWINI PRIMARY SCHOOL",
@@ -9921,12 +9585,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ETHIOPE  WEST",
-    "ward": "JESSE  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/06/05/001",
     "pu_name": "OVADE I/OVADE PRIMARY SCHOOL",
     "name": "OVADE I/OVADE PRIMARY SCHOOL",
@@ -10053,12 +9711,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ETHIOPE  WEST",
-    "ward": "JESSE  III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/06/06/001",
     "pu_name": "ONYOBRU INLAND I/ONYOBRU PRIMARY SCHOOL",
     "name": "ONYOBRU INLAND I/ONYOBRU PRIMARY SCHOOL",
@@ -10161,12 +9813,6 @@
     "pu_code": "10/06/06/012",
     "pu_name": "ONYOBRU SECONDARY SCHOOL, ONYOBRU-JESSE",
     "name": "ONYOBRU SECONDARY SCHOOL, ONYOBRU-JESSE",
-    "lga": "ETHIOPE  WEST",
-    "ward": "JESSE IV",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ETHIOPE  WEST",
     "ward": "JESSE IV",
     "state": "Delta",
@@ -10419,12 +10065,6 @@
     "pu_code": "10/06/07/028",
     "pu_name": "OTEFE PRIMARY SCHOOL OTEFE, OGHARA",
     "name": "OTEFE PRIMARY SCHOOL OTEFE, OGHARA",
-    "lga": "ETHIOPE  WEST",
-    "ward": "OGHARA I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ETHIOPE  WEST",
     "ward": "OGHARA I",
     "state": "Delta",
@@ -10728,12 +10368,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ETHIOPE  WEST",
-    "ward": "OGHARA II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/06/09/001",
     "pu_name": "OVIE PALACE/UHEREVIE PRIMARY SCHOOL",
     "name": "OVIE PALACE/UHEREVIE PRIMARY SCHOOL",
@@ -10899,12 +10533,6 @@
     "pu_code": "10/06/09/019",
     "pu_name": "UDUAKA PRI. SCH. OGHAREKI",
     "name": "UDUAKA PRI. SCH. OGHAREKI",
-    "lga": "ETHIOPE  WEST",
-    "ward": "OGHARA III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ETHIOPE  WEST",
     "ward": "OGHARA III",
     "state": "Delta",
@@ -11100,12 +10728,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ETHIOPE  WEST",
-    "ward": "OGHARA IV",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/06/11/001",
     "pu_name": "OTUMARA/OKUMENU PRIMARY SCHOOL",
     "name": "OTUMARA/OKUMENU PRIMARY SCHOOL",
@@ -11250,12 +10872,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ETHIOPE  WEST",
-    "ward": "OGHARA V",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/07/01/001",
     "pu_name": "OBAIGBENA PRIMARY SCHOOL, OWA -OYIBU I",
     "name": "OBAIGBENA PRIMARY SCHOOL, OWA -OYIBU I",
@@ -11376,12 +10992,6 @@
     "pu_code": "10/07/01/014",
     "pu_name": "ISIBOR PRIMARY SCHOOL II",
     "name": "ISIBOR PRIMARY SCHOOL II",
-    "lga": "IKA NORTH- EAST",
-    "ward": "OWA I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA NORTH- EAST",
     "ward": "OWA I",
     "state": "Delta",
@@ -11595,12 +11205,6 @@
     "state_code": "10"
   },
   {
-    "lga": "IKA NORTH- EAST",
-    "ward": "OWA II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/07/03/001",
     "pu_name": "ALASI PRIMARY SCHOOL, BOJI - BOJI, OWA I",
     "name": "ALASI PRIMARY SCHOOL, BOJI - BOJI, OWA I",
@@ -11802,12 +11406,6 @@
     "pu_code": "10/07/03/023",
     "pu_name": "MOTOR PARK BY CONVENT GARAGE LL",
     "name": "MOTOR PARK BY CONVENT GARAGE LL",
-    "lga": "IKA NORTH- EAST",
-    "ward": "OWA III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA NORTH- EAST",
     "ward": "OWA III",
     "state": "Delta",
@@ -12030,12 +11628,6 @@
     "state_code": "10"
   },
   {
-    "lga": "IKA NORTH- EAST",
-    "ward": "OWA IV",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/07/05/001",
     "pu_name": "IYI - AGHULOR PRIMARY SCHOOL, OWANTA I",
     "name": "IYI - AGHULOR PRIMARY SCHOOL, OWANTA I",
@@ -12129,12 +11721,6 @@
     "pu_code": "10/07/05/011",
     "pu_name": "OSIMI TOWN HALL, OWANTA-ALIOSIMI",
     "name": "OSIMI TOWN HALL, OWANTA-ALIOSIMI",
-    "lga": "IKA NORTH- EAST",
-    "ward": "OWA  V",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA NORTH- EAST",
     "ward": "OWA  V",
     "state": "Delta",
@@ -12261,12 +11847,6 @@
     "pu_code": "10/07/06/014",
     "pu_name": "OWA-EKEI TOWN HALL, OWA-EKEI ROAD II",
     "name": "OWA-EKEI TOWN HALL, OWA-EKEI ROAD II",
-    "lga": "IKA NORTH- EAST",
-    "ward": "OWA  VI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA NORTH- EAST",
     "ward": "OWA  VI",
     "state": "Delta",
@@ -12435,12 +12015,6 @@
     "state_code": "10"
   },
   {
-    "lga": "IKA NORTH- EAST",
-    "ward": "AKUMAZI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/07/08/001",
     "pu_name": "ILABOR PRIMARY SCHOOL, IGBODO I",
     "name": "ILABOR PRIMARY SCHOOL, IGBODO I",
@@ -12570,12 +12144,6 @@
     "pu_code": "10/07/08/015",
     "pu_name": "ISAIAH CAMP, IGBODO",
     "name": "ISAIAH CAMP, IGBODO",
-    "lga": "IKA NORTH- EAST",
-    "ward": "IGBODO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA NORTH- EAST",
     "ward": "IGBODO",
     "state": "Delta",
@@ -12843,12 +12411,6 @@
     "state_code": "10"
   },
   {
-    "lga": "IKA NORTH- EAST",
-    "ward": "UTE - OKPU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/07/10/001",
     "pu_name": "OGBENO PRIMARY SCHOOL, IDUMUESAH I",
     "name": "OGBENO PRIMARY SCHOOL, IDUMUESAH I",
@@ -12924,12 +12486,6 @@
     "pu_code": "10/07/10/009",
     "pu_name": "IDUMESAH SECONDARY SCHOOL, IDUMESAH",
     "name": "IDUMESAH SECONDARY SCHOOL, IDUMESAH",
-    "lga": "IKA NORTH- EAST",
-    "ward": "IDUMUESAH",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA NORTH- EAST",
     "ward": "IDUMUESAH",
     "state": "Delta",
@@ -13242,12 +12798,6 @@
     "state_code": "10"
   },
   {
-    "lga": "IKA NORTH- EAST",
-    "ward": "UMUNEDE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/07/12/001",
     "pu_name": "AREN PRIMARY SCHOOL, MBIRI I",
     "name": "AREN PRIMARY SCHOOL, MBIRI I",
@@ -13329,12 +12879,6 @@
     "state_code": "10"
   },
   {
-    "lga": "IKA NORTH- EAST",
-    "ward": "MBIRI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/07/13/001",
     "pu_name": "OGBEJE PRIMARY SCHOOL, UTE-OGBEJE I",
     "name": "OGBEJE PRIMARY SCHOOL, UTE-OGBEJE I",
@@ -13392,12 +12936,6 @@
     "pu_code": "10/07/13/007",
     "pu_name": "TOWN HALL, ANI-NWACHOKOR",
     "name": "TOWN HALL, ANI-NWACHOKOR",
-    "lga": "IKA NORTH- EAST",
-    "ward": "UTE - OGBEJE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA NORTH- EAST",
     "ward": "UTE - OGBEJE",
     "state": "Delta",
@@ -13470,12 +13008,6 @@
     "pu_code": "10/07/14/008",
     "pu_name": "AZAGBA PRIMARY SCHOOL, OTOLOKPO III",
     "name": "AZAGBA PRIMARY SCHOOL, OTOLOKPO III",
-    "lga": "IKA NORTH- EAST",
-    "ward": "OTOLOKPO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA NORTH- EAST",
     "ward": "OTOLOKPO",
     "state": "Delta",
@@ -13575,12 +13107,6 @@
     "pu_code": "10/08/01/011",
     "pu_name": "OGBENTA COMMUNITY HALL, AGBOR OBI I",
     "name": "OGBENTA COMMUNITY HALL, AGBOR OBI I",
-    "lga": "IKA - SOUTH",
-    "ward": "AGBOR TOWN I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA - SOUTH",
     "ward": "AGBOR TOWN I",
     "state": "Delta",
@@ -13698,12 +13224,6 @@
     "pu_code": "10/08/02/013",
     "pu_name": "AGBORTOWNSHIP HALL, AGBOR - OBI II",
     "name": "AGBORTOWNSHIP HALL, AGBOR - OBI II",
-    "lga": "IKA - SOUTH",
-    "ward": "AGBOR TOWN II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA - SOUTH",
     "ward": "AGBOR TOWN II",
     "state": "Delta",
@@ -13845,12 +13365,6 @@
     "state_code": "10"
   },
   {
-    "lga": "IKA - SOUTH",
-    "ward": "IHUOZOMOR (OZANOGOGO ALISIMIE)",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/08/04/001",
     "pu_name": "ALIFEKEDE PRIMARY SCHOOL, IHU - IYASE I, AGBOR",
     "name": "ALIFEKEDE PRIMARY SCHOOL, IHU - IYASE I, AGBOR",
@@ -13944,12 +13458,6 @@
     "pu_code": "10/08/04/011",
     "pu_name": "EWURU COMMUNITY HALL, IHU-IYASE I, AGBOR",
     "name": "EWURU COMMUNITY HALL, IHU-IYASE I, AGBOR",
-    "lga": "IKA - SOUTH",
-    "ward": "IHIUIYASE I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA - SOUTH",
     "ward": "IHIUIYASE I",
     "state": "Delta",
@@ -14109,12 +13617,6 @@
     "state_code": "10"
   },
   {
-    "lga": "IKA - SOUTH",
-    "ward": "EKUKU - AGBOR",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/08/06/001",
     "pu_name": "ALIHAME TOWN HALL, IHU - IYASE II I, AGBOR",
     "name": "ALIHAME TOWN HALL, IHU - IYASE II I, AGBOR",
@@ -14253,12 +13755,6 @@
     "pu_code": "10/08/06/016",
     "pu_name": "ALIAGWAI PRIMARY HEALTH CENTRE  IHU IYASE II, AGBOR",
     "name": "ALIAGWAI PRIMARY HEALTH CENTRE  IHU IYASE II, AGBOR",
-    "lga": "IKA - SOUTH",
-    "ward": "IHUIYASE II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA - SOUTH",
     "ward": "IHUIYASE II",
     "state": "Delta",
@@ -14412,12 +13908,6 @@
     "pu_code": "10/08/07/017",
     "pu_name": "ALIBAUBA PRIMARY SCHOOL, BOJI BOJI I, AGBOR",
     "name": "ALIBAUBA PRIMARY SCHOOL, BOJI BOJI I, AGBOR",
-    "lga": "IKA - SOUTH",
-    "ward": "BOJI - BOJI I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA - SOUTH",
     "ward": "BOJI - BOJI I",
     "state": "Delta",
@@ -14586,12 +14076,6 @@
     "state_code": "10"
   },
   {
-    "lga": "IKA - SOUTH",
-    "ward": "BOJI - BOJI II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/08/09/001",
     "pu_name": "AGBOR MODEL PRIMARY SCHOOL, BOJI - BOJI  III - I, AGBOR",
     "name": "AGBOR MODEL PRIMARY SCHOOL, BOJI - BOJI  III - I, AGBOR",
@@ -14736,12 +14220,6 @@
     "state_code": "10"
   },
   {
-    "lga": "IKA - SOUTH",
-    "ward": "BOJI - BOJI III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/08/10/001",
     "pu_name": "OYOKO PRIMARY SCHOOL, OYOKO/AYIMA I, ABAVO I",
     "name": "OYOKO PRIMARY SCHOOL, OYOKO/AYIMA I, ABAVO I",
@@ -14841,12 +14319,6 @@
     "state_code": "10"
   },
   {
-    "lga": "IKA - SOUTH",
-    "ward": "ABAVO I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/08/11/001",
     "pu_name": "OLD COURT HALL, ABAVO  II - I",
     "name": "OLD COURT HALL, ABAVO  II - I",
@@ -14940,12 +14412,6 @@
     "pu_code": "10/08/11/011",
     "pu_name": "OGBESOGBAN HALL, ABAVO II - II",
     "name": "OGBESOGBAN HALL, ABAVO II - II",
-    "lga": "IKA - SOUTH",
-    "ward": "ABAVO II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA - SOUTH",
     "ward": "ABAVO II",
     "state": "Delta",
@@ -15063,12 +14529,6 @@
     "pu_code": "10/08/12/013",
     "pu_name": "OLIHE  PRIMARY SCHOOL, ABAVO III",
     "name": "OLIHE  PRIMARY SCHOOL, ABAVO III",
-    "lga": "IKA - SOUTH",
-    "ward": "ABAVO III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "IKA - SOUTH",
     "ward": "ABAVO III",
     "state": "Delta",
@@ -15240,12 +14700,6 @@
     "pu_code": "10/09/01/019",
     "pu_name": "OPEN SPACE BY ODE-IJI STREET JUNCTION",
     "name": "OPEN SPACE BY ODE-IJI STREET JUNCTION",
-    "lga": "ISOKO NORTH",
-    "ward": "IYEDE I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ISOKO NORTH",
     "ward": "IYEDE I",
     "state": "Delta",
@@ -15426,12 +14880,6 @@
     "pu_code": "10/09/02/020",
     "pu_name": "OKPEME HALL",
     "name": "OKPEME HALL",
-    "lga": "ISOKO NORTH",
-    "ward": "IYEDE II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ISOKO NORTH",
     "ward": "IYEDE II",
     "state": "Delta",
@@ -15645,12 +15093,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ISOKO NORTH",
-    "ward": "ELLU/RADHEO/OVRODE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/09/04/001",
     "pu_name": "ORIOVO PRIMARY SCHOOL, OROGUN/URUONWA, OFAGBE I",
     "name": "ORIOVO PRIMARY SCHOOL, OROGUN/URUONWA, OFAGBE I",
@@ -15789,12 +15231,6 @@
     "pu_code": "10/09/04/016",
     "pu_name": "OPEN SPACE, IBADA STREET JUNCTION",
     "name": "OPEN SPACE, IBADA STREET JUNCTION",
-    "lga": "ISOKO NORTH",
-    "ward": "OFAGBE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ISOKO NORTH",
     "ward": "OFAGBE",
     "state": "Delta",
@@ -16026,12 +15462,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ISOKO NORTH",
-    "ward": "ILUELOGBO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/09/06/001",
     "pu_name": "ALUOGUA STREET, OTOR - OWHE",
     "name": "ALUOGUA STREET, OTOR - OWHE",
@@ -16212,12 +15642,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ISOKO NORTH",
-    "ward": "OWHE/AKIEHWE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/09/07/001",
     "pu_name": "EMEWHA PRIMARY SCHOOL, EMEVOR",
     "name": "EMEWHA PRIMARY SCHOOL, EMEVOR",
@@ -16371,12 +15795,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ISOKO NORTH",
-    "ward": "EMEVOR",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/09/08/001",
     "pu_name": "OKPE TOWN HALL, OKPE ISOKO",
     "name": "OKPE TOWN HALL, OKPE ISOKO",
@@ -16488,12 +15906,6 @@
     "pu_code": "10/09/08/013",
     "pu_name": "IGE MARKET SQUARE",
     "name": "IGE MARKET SQUARE",
-    "lga": "ISOKO NORTH",
-    "ward": "OKPE - ISOKO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ISOKO NORTH",
     "ward": "OKPE - ISOKO",
     "state": "Delta",
@@ -16761,12 +16173,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ISOKO NORTH",
-    "ward": "OZORO  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/09/10/001",
     "pu_name": "OLORDO GPS, EROVIE, OZORO",
     "name": "OLORDO GPS, EROVIE, OZORO",
@@ -16968,12 +16374,6 @@
     "pu_code": "10/09/10/023",
     "pu_name": "ALAKA GRAMMAR SCHOOL",
     "name": "ALAKA GRAMMAR SCHOOL",
-    "lga": "ISOKO NORTH",
-    "ward": "OZORO  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ISOKO NORTH",
     "ward": "OZORO  II",
     "state": "Delta",
@@ -17286,12 +16686,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ISOKO NORTH",
-    "ward": "OZORO  III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/09/12/001",
     "pu_name": "ODIOLOGHO  HALL, OYEDE",
     "name": "ODIOLOGHO  HALL, OYEDE",
@@ -17427,12 +16821,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ISOKO NORTH",
-    "ward": "OYEDE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/09/13/001",
     "pu_name": "OTIBIO GRAMMAR SCHOOL, OTIBIO",
     "name": "OTIBIO GRAMMAR SCHOOL, OTIBIO",
@@ -17517,12 +16905,6 @@
     "pu_code": "10/09/13/010",
     "pu_name": "OZADHE PRIMARY SCHOOL",
     "name": "OZADHE PRIMARY SCHOOL",
-    "lga": "ISOKO NORTH",
-    "ward": "OTIBIO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ISOKO NORTH",
     "ward": "OTIBIO",
     "state": "Delta",
@@ -17790,12 +17172,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ISOKO SOUTH",
-    "ward": "OLEH  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/10/02/001",
     "pu_name": "EBREBRU HALL, EBREBRU/EGELUNU STREET",
     "name": "EBREBRU HALL, EBREBRU/EGELUNU STREET",
@@ -18015,12 +17391,6 @@
     "pu_code": "10/10/02/025",
     "pu_name": "OPEN SPACE  URENOBEWO STREET, OLEH.",
     "name": "OPEN SPACE  URENOBEWO STREET, OLEH.",
-    "lga": "ISOKO SOUTH",
-    "ward": "OLEH  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ISOKO SOUTH",
     "ward": "OLEH  II",
     "state": "Delta",
@@ -18306,12 +17676,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ISOKO SOUTH",
-    "ward": "AVIARA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/10/04/001",
     "pu_name": "UWEYE QUARTERS, URUKERE/OTEGELOMA",
     "name": "UWEYE QUARTERS, URUKERE/OTEGELOMA",
@@ -18540,12 +17904,6 @@
     "pu_code": "10/10/04/026",
     "pu_name": "OPEN SPACE ARRAVA QUARTERS, UZERE",
     "name": "OPEN SPACE ARRAVA QUARTERS, UZERE",
-    "lga": "ISOKO SOUTH",
-    "ward": "UZERE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ISOKO SOUTH",
     "ward": "UZERE",
     "state": "Delta",
@@ -18804,12 +18162,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ISOKO SOUTH",
-    "ward": "EMEDE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/10/06/001",
     "pu_name": "EKREWOLOWO HALL, URUABE QUARTERS",
     "name": "EKREWOLOWO HALL, URUABE QUARTERS",
@@ -19026,12 +18378,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ISOKO SOUTH",
-    "ward": "OLOMORO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/10/07/001",
     "pu_name": "AMADHE HALL, OWODOKPOKPO",
     "name": "AMADHE HALL, OWODOKPOKPO",
@@ -19230,12 +18576,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ISOKO SOUTH",
-    "ward": "IGBIDE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/10/08/001",
     "pu_name": "URUOPE QUARTERS, EROHWA",
     "name": "URUOPE QUARTERS, EROHWA",
@@ -19347,12 +18687,6 @@
     "pu_code": "10/10/08/013",
     "pu_name": "UWOU OKUGBE AFIEKI HOUSE",
     "name": "UWOU OKUGBE AFIEKI HOUSE",
-    "lga": "ISOKO SOUTH",
-    "ward": "EROWA/UMEH",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ISOKO SOUTH",
     "ward": "EROWA/UMEH",
     "state": "Delta",
@@ -19506,12 +18840,6 @@
     "pu_code": "10/10/09/017",
     "pu_name": "EKEDI QUARTER HALL, ENHWE.",
     "name": "EKEDI QUARTER HALL, ENHWE.",
-    "lga": "ISOKO SOUTH",
-    "ward": "ENHWE/OKPOLO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ISOKO SOUTH",
     "ward": "ENHWE/OKPOLO",
     "state": "Delta",
@@ -19674,12 +19002,6 @@
     "pu_code": "10/10/10/018",
     "pu_name": "IRRI GRAMMAR SCHOOL, IRRI",
     "name": "IRRI GRAMMAR SCHOOL, IRRI",
-    "lga": "ISOKO SOUTH",
-    "ward": "IRRI I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "ISOKO SOUTH",
     "ward": "IRRI I",
     "state": "Delta",
@@ -19902,12 +19224,6 @@
     "state_code": "10"
   },
   {
-    "lga": "ISOKO SOUTH",
-    "ward": "IRRI  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/11/01/001",
     "pu_name": "ADOFI PRIMARY SCHOOL , OSSISSA UMUOSIMILI I",
     "name": "ADOFI PRIMARY SCHOOL , OSSISSA UMUOSIMILI I",
@@ -19992,12 +19308,6 @@
     "pu_code": "10/11/01/010",
     "pu_name": "OLOA PRIMARY SCHOOL, OLOA - OSSISSA",
     "name": "OLOA PRIMARY SCHOOL, OLOA - OSSISSA",
-    "lga": "NDOKWA EAST",
-    "ward": "OSSISSA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "NDOKWA EAST",
     "ward": "OSSISSA",
     "state": "Delta",
@@ -20130,12 +19440,6 @@
     "state_code": "10"
   },
   {
-    "lga": "NDOKWA EAST",
-    "ward": "AFOR/OBIKWELE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/11/03/001",
     "pu_name": "ABARA PRIMARY SCHOOL, ABALLA-UNO I",
     "name": "ABARA PRIMARY SCHOOL, ABALLA-UNO I",
@@ -20247,12 +19551,6 @@
     "pu_code": "10/11/03/013",
     "pu_name": "AIKA COMMUNITY HALL",
     "name": "AIKA COMMUNITY HALL",
-    "lga": "NDOKWA EAST",
-    "ward": "ABARRA/INYI/ONUABOH",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "NDOKWA EAST",
     "ward": "ABARRA/INYI/ONUABOH",
     "state": "Delta",
@@ -20478,12 +19776,6 @@
     "pu_code": "10/11/04/025",
     "pu_name": "OKWUBEDO PRIMARY SCHOOL, OKWUBEDO UTCHI",
     "name": "OKWUBEDO PRIMARY SCHOOL, OKWUBEDO UTCHI",
-    "lga": "NDOKWA EAST",
-    "ward": "OKPAI/UTCHI/BENEKU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "NDOKWA EAST",
     "ward": "OKPAI/UTCHI/BENEKU",
     "state": "Delta",
@@ -20733,12 +20025,6 @@
     "state_code": "10"
   },
   {
-    "lga": "NDOKWA EAST",
-    "ward": "ABOH/AKARRAI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/11/06/001",
     "pu_name": "NTU-ONUMU PRIMARY SCHOOL, OMUOLU  I",
     "name": "NTU-ONUMU PRIMARY SCHOOL, OMUOLU  I",
@@ -20847,12 +20133,6 @@
     "state_code": "10"
   },
   {
-    "lga": "NDOKWA EAST",
-    "ward": "ONYIA/ADIAI/OTUOKU/UMUOLU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/11/07/001",
     "pu_name": "EGBEME PRIMARY SCHOOL, EGBEME, EGBEME",
     "name": "EGBEME PRIMARY SCHOOL, EGBEME, EGBEME",
@@ -20943,12 +20223,6 @@
     "state_code": "10"
   },
   {
-    "lga": "NDOKWA EAST",
-    "ward": "ASE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/11/08/001",
     "pu_name": "IBEDENI PRIMARY SCHOOL,  IBEDENI",
     "name": "IBEDENI PRIMARY SCHOOL,  IBEDENI",
@@ -20997,12 +20271,6 @@
     "pu_code": "10/11/08/006",
     "pu_name": "ASAFO PRIMARY SCHOOL, ASAFO",
     "name": "ASAFO PRIMARY SCHOOL, ASAFO",
-    "lga": "NDOKWA EAST",
-    "ward": "IBEDENI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "NDOKWA EAST",
     "ward": "IBEDENI",
     "state": "Delta",
@@ -21183,12 +20451,6 @@
     "pu_code": "10/11/09/020",
     "pu_name": "ODO PRIMARY SCHOOL II, LAGOS IYEDE",
     "name": "ODO PRIMARY SCHOOL II, LAGOS IYEDE",
-    "lga": "NDOKWA EAST",
-    "ward": "IBREDE/IGBUKU / ONOGBOKOR",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "NDOKWA EAST",
     "ward": "IBREDE/IGBUKU / ONOGBOKOR",
     "state": "Delta",
@@ -21378,12 +20640,6 @@
     "pu_code": "10/11/10/021",
     "pu_name": "ODUGA PRIMARY SCHOOL III, USHIE",
     "name": "ODUGA PRIMARY SCHOOL III, USHIE",
-    "lga": "NDOKWA EAST",
-    "ward": "ASHAKA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "NDOKWA EAST",
     "ward": "ASHAKA",
     "state": "Delta",
@@ -21885,12 +21141,6 @@
     "state_code": "10"
   },
   {
-    "lga": "NDOKWA WEST",
-    "ward": "UTAGBA  OGBE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/12/02/001",
     "pu_name": "OBIOGWA  ETUA  QUARTERS",
     "name": "OBIOGWA  ETUA  QUARTERS",
@@ -21975,12 +21225,6 @@
     "pu_code": "10/12/02/010",
     "pu_name": "OBIOGWA   ETUA  QUARTERS",
     "name": "OBIOGWA   ETUA  QUARTERS",
-    "lga": "NDOKWA WEST",
-    "ward": "UTAGBA  UNO  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "NDOKWA WEST",
     "ward": "UTAGBA  UNO  I",
     "state": "Delta",
@@ -22194,12 +21438,6 @@
     "state_code": "10"
   },
   {
-    "lga": "NDOKWA WEST",
-    "ward": "UTAGBA  UNO  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/12/04/001",
     "pu_name": "OBIOGWA - ISUMPE     ISUMPE  QUARTERS  I",
     "name": "OBIOGWA - ISUMPE     ISUMPE  QUARTERS  I",
@@ -22338,12 +21576,6 @@
     "pu_code": "10/12/04/016",
     "pu_name": "OBIOGWA - ISUMPE      ISUMPE  QUARTERS",
     "name": "OBIOGWA - ISUMPE      ISUMPE  QUARTERS",
-    "lga": "NDOKWA WEST",
-    "ward": "UTAGBA  UNO  III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "NDOKWA WEST",
     "ward": "UTAGBA  UNO  III",
     "state": "Delta",
@@ -22503,12 +21735,6 @@
     "state_code": "10"
   },
   {
-    "lga": "NDOKWA WEST",
-    "ward": "ONICHA - UKWANI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/12/06/001",
     "pu_name": "EZEDOGUME PRIMARY SCHOOL - OGBE  INOTU OGUME I",
     "name": "EZEDOGUME PRIMARY SCHOOL - OGBE  INOTU OGUME I",
@@ -22638,12 +21864,6 @@
     "pu_code": "10/12/06/015",
     "pu_name": "UTUE-OGUME PHC",
     "name": "UTUE-OGUME PHC",
-    "lga": "NDOKWA WEST",
-    "ward": "OGUME  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "NDOKWA WEST",
     "ward": "OGUME  I",
     "state": "Delta",
@@ -22812,12 +22032,6 @@
     "state_code": "10"
   },
   {
-    "lga": "NDOKWA WEST",
-    "ward": "OGUME  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/12/08/001",
     "pu_name": "OKKA PRIMARY SCHOOL - UMUGBE, UMUOKPALA, QUARTERS",
     "name": "OKKA PRIMARY SCHOOL - UMUGBE, UMUOKPALA, QUARTERS",
@@ -22911,12 +22125,6 @@
     "pu_code": "10/12/08/011",
     "pu_name": "ABBI GIRLS COMPREHENSIVE SEC. SCH.",
     "name": "ABBI GIRLS COMPREHENSIVE SEC. SCH.",
-    "lga": "NDOKWA WEST",
-    "ward": "ABBI I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "NDOKWA WEST",
     "ward": "ABBI I",
     "state": "Delta",
@@ -23079,12 +22287,6 @@
     "pu_code": "10/12/09/018",
     "pu_name": "INFRONT OF MAGISTRATE COURT",
     "name": "INFRONT OF MAGISTRATE COURT",
-    "lga": "NDOKWA WEST",
-    "ward": "ABBI   II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "NDOKWA WEST",
     "ward": "ABBI   II",
     "state": "Delta",
@@ -23265,12 +22467,6 @@
     "pu_code": "10/12/10/020",
     "pu_name": "EMU IYASELE PRIMARY SCHOOL - EMU IYASELE  I & II QUARTERS",
     "name": "EMU IYASELE PRIMARY SCHOOL - EMU IYASELE  I & II QUARTERS",
-    "lga": "NDOKWA WEST",
-    "ward": "EMU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "NDOKWA WEST",
     "ward": "EMU",
     "state": "Delta",
@@ -23538,12 +22734,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OKPE",
-    "ward": "OREROKPE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/13/02/001",
     "pu_name": "OKORODUDU PRIMARY SCHOOL, OVIRI - OKPE",
     "name": "OKORODUDU PRIMARY SCHOOL, OVIRI - OKPE",
@@ -23655,12 +22845,6 @@
     "pu_code": "10/13/02/013",
     "pu_name": "UMIAGHWA PRIMARY SCHOOL,  UMIAGHWA V",
     "name": "UMIAGHWA PRIMARY SCHOOL,  UMIAGHWA V",
-    "lga": "OKPE",
-    "ward": "OVIRI - OKPE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "OKPE",
     "ward": "OVIRI - OKPE",
     "state": "Delta",
@@ -24099,12 +23283,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OKPE",
-    "ward": "OHA  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/13/04/001",
     "pu_name": "ADAGBRASSA TOWN HALL, ADAGBRASSA I",
     "name": "ADAGBRASSA TOWN HALL, ADAGBRASSA I",
@@ -24240,12 +23418,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OKPE",
-    "ward": "OHA  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/13/05/001",
     "pu_name": "S.P.C.C.  AGHALOKPE I",
     "name": "S.P.C.C.  AGHALOKPE I",
@@ -24372,12 +23544,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OKPE",
-    "ward": "AGHALOKPE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/13/06/001",
     "pu_name": "ARAGBA TOWN HALL , ARAGBA I",
     "name": "ARAGBA TOWN HALL , ARAGBA I",
@@ -24489,12 +23655,6 @@
     "pu_code": "10/13/06/013",
     "pu_name": "ADAGBRASSA PRIMARY SCHOOL II, ADAGBRASSA",
     "name": "ADAGBRASSA PRIMARY SCHOOL II, ADAGBRASSA",
-    "lga": "OKPE",
-    "ward": "ARAGBA  TOWN",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "OKPE",
     "ward": "ARAGBA  TOWN",
     "state": "Delta",
@@ -24684,12 +23844,6 @@
     "pu_code": "10/13/07/021",
     "pu_name": "ORHUE  SECONDARY SCHOOL, MEREJE",
     "name": "ORHUE  SECONDARY SCHOOL, MEREJE",
-    "lga": "OKPE",
-    "ward": "MEREJE  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "OKPE",
     "ward": "MEREJE  I",
     "state": "Delta",
@@ -24912,12 +24066,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OKPE",
-    "ward": "MEREJE  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/13/09/001",
     "pu_name": "OYENKE TOWN HALL, OYENKE I",
     "name": "OYENKE TOWN HALL, OYENKE I",
@@ -25056,12 +24204,6 @@
     "pu_code": "10/13/09/016",
     "pu_name": "OKUABUDE TOWN HALL II, OKUABUDE",
     "name": "OKUABUDE TOWN HALL II, OKUABUDE",
-    "lga": "OKPE",
-    "ward": "MEREJE  III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "OKPE",
     "ward": "MEREJE  III",
     "state": "Delta",
@@ -25446,12 +24588,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OKPE",
-    "ward": "UGHOTON",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/14/01/001",
     "pu_name": "ATUMA IGA PRIMARY SCHOOL - OGBE-ANI/AJAJI",
     "name": "ATUMA IGA PRIMARY SCHOOL - OGBE-ANI/AJAJI",
@@ -25623,12 +24759,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OSHIMILI - NORTH",
-    "ward": "AKWUKWU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/14/02/001",
     "pu_name": "UBUENI PRIMARY SCHOOL - OKUDU/OKELE/OGOR",
     "name": "UBUENI PRIMARY SCHOOL - OKUDU/OKELE/OGOR",
@@ -25722,12 +24852,6 @@
     "pu_code": "10/14/02/011",
     "pu_name": "EKPECHOR TOWN HALL",
     "name": "EKPECHOR TOWN HALL",
-    "lga": "OSHIMILI - NORTH",
-    "ward": "EBU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "OSHIMILI - NORTH",
     "ward": "EBU",
     "state": "Delta",
@@ -25932,12 +25056,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OSHIMILI - NORTH",
-    "ward": "ILLAH",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/14/04/001",
     "pu_name": "OMU GIRLS PRIMARY SCHOOL - EZEKWU/UMUOLOTO/UMUELIOKO/OBIOFUGO",
     "name": "OMU GIRLS PRIMARY SCHOOL - EZEKWU/UMUOLOTO/UMUELIOKO/OBIOFUGO",
@@ -26091,12 +25209,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OSHIMILI - NORTH",
-    "ward": "IBUSA  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/14/05/001",
     "pu_name": "IBUSA POST OFFICE - ISIEKE/MKPIKOLO/UMUOGBELE/IDUMUIGBA",
     "name": "IBUSA POST OFFICE - ISIEKE/MKPIKOLO/UMUOGBELE/IDUMUIGBA",
@@ -26226,12 +25338,6 @@
     "pu_code": "10/14/05/015",
     "pu_name": "IDUMUOBI OFILI HALL",
     "name": "IDUMUOBI OFILI HALL",
-    "lga": "OSHIMILI - NORTH",
-    "ward": "IBUSA  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "OSHIMILI - NORTH",
     "ward": "IBUSA  II",
     "state": "Delta",
@@ -26382,12 +25488,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OSHIMILI - NORTH",
-    "ward": "IBUSA  III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/14/07/001",
     "pu_name": "EZEMESE PRIMARY SCHOOL - UMUISOR VILLAGE  I",
     "name": "EZEMESE PRIMARY SCHOOL - UMUISOR VILLAGE  I",
@@ -26472,12 +25572,6 @@
     "pu_code": "10/14/07/010",
     "pu_name": "IKEUGBA OPEN SPACE",
     "name": "IKEUGBA OPEN SPACE",
-    "lga": "OSHIMILI - NORTH",
-    "ward": "IBUSA  IV",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "OSHIMILI - NORTH",
     "ward": "IBUSA  IV",
     "state": "Delta",
@@ -26586,12 +25680,6 @@
     "pu_code": "10/14/08/012",
     "pu_name": "PROPOSED OMU BOYS SECONDARY SCHOOL",
     "name": "PROPOSED OMU BOYS SECONDARY SCHOOL",
-    "lga": "OSHIMILI - NORTH",
-    "ward": "IBUSA V",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "OSHIMILI - NORTH",
     "ward": "IBUSA V",
     "state": "Delta",
@@ -26940,12 +26028,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OSHIMILI - NORTH",
-    "ward": "OKPANAM",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/14/10/001",
     "pu_name": "OKWUTE PRIMARY SCHOOL - UMUTONOR/UMUEZE",
     "name": "OKWUTE PRIMARY SCHOOL - UMUTONOR/UMUEZE",
@@ -26985,12 +26067,6 @@
     "pu_code": "10/14/10/005",
     "pu_name": "ANIWALO PRIMARY SCHOOL - ANINWALO I CAMP",
     "name": "ANIWALO PRIMARY SCHOOL - ANINWALO I CAMP",
-    "lga": "OSHIMILI - NORTH",
-    "ward": "UKALA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "OSHIMILI - NORTH",
     "ward": "UKALA",
     "state": "Delta",
@@ -27108,12 +26184,6 @@
     "pu_code": "10/15/01/013",
     "pu_name": "UTAKPALA CIVIC CENTRE ODIFULU",
     "name": "UTAKPALA CIVIC CENTRE ODIFULU",
-    "lga": "OSHIMILI - SOUTH",
-    "ward": "OGBELE/AKPAKO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "OSHIMILI - SOUTH",
     "ward": "OGBELE/AKPAKO",
     "state": "Delta",
@@ -27303,12 +26373,6 @@
     "pu_code": "10/15/02/021",
     "pu_name": "OKO ANALA BASIC SEC. SCH., ANALA II",
     "name": "OKO ANALA BASIC SEC. SCH., ANALA II",
-    "lga": "OSHIMILI - SOUTH",
-    "ward": "ANALA-AMAKOM",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "OSHIMILI - SOUTH",
     "ward": "ANALA-AMAKOM",
     "state": "Delta",
@@ -27525,12 +26589,6 @@
     "pu_code": "10/15/03/024",
     "pu_name": "OKWE MAGISTRATE COURT",
     "name": "OKWE MAGISTRATE COURT",
-    "lga": "OSHIMILI - SOUTH",
-    "ward": "OKWE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "OSHIMILI - SOUTH",
     "ward": "OKWE",
     "state": "Delta",
@@ -27852,12 +26910,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OSHIMILI - SOUTH",
-    "ward": "UMUEZEI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/15/05/001",
     "pu_name": "ABU-ATO PRIMARY SCHOOL - UMUEZEI/UMUDAEZE",
     "name": "ABU-ATO PRIMARY SCHOOL - UMUEZEI/UMUDAEZE",
@@ -28119,12 +27171,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OSHIMILI - SOUTH",
-    "ward": "UMUAJI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/15/06/001",
     "pu_name": "OTU-OGWU OPEN SPACE (OLG NURSERY SCH. UMUONAJE I)",
     "name": "OTU-OGWU OPEN SPACE (OLG NURSERY SCH. UMUONAJE I)",
@@ -28344,12 +27390,6 @@
     "pu_code": "10/15/06/025",
     "pu_name": "PRIMARY HEALTH CARE CENTRE II KWEKAGBOR/OGBEUDALA",
     "name": "PRIMARY HEALTH CARE CENTRE II KWEKAGBOR/OGBEUDALA",
-    "lga": "OSHIMILI - SOUTH",
-    "ward": "UMUONAJE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "OSHIMILI - SOUTH",
     "ward": "UMUONAJE",
     "state": "Delta",
@@ -28626,12 +27666,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OSHIMILI - SOUTH",
-    "ward": "AGU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/15/08/001",
     "pu_name": "OGWA UMUDAIKE/ - UMUDAIKE - DIKE ST. I",
     "name": "OGWA UMUDAIKE/ - UMUDAIKE - DIKE ST. I",
@@ -28806,12 +27840,6 @@
     "pu_code": "10/15/08/020",
     "pu_name": "OGWA OGBEOGWUGWU III",
     "name": "OGWA OGBEOGWUGWU III",
-    "lga": "OSHIMILI - SOUTH",
-    "ward": "UGBOMANTA QUARTERS",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "OSHIMILI - SOUTH",
     "ward": "UGBOMANTA QUARTERS",
     "state": "Delta",
@@ -29313,12 +28341,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OSHIMILI - SOUTH",
-    "ward": "WEST END",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/15/10/001",
     "pu_name": "OMELUGBOMA BY RICEMILL  - OMELUGBOMA",
     "name": "OMELUGBOMA BY RICEMILL  - OMELUGBOMA",
@@ -29625,12 +28647,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OSHIMILI - SOUTH",
-    "ward": "CABLE POINT  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/15/11/001",
     "pu_name": "ELENCHELLE QTERS OPEN FIELD ,ELENCHELLE PHASE 1",
     "name": "ELENCHELLE QTERS OPEN FIELD ,ELENCHELLE PHASE 1",
@@ -29928,12 +28944,6 @@
     "state_code": "10"
   },
   {
-    "lga": "OSHIMILI - SOUTH",
-    "ward": "CABLE POINT  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/16/01/001",
     "pu_name": "PREWARI",
     "name": "PREWARI",
@@ -30000,12 +29010,6 @@
     "pu_code": "10/16/01/008",
     "pu_name": "NEW AREDEINGHAZIAYINMA PRY. SCH. III",
     "name": "NEW AREDEINGHAZIAYINMA PRY. SCH. III",
-    "lga": "PATANI",
-    "ward": "ABARI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "PATANI",
     "ward": "ABARI",
     "state": "Delta",
@@ -30087,12 +29091,6 @@
     "pu_code": "10/16/02/009",
     "pu_name": "OSUWARE III",
     "name": "OSUWARE III",
-    "lga": "PATANI",
-    "ward": "PATANI  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "PATANI",
     "ward": "PATANI  I",
     "state": "Delta",
@@ -30189,12 +29187,6 @@
     "state_code": "10"
   },
   {
-    "lga": "PATANI",
-    "ward": "PATANI   II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/16/04/001",
     "pu_name": "OGEINWARE I (OPUKABOR PRIMARY SCHOOL)",
     "name": "OGEINWARE I (OPUKABOR PRIMARY SCHOOL)",
@@ -30252,12 +29244,6 @@
     "pu_code": "10/16/04/007",
     "pu_name": "AFINAWARE  III  BY CATHOLIC CHURCH",
     "name": "AFINAWARE  III  BY CATHOLIC CHURCH",
-    "lga": "PATANI",
-    "ward": "PATANI   III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "PATANI",
     "ward": "PATANI   III",
     "state": "Delta",
@@ -30345,12 +29331,6 @@
     "state_code": "10"
   },
   {
-    "lga": "PATANI",
-    "ward": "TAWARE/KOLOWARA AVEN",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/16/06/001",
     "pu_name": "KOROBAZI   I",
     "name": "KOROBAZI   I",
@@ -30414,12 +29394,6 @@
     "state_code": "10"
   },
   {
-    "lga": "PATANI",
-    "ward": "AGOLOMA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/16/07/001",
     "pu_name": "TORU-ANGIAMA PRIMARY SCHOOL, TORU-ANGIAMA",
     "name": "TORU-ANGIAMA PRIMARY SCHOOL, TORU-ANGIAMA",
@@ -30459,12 +29433,6 @@
     "pu_code": "10/16/07/005",
     "pu_name": "FORMER SECONDARY SCHOOL, TORU-ANGIAMA II",
     "name": "FORMER SECONDARY SCHOOL, TORU-ANGIAMA II",
-    "lga": "PATANI",
-    "ward": "TORU-ANGIAMA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "PATANI",
     "ward": "TORU-ANGIAMA",
     "state": "Delta",
@@ -30642,12 +29610,6 @@
     "state_code": "10"
   },
   {
-    "lga": "PATANI",
-    "ward": "BOLOU - ANGIAMA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/16/09/001",
     "pu_name": "ESE PRIMARY SCHOOL",
     "name": "ESE PRIMARY SCHOOL",
@@ -30741,12 +29703,6 @@
     "pu_code": "10/16/09/011",
     "pu_name": "UDUOPHORI SECONDARY COMM. SCHOOL II",
     "name": "UDUOPHORI SECONDARY COMM. SCHOOL II",
-    "lga": "PATANI",
-    "ward": "UDUOPHORI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "PATANI",
     "ward": "UDUOPHORI",
     "state": "Delta",
@@ -30873,12 +29829,6 @@
     "pu_code": "10/16/10/014",
     "pu_name": "BOLOU APELEBIRITOWN HALL I",
     "name": "BOLOU APELEBIRITOWN HALL I",
-    "lga": "PATANI",
-    "ward": "ODORUBU/ADOBU/BOLOU APELEBRI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "PATANI",
     "ward": "ODORUBU/ADOBU/BOLOU APELEBRI",
     "state": "Delta",
@@ -31146,12 +30096,6 @@
     "state_code": "10"
   },
   {
-    "lga": "SAPELE",
-    "ward": "SAPELE URBAN  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/17/02/001",
     "pu_name": "OMARIN PRIMARY SCHOOL, SAPELE I",
     "name": "OMARIN PRIMARY SCHOOL, SAPELE I",
@@ -31341,12 +30285,6 @@
     "state_code": "10"
   },
   {
-    "lga": "SAPELE",
-    "ward": "SAPELE URBAN  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/17/03/001",
     "pu_name": "ABBOT  PRIMARY SCHOOL, SAPELE I",
     "name": "ABBOT  PRIMARY SCHOOL, SAPELE I",
@@ -31476,12 +30414,6 @@
     "pu_code": "10/17/03/015",
     "pu_name": "OLEH  ROAD BY E.J EATERY",
     "name": "OLEH  ROAD BY E.J EATERY",
-    "lga": "SAPELE",
-    "ward": "SAPELE  URBAN  III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "SAPELE",
     "ward": "SAPELE  URBAN  III",
     "state": "Delta",
@@ -31722,12 +30654,6 @@
     "state_code": "10"
   },
   {
-    "lga": "SAPELE",
-    "ward": "SAPELE  URBAN  IV",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/17/05/001",
     "pu_name": "URHIAPELE PRIMARY SCHOOL, SAPELE I",
     "name": "URHIAPELE PRIMARY SCHOOL, SAPELE I",
@@ -31875,12 +30801,6 @@
     "pu_code": "10/17/05/017",
     "pu_name": "URHIAPELE PRIMARY SCHOOL, SAPELE III",
     "name": "URHIAPELE PRIMARY SCHOOL, SAPELE III",
-    "lga": "SAPELE",
-    "ward": "SAPELE  URBAN  V",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "SAPELE",
     "ward": "SAPELE  URBAN  V",
     "state": "Delta",
@@ -32043,12 +30963,6 @@
     "pu_code": "10/17/06/018",
     "pu_name": "O/S URHOBO  ROAD BY PALMER JUNCTION",
     "name": "O/S URHOBO  ROAD BY PALMER JUNCTION",
-    "lga": "SAPELE",
-    "ward": "SAPELE  URBAN  VI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "SAPELE",
     "ward": "SAPELE  URBAN  VI",
     "state": "Delta",
@@ -32289,12 +31203,6 @@
     "state_code": "10"
   },
   {
-    "lga": "SAPELE",
-    "ward": "SAPELE  URBAN  VII",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/17/08/001",
     "pu_name": "OMATSOLA PRIMARY SCHOOL, SAPELE I",
     "name": "OMATSOLA PRIMARY SCHOOL, SAPELE I",
@@ -32487,12 +31395,6 @@
     "pu_code": "10/17/08/022",
     "pu_name": "NEPA STAFF SCHOOL II",
     "name": "NEPA STAFF SCHOOL II",
-    "lga": "SAPELE",
-    "ward": "SAPELE  URBAN  VIII",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "SAPELE",
     "ward": "SAPELE  URBAN  VIII",
     "state": "Delta",
@@ -32985,12 +31887,6 @@
     "state_code": "10"
   },
   {
-    "lga": "SAPELE",
-    "ward": "AMUOKPE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/17/10/001",
     "pu_name": "OYEHEN",
     "name": "OYEHEN",
@@ -33225,12 +32121,6 @@
     "state_code": "10"
   },
   {
-    "lga": "SAPELE",
-    "ward": "ELUME",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/17/11/001",
     "pu_name": "OKUOVO TOWN HALL",
     "name": "OKUOVO TOWN HALL",
@@ -33351,12 +32241,6 @@
     "pu_code": "10/17/11/014",
     "pu_name": "UGBORHEN TOWN HALL",
     "name": "UGBORHEN TOWN HALL",
-    "lga": "SAPELE",
-    "ward": "OKOKPORO/UGBORHEN",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "SAPELE",
     "ward": "OKOKPORO/UGBORHEN",
     "state": "Delta",
@@ -33516,12 +32400,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UDU",
-    "ward": "UDU  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/18/02/001",
     "pu_name": "OWHRODE GRAMMAR SCHOOL, OWHRODE I",
     "name": "OWHRODE GRAMMAR SCHOOL, OWHRODE I",
@@ -33639,12 +32517,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UDU",
-    "ward": "UDU  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/18/03/001",
     "pu_name": "OGBE-UDU PRIMARY SCHOOL, OGBE -UDU",
     "name": "OGBE-UDU PRIMARY SCHOOL, OGBE -UDU",
@@ -33756,12 +32628,6 @@
     "pu_code": "10/18/03/013",
     "pu_name": "OGBE-UDU COMMUNITY T/H",
     "name": "OGBE-UDU COMMUNITY T/H",
-    "lga": "UDU",
-    "ward": "UDU  III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UDU",
     "ward": "UDU  III",
     "state": "Delta",
@@ -33957,12 +32823,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UDU",
-    "ward": "UDU  IV",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/18/05/001",
     "pu_name": "OPETE PRIMARY SCHOOL, OPETE",
     "name": "OPETE PRIMARY SCHOOL, OPETE",
@@ -34101,12 +32961,6 @@
     "pu_code": "10/18/05/016",
     "pu_name": "OKPAKA MARKET SQUARE",
     "name": "OKPAKA MARKET SQUARE",
-    "lga": "UDU",
-    "ward": "OPETE/ASSAGBA/EDJOPHE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UDU",
     "ward": "OPETE/ASSAGBA/EDJOPHE",
     "state": "Delta",
@@ -34368,12 +33222,6 @@
     "pu_code": "10/18/06/029",
     "pu_name": "OWHASE PRY SCH II",
     "name": "OWHASE PRY SCH II",
-    "lga": "UDU",
-    "ward": "EKETE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UDU",
     "ward": "EKETE",
     "state": "Delta",
@@ -34785,12 +33633,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UDU",
-    "ward": "OVWIAN   I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/18/08/001",
     "pu_name": "EGINI PRIMARY SCHOOL, EGINI",
     "name": "EGINI PRIMARY SCHOOL, EGINI",
@@ -34974,12 +33816,6 @@
     "pu_code": "10/18/08/021",
     "pu_name": "EDJEDU HALL",
     "name": "EDJEDU HALL",
-    "lga": "UDU",
-    "ward": "OVWIAN   II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UDU",
     "ward": "OVWIAN   II",
     "state": "Delta",
@@ -35481,12 +34317,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UDU",
-    "ward": "ORHUWHURUN",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/18/10/001",
     "pu_name": "ALADJA PRIMARY SCHOOL, ALADJA I",
     "name": "ALADJA PRIMARY SCHOOL, ALADJA I",
@@ -35796,12 +34626,6 @@
     "pu_code": "10/18/10/035",
     "pu_name": "IKPORO HALL ALADJA",
     "name": "IKPORO HALL ALADJA",
-    "lga": "UDU",
-    "ward": "ALADJA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UDU",
     "ward": "ALADJA",
     "state": "Delta",
@@ -36186,12 +35010,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UGHELLI NORTH",
-    "ward": "AGBARHA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/19/02/001",
     "pu_name": "UDUOKPE QUARTERS/OWHOWHA PRIMARY SCHOOL OTOGOR",
     "name": "UDUOKPE QUARTERS/OWHOWHA PRIMARY SCHOOL OTOGOR",
@@ -36408,12 +35226,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UGHELLI NORTH",
-    "ward": "OGOR",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/19/03/001",
     "pu_name": "UKU/OKPARA EMUKPO ST./OROGUN PRIMARY SCHOOL, OROGUN",
     "name": "UKU/OKPARA EMUKPO ST./OROGUN PRIMARY SCHOOL, OROGUN",
@@ -36543,12 +35355,6 @@
     "pu_code": "10/19/03/015",
     "pu_name": "ORHOKPOKPO  HALL, ORHOKPOKPO VILLAGE",
     "name": "ORHOKPOKPO  HALL, ORHOKPOKPO VILLAGE",
-    "lga": "UGHELLI NORTH",
-    "ward": "OROGUN   I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UGHELLI NORTH",
     "ward": "OROGUN   I",
     "state": "Delta",
@@ -36828,12 +35634,6 @@
     "pu_code": "10/19/04/031",
     "pu_name": "OVARA-UNUKPO COMMUNITY TOWN HALL",
     "name": "OVARA-UNUKPO COMMUNITY TOWN HALL",
-    "lga": "UGHELLI NORTH",
-    "ward": "OROGUN   II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UGHELLI NORTH",
     "ward": "OROGUN   II",
     "state": "Delta",
@@ -37257,12 +36057,6 @@
     "pu_code": "10/19/05/047",
     "pu_name": "AKPOFURE/ADONOWE STREET",
     "name": "AKPOFURE/ADONOWE STREET",
-    "lga": "UGHELLI NORTH",
-    "ward": "UGHELLI  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UGHELLI NORTH",
     "ward": "UGHELLI  I",
     "state": "Delta",
@@ -38088,12 +36882,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UGHELLI NORTH",
-    "ward": "UGHELLI  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/19/07/001",
     "pu_name": "IGO OOPRE QUARTERS/OGBOVWA TOWN HALL, OGBOVWA",
     "name": "IGO OOPRE QUARTERS/OGBOVWA TOWN HALL, OGBOVWA",
@@ -38436,12 +37224,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UGHELLI NORTH",
-    "ward": "UGHELLI  III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/19/08/001",
     "pu_name": "OGBODU STREET/OGBODU HALL, EVWRENI",
     "name": "OGBODU STREET/OGBODU HALL, EVWRENI",
@@ -38598,12 +37380,6 @@
     "pu_code": "10/19/08/018",
     "pu_name": "UREVWE COMMUNITY, EVWRENI",
     "name": "UREVWE COMMUNITY, EVWRENI",
-    "lga": "UGHELLI NORTH",
-    "ward": "EVWRENI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UGHELLI NORTH",
     "ward": "EVWRENI",
     "state": "Delta",
@@ -38892,12 +37668,6 @@
     "pu_code": "10/19/09/032",
     "pu_name": "IZEZE PRIMARY SCHOOL, AGADAMA OPHERHEVWE/OGOMORO",
     "name": "IZEZE PRIMARY SCHOOL, AGADAMA OPHERHEVWE/OGOMORO",
-    "lga": "UGHELLI NORTH",
-    "ward": "UWHERU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UGHELLI NORTH",
     "ward": "UWHERU",
     "state": "Delta",
@@ -39210,12 +37980,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UGHELLI NORTH",
-    "ward": "AGBARHO I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/19/11/001",
     "pu_name": "ODJEGBA/EHWERHERE/AGBARHO MODEL PRIMARY  SCHOOL, AGBARHO",
     "name": "ODJEGBA/EHWERHERE/AGBARHO MODEL PRIMARY  SCHOOL, AGBARHO",
@@ -39462,12 +38226,6 @@
     "pu_code": "10/19/11/028",
     "pu_name": "MAGISTRATES COURT, UGHWR-UGHELLI AGBARHO II",
     "name": "MAGISTRATES COURT, UGHWR-UGHELLI AGBARHO II",
-    "lga": "UGHELLI NORTH",
-    "ward": "AGBARHO II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UGHELLI NORTH",
     "ward": "AGBARHO II",
     "state": "Delta",
@@ -39789,12 +38547,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UGHELLI SOUTH",
-    "ward": "EWU  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/20/02/001",
     "pu_name": "GBAREGOLOR PRIMARY SCHOOL, GBAREGOLOR I",
     "name": "GBAREGOLOR PRIMARY SCHOOL, GBAREGOLOR I",
@@ -39933,12 +38685,6 @@
     "pu_code": "10/20/02/016",
     "pu_name": "EKADE HALL II, ORERE",
     "name": "EKADE HALL II, ORERE",
-    "lga": "UGHELLI SOUTH",
-    "ward": "EWU  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UGHELLI SOUTH",
     "ward": "EWU  II",
     "state": "Delta",
@@ -40089,12 +38835,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UGHELLI SOUTH",
-    "ward": "EWU  III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/20/04/001",
     "pu_name": "OGONI TOWN HALL, OGONI I",
     "name": "OGONI TOWN HALL, OGONI I",
@@ -40188,12 +38928,6 @@
     "pu_code": "10/20/04/011",
     "pu_name": "OKPAVUERHE PRIMARY SCHOOL, OKPAVUERHE",
     "name": "OKPAVUERHE PRIMARY SCHOOL, OKPAVUERHE",
-    "lga": "UGHELLI SOUTH",
-    "ward": "OLOMU  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UGHELLI SOUTH",
     "ward": "OLOMU  I",
     "state": "Delta",
@@ -40374,12 +39108,6 @@
     "pu_code": "10/20/05/020",
     "pu_name": "OVIRI-OLOMU HEALTH CENTRE, OVIRI-OLOMU",
     "name": "OVIRI-OLOMU HEALTH CENTRE, OVIRI-OLOMU",
-    "lga": "UGHELLI SOUTH",
-    "ward": "OLOMU  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UGHELLI SOUTH",
     "ward": "OLOMU  II",
     "state": "Delta",
@@ -40578,12 +39306,6 @@
     "pu_code": "10/20/06/022",
     "pu_name": "OKPARE HEALTH CENTRE, OKPARE",
     "name": "OKPARE HEALTH CENTRE, OKPARE",
-    "lga": "UGHELLI SOUTH",
-    "ward": "EFFURUN - OTOR",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UGHELLI SOUTH",
     "ward": "EFFURUN - OTOR",
     "state": "Delta",
@@ -40923,12 +39645,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UGHELLI SOUTH",
-    "ward": "EKAKPAMRE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/20/08/001",
     "pu_name": "IWHREKAN TOWN HALL, IWHAREKAN",
     "name": "IWHREKAN TOWN HALL, IWHAREKAN",
@@ -41067,12 +39783,6 @@
     "pu_code": "10/20/08/016",
     "pu_name": "EKREKPARHIE HALL, EDJOPHE",
     "name": "EKREKPARHIE HALL, EDJOPHE",
-    "lga": "UGHELLI SOUTH",
-    "ward": "JEREMI  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UGHELLI SOUTH",
     "ward": "JEREMI  I",
     "state": "Delta",
@@ -41376,12 +40086,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UGHELLI SOUTH",
-    "ward": "JEREMI  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/20/10/001",
     "pu_name": "OTOR-OKWAGBE TOWN HALL, OTOR-OKWAGBE",
     "name": "OTOR-OKWAGBE TOWN HALL, OTOR-OKWAGBE",
@@ -41538,12 +40242,6 @@
     "pu_code": "10/20/10/018",
     "pu_name": "IWHRE-AKPO HALL, OKWAGBE WATERSIDE",
     "name": "IWHRE-AKPO HALL, OKWAGBE WATERSIDE",
-    "lga": "UGHELLI SOUTH",
-    "ward": "JEREMI  III",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UGHELLI SOUTH",
     "ward": "JEREMI  III",
     "state": "Delta",
@@ -41730,12 +40428,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UGHELLI SOUTH",
-    "ward": "JEREMI  IV",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/21/01/001",
     "pu_name": "UGBELEME PRIMARY SCHOOL, OGBE - OGONOGO I",
     "name": "UGBELEME PRIMARY SCHOOL, OGBE - OGONOGO I",
@@ -41883,12 +40575,6 @@
     "pu_code": "10/21/01/017",
     "pu_name": "UMUT MATERNITY HEALTH CENTRE",
     "name": "UMUT MATERNITY HEALTH CENTRE",
-    "lga": "UKWUANI",
-    "ward": "UMUTU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UKWUANI",
     "ward": "UMUTU",
     "state": "Delta",
@@ -42084,12 +40770,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UKWUANI",
-    "ward": "AKOKU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/21/03/001",
     "pu_name": "EKPIMILI PRIMARY SCHOOL   OBI-OGENE",
     "name": "EKPIMILI PRIMARY SCHOOL   OBI-OGENE",
@@ -42192,12 +40872,6 @@
     "pu_code": "10/21/03/012",
     "pu_name": "OBI-UKUELE PRY SCH II",
     "name": "OBI-UKUELE PRY SCH II",
-    "lga": "UKWUANI",
-    "ward": "EBEDEI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UKWUANI",
     "ward": "EBEDEI",
     "state": "Delta",
@@ -42348,12 +41022,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UKWUANI",
-    "ward": "UMUKWATA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/21/05/001",
     "pu_name": "AKASHIEDE PRIMARY SCHOOL   UMUOSHI",
     "name": "AKASHIEDE PRIMARY SCHOOL   UMUOSHI",
@@ -42402,12 +41070,6 @@
     "pu_code": "10/21/05/006",
     "pu_name": "OBI  OGWA    EZIOKPOR-OBI",
     "name": "OBI  OGWA    EZIOKPOR-OBI",
-    "lga": "UKWUANI",
-    "ward": "EZIOKPOR",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UKWUANI",
     "ward": "EZIOKPOR",
     "state": "Delta",
@@ -42558,12 +41220,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UKWUANI",
-    "ward": "AMAI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/21/07/001",
     "pu_name": "EZHIE  PRIMARY SCHOOL   OGBE-UKU/ODOLU",
     "name": "EZHIE  PRIMARY SCHOOL   OGBE-UKU/ODOLU",
@@ -42663,12 +41319,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UKWUANI",
-    "ward": "EZIONUM",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/21/08/001",
     "pu_name": "EBU  PRIMARY  SCHOOL   OGBE - ISO",
     "name": "EBU  PRIMARY  SCHOOL   OGBE - ISO",
@@ -42726,12 +41376,6 @@
     "pu_code": "10/21/08/007",
     "pu_name": "EBU  PRIMARY  SCHOOL   AMALAMA II",
     "name": "EBU  PRIMARY  SCHOOL   AMALAMA II",
-    "lga": "UKWUANI",
-    "ward": "UMUEBU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UKWUANI",
     "ward": "UMUEBU",
     "state": "Delta",
@@ -42993,12 +41637,6 @@
     "pu_code": "10/21/09/029",
     "pu_name": "HEALTH CENTRE III",
     "name": "HEALTH CENTRE III",
-    "lga": "UKWUANI",
-    "ward": "OBIARUKU  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UKWUANI",
     "ward": "OBIARUKU  I",
     "state": "Delta",
@@ -43296,12 +41934,6 @@
     "pu_code": "10/21/10/033",
     "pu_name": "OPEN SPACE AGBANGA JUNCTION OBIARUKU",
     "name": "OPEN SPACE AGBANGA JUNCTION OBIARUKU",
-    "lga": "UKWUANI",
-    "ward": "OBIARUKU  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UKWUANI",
     "ward": "OBIARUKU  II",
     "state": "Delta",
@@ -43902,12 +42534,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UVWIE",
-    "ward": "EFFURUN  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/22/02/001",
     "pu_name": "ANGLE  90  MOTOR PARK",
     "name": "ANGLE  90  MOTOR PARK",
@@ -44205,12 +42831,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UVWIE",
-    "ward": "EFFURUN  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/22/03/001",
     "pu_name": "AGAGA  LAYOUT",
     "name": "AGAGA  LAYOUT",
@@ -44445,12 +43065,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UVWIE",
-    "ward": "ENERHEN  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/22/04/001",
     "pu_name": "TOWN HALL,  ENERHEN  TOWN I",
     "name": "TOWN HALL,  ENERHEN  TOWN I",
@@ -44670,12 +43284,6 @@
     "pu_code": "10/22/04/025",
     "pu_name": "OPEN SPACE BY DICKEY JUNCTION",
     "name": "OPEN SPACE BY DICKEY JUNCTION",
-    "lga": "UVWIE",
-    "ward": "ENERHEN  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UVWIE",
     "ward": "ENERHEN  II",
     "state": "Delta",
@@ -45051,12 +43659,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UVWIE",
-    "ward": "UGBORIKOKO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/22/06/001",
     "pu_name": "UGBOROKE TOWN UGBOROKE",
     "name": "UGBOROKE TOWN UGBOROKE",
@@ -45291,12 +43893,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UVWIE",
-    "ward": "UGBOROKE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/22/07/001",
     "pu_name": "UGBOMRO  TOWN HALL",
     "name": "UGBOMRO  TOWN HALL",
@@ -45489,12 +44085,6 @@
     "pu_code": "10/22/07/022",
     "pu_name": "UGBOLOKPOSO PRIMARY SCHOOL",
     "name": "UGBOLOKPOSO PRIMARY SCHOOL",
-    "lga": "UVWIE",
-    "ward": "UGBOMRO/UGBOLOKPOSO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UVWIE",
     "ward": "UGBOMRO/UGBOLOKPOSO",
     "state": "Delta",
@@ -45789,12 +44379,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UVWIE",
-    "ward": "ARMY BARRACKS AREA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/22/09/001",
     "pu_name": "BY SAIPEM CAMP  NNPC REFINERY",
     "name": "BY SAIPEM CAMP  NNPC REFINERY",
@@ -46014,12 +44598,6 @@
     "pu_code": "10/22/09/025",
     "pu_name": "UROMUKRI BY MOUNTAIN OF FIRE",
     "name": "UROMUKRI BY MOUNTAIN OF FIRE",
-    "lga": "UVWIE",
-    "ward": "EKPAN  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "UVWIE",
     "ward": "EKPAN  I",
     "state": "Delta",
@@ -46305,12 +44883,6 @@
     "state_code": "10"
   },
   {
-    "lga": "UVWIE",
-    "ward": "EKPAN  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/23/01/001",
     "pu_name": "AFIAKPA PRIMARY SCHOOL, EKEKPORO I",
     "name": "AFIAKPA PRIMARY SCHOOL, EKEKPORO I",
@@ -46572,12 +45144,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI  NORTH",
-    "ward": "OGHEYE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/23/02/001",
     "pu_name": "AJAMITA TOWN  HALL, AJAMITA I",
     "name": "AJAMITA TOWN  HALL, AJAMITA I",
@@ -46725,12 +45291,6 @@
     "pu_code": "10/23/02/017",
     "pu_name": "ARUNTON TEBU HALL, TEBU",
     "name": "ARUNTON TEBU HALL, TEBU",
-    "lga": "WARRI  NORTH",
-    "ward": "GBOKODA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI  NORTH",
     "ward": "GBOKODA",
     "state": "Delta",
@@ -46899,12 +45459,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI  NORTH",
-    "ward": "EBROHIMI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/23/04/001",
     "pu_name": "BERESIBE  PRIMARY SCHOOL  BERESIBE",
     "name": "BERESIBE  PRIMARY SCHOOL  BERESIBE",
@@ -47043,12 +45597,6 @@
     "pu_code": "10/23/04/016",
     "pu_name": "UGBOTOSAN COMMUNITY TOWN HALL",
     "name": "UGBOTOSAN COMMUNITY TOWN HALL",
-    "lga": "WARRI  NORTH",
-    "ward": "EGHORO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI  NORTH",
     "ward": "EGHORO",
     "state": "Delta",
@@ -47325,12 +45873,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI  NORTH",
-    "ward": "KOKO  I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/23/06/001",
     "pu_name": "UMEUGBE PRIMARY SCHOOL, ABEGBERODO I",
     "name": "UMEUGBE PRIMARY SCHOOL, ABEGBERODO I",
@@ -47547,12 +46089,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI  NORTH",
-    "ward": "KOKO  II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/23/07/001",
     "pu_name": "AZAMAZION PRIMARY SCHOOL,  AZAMAZION I",
     "name": "AZAMAZION PRIMARY SCHOOL,  AZAMAZION I",
@@ -47682,12 +46218,6 @@
     "pu_code": "10/23/07/015",
     "pu_name": "OBOLOLO PRY. SCHOOL, KPOKUGBENE",
     "name": "OBOLOLO PRY. SCHOOL, KPOKUGBENE",
-    "lga": "WARRI  NORTH",
-    "ward": "OPUAMA (EGBEMA  I)",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI  NORTH",
     "ward": "OPUAMA (EGBEMA  I)",
     "state": "Delta",
@@ -47856,12 +46386,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI  NORTH",
-    "ward": "TSEKELEWU  (EGBEMA  II)",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/23/09/001",
     "pu_name": "OGEDUBA TOWN HALL, OGEDUBA I",
     "name": "OGEDUBA TOWN HALL, OGEDUBA I",
@@ -47988,12 +46512,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI  NORTH",
-    "ward": "OGBINBIRI  (EGBEMA  III)",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/23/10/001",
     "pu_name": "ABADIGBENE PRIMARY SCHOOL, ABADIGBENE I",
     "name": "ABADIGBENE PRIMARY SCHOOL, ABADIGBENE I",
@@ -48087,12 +46605,6 @@
     "pu_code": "10/23/10/011",
     "pu_name": "OPUABO/ASANTUGBENE COMMUNITY HALL, OGBUDUGBUDU",
     "name": "OPUABO/ASANTUGBENE COMMUNITY HALL, OGBUDUGBUDU",
-    "lga": "WARRI  NORTH",
-    "ward": "OGBUDUGBUDU  (EGBEMA  IV)",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI  NORTH",
     "ward": "OGBUDUGBUDU  (EGBEMA  IV)",
     "state": "Delta",
@@ -48369,12 +46881,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI SOUTH",
-    "ward": "OBODO/OMADINO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/24/02/001",
     "pu_name": "IGINUWA PRIMARY SCHOOL, ODE-ITSEKIRI I",
     "name": "IGINUWA PRIMARY SCHOOL, ODE-ITSEKIRI I",
@@ -48564,12 +47070,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI SOUTH",
-    "ward": "ODE-ITSEKIRI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/24/03/001",
     "pu_name": "OGUNU PRIMARY SCHOOL, OGUNU I",
     "name": "OGUNU PRIMARY SCHOOL, OGUNU I",
@@ -48735,12 +47235,6 @@
     "pu_code": "10/24/03/019",
     "pu_name": "ISIBOVBE PRY SCH",
     "name": "ISIBOVBE PRY SCH",
-    "lga": "WARRI SOUTH",
-    "ward": "OGUNU/EKUREDE-URHOBO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI SOUTH",
     "ward": "OGUNU/EKUREDE-URHOBO",
     "state": "Delta",
@@ -49011,12 +47505,6 @@
     "pu_code": "10/24/04/030",
     "pu_name": "AWAM OGBE HALL",
     "name": "AWAM OGBE HALL",
-    "lga": "WARRI SOUTH",
-    "ward": "UGBUWANGUE/EKUREDE-ITSEKIRI",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI SOUTH",
     "ward": "UGBUWANGUE/EKUREDE-ITSEKIRI",
     "state": "Delta",
@@ -49305,12 +47793,6 @@
     "pu_code": "10/24/05/032",
     "pu_name": "DELTA BOATYARD II",
     "name": "DELTA BOATYARD II",
-    "lga": "WARRI SOUTH",
-    "ward": "G.R.A.",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI SOUTH",
     "ward": "G.R.A.",
     "state": "Delta",
@@ -49641,12 +48123,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI SOUTH",
-    "ward": "BOWEN",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/24/07/001",
     "pu_name": "I.C.E., PESSU SIDE OF ODION ROAD I",
     "name": "I.C.E., PESSU SIDE OF ODION ROAD I",
@@ -49866,12 +48342,6 @@
     "pu_code": "10/24/07/025",
     "pu_name": "OPEN SPACE BEHIND COASTLINE BANK",
     "name": "OPEN SPACE BEHIND COASTLINE BANK",
-    "lga": "WARRI SOUTH",
-    "ward": "PESSU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI SOUTH",
     "ward": "PESSU",
     "state": "Delta",
@@ -50115,12 +48585,6 @@
     "pu_code": "10/24/08/027",
     "pu_name": "FIRE SERVICE AT OBAHOR",
     "name": "FIRE SERVICE AT OBAHOR",
-    "lga": "WARRI SOUTH",
-    "ward": "OKERE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI SOUTH",
     "ward": "OKERE",
     "state": "Delta",
@@ -50541,12 +49005,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI SOUTH",
-    "ward": "IGBUDU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/24/10/001",
     "pu_name": "EDJEBA PRIMARY SCHOOL, EDJEBA I",
     "name": "EDJEBA PRIMARY SCHOOL, EDJEBA I",
@@ -50685,12 +49143,6 @@
     "pu_code": "10/24/10/016",
     "pu_name": "AJIDI HALL",
     "name": "AJIDI HALL",
-    "lga": "WARRI SOUTH",
-    "ward": "EDJEBA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI SOUTH",
     "ward": "EDJEBA",
     "state": "Delta",
@@ -50979,12 +49431,6 @@
     "pu_code": "10/24/11/032",
     "pu_name": "EKPEN",
     "name": "EKPEN",
-    "lga": "WARRI SOUTH",
-    "ward": "OKUMAGBA I",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI SOUTH",
     "ward": "OKUMAGBA I",
     "state": "Delta",
@@ -51318,12 +49764,6 @@
     "pu_code": "10/24/12/037",
     "pu_name": "OPEN SPACE IN MADUKU STREET",
     "name": "OPEN SPACE IN MADUKU STREET",
-    "lga": "WARRI SOUTH",
-    "ward": "OKUMAGBA II",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI SOUTH",
     "ward": "OKUMAGBA II",
     "state": "Delta",
@@ -51699,12 +50139,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI SOUTH  WEST",
-    "ward": "OGBE - IJOH",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/25/02/001",
     "pu_name": "ISABA PRIMARY SCHOOL",
     "name": "ISABA PRIMARY SCHOOL",
@@ -51930,12 +50364,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI SOUTH  WEST",
-    "ward": "ISABA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/25/03/001",
     "pu_name": "OPOROZA PRIMARY SCHOOL",
     "name": "OPOROZA PRIMARY SCHOOL",
@@ -52137,12 +50565,6 @@
     "pu_code": "10/25/03/023",
     "pu_name": "OKPELEAMA ZION PLAYGROUND",
     "name": "OKPELEAMA ZION PLAYGROUND",
-    "lga": "WARRI SOUTH  WEST",
-    "ward": "OPOROZA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI SOUTH  WEST",
     "ward": "OPOROZA",
     "state": "Delta",
@@ -52761,12 +51183,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI SOUTH  WEST",
-    "ward": "GBARAMATU",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/25/05/001",
     "pu_name": "ARUNTON QUARTERS I",
     "name": "ARUNTON QUARTERS I",
@@ -53307,12 +51723,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI SOUTH  WEST",
-    "ward": "UGBORODO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/25/06/001",
     "pu_name": "OGOGORO  QUARTERS",
     "name": "OGOGORO  QUARTERS",
@@ -53424,12 +51834,6 @@
     "pu_code": "10/25/06/013",
     "pu_name": "ODOME QUARTERS",
     "name": "ODOME QUARTERS",
-    "lga": "WARRI SOUTH  WEST",
-    "ward": "AKPIKPA",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI SOUTH  WEST",
     "ward": "AKPIKPA",
     "state": "Delta",
@@ -53565,12 +51969,6 @@
     "pu_code": "10/25/07/015",
     "pu_name": "TORISTSEMOTSE  QUARTERS",
     "name": "TORISTSEMOTSE  QUARTERS",
-    "lga": "WARRI SOUTH  WEST",
-    "ward": "MADANGHO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI SOUTH  WEST",
     "ward": "MADANGHO",
     "state": "Delta",
@@ -54117,12 +52515,6 @@
     "state_code": "10"
   },
   {
-    "lga": "WARRI SOUTH  WEST",
-    "ward": "ORERE",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "pu_code": "10/25/09/001",
     "pu_name": "ASUMBO  TOWN  HALL I",
     "name": "ASUMBO  TOWN  HALL I",
@@ -54225,12 +52617,6 @@
     "pu_code": "10/25/09/012",
     "pu_name": "AJA-ATSETOSN QUARTERS",
     "name": "AJA-ATSETOSN QUARTERS",
-    "lga": "WARRI SOUTH  WEST",
-    "ward": "AJA - UDAIBO",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI SOUTH  WEST",
     "ward": "AJA - UDAIBO",
     "state": "Delta",
@@ -54366,12 +52752,6 @@
     "pu_code": "10/25/10/015",
     "pu_name": "AJA-MAWE",
     "name": "AJA-MAWE",
-    "lga": "WARRI SOUTH  WEST",
-    "ward": "OGIDIGBEN",
-    "state": "Delta",
-    "state_code": "10"
-  },
-  {
     "lga": "WARRI SOUTH  WEST",
     "ward": "OGIDIGBEN",
     "state": "Delta",

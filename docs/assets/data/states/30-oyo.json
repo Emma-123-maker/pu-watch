@@ -108,12 +108,6 @@
     "state_code": "30"
   },
   {
-    "lga": "AFIJIO",
-    "ward": "ILORA I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/01/02/001",
     "pu_name": "AKINDELE OPEN SPACE",
     "name": "AKINDELE OPEN SPACE",
@@ -294,12 +288,6 @@
     "state_code": "30"
   },
   {
-    "lga": "AFIJIO",
-    "ward": "ILORA II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/01/03/001",
     "pu_name": "ARIBOMBO OPEN SPACE",
     "name": "ARIBOMBO OPEN SPACE",
@@ -357,12 +345,6 @@
     "pu_code": "30/01/03/007",
     "pu_name": "ALAWUSA PRY SCHOOL, ILORA",
     "name": "ALAWUSA PRY SCHOOL, ILORA",
-    "lga": "AFIJIO",
-    "ward": "ILORA III",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "AFIJIO",
     "ward": "ILORA III",
     "state": "Oyo",
@@ -459,12 +441,6 @@
     "state_code": "30"
   },
   {
-    "lga": "AFIJIO",
-    "ward": "FIDITI I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/01/05/001",
     "pu_name": "ABESE OPEN SPACE",
     "name": "ABESE OPEN SPACE",
@@ -513,12 +489,6 @@
     "pu_code": "30/01/05/006",
     "pu_name": "CUSTOMARY COURT",
     "name": "CUSTOMARY COURT",
-    "lga": "AFIJIO",
-    "ward": "FIDITI II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "AFIJIO",
     "ward": "FIDITI II",
     "state": "Oyo",
@@ -615,12 +585,6 @@
     "state_code": "30"
   },
   {
-    "lga": "AFIJIO",
-    "ward": "AWE I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/01/07/001",
     "pu_name": "AWE HIGH SCHOOL",
     "name": "AWE HIGH SCHOOL",
@@ -687,12 +651,6 @@
     "pu_code": "30/01/07/008",
     "pu_name": "OPEN SPACE, AMOO FARM SIIEBERER HATCHERY",
     "name": "OPEN SPACE, AMOO FARM SIIEBERER HATCHERY",
-    "lga": "AFIJIO",
-    "ward": "AWE II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "AFIJIO",
     "ward": "AWE II",
     "state": "Oyo",
@@ -807,12 +765,6 @@
     "state_code": "30"
   },
   {
-    "lga": "AFIJIO",
-    "ward": "AKINMORIN/JOBELE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/01/09/001",
     "pu_name": "AKINOLA VILLAGE O/SPACE",
     "name": "AKINOLA VILLAGE O/SPACE",
@@ -852,12 +804,6 @@
     "pu_code": "30/01/09/005",
     "pu_name": "L.A. PRY. SCHOOL, IWARE",
     "name": "L.A. PRY. SCHOOL, IWARE",
-    "lga": "AFIJIO",
-    "ward": "IWARE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "AFIJIO",
     "ward": "IWARE",
     "state": "Oyo",
@@ -909,12 +855,6 @@
     "state_code": "30"
   },
   {
-    "lga": "AFIJIO",
-    "ward": "IMINI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/02/01/001",
     "pu_name": "FALEYE VILLAGE",
     "name": "FALEYE VILLAGE",
@@ -945,12 +885,6 @@
     "pu_code": "30/02/01/004",
     "pu_name": "METHODIST PRY. SCHOOL, IKEREKU III",
     "name": "METHODIST PRY. SCHOOL, IKEREKU III",
-    "lga": "AKINYELE",
-    "ward": "IKEREKU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "AKINYELE",
     "ward": "IKEREKU",
     "state": "Oyo",
@@ -1077,12 +1011,6 @@
     "pu_code": "30/02/02/014",
     "pu_name": "ST. JAMES' S PRY. SCHOOL, OGUNJINMI",
     "name": "ST. JAMES' S PRY. SCHOOL, OGUNJINMI",
-    "lga": "AKINYELE",
-    "ward": "OLANLA/OBODA/LABODE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "AKINYELE",
     "ward": "OLANLA/OBODA/LABODE",
     "state": "Oyo",
@@ -1242,12 +1170,6 @@
     "state_code": "30"
   },
   {
-    "lga": "AKINYELE",
-    "ward": "ARULOGUN/ENIOSA/ARORO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/02/04/001",
     "pu_name": "ABATAN VILLAGE",
     "name": "ABATAN VILLAGE",
@@ -1305,12 +1227,6 @@
     "pu_code": "30/02/04/007",
     "pu_name": "BESIDE COOOPERATIVE BUILDING, OLORUNTEDO",
     "name": "BESIDE COOOPERATIVE BUILDING, OLORUNTEDO",
-    "lga": "AKINYELE",
-    "ward": "OLODE/AMOSUN/ONIDUNDU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "AKINYELE",
     "ward": "OLODE/AMOSUN/ONIDUNDU",
     "state": "Oyo",
@@ -1983,12 +1899,6 @@
     "state_code": "30"
   },
   {
-    "lga": "AKINYELE",
-    "ward": "OJO-EMO/MONIYA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/02/06/001",
     "pu_name": "AJOBO VILLAGE",
     "name": "AJOBO VILLAGE",
@@ -2124,12 +2034,6 @@
     "state_code": "30"
   },
   {
-    "lga": "AKINYELE",
-    "ward": "AKINYELE/ISABIYI/IREPODUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/02/07/001",
     "pu_name": "AYUN/COMM. GRAMMAR SCHOOL, APAPA ODAN/SOKINLOJU",
     "name": "AYUN/COMM. GRAMMAR SCHOOL, APAPA ODAN/SOKINLOJU",
@@ -2205,12 +2109,6 @@
     "pu_code": "30/02/07/009",
     "pu_name": "IWOTOKO COMMUNITY GRAMMAR SCHOOL, OLUBO VILLAGE",
     "name": "IWOTOKO COMMUNITY GRAMMAR SCHOOL, OLUBO VILLAGE",
-    "lga": "AKINYELE",
-    "ward": "IWOKOTO/TALONTAN/IDI-ORO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "AKINYELE",
     "ward": "IWOKOTO/TALONTAN/IDI-ORO",
     "state": "Oyo",
@@ -3045,12 +2943,6 @@
     "state_code": "30"
   },
   {
-    "lga": "AKINYELE",
-    "ward": "OJOO/AJIBODE/LANIBA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/02/09/001",
     "pu_name": "AJEJA VILLAGE",
     "name": "AJEJA VILLAGE",
@@ -3204,12 +3096,6 @@
     "state_code": "30"
   },
   {
-    "lga": "AKINYELE",
-    "ward": "IJAYE/OJEDEJI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/02/10/001",
     "pu_name": "AGBEDO VILLAGE",
     "name": "AGBEDO VILLAGE",
@@ -3327,12 +3213,6 @@
     "state_code": "30"
   },
   {
-    "lga": "AKINYELE",
-    "ward": "AJIBADE/ALABATA/ELEKURU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/02/11/001",
     "pu_name": "ASANI VILLAGE",
     "name": "ASANI VILLAGE",
@@ -3423,12 +3303,6 @@
     "state_code": "30"
   },
   {
-    "lga": "AKINYELE",
-    "ward": "OLORISA-OKO/OKEGBEMI/MELE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/02/12/001",
     "pu_name": "C.A.C. SCHOOL, IROKO VILLAGE",
     "name": "C.A.C. SCHOOL, IROKO VILLAGE",
@@ -3477,12 +3351,6 @@
     "pu_code": "30/02/12/006",
     "pu_name": "AKINKUNMI VILLAGE",
     "name": "AKINKUNMI VILLAGE",
-    "lga": "AKINYELE",
-    "ward": "IROKO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "AKINYELE",
     "ward": "IROKO",
     "state": "Oyo",
@@ -3582,12 +3450,6 @@
     "pu_code": "30/03/01/011",
     "pu_name": "OUTSIDE SECOND GATE ATIBA L.G.A SUBEB OFFICE",
     "name": "OUTSIDE SECOND GATE ATIBA L.G.A SUBEB OFFICE",
-    "lga": "ATIBA",
-    "ward": "OKE-AFIN 1",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ATIBA",
     "ward": "OKE-AFIN 1",
     "state": "Oyo",
@@ -3702,12 +3564,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ATIBA",
-    "ward": "OKE-AFIN II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/03/03/001",
     "pu_name": "ADESINA",
     "name": "ADESINA",
@@ -3765,12 +3621,6 @@
     "pu_code": "30/03/03/007",
     "pu_name": "OPEN SPACE, IKOLABA COMPOUND.",
     "name": "OPEN SPACE, IKOLABA COMPOUND.",
-    "lga": "ATIBA",
-    "ward": "AREMO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ATIBA",
     "ward": "AREMO",
     "state": "Oyo",
@@ -3897,12 +3747,6 @@
     "pu_code": "30/03/04/014",
     "pu_name": "OPEN SPACE, ADESINA COMPOUND.",
     "name": "OPEN SPACE, ADESINA COMPOUND.",
-    "lga": "ATIBA",
-    "ward": "BASHORUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ATIBA",
     "ward": "BASHORUN",
     "state": "Oyo",
@@ -4038,12 +3882,6 @@
     "pu_code": "30/03/05/015",
     "pu_name": "OPEN SPACE OLUKOKUN COMPOUND",
     "name": "OPEN SPACE OLUKOKUN COMPOUND",
-    "lga": "ATIBA",
-    "ward": "AGUNPOPO I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ATIBA",
     "ward": "AGUNPOPO I",
     "state": "Oyo",
@@ -4197,12 +4035,6 @@
     "pu_code": "30/03/06/017",
     "pu_name": "OPEN SPACE LAGUNNA JUNCTION",
     "name": "OPEN SPACE LAGUNNA JUNCTION",
-    "lga": "ATIBA",
-    "ward": "AGUNPOPO II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ATIBA",
     "ward": "AGUNPOPO II",
     "state": "Oyo",
@@ -4380,12 +4212,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ATIBA",
-    "ward": "AGUNPOPO III",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/03/08/001",
     "pu_name": "AATAN",
     "name": "AATAN",
@@ -4524,12 +4350,6 @@
     "pu_code": "30/03/08/016",
     "pu_name": "OPEN SPACE AMUKI JUNCTION",
     "name": "OPEN SPACE AMUKI JUNCTION",
-    "lga": "ATIBA",
-    "ward": "ASHIPA I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ATIBA",
     "ward": "ASHIPA I",
     "state": "Oyo",
@@ -4860,12 +4680,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ATIBA",
-    "ward": "ASHIPA II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/03/10/001",
     "pu_name": "AGBERINDE",
     "name": "AGBERINDE",
@@ -5055,12 +4869,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ATIBA",
-    "ward": "ASHIPA III",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/04/01/001",
     "pu_name": "BAPTIST PRIMARY SCHOOL I",
     "name": "BAPTIST PRIMARY SCHOOL I",
@@ -5199,12 +5007,6 @@
     "pu_code": "30/04/01/016",
     "pu_name": "OPPOSITE EBENEZER CHURCH",
     "name": "OPPOSITE EBENEZER CHURCH",
-    "lga": "ATISBO",
-    "ward": "TEDE I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ATISBO",
     "ward": "TEDE I",
     "state": "Oyo",
@@ -5418,12 +5220,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ATISBO",
-    "ward": "TEDE II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/04/03/001",
     "pu_name": "BAPTIST PRIMARY SCHOOL I (A)",
     "name": "BAPTIST PRIMARY SCHOOL I (A)",
@@ -5550,12 +5346,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ATISBO",
-    "ward": "IRAWO ILE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/04/04/001",
     "pu_name": "NURSERY PRIMARY SCHOOL I (A)",
     "name": "NURSERY PRIMARY SCHOOL I (A)",
@@ -5676,12 +5466,6 @@
     "pu_code": "30/04/04/014",
     "pu_name": "ONIYENI COMPOUND AREA",
     "name": "ONIYENI COMPOUND AREA",
-    "lga": "ATISBO",
-    "ward": "IRAWO OWODE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ATISBO",
     "ward": "IRAWO OWODE",
     "state": "Oyo",
@@ -5877,12 +5661,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ATISBO",
-    "ward": "OFIKI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/04/06/001",
     "pu_name": "CENTRAL MARKET ALAGA  I",
     "name": "CENTRAL MARKET ALAGA  I",
@@ -5994,12 +5772,6 @@
     "pu_code": "30/04/06/013",
     "pu_name": "ABUGUDU PRIMARY SCHOOL ( BLOCK B)",
     "name": "ABUGUDU PRIMARY SCHOOL ( BLOCK B)",
-    "lga": "ATISBO",
-    "ward": "ALAGA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ATISBO",
     "ward": "ALAGA",
     "state": "Oyo",
@@ -6144,12 +5916,6 @@
     "pu_code": "30/04/07/016",
     "pu_name": "N.U.D PRIMARY SCHOOL II (B)",
     "name": "N.U.D PRIMARY SCHOOL II (B)",
-    "lga": "ATISBO",
-    "ward": "AGO ARE I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ATISBO",
     "ward": "AGO ARE I",
     "state": "Oyo",
@@ -6318,12 +6084,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ATISBO",
-    "ward": "AGO ARE II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/04/09/001",
     "pu_name": "BAPTIST PRIMARY SCHOOL I, OWO",
     "name": "BAPTIST PRIMARY SCHOOL I, OWO",
@@ -6414,12 +6174,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ATISBO",
-    "ward": "OWO/AGUNREGE/SABE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/04/10/001",
     "pu_name": "CORNER OWO PRIMARY SCHOOL",
     "name": "CORNER OWO PRIMARY SCHOOL",
@@ -6477,12 +6231,6 @@
     "pu_code": "30/04/10/007",
     "pu_name": "BAPTIST PRIMARY SCHOOL, BAASI ( BLOCK B)",
     "name": "BAPTIST PRIMARY SCHOOL, BAASI ( BLOCK B)",
-    "lga": "ATISBO",
-    "ward": "BAASI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ATISBO",
     "ward": "BAASI",
     "state": "Oyo",
@@ -6669,12 +6417,6 @@
     "state_code": "30"
   },
   {
-    "lga": "EGBEDA",
-    "ward": "ERUNMU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/05/02/001",
     "pu_name": "ALAPAKE",
     "name": "ALAPAKE",
@@ -6759,12 +6501,6 @@
     "pu_code": "30/05/02/010",
     "pu_name": "SOLADEMI VILLAGE",
     "name": "SOLADEMI VILLAGE",
-    "lga": "EGBEDA",
-    "ward": "AYEDE/ALUGBO/KOLOKO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "EGBEDA",
     "ward": "AYEDE/ALUGBO/KOLOKO",
     "state": "Oyo",
@@ -6888,12 +6624,6 @@
     "state_code": "30"
   },
   {
-    "lga": "EGBEDA",
-    "ward": "OWOBAALE/KASUMU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/05/04/001",
     "pu_name": "ANGLICAN PRIMARY SCHOOL, JOODA I",
     "name": "ANGLICAN PRIMARY SCHOOL, JOODA I",
@@ -6969,12 +6699,6 @@
     "pu_code": "30/05/04/009",
     "pu_name": "UNITED PRIMARY SCHOOL, AJIWOGBO",
     "name": "UNITED PRIMARY SCHOOL, AJIWOGBO",
-    "lga": "EGBEDA",
-    "ward": "OLODAN/AJIWOGBO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "EGBEDA",
     "ward": "OLODAN/AJIWOGBO",
     "state": "Oyo",
@@ -7236,12 +6960,6 @@
     "pu_code": "30/05/05/029",
     "pu_name": "OPEN SPACE BESIDE CENTRAL MOSQUE KOKOKO",
     "name": "OPEN SPACE BESIDE CENTRAL MOSQUE KOKOKO",
-    "lga": "EGBEDA",
-    "ward": "OLODO/KUMAPAYI I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "EGBEDA",
     "ward": "OLODO/KUMAPAYI I",
     "state": "Oyo",
@@ -7680,12 +7398,6 @@
     "state_code": "30"
   },
   {
-    "lga": "EGBEDA",
-    "ward": "OLODO II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/05/07/001",
     "pu_name": "AGBALEGAN",
     "name": "AGBALEGAN",
@@ -7965,12 +7677,6 @@
     "state_code": "30"
   },
   {
-    "lga": "EGBEDA",
-    "ward": "OLODO III",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/05/08/001",
     "pu_name": "ABA ALUFAA",
     "name": "ABA ALUFAA",
@@ -8091,12 +7797,6 @@
     "pu_code": "30/05/08/014",
     "pu_name": "OPEN SPACE IDI-AGBON OSENGERE",
     "name": "OPEN SPACE IDI-AGBON OSENGERE",
-    "lga": "EGBEDA",
-    "ward": "OSEGERE/AWAYE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "EGBEDA",
     "ward": "OSEGERE/AWAYE",
     "state": "Oyo",
@@ -8340,12 +8040,6 @@
     "pu_code": "30/05/09/027",
     "pu_name": "IFESOWAPO HALL EGBEDA (OPEN SPACE)",
     "name": "IFESOWAPO HALL EGBEDA (OPEN SPACE)",
-    "lga": "EGBEDA",
-    "ward": "EGBEDA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "EGBEDA",
     "ward": "EGBEDA",
     "state": "Oyo",
@@ -8793,12 +8487,6 @@
     "state_code": "30"
   },
   {
-    "lga": "EGBEDA",
-    "ward": "OLODE/ALAKIA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/05/11/001",
     "pu_name": "ALARERE (LAGOS EXPRESS)",
     "name": "ALARERE (LAGOS EXPRESS)",
@@ -9195,12 +8883,6 @@
     "state_code": "30"
   },
   {
-    "lga": "EGBEDA",
-    "ward": "OLUBADAN ESTATE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/06/01/001",
     "pu_name": "AGBO COMPOUND",
     "name": "AGBO COMPOUND",
@@ -9357,12 +9039,6 @@
     "pu_code": "30/06/01/018",
     "pu_name": "ASSEMBLY AREA, ST MARY SCHOOL",
     "name": "ASSEMBLY AREA, ST MARY SCHOOL",
-    "lga": "IBADAN NORTH",
-    "ward": "WARD I N2",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH",
     "ward": "WARD I N2",
     "state": "Oyo",
@@ -9615,12 +9291,6 @@
     "pu_code": "30/06/02/028",
     "pu_name": "BESIDE ST STEPHEN CHURCH",
     "name": "BESIDE ST STEPHEN CHURCH",
-    "lga": "IBADAN NORTH",
-    "ward": "WARD II, N3",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH",
     "ward": "WARD II, N3",
     "state": "Oyo",
@@ -10167,12 +9837,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN NORTH",
-    "ward": "WARD III, N4",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/06/04/001",
     "pu_name": "SANNI STREET, IDI-TAP",
     "name": "SANNI STREET, IDI-TAP",
@@ -10644,12 +10308,6 @@
     "pu_code": "30/06/04/053",
     "pu_name": "AJIBODU COMPOUND AREA",
     "name": "AJIBODU COMPOUND AREA",
-    "lga": "IBADAN NORTH",
-    "ward": "WARD IV, N5A",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH",
     "ward": "WARD IV, N5A",
     "state": "Oyo",
@@ -11268,12 +10926,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN NORTH",
-    "ward": "WARD V, N5B",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/06/06/001",
     "pu_name": "OLD MOTOR PARK, SABO",
     "name": "OLD MOTOR PARK, SABO",
@@ -11511,12 +11163,6 @@
     "pu_code": "30/06/06/027",
     "pu_name": "OPP. SCALA CINEMA SABO",
     "name": "OPP. SCALA CINEMA SABO",
-    "lga": "IBADAN NORTH",
-    "ward": "WARD VI, N6A PART I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH",
     "ward": "WARD VI, N6A PART I",
     "state": "Oyo",
@@ -11805,12 +11451,6 @@
     "pu_code": "30/06/07/032",
     "pu_name": "OPEN SPACE CLOSE TO CAC OBADARE",
     "name": "OPEN SPACE CLOSE TO CAC OBADARE",
-    "lga": "IBADAN NORTH",
-    "ward": "WARD VII, N6A PART II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH",
     "ward": "WARD VII, N6A PART II",
     "state": "Oyo",
@@ -12384,12 +12024,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN NORTH",
-    "ward": "WARD VIII, N6A PART III",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/06/09/001",
     "pu_name": "BEHIND OBA AKINBIYI HIGH SCHOOL (I)",
     "name": "BEHIND OBA AKINBIYI HIGH SCHOOL (I)",
@@ -12591,12 +12225,6 @@
     "pu_code": "30/06/09/023",
     "pu_name": "BESIDE ROYAL CLINIC",
     "name": "BESIDE ROYAL CLINIC",
-    "lga": "IBADAN NORTH",
-    "ward": "WARD IX, (N6B PART I)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH",
     "ward": "WARD IX, (N6B PART I)",
     "state": "Oyo",
@@ -12903,12 +12531,6 @@
     "pu_code": "30/06/10/034",
     "pu_name": "OPPOSITE G.T.B. AJIBADE MOKOLA",
     "name": "OPPOSITE G.T.B. AJIBADE MOKOLA",
-    "lga": "IBADAN NORTH",
-    "ward": "WARD X, N6B PART II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH",
     "ward": "WARD X, N6B PART II",
     "state": "Oyo",
@@ -13296,12 +12918,6 @@
     "pu_code": "30/06/11/043",
     "pu_name": "INFRONT OF PARIS HOTEL SAMONDA",
     "name": "INFRONT OF PARIS HOTEL SAMONDA",
-    "lga": "IBADAN NORTH",
-    "ward": "WARD XI, NW8",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH",
     "ward": "WARD XI, NW8",
     "state": "Oyo",
@@ -13875,12 +13491,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN NORTH",
-    "ward": "WARD XII, NW8",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/07/01/001",
     "pu_name": "AKINTAYO'S COMPOUND I",
     "name": "AKINTAYO'S COMPOUND I",
@@ -14034,12 +13644,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN NORTH EAST",
-    "ward": "WARD I. EI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/07/02/001",
     "pu_name": "ADEPO'S COMPOUND I",
     "name": "ADEPO'S COMPOUND I",
@@ -14142,12 +13746,6 @@
     "pu_code": "30/07/02/012",
     "pu_name": "OPEN SPACE OSA OKO III",
     "name": "OPEN SPACE OSA OKO III",
-    "lga": "IBADAN NORTH EAST",
-    "ward": "WARD 2 NI (PART II)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH EAST",
     "ward": "WARD 2 NI (PART II)",
     "state": "Oyo",
@@ -14319,12 +13917,6 @@
     "pu_code": "30/07/03/019",
     "pu_name": "SPACE BESIDE ONIDEURE OJA-GBO",
     "name": "SPACE BESIDE ONIDEURE OJA-GBO",
-    "lga": "IBADAN NORTH EAST",
-    "ward": "WARD III. E3",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH EAST",
     "ward": "WARD III. E3",
     "state": "Oyo",
@@ -14673,12 +14265,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN NORTH EAST",
-    "ward": "WARD IV  E4",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/07/05/001",
     "pu_name": "OPEN SPACE BESIDE CHIEF ADEOSUN'S HOUSE, LABIRAN",
     "name": "OPEN SPACE BESIDE CHIEF ADEOSUN'S HOUSE, LABIRAN",
@@ -14832,12 +14418,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN NORTH EAST",
-    "ward": "WARD V E5A",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/07/06/001",
     "pu_name": "OPEN SPACE IN FRONT OF ALHAJI BASORUN'S HOUSE, ALAFARA OJE 1",
     "name": "OPEN SPACE IN FRONT OF ALHAJI BASORUN'S HOUSE, ALAFARA OJE 1",
@@ -14922,12 +14502,6 @@
     "pu_code": "30/07/06/010",
     "pu_name": "I.M.G. PRIMARY SCHOOL, OJE II",
     "name": "I.M.G. PRIMARY SCHOOL, OJE II",
-    "lga": "IBADAN NORTH EAST",
-    "ward": "WARD VI E5B",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH EAST",
     "ward": "WARD VI E5B",
     "state": "Oyo",
@@ -15090,12 +14664,6 @@
     "pu_code": "30/07/07/018",
     "pu_name": "ILE AGO",
     "name": "ILE AGO",
-    "lga": "IBADAN NORTH EAST",
-    "ward": "WARD VII E6",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH EAST",
     "ward": "WARD VII E6",
     "state": "Oyo",
@@ -15474,12 +15042,6 @@
     "pu_code": "30/07/08/042",
     "pu_name": "ST CYPRIAN SCHOOL OLUYORO III",
     "name": "ST CYPRIAN SCHOOL OLUYORO III",
-    "lga": "IBADAN NORTH EAST",
-    "ward": "WARD VIII E7 I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH EAST",
     "ward": "WARD VIII E7 I",
     "state": "Oyo",
@@ -15882,12 +15444,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN NORTH EAST",
-    "ward": "WARD IX E7II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/07/10/001",
     "pu_name": "OPEN SPACE ELERO META",
     "name": "OPEN SPACE ELERO META",
@@ -16071,12 +15627,6 @@
     "pu_code": "30/07/10/021",
     "pu_name": "SPACE BEHINDE OLORO MOSQUE",
     "name": "SPACE BEHINDE OLORO MOSQUE",
-    "lga": "IBADAN NORTH EAST",
-    "ward": "WARD X  E8",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH EAST",
     "ward": "WARD X  E8",
     "state": "Oyo",
@@ -16464,12 +16014,6 @@
     "pu_code": "30/07/11/043",
     "pu_name": "ST PAUL YANBULE SCHOOL FIRST BLOCK BY THE LEFT",
     "name": "ST PAUL YANBULE SCHOOL FIRST BLOCK BY THE LEFT",
-    "lga": "IBADAN NORTH EAST",
-    "ward": "WARD XI  E9 I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH EAST",
     "ward": "WARD XI  E9 I",
     "state": "Oyo",
@@ -16971,12 +16515,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN NORTH EAST",
-    "ward": "WARD XII  E9 II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/08/01/001",
     "pu_name": "ABERE JUNCTION I",
     "name": "ABERE JUNCTION I",
@@ -17079,12 +16617,6 @@
     "pu_code": "30/08/01/012",
     "pu_name": "OKUTORO COMPOUND",
     "name": "OKUTORO COMPOUND",
-    "lga": "IBADAN NORTH WEST",
-    "ward": "WARD I NI (PART I)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH WEST",
     "ward": "WARD I NI (PART I)",
     "state": "Oyo",
@@ -17226,12 +16758,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN NORTH WEST",
-    "ward": "WARD 2 NI (PART II)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/08/03/001",
     "pu_name": "AGBAJE PRIMARY SCHOOL, AYEYE I",
     "name": "AGBAJE PRIMARY SCHOOL, AYEYE I",
@@ -17361,12 +16887,6 @@
     "pu_code": "30/08/03/015",
     "pu_name": "OPEN SPACE AT OLUKEYO",
     "name": "OPEN SPACE AT OLUKEYO",
-    "lga": "IBADAN NORTH WEST",
-    "ward": "WARD 3 NW1",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH WEST",
     "ward": "WARD 3 NW1",
     "state": "Oyo",
@@ -17589,12 +17109,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN NORTH WEST",
-    "ward": "WARD 4 NW2",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/08/05/001",
     "pu_name": "NEAR LAWYER'S HOUSE OKE PADRE",
     "name": "NEAR LAWYER'S HOUSE OKE PADRE",
@@ -17742,12 +17256,6 @@
     "pu_code": "30/08/05/017",
     "pu_name": "OPEN SPACE AT OKE SENI CHURCH, IDI IKAN",
     "name": "OPEN SPACE AT OKE SENI CHURCH, IDI IKAN",
-    "lga": "IBADAN NORTH WEST",
-    "ward": "WARD 5 NW3 (PART I)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH WEST",
     "ward": "WARD 5 NW3 (PART I)",
     "state": "Oyo",
@@ -17952,12 +17460,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN NORTH WEST",
-    "ward": "WARD 6 NW3 (PART I)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/08/07/001",
     "pu_name": "ARENA CLUB, LEMOMU STREET I",
     "name": "ARENA CLUB, LEMOMU STREET I",
@@ -18132,12 +17634,6 @@
     "pu_code": "30/08/07/020",
     "pu_name": "OPEN SPACE AT IDI ORO JUNCTION",
     "name": "OPEN SPACE AT IDI ORO JUNCTION",
-    "lga": "IBADAN NORTH WEST",
-    "ward": "WARD 7 NW4",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH WEST",
     "ward": "WARD 7 NW4",
     "state": "Oyo",
@@ -18345,12 +17841,6 @@
     "pu_code": "30/08/08/023",
     "pu_name": "OPEN SPACE AT ONIYANRIN JUNCTION",
     "name": "OPEN SPACE AT ONIYANRIN JUNCTION",
-    "lga": "IBADAN NORTH WEST",
-    "ward": "WARD 8 NW5",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH WEST",
     "ward": "WARD 8 NW5",
     "state": "Oyo",
@@ -18567,12 +18057,6 @@
     "pu_code": "30/08/09/024",
     "pu_name": "OPEN SPACE BEHIND FRSC CORP",
     "name": "OPEN SPACE BEHIND FRSC CORP",
-    "lga": "IBADAN NORTH WEST",
-    "ward": "WARD 9 NW6",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN NORTH WEST",
     "ward": "WARD 9 NW6",
     "state": "Oyo",
@@ -18885,12 +18369,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN NORTH WEST",
-    "ward": "WARD 10 NW7",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/08/11/001",
     "pu_name": "ABA IDI OSAN",
     "name": "ABA IDI OSAN",
@@ -19197,12 +18675,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN NORTH WEST",
-    "ward": "WARD 11 NW7",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/09/01/001",
     "pu_name": "OPPOSITE ORANYAN MAT. CENTRE",
     "name": "OPPOSITE ORANYAN MAT. CENTRE",
@@ -19323,12 +18795,6 @@
     "pu_code": "30/09/01/014",
     "pu_name": "IN FRONT OF BUILDING BE/WK/08",
     "name": "IN FRONT OF BUILDING BE/WK/08",
-    "lga": "IBADAN SOUTH-EAST",
-    "ward": "C1",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN SOUTH-EAST",
     "ward": "C1",
     "state": "Oyo",
@@ -19506,12 +18972,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN SOUTH-EAST",
-    "ward": "S 1",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/09/03/001",
     "pu_name": "BALOGUN KOBOMOJE COMPOUND I",
     "name": "BALOGUN KOBOMOJE COMPOUND I",
@@ -19638,12 +19098,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN SOUTH-EAST",
-    "ward": "S 2A",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/09/04/001",
     "pu_name": "BESIDE BALOGUN KOBOMOJE I",
     "name": "BESIDE BALOGUN KOBOMOJE I",
@@ -19755,12 +19209,6 @@
     "pu_code": "30/09/04/013",
     "pu_name": "INFRONT OF OYO STATE UBEB BUILDING, PUBLIC PRIMARY SCHOOL, KOBOMOJE",
     "name": "INFRONT OF OYO STATE UBEB BUILDING, PUBLIC PRIMARY SCHOOL, KOBOMOJE",
-    "lga": "IBADAN SOUTH-EAST",
-    "ward": "S. 2B",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN SOUTH-EAST",
     "ward": "S. 2B",
     "state": "Oyo",
@@ -19923,12 +19371,6 @@
     "pu_code": "30/09/05/018",
     "pu_name": "BESIDE UNITED CHURCH OF AFRICAN OPPOSITE MATO JUNCTION",
     "name": "BESIDE UNITED CHURCH OF AFRICAN OPPOSITE MATO JUNCTION",
-    "lga": "IBADAN SOUTH-EAST",
-    "ward": "S 3",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN SOUTH-EAST",
     "ward": "S 3",
     "state": "Oyo",
@@ -20331,12 +19773,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN SOUTH-EAST",
-    "ward": "S 4A",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/09/07/001",
     "pu_name": "C.A.C. GRAMMAR SCHOOL, ONIYERE I",
     "name": "C.A.C. GRAMMAR SCHOOL, ONIYERE I",
@@ -20538,12 +19974,6 @@
     "pu_code": "30/09/07/023",
     "pu_name": "ENTRANCE I.M.G. SCHOOL, OLUBADAN",
     "name": "ENTRANCE I.M.G. SCHOOL, OLUBADAN",
-    "lga": "IBADAN SOUTH-EAST",
-    "ward": "S 4B",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN SOUTH-EAST",
     "ward": "S 4B",
     "state": "Oyo",
@@ -20991,12 +20421,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN SOUTH-EAST",
-    "ward": "S  S5",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/09/09/001",
     "pu_name": "OPPOSITE KUDETI CHURCH I",
     "name": "OPPOSITE KUDETI CHURCH I",
@@ -21153,12 +20577,6 @@
     "pu_code": "30/09/09/018",
     "pu_name": "BUILDING OPPOSITE ADEGOKE ADELABU",
     "name": "BUILDING OPPOSITE ADEGOKE ADELABU",
-    "lga": "IBADAN SOUTH-EAST",
-    "ward": "S 6A",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN SOUTH-EAST",
     "ward": "S 6A",
     "state": "Oyo",
@@ -21633,12 +21051,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN SOUTH-EAST",
-    "ward": "S. 6B",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/09/11/001",
     "pu_name": "ST. LUKE'S SCHOOL, MOLETE I",
     "name": "ST. LUKE'S SCHOOL, MOLETE I",
@@ -22080,12 +21492,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN SOUTH-EAST",
-    "ward": "S 7A",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/09/12/001",
     "pu_name": "I.M.G. IBUKO I",
     "name": "I.M.G. IBUKO I",
@@ -22437,12 +21843,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN SOUTH-EAST",
-    "ward": "S 7B",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/10/01/001",
     "pu_name": "OLUPOYI COMP. OJA-OBA I",
     "name": "OLUPOYI COMP. OJA-OBA I",
@@ -22725,12 +22125,6 @@
     "pu_code": "30/10/01/032",
     "pu_name": "ILE EJA BERE III",
     "name": "ILE EJA BERE III",
-    "lga": "IBADAN SOUTH WEST",
-    "ward": "WARD 1 C2",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN SOUTH WEST",
     "ward": "WARD 1 C2",
     "state": "Oyo",
@@ -23025,12 +22419,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN SOUTH WEST",
-    "ward": "WARD 2  SW1",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/10/03/001",
     "pu_name": "OPEN SPACE AT SOBALOJU ISALE IJEBU I",
     "name": "OPEN SPACE AT SOBALOJU ISALE IJEBU I",
@@ -23178,12 +22566,6 @@
     "pu_code": "30/10/03/017",
     "pu_name": "OPEN SPACE AT ILE OPOWU, ITA AREGBEOMO",
     "name": "OPEN SPACE AT ILE OPOWU, ITA AREGBEOMO",
-    "lga": "IBADAN SOUTH WEST",
-    "ward": "WARD 3 SW2",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN SOUTH WEST",
     "ward": "WARD 3 SW2",
     "state": "Oyo",
@@ -23427,12 +22809,6 @@
     "pu_code": "30/10/04/027",
     "pu_name": "OPEN SPACE AT OGBODO COMPOUND",
     "name": "OPEN SPACE AT OGBODO COMPOUND",
-    "lga": "IBADAN SOUTH WEST",
-    "ward": "WARD 4 SW3A & 3B",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN SOUTH WEST",
     "ward": "WARD 4 SW3A & 3B",
     "state": "Oyo",
@@ -23700,12 +23076,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN SOUTH WEST",
-    "ward": "WARD 5 SW4",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/10/06/001",
     "pu_name": "ITAMAYA COMPOUND, OKEFOKO I",
     "name": "ITAMAYA COMPOUND, OKEFOKO I",
@@ -23871,12 +23241,6 @@
     "pu_code": "30/10/06/019",
     "pu_name": "EKERE COMPOUND II",
     "name": "EKERE COMPOUND II",
-    "lga": "IBADAN SOUTH WEST",
-    "ward": "WARD 6  SW5",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN SOUTH WEST",
     "ward": "WARD 6  SW5",
     "state": "Oyo",
@@ -24084,12 +23448,6 @@
     "pu_code": "30/10/07/023",
     "pu_name": "OPEN SPACE INFRONT OF AB PLAZA, OGUNPA",
     "name": "OPEN SPACE INFRONT OF AB PLAZA, OGUNPA",
-    "lga": "IBADAN SOUTH WEST",
-    "ward": "WARD 7  SW6",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN SOUTH WEST",
     "ward": "WARD 7  SW6",
     "state": "Oyo",
@@ -24396,12 +23754,6 @@
     "pu_code": "30/10/08/034",
     "pu_name": "OPEN SPACE AT WATECO JUNCTION, OKE BOLA ROUNDABOUT",
     "name": "OPEN SPACE AT WATECO JUNCTION, OKE BOLA ROUNDABOUT",
-    "lga": "IBADAN SOUTH WEST",
-    "ward": "WARD 08 SW7",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN SOUTH WEST",
     "ward": "WARD 08 SW7",
     "state": "Oyo",
@@ -24903,12 +24255,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN SOUTH WEST",
-    "ward": "WARD 9 SW8 (1)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/10/10/001",
     "pu_name": "ST. JAMES PRIMARY SCHOOL, OKE ADO I",
     "name": "ST. JAMES PRIMARY SCHOOL, OKE ADO I",
@@ -25242,12 +24588,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN SOUTH WEST",
-    "ward": "WARD 10 SW8 II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/10/11/001",
     "pu_name": "KITOYE LODGE I",
     "name": "KITOYE LODGE I",
@@ -25557,12 +24897,6 @@
     "pu_code": "30/10/11/035",
     "pu_name": "OPEN SPACE AT OYETIBO ROAD, ONI & SONS",
     "name": "OPEN SPACE AT OYETIBO ROAD, ONI & SONS",
-    "lga": "IBADAN SOUTH WEST",
-    "ward": "WARD 11 SW9(1)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBADAN SOUTH WEST",
     "ward": "WARD 11 SW9(1)",
     "state": "Oyo",
@@ -26766,12 +26100,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBADAN SOUTH WEST",
-    "ward": "WARD 12 SW9 II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/11/01/001",
     "pu_name": "TOWN HALL I",
     "name": "TOWN HALL I",
@@ -26916,12 +26244,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA CENTRAL",
-    "ward": "IDERE I (MOLETE)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/11/02/001",
     "pu_name": "KAJOLA MARKET AREA I",
     "name": "KAJOLA MARKET AREA I",
@@ -26985,12 +26307,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA CENTRAL",
-    "ward": "IDERE II (OMINIGBO/OKE - OBA)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/11/03/001",
     "pu_name": "ISLAMIC SCHOOL, KOSO I",
     "name": "ISLAMIC SCHOOL, KOSO I",
@@ -27039,12 +26355,6 @@
     "pu_code": "30/11/03/006",
     "pu_name": "MOTOR PARK II",
     "name": "MOTOR PARK II",
-    "lga": "IBARAPA CENTRAL",
-    "ward": "IDERE III (KOSO/APA)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBARAPA CENTRAL",
     "ward": "IDERE III (KOSO/APA)",
     "state": "Oyo",
@@ -27159,12 +26469,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA CENTRAL",
-    "ward": "IBEREKODO I /(PATAOJU)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/11/05/001",
     "pu_name": "AYANNAGI",
     "name": "AYANNAGI",
@@ -27258,12 +26562,6 @@
     "pu_code": "30/11/05/011",
     "pu_name": "AKERORO VILLAGE",
     "name": "AKERORO VILLAGE",
-    "lga": "IBARAPA CENTRAL",
-    "ward": "IBEREKODO/AGBOORO/ITA BAALE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBARAPA CENTRAL",
     "ward": "IBEREKODO/AGBOORO/ITA BAALE",
     "state": "Oyo",
@@ -27381,12 +26679,6 @@
     "pu_code": "30/11/06/013",
     "pu_name": "ARO COMPOUND II",
     "name": "ARO COMPOUND II",
-    "lga": "IBARAPA CENTRAL",
-    "ward": "IDOFIN ISAGANUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBARAPA CENTRAL",
     "ward": "IDOFIN ISAGANUN",
     "state": "Oyo",
@@ -27591,12 +26883,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA CENTRAL",
-    "ward": "IGBOLE/PAKO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/11/08/001",
     "pu_name": "BANSA VILLAGE",
     "name": "BANSA VILLAGE",
@@ -27771,12 +27057,6 @@
     "pu_code": "30/11/08/020",
     "pu_name": "CUSTOMARY COURT, OPP. OJA OBA IGBOORA",
     "name": "CUSTOMARY COURT, OPP. OJA OBA IGBOORA",
-    "lga": "IBARAPA CENTRAL",
-    "ward": "ISALE-OBA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBARAPA CENTRAL",
     "ward": "ISALE-OBA",
     "state": "Oyo",
@@ -27990,12 +27270,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA CENTRAL",
-    "ward": "OKESERIN I & II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/11/10/001",
     "pu_name": "N.U.D. SCHOOL II",
     "name": "N.U.D. SCHOOL II",
@@ -28080,12 +27354,6 @@
     "pu_code": "30/11/10/010",
     "pu_name": "DUDU/ARUNLE",
     "name": "DUDU/ARUNLE",
-    "lga": "IBARAPA CENTRAL",
-    "ward": "OKE-ODO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBARAPA CENTRAL",
     "ward": "OKE-ODO",
     "state": "Oyo",
@@ -28245,12 +27513,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA EAST",
-    "ward": "OKE -OBA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/12/02/001",
     "pu_name": "TOWN HALL, ANKO ERUWA I",
     "name": "TOWN HALL, ANKO ERUWA I",
@@ -28395,12 +27657,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA EAST",
-    "ward": "ANKO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/12/03/001",
     "pu_name": "OLAORE COMPOUND I",
     "name": "OLAORE COMPOUND I",
@@ -28485,12 +27741,6 @@
     "pu_code": "30/12/03/010",
     "pu_name": "IDI-OPE VILLAGE",
     "name": "IDI-OPE VILLAGE",
-    "lga": "IBARAPA EAST",
-    "ward": "ISABA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBARAPA EAST",
     "ward": "ISABA",
     "state": "Oyo",
@@ -28668,12 +27918,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA EAST",
-    "ward": "ABORERIN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/12/05/001",
     "pu_name": "L.A. SCHOOL I, NEW ERUWA",
     "name": "L.A. SCHOOL I, NEW ERUWA",
@@ -28794,12 +28038,6 @@
     "pu_code": "30/12/05/014",
     "pu_name": "SCHOOL FOR THE DEAF",
     "name": "SCHOOL FOR THE DEAF",
-    "lga": "IBARAPA EAST",
-    "ward": "NEW ERUWA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBARAPA EAST",
     "ward": "NEW ERUWA",
     "state": "Oyo",
@@ -28968,12 +28206,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA EAST",
-    "ward": "SANGO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/12/07/001",
     "pu_name": "OYA EGGUN COMPOUND",
     "name": "OYA EGGUN COMPOUND",
@@ -29091,12 +28323,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA EAST",
-    "ward": "OKE-IMALE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/12/08/001",
     "pu_name": "ADIO COMPOUND",
     "name": "ADIO COMPOUND",
@@ -29208,12 +28434,6 @@
     "pu_code": "30/12/08/013",
     "pu_name": "NITEL QUARTERS - FRONTAGE",
     "name": "NITEL QUARTERS - FRONTAGE",
-    "lga": "IBARAPA EAST",
-    "ward": "ISALE TOGUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBARAPA EAST",
     "ward": "ISALE TOGUN",
     "state": "Oyo",
@@ -29346,12 +28566,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA EAST",
-    "ward": "OKE OTUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/12/10/001",
     "pu_name": "ONITABO FRONTAGE",
     "name": "ONITABO FRONTAGE",
@@ -29478,12 +28692,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA EAST",
-    "ward": "ITABO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/13/01/001",
     "pu_name": "ASAWO I",
     "name": "ASAWO I",
@@ -29604,12 +28812,6 @@
     "pu_code": "30/13/01/014",
     "pu_name": "BALE KAA",
     "name": "BALE KAA",
-    "lga": "IBARAPA NORTH",
-    "ward": "AYETE I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBARAPA NORTH",
     "ward": "AYETE I",
     "state": "Oyo",
@@ -29769,12 +28971,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA NORTH",
-    "ward": "AYETE II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/13/03/001",
     "pu_name": "COMMUNITY HALL I",
     "name": "COMMUNITY HALL I",
@@ -29901,12 +29097,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA NORTH",
-    "ward": "IGANGAN I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/13/04/001",
     "pu_name": "TOWOBOWO MARKET",
     "name": "TOWOBOWO MARKET",
@@ -30009,12 +29199,6 @@
     "pu_code": "30/13/04/012",
     "pu_name": "OLOKUTA COMPOUND AREA OYENIYI HOUSE",
     "name": "OLOKUTA COMPOUND AREA OYENIYI HOUSE",
-    "lga": "IBARAPA NORTH",
-    "ward": "IGANGAN II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBARAPA NORTH",
     "ward": "IGANGAN II",
     "state": "Oyo",
@@ -30201,12 +29385,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA NORTH",
-    "ward": "IGANGAN III",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/13/06/001",
     "pu_name": "IGITELE COMPOUND AREA I",
     "name": "IGITELE COMPOUND AREA I",
@@ -30291,12 +29469,6 @@
     "pu_code": "30/13/06/010",
     "pu_name": "ASALUWALA COMPOUND AREA II",
     "name": "ASALUWALA COMPOUND AREA II",
-    "lga": "IBARAPA NORTH",
-    "ward": "IGANGAN IV",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBARAPA NORTH",
     "ward": "IGANGAN IV",
     "state": "Oyo",
@@ -30501,12 +29673,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA NORTH",
-    "ward": "OFIKI I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/13/08/001",
     "pu_name": "L.A. SCHOOL, ASUNNARA I",
     "name": "L.A. SCHOOL, ASUNNARA I",
@@ -30609,12 +29775,6 @@
     "pu_code": "30/13/08/012",
     "pu_name": "ABIDIOKI  VILLAGE",
     "name": "ABIDIOKI  VILLAGE",
-    "lga": "IBARAPA NORTH",
-    "ward": "OFIKI II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IBARAPA NORTH",
     "ward": "OFIKI II",
     "state": "Oyo",
@@ -30774,12 +29934,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA NORTH",
-    "ward": "TAPA I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/13/10/001",
     "pu_name": "ONIWAFIN I",
     "name": "ONIWAFIN I",
@@ -30870,12 +30024,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IBARAPA NORTH",
-    "ward": "TAPA II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/14/01/001",
     "pu_name": "ILAJU OPEN SPACE",
     "name": "ILAJU OPEN SPACE",
@@ -30924,12 +30072,6 @@
     "pu_code": "30/14/01/006",
     "pu_name": "ILAJU COMMUNITY PRYMARY SCHOOL ILAJU",
     "name": "ILAJU COMMUNITY PRYMARY SCHOOL ILAJU",
-    "lga": "IDO",
-    "ward": "ABA EMO/ILAJU/ALAKO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IDO",
     "ward": "ABA EMO/ILAJU/ALAKO",
     "state": "Oyo",
@@ -31044,12 +30186,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IDO",
-    "ward": "AKUFO/IDIGBA/ARAROMI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/14/03/001",
     "pu_name": "PRIMARY SCHOOL, AKINDELE",
     "name": "PRIMARY SCHOOL, AKINDELE",
@@ -31116,12 +30252,6 @@
     "pu_code": "30/14/03/008",
     "pu_name": "NUD PRIMARY SCHOOL ONIGBINDE",
     "name": "NUD PRIMARY SCHOOL ONIGBINDE",
-    "lga": "IDO",
-    "ward": "AKINWARE/AKINDELE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IDO",
     "ward": "AKINWARE/AKINDELE",
     "state": "Oyo",
@@ -31560,12 +30690,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IDO",
-    "ward": "APETE/AYEGUN/AWOTAN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/14/05/001",
     "pu_name": "I.D.C. PRIMARY SCHOOL, IDI-IYA",
     "name": "I.D.C. PRIMARY SCHOOL, IDI-IYA",
@@ -31632,12 +30756,6 @@
     "pu_code": "30/14/05/008",
     "pu_name": "OPEN SPACE, LADUNNI",
     "name": "OPEN SPACE, LADUNNI",
-    "lga": "IDO",
-    "ward": "BATAKE/IDI-IYA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IDO",
     "ward": "BATAKE/IDI-IYA",
     "state": "Oyo",
@@ -31728,12 +30846,6 @@
     "pu_code": "30/14/06/010",
     "pu_name": "SAINT PAUL'S ANGLICAN SCHOOL ARAROMI IDOWU",
     "name": "SAINT PAUL'S ANGLICAN SCHOOL ARAROMI IDOWU",
-    "lga": "IDO",
-    "ward": "ERINWUSI/KOGUO/ODETOLA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IDO",
     "ward": "ERINWUSI/KOGUO/ODETOLA",
     "state": "Oyo",
@@ -31938,12 +31050,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IDO",
-    "ward": "FENWA/OGANLA/ELENUSONSO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/14/08/001",
     "pu_name": "N.U.D. PRIMARY SCHOOL, IDO",
     "name": "N.U.D. PRIMARY SCHOOL, IDO",
@@ -32037,12 +31143,6 @@
     "pu_code": "30/14/08/011",
     "pu_name": "OPEN SPACE OKUNA AWO II",
     "name": "OPEN SPACE OKUNA AWO II",
-    "lga": "IDO",
-    "ward": "IDO/ONIKEDE/OKUNA AWO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IDO",
     "ward": "IDO/ONIKEDE/OKUNA AWO",
     "state": "Oyo",
@@ -32400,12 +31500,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IDO",
-    "ward": "OMI ADIO/OMI ONIGBAGBO BAKATARI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/14/10/001",
     "pu_name": "OPEN SPACE, ONIDOKO",
     "name": "OPEN SPACE, ONIDOKO",
@@ -32685,12 +31779,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IDO",
-    "ward": "OGUNDELE/ALAHO/SIBA/IDI-AHUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/15/01/001",
     "pu_name": "ITA OJO TEGE",
     "name": "ITA OJO TEGE",
@@ -32757,12 +31845,6 @@
     "pu_code": "30/15/01/008",
     "pu_name": "OPEN SPACE IN FRONT OF IZ'AARUL ARABIC SCH, AJANGBA.",
     "name": "OPEN SPACE IN FRONT OF IZ'AARUL ARABIC SCH, AJANGBA.",
-    "lga": "IREPO",
-    "ward": "AGORO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IREPO",
     "ward": "AGORO",
     "state": "Oyo",
@@ -32853,12 +31935,6 @@
     "pu_code": "30/15/02/010",
     "pu_name": "MIGRANT FARMERS' PRY SCH, IDI- APA",
     "name": "MIGRANT FARMERS' PRY SCH, IDI- APA",
-    "lga": "IREPO",
-    "ward": "AJAGUNNA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IREPO",
     "ward": "AJAGUNNA",
     "state": "Oyo",
@@ -32958,12 +32034,6 @@
     "pu_code": "30/15/03/011",
     "pu_name": "MIGRANT FARMER'S PRY SCH, TAGO",
     "name": "MIGRANT FARMER'S PRY SCH, TAGO",
-    "lga": "IREPO",
-    "ward": "ATIPA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IREPO",
     "ward": "ATIPA",
     "state": "Oyo",
@@ -33078,12 +32148,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IREPO",
-    "ward": "IBA I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/15/05/001",
     "pu_name": "ITA DARIAGBON",
     "name": "ITA DARIAGBON",
@@ -33150,12 +32214,6 @@
     "pu_code": "30/15/05/008",
     "pu_name": "COMM PRY SCH, OKE LAHA",
     "name": "COMM PRY SCH, OKE LAHA",
-    "lga": "IREPO",
-    "ward": "IBA II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IREPO",
     "ward": "IBA II",
     "state": "Oyo",
@@ -33261,12 +32319,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IREPO",
-    "ward": "IBA III",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/15/07/001",
     "pu_name": "OKE MAPO",
     "name": "OKE MAPO",
@@ -33366,12 +32418,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IREPO",
-    "ward": "IBA IV",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/15/08/001",
     "pu_name": "L,I.E.'S OFFICE",
     "name": "L,I.E.'S OFFICE",
@@ -33462,12 +32508,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IREPO",
-    "ward": "IBA V",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/15/09/001",
     "pu_name": "ITA ONASOKUN I",
     "name": "ITA ONASOKUN I",
@@ -33543,12 +32583,6 @@
     "pu_code": "30/15/09/009",
     "pu_name": "MIGRANT FARMER'S PRY SCH,  KATAKATA",
     "name": "MIGRANT FARMER'S PRY SCH,  KATAKATA",
-    "lga": "IREPO",
-    "ward": "IKOLABA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IREPO",
     "ward": "IKOLABA",
     "state": "Oyo",
@@ -33648,12 +32682,6 @@
     "pu_code": "30/15/10/011",
     "pu_name": "MIGRANT FARMER'S PRY SCH, OLANIYAN",
     "name": "MIGRANT FARMER'S PRY SCH, OLANIYAN",
-    "lga": "IREPO",
-    "ward": "LAHA/AJANA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IREPO",
     "ward": "LAHA/AJANA",
     "state": "Oyo",
@@ -33867,12 +32895,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ISEYIN",
-    "ward": "ADO-AWAYE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/16/02/001",
     "pu_name": "ABA PAANU",
     "name": "ABA PAANU",
@@ -34020,12 +33042,6 @@
     "pu_code": "30/16/02/017",
     "pu_name": "ALADO/KONTI",
     "name": "ALADO/KONTI",
-    "lga": "ISEYIN",
-    "ward": "AKINWUMI/OSOOGUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ISEYIN",
     "ward": "AKINWUMI/OSOOGUN",
     "state": "Oyo",
@@ -34266,12 +33282,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ISEYIN",
-    "ward": "EKUNLE I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/16/04/001",
     "pu_name": "ITA EPO ONILU I",
     "name": "ITA EPO ONILU I",
@@ -34488,12 +33498,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ISEYIN",
-    "ward": "EKUNLE II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/16/05/001",
     "pu_name": "OLOOGUN-EBI/KANBURA",
     "name": "OLOOGUN-EBI/KANBURA",
@@ -34614,12 +33618,6 @@
     "pu_code": "30/16/05/014",
     "pu_name": "ILEBA OKE BABA DUDU",
     "name": "ILEBA OKE BABA DUDU",
-    "lga": "ISEYIN",
-    "ward": "FARAMORA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ISEYIN",
     "ward": "FARAMORA",
     "state": "Oyo",
@@ -34755,12 +33753,6 @@
     "pu_code": "30/16/06/015",
     "pu_name": "ISALE AGO/IJEMBA II",
     "name": "ISALE AGO/IJEMBA II",
-    "lga": "ISEYIN",
-    "ward": "IJEMBA/OKE-OLA/OKE-OJA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ISEYIN",
     "ward": "IJEMBA/OKE-OLA/OKE-OJA",
     "state": "Oyo",
@@ -35037,12 +34029,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ISEYIN",
-    "ward": "ISALU I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/16/08/001",
     "pu_name": "L.A. SCHOOL, ITAN I",
     "name": "L.A. SCHOOL, ITAN I",
@@ -35277,12 +34263,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ISEYIN",
-    "ward": "ISALU II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/16/09/001",
     "pu_name": "COMMUNITY PRIMARY SCHOOL, KOSO",
     "name": "COMMUNITY PRIMARY SCHOOL, KOSO",
@@ -35454,12 +34434,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ISEYIN",
-    "ward": "KOSO I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/16/10/001",
     "pu_name": "BAALE SAGBO I",
     "name": "BAALE SAGBO I",
@@ -35589,12 +34563,6 @@
     "pu_code": "30/16/10/015",
     "pu_name": "OPEN SPACE BESIDE FUNMART FILLING STATION SAW MILL, ODO IBO",
     "name": "OPEN SPACE BESIDE FUNMART FILLING STATION SAW MILL, ODO IBO",
-    "lga": "ISEYIN",
-    "ward": "KOSO II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ISEYIN",
     "ward": "KOSO II",
     "state": "Oyo",
@@ -35781,12 +34749,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ISEYIN",
-    "ward": "LADOGAN/OKE EYIN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/17/01/001",
     "pu_name": "POST OFFICE, BABAODE I",
     "name": "POST OFFICE, BABAODE I",
@@ -35871,12 +34833,6 @@
     "pu_code": "30/17/01/010",
     "pu_name": "AJIBEKUWO/ERUPA/ARONPE",
     "name": "AJIBEKUWO/ERUPA/ARONPE",
-    "lga": "ITESIWAJU",
-    "ward": "BABAODE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ITESIWAJU",
     "ward": "BABAODE",
     "state": "Oyo",
@@ -35982,12 +34938,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ITESIWAJU",
-    "ward": "IGBOJAIYE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/17/03/001",
     "pu_name": "BAPTIST SCHOOL, IPAPO I",
     "name": "BAPTIST SCHOOL, IPAPO I",
@@ -36063,12 +35013,6 @@
     "pu_code": "30/17/03/009",
     "pu_name": "BUDO AGORO/OJA AGORO",
     "name": "BUDO AGORO/OJA AGORO",
-    "lga": "ITESIWAJU",
-    "ward": "IPAPO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ITESIWAJU",
     "ward": "IPAPO",
     "state": "Oyo",
@@ -36192,12 +35136,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ITESIWAJU",
-    "ward": "KOMU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/17/05/001",
     "pu_name": "SANGO MARKET, OKAKA",
     "name": "SANGO MARKET, OKAKA",
@@ -36288,12 +35226,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ITESIWAJU",
-    "ward": "OKAKA I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/17/06/001",
     "pu_name": "BAPTIST SCHOOL, OKAKA",
     "name": "BAPTIST SCHOOL, OKAKA",
@@ -36357,12 +35289,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ITESIWAJU",
-    "ward": "OKAKA II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/17/07/001",
     "pu_name": "L.A. SCHOOL, OKE-AMU",
     "name": "L.A. SCHOOL, OKE-AMU",
@@ -36420,12 +35346,6 @@
     "pu_code": "30/17/07/007",
     "pu_name": "ADEBAYO VILLAGE",
     "name": "ADEBAYO VILLAGE",
-    "lga": "ITESIWAJU",
-    "ward": "OKE-AMU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ITESIWAJU",
     "ward": "OKE-AMU",
     "state": "Oyo",
@@ -36507,12 +35427,6 @@
     "pu_code": "30/17/08/009",
     "pu_name": "ONIJOKUN",
     "name": "ONIJOKUN",
-    "lga": "ITESIWAJU",
-    "ward": "OTU 1",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ITESIWAJU",
     "ward": "OTU 1",
     "state": "Oyo",
@@ -36618,12 +35532,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ITESIWAJU",
-    "ward": "OTU II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/17/10/001",
     "pu_name": "BALOGUN MARKET, IPAPO I",
     "name": "BALOGUN MARKET, IPAPO I",
@@ -36708,12 +35616,6 @@
     "pu_code": "30/17/10/010",
     "pu_name": "OLAIFA ATUNBI",
     "name": "OLAIFA ATUNBI",
-    "lga": "ITESIWAJU",
-    "ward": "OWODE/IPAPO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ITESIWAJU",
     "ward": "OWODE/IPAPO",
     "state": "Oyo",
@@ -36813,12 +35715,6 @@
     "pu_code": "30/18/01/011",
     "pu_name": "COMMUNITY SCHOOL, IDI-OSE",
     "name": "COMMUNITY SCHOOL, IDI-OSE",
-    "lga": "IWAJOWA",
-    "ward": "AGBAAKIN I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IWAJOWA",
     "ward": "AGBAAKIN I",
     "state": "Oyo",
@@ -36987,12 +35883,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IWAJOWA",
-    "ward": "AGBAAKIN II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/18/03/001",
     "pu_name": "MARKET SQUARE, IWERE-ILE I",
     "name": "MARKET SQUARE, IWERE-ILE I",
@@ -37146,12 +36036,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IWAJOWA",
-    "ward": "IWERE-ILE I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/18/04/001",
     "pu_name": "COMMUNITY SCHOOL, AYETORO-ILE",
     "name": "COMMUNITY SCHOOL, AYETORO-ILE",
@@ -37260,12 +36144,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IWAJOWA",
-    "ward": "IWERE-ILE II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/18/05/001",
     "pu_name": "L.A. SCHOOL, ILAJI-ILE",
     "name": "L.A. SCHOOL, ILAJI-ILE",
@@ -37314,12 +36192,6 @@
     "pu_code": "30/18/05/006",
     "pu_name": "ALAYIDAN, IDIKO-ILE",
     "name": "ALAYIDAN, IDIKO-ILE",
-    "lga": "IWAJOWA",
-    "ward": "IWERE-ILE III",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IWAJOWA",
     "ward": "IWERE-ILE III",
     "state": "Oyo",
@@ -37461,12 +36333,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IWAJOWA",
-    "ward": "IWERE-ILE IV",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/18/07/001",
     "pu_name": "AJIMATI COMPOUND",
     "name": "AJIMATI COMPOUND",
@@ -37557,12 +36423,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IWAJOWA",
-    "ward": "SABI GANA I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/18/08/001",
     "pu_name": "BALOGUN ABE IPIN, IGANA I",
     "name": "BALOGUN ABE IPIN, IGANA I",
@@ -37629,12 +36489,6 @@
     "pu_code": "30/18/08/008",
     "pu_name": "COMMUNITY GRAMMAR SCHOOL, IGANNA",
     "name": "COMMUNITY GRAMMAR SCHOOL, IGANNA",
-    "lga": "IWAJOWA",
-    "ward": "SABI GANA II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "IWAJOWA",
     "ward": "SABI GANA II",
     "state": "Oyo",
@@ -37749,12 +36603,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IWAJOWA",
-    "ward": "SABI GANA III",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/18/10/001",
     "pu_name": "COMMUNITY PRIMARY SCHOOL, ELEKOKAN I",
     "name": "COMMUNITY PRIMARY SCHOOL, ELEKOKAN I",
@@ -37854,12 +36702,6 @@
     "state_code": "30"
   },
   {
-    "lga": "IWAJOWA",
-    "ward": "SABI GANA IV",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/19/01/001",
     "pu_name": "BEHIND OLOGELE COMPOUND",
     "name": "BEHIND OLOGELE COMPOUND",
@@ -37926,12 +36768,6 @@
     "pu_code": "30/19/01/008",
     "pu_name": "OPEN SPACE OPP BEST OIL FILLING STATION AYETORO",
     "name": "OPEN SPACE OPP BEST OIL FILLING STATION AYETORO",
-    "lga": "KAJOLA",
-    "ward": "AYETORO-OKE I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "KAJOLA",
     "ward": "AYETORO-OKE I",
     "state": "Oyo",
@@ -38013,12 +36849,6 @@
     "pu_code": "30/19/02/009",
     "pu_name": "2ND BAPTIST SCHOOL, OJETE ILERO",
     "name": "2ND BAPTIST SCHOOL, OJETE ILERO",
-    "lga": "KAJOLA",
-    "ward": "ELERO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "KAJOLA",
     "ward": "ELERO",
     "state": "Oyo",
@@ -38127,12 +36957,6 @@
     "pu_code": "30/19/03/012",
     "pu_name": "OPEN SPACE OPPOSITE BABA EKO COMPOUND",
     "name": "OPEN SPACE OPPOSITE BABA EKO COMPOUND",
-    "lga": "KAJOLA",
-    "ward": "GBELEKALE I & II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "KAJOLA",
     "ward": "GBELEKALE I & II",
     "state": "Oyo",
@@ -38310,12 +37134,6 @@
     "state_code": "30"
   },
   {
-    "lga": "KAJOLA",
-    "ward": "IBA-OGAN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/19/05/001",
     "pu_name": "A.U.D. SCHOOL, EEYELE",
     "name": "A.U.D. SCHOOL, EEYELE",
@@ -38442,12 +37260,6 @@
     "state_code": "30"
   },
   {
-    "lga": "KAJOLA",
-    "ward": "IJO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/19/06/001",
     "pu_name": "TOWN HALL, ILAJI-OKE",
     "name": "TOWN HALL, ILAJI-OKE",
@@ -38496,12 +37308,6 @@
     "pu_code": "30/19/06/006",
     "pu_name": "OPEN SPACE BESIDE TOWN HALL, ILAJI-OKE",
     "name": "OPEN SPACE BESIDE TOWN HALL, ILAJI-OKE",
-    "lga": "KAJOLA",
-    "ward": "ILAJI OKE/IWERE-OKE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "KAJOLA",
     "ward": "ILAJI OKE/IWERE-OKE",
     "state": "Oyo",
@@ -38574,12 +37380,6 @@
     "pu_code": "30/19/07/008",
     "pu_name": "OPEN SPACE, ALAGBEDE COMPOUND, OKE-OGUN",
     "name": "OPEN SPACE, ALAGBEDE COMPOUND, OKE-OGUN",
-    "lga": "KAJOLA",
-    "ward": "IMOBA/OKE-OGUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "KAJOLA",
     "ward": "IMOBA/OKE-OGUN",
     "state": "Oyo",
@@ -38766,12 +37566,6 @@
     "state_code": "30"
   },
   {
-    "lga": "KAJOLA",
-    "ward": "ISEMI-ILE/IMIA/ILUA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/19/09/001",
     "pu_name": "OPEN SPACE AJILU COMPOUND, ISIA",
     "name": "OPEN SPACE AJILU COMPOUND, ISIA",
@@ -38847,12 +37641,6 @@
     "pu_code": "30/19/09/009",
     "pu_name": "KARA JUNCTION OYALUGBO ROAD, OKEHO",
     "name": "KARA JUNCTION OYALUGBO ROAD, OKEHO",
-    "lga": "KAJOLA",
-    "ward": "ISIA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "KAJOLA",
     "ward": "ISIA",
     "state": "Oyo",
@@ -38943,12 +37731,6 @@
     "pu_code": "30/19/10/010",
     "pu_name": "OPPOSITE OLODO COMPOUND",
     "name": "OPPOSITE OLODO COMPOUND",
-    "lga": "KAJOLA",
-    "ward": "KAJOLA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "KAJOLA",
     "ward": "KAJOLA",
     "state": "Oyo",
@@ -39102,12 +37884,6 @@
     "pu_code": "30/19/11/017",
     "pu_name": "OKEHO/IGANNA GRAMM, SCHOOL",
     "name": "OKEHO/IGANNA GRAMM, SCHOOL",
-    "lga": "KAJOLA",
-    "ward": "OLELE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "KAJOLA",
     "ward": "OLELE",
     "state": "Oyo",
@@ -39366,12 +38142,6 @@
     "state_code": "30"
   },
   {
-    "lga": "LAGELU",
-    "ward": "AJARA/OPEODU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/20/02/001",
     "pu_name": "SALVATION ARMY SCHOOL, APATERE",
     "name": "SALVATION ARMY SCHOOL, APATERE",
@@ -39447,12 +38217,6 @@
     "pu_code": "30/20/02/009",
     "pu_name": "ISALE ODO OPEN SPACE, APATERE",
     "name": "ISALE ODO OPEN SPACE, APATERE",
-    "lga": "LAGELU",
-    "ward": "APATERE/KUFFI/OGUNBODE/OGO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "LAGELU",
     "ward": "APATERE/KUFFI/OGUNBODE/OGO",
     "state": "Oyo",
@@ -39570,12 +38334,6 @@
     "pu_code": "30/20/03/013",
     "pu_name": "N.O. IDOWU COMPREHENSIVE HIGH SCHOOL OLORUNDA",
     "name": "N.O. IDOWU COMPREHENSIVE HIGH SCHOOL OLORUNDA",
-    "lga": "LAGELU",
-    "ward": "ARULOGUN EHIN/KELEBE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "LAGELU",
     "ward": "ARULOGUN EHIN/KELEBE",
     "state": "Oyo",
@@ -39783,12 +38541,6 @@
     "pu_code": "30/20/04/023",
     "pu_name": "OPEN SPACE SUKURU OKE",
     "name": "OPEN SPACE SUKURU OKE",
-    "lga": "LAGELU",
-    "ward": "EJIOKU/IGBON/ARIKU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "LAGELU",
     "ward": "EJIOKU/IGBON/ARIKU",
     "state": "Oyo",
@@ -40164,12 +38916,6 @@
     "state_code": "30"
   },
   {
-    "lga": "LAGELU",
-    "ward": "LAGELU MARKET/KAJOLA/GBENA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/20/06/001",
     "pu_name": "ILE MOLASIN, LAGUN I",
     "name": "ILE MOLASIN, LAGUN I",
@@ -40254,12 +39000,6 @@
     "pu_code": "30/20/06/010",
     "pu_name": "RCM PRY SCH. LAGUN",
     "name": "RCM PRY SCH. LAGUN",
-    "lga": "LAGELU",
-    "ward": "LAGUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "LAGELU",
     "ward": "LAGUN",
     "state": "Oyo",
@@ -40509,12 +39249,6 @@
     "state_code": "30"
   },
   {
-    "lga": "LAGELU",
-    "ward": "LALUPON I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/20/08/001",
     "pu_name": "ANGLICAN CENTRAL SCHOOL, LALUPON",
     "name": "ANGLICAN CENTRAL SCHOOL, LALUPON",
@@ -40659,12 +39393,6 @@
     "state_code": "30"
   },
   {
-    "lga": "LAGELU",
-    "ward": "LALUPON II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/20/09/001",
     "pu_name": "ILE OLORI, LALUPON",
     "name": "ILE OLORI, LALUPON",
@@ -40758,12 +39486,6 @@
     "pu_code": "30/20/09/011",
     "pu_name": "OPEN SPACE T-JUNCTION OPP AGUGU CENTRAL MOSQUE",
     "name": "OPEN SPACE T-JUNCTION OPP AGUGU CENTRAL MOSQUE",
-    "lga": "LAGELU",
-    "ward": "LALUPON III",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "LAGELU",
     "ward": "LALUPON III",
     "state": "Oyo",
@@ -40878,12 +39600,6 @@
     "state_code": "30"
   },
   {
-    "lga": "LAGELU",
-    "ward": "OFA-IGBO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/20/11/001",
     "pu_name": "C.A.C. PRIMARY SCHOOL, OLOWODE",
     "name": "C.A.C. PRIMARY SCHOOL, OLOWODE",
@@ -40923,12 +39639,6 @@
     "pu_code": "30/20/11/005",
     "pu_name": "BOLORUNDURO VILLAGE",
     "name": "BOLORUNDURO VILLAGE",
-    "lga": "LAGELU",
-    "ward": "OGUNJANA/OLOWODE/OGBURO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "LAGELU",
     "ward": "OGUNJANA/OLOWODE/OGBURO",
     "state": "Oyo",
@@ -41034,12 +39744,6 @@
     "state_code": "30"
   },
   {
-    "lga": "LAGELU",
-    "ward": "OGUNREMI/OGUNSINA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/20/13/001",
     "pu_name": "I.D.C. PRIMARY SCHOOL, ELESU",
     "name": "I.D.C. PRIMARY SCHOOL, ELESU",
@@ -41139,12 +39843,6 @@
     "state_code": "30"
   },
   {
-    "lga": "LAGELU",
-    "ward": "OYEDEJI/OLODE/KUTAYI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/20/14/001",
     "pu_name": "I.D.C. PRIMARY SCHOOL, SAGBE",
     "name": "I.D.C. PRIMARY SCHOOL, SAGBE",
@@ -41211,12 +39909,6 @@
     "pu_code": "30/20/14/008",
     "pu_name": "AGE PRIMARY SCHOOL",
     "name": "AGE PRIMARY SCHOOL",
-    "lga": "LAGELU",
-    "ward": "SAGBE/PABIEKUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "LAGELU",
     "ward": "SAGBE/PABIEKUN",
     "state": "Oyo",
@@ -41349,12 +40041,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGBOMOSO NORTH",
-    "ward": "ABOGUNDE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/21/02/001",
     "pu_name": "ITA ALARO",
     "name": "ITA ALARO",
@@ -41466,12 +40152,6 @@
     "pu_code": "30/21/02/013",
     "pu_name": "OJUDE AGBOMOJO/ BAALE IKOSE",
     "name": "OJUDE AGBOMOJO/ BAALE IKOSE",
-    "lga": "OGBOMOSO NORTH",
-    "ward": "AAJE/OGUNBADO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OGBOMOSO NORTH",
     "ward": "AAJE/OGUNBADO",
     "state": "Oyo",
@@ -41838,12 +40518,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGBOMOSO NORTH",
-    "ward": "AGUODO/ MASIFA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/21/04/001",
     "pu_name": "ILE AJO ISALE AFON I",
     "name": "ILE AJO ISALE AFON I",
@@ -41964,12 +40638,6 @@
     "pu_code": "30/21/04/014",
     "pu_name": "OJUDE FEDEGBO, ISALE AFON II",
     "name": "OJUDE FEDEGBO, ISALE AFON II",
-    "lga": "OGBOMOSO NORTH",
-    "ward": "ISALE AFON",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OGBOMOSO NORTH",
     "ward": "ISALE AFON",
     "state": "Oyo",
@@ -42114,12 +40782,6 @@
     "pu_code": "30/21/05/016",
     "pu_name": "OPEN SPACE OPPOSITE ABUNDANT CHURCH ATTAOHEED AREA",
     "name": "OPEN SPACE OPPOSITE ABUNDANT CHURCH ATTAOHEED AREA",
-    "lga": "OGBOMOSO NORTH",
-    "ward": "ISALE ALAASA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OGBOMOSO NORTH",
     "ward": "ISALE ALAASA",
     "state": "Oyo",
@@ -42279,12 +40941,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGBOMOSO NORTH",
-    "ward": "ISALE ORA/SAJA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/21/07/001",
     "pu_name": "JAGUN POSTAL AGENCY",
     "name": "JAGUN POSTAL AGENCY",
@@ -42369,12 +41025,6 @@
     "pu_code": "30/21/07/010",
     "pu_name": "OJUDE LAFA II",
     "name": "OJUDE LAFA II",
-    "lga": "OGBOMOSO NORTH",
-    "ward": "JAGUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OGBOMOSO NORTH",
     "ward": "JAGUN",
     "state": "Oyo",
@@ -42501,12 +41151,6 @@
     "pu_code": "30/21/08/014",
     "pu_name": "OPEN SPACE AT ILE ALAPO AREA",
     "name": "OPEN SPACE AT ILE ALAPO AREA",
-    "lga": "OGBOMOSO NORTH",
-    "ward": "OKELERIN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OGBOMOSO NORTH",
     "ward": "OKELERIN",
     "state": "Oyo",
@@ -42747,12 +41391,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGBOMOSO NORTH",
-    "ward": "OSUPA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/21/10/001",
     "pu_name": "OJUDE APE EGBE I",
     "name": "OJUDE APE EGBE I",
@@ -42969,12 +41607,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGBOMOSO NORTH",
-    "ward": "SABO/TARA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/22/01/001",
     "pu_name": "ODE ALAKASU I",
     "name": "ODE ALAKASU I",
@@ -43140,12 +41772,6 @@
     "pu_code": "30/22/01/019",
     "pu_name": "AYEGUN PRY SCHOOL III",
     "name": "AYEGUN PRY SCHOOL III",
-    "lga": "OGBOMOSO SOUTH",
-    "ward": "AKATA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OGBOMOSO SOUTH",
     "ward": "AKATA",
     "state": "Oyo",
@@ -43377,12 +42003,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGBOMOSO SOUTH",
-    "ward": "ALAPATA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/22/03/001",
     "pu_name": "ALOKUNSORO (ODE AJALA) I",
     "name": "ALOKUNSORO (ODE AJALA) I",
@@ -43548,12 +42168,6 @@
     "pu_code": "30/22/03/019",
     "pu_name": "ST.FERDINARD GRAMM SCHOOL",
     "name": "ST.FERDINARD GRAMM SCHOOL",
-    "lga": "OGBOMOSO SOUTH",
-    "ward": "AROWOMOLE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OGBOMOSO SOUTH",
     "ward": "AROWOMOLE",
     "state": "Oyo",
@@ -43875,12 +42489,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGBOMOSO SOUTH",
-    "ward": "IBAPON",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/22/05/001",
     "pu_name": "IJERU CUSTOMARY COURT I",
     "name": "IJERU CUSTOMARY COURT I",
@@ -44025,12 +42633,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGBOMOSO SOUTH",
-    "ward": "IJERU I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/22/06/001",
     "pu_name": "ODE ALAGADANGBA I",
     "name": "ODE ALAGADANGBA I",
@@ -44133,12 +42735,6 @@
     "pu_code": "30/22/06/012",
     "pu_name": "ODE OLOKOO",
     "name": "ODE OLOKOO",
-    "lga": "OGBOMOSO SOUTH",
-    "ward": "IJERU II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OGBOMOSO SOUTH",
     "ward": "IJERU II",
     "state": "Oyo",
@@ -44271,12 +42867,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGBOMOSO SOUTH",
-    "ward": "ILOGBO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/22/08/001",
     "pu_name": "ITA OLOLA I",
     "name": "ITA OLOLA I",
@@ -44397,12 +42987,6 @@
     "pu_code": "30/22/08/014",
     "pu_name": "OJUDE OLOTA AKUNKO",
     "name": "OJUDE OLOTA AKUNKO",
-    "lga": "OGBOMOSO SOUTH",
-    "ward": "ISOKO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OGBOMOSO SOUTH",
     "ward": "ISOKO",
     "state": "Oyo",
@@ -44544,12 +43128,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGBOMOSO SOUTH",
-    "ward": "LAGBEDU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/22/10/001",
     "pu_name": "ODE LAFINHAN I",
     "name": "ODE LAFINHAN I",
@@ -44670,12 +43248,6 @@
     "pu_code": "30/22/10/014",
     "pu_name": "SHAMSI-DEEN GRAMMAR SCHOOL",
     "name": "SHAMSI-DEEN GRAMMAR SCHOOL",
-    "lga": "OGBOMOSO SOUTH",
-    "ward": "OKE-OLA/FARM SETTLEMENT",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OGBOMOSO SOUTH",
     "ward": "OKE-OLA/FARM SETTLEMENT",
     "state": "Oyo",
@@ -44817,12 +43389,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGO-OLUWA",
-    "ward": "AJAAWA I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/23/02/001",
     "pu_name": "D.C. SCHOOL, OJUTAYE",
     "name": "D.C. SCHOOL, OJUTAYE",
@@ -44862,12 +43428,6 @@
     "pu_code": "30/23/02/005",
     "pu_name": "D.C. SCHOOL, OBANISUNWA",
     "name": "D.C. SCHOOL, OBANISUNWA",
-    "lga": "OGO-OLUWA",
-    "ward": "AJAAWA II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OGO-OLUWA",
     "ward": "AJAAWA II",
     "state": "Oyo",
@@ -44928,12 +43488,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGO-OLUWA",
-    "ward": "AYEDE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/23/04/001",
     "pu_name": "EBENEZER PRIMARY SCHOOL, AYETORO",
     "name": "EBENEZER PRIMARY SCHOOL, AYETORO",
@@ -44988,12 +43542,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGO-OLUWA",
-    "ward": "AYETORO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/23/05/001",
     "pu_name": "D.C. SCHOOL, ALAGUODO",
     "name": "D.C. SCHOOL, ALAGUODO",
@@ -45042,12 +43590,6 @@
     "pu_code": "30/23/05/006",
     "pu_name": "AJELANWA VILLAGE",
     "name": "AJELANWA VILLAGE",
-    "lga": "OGO-OLUWA",
-    "ward": "IDEWURE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OGO-OLUWA",
     "ward": "IDEWURE",
     "state": "Oyo",
@@ -45135,12 +43677,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGO-OLUWA",
-    "ward": "LAGBEDU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/23/07/001",
     "pu_name": "D.C. SCHOOL, MOWOLOWO",
     "name": "D.C. SCHOOL, MOWOLOWO",
@@ -45207,12 +43743,6 @@
     "pu_code": "30/23/07/008",
     "pu_name": "ONILU VILLAGE JUNCTION",
     "name": "ONILU VILLAGE JUNCTION",
-    "lga": "OGO-OLUWA",
-    "ward": "MOWOLOWO/IWO-ATE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OGO-OLUWA",
     "ward": "MOWOLOWO/IWO-ATE",
     "state": "Oyo",
@@ -45372,12 +43902,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGO-OLUWA",
-    "ward": "ODO-OBA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/23/09/001",
     "pu_name": "D.C. SCHOOL, OPETE",
     "name": "D.C. SCHOOL, OPETE",
@@ -45471,12 +43995,6 @@
     "pu_code": "30/23/09/011",
     "pu_name": "OPEN SPACE BESIDE IROYIN AYO BAPTIST CHURCH",
     "name": "OPEN SPACE BESIDE IROYIN AYO BAPTIST CHURCH",
-    "lga": "OGO-OLUWA",
-    "ward": "OPETE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OGO-OLUWA",
     "ward": "OPETE",
     "state": "Oyo",
@@ -45591,12 +44109,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OGO-OLUWA",
-    "ward": "OTAMOKUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/24/01/001",
     "pu_name": "KONDORO PRIMARY SCHOOL",
     "name": "KONDORO PRIMARY SCHOOL",
@@ -45678,12 +44190,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OLORUNSOGO",
-    "ward": "ABOKE (ABOYUN OGUN)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/24/02/001",
     "pu_name": "ALABE",
     "name": "ALABE",
@@ -45738,12 +44244,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OLORUNSOGO",
-    "ward": "ELERUGBA/ELEHINKE/SAGBO (APERU)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/24/03/001",
     "pu_name": "NUD PRIMARY SCHOOL III (ATANDA)",
     "name": "NUD PRIMARY SCHOOL III (ATANDA)",
@@ -45792,12 +44292,6 @@
     "pu_code": "30/24/03/006",
     "pu_name": "OGUNTE NLA",
     "name": "OGUNTE NLA",
-    "lga": "OLORUNSOGO",
-    "ward": "IKOLABA/OBADIMO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OLORUNSOGO",
     "ward": "IKOLABA/OBADIMO",
     "state": "Oyo",
@@ -45867,12 +44361,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OLORUNSOGO",
-    "ward": "ONIGBETI I (IYAMOPO)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/24/05/001",
     "pu_name": "ASINWA",
     "name": "ASINWA",
@@ -45930,12 +44418,6 @@
     "pu_code": "30/24/05/007",
     "pu_name": "OLORO",
     "name": "OLORO",
-    "lga": "OLORUNSOGO",
-    "ward": "ONIGBETI II/SAGBON AGORO (SAGBON)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OLORUNSOGO",
     "ward": "ONIGBETI II/SAGBON AGORO (SAGBON)",
     "state": "Oyo",
@@ -46014,12 +44496,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OLORUNSOGO",
-    "ward": "ONIGBETI III & IV (AGBENI)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/24/07/001",
     "pu_name": "ALADA",
     "name": "ALADA",
@@ -46068,12 +44544,6 @@
     "pu_code": "30/24/07/006",
     "pu_name": "MATERNITY CENTRE TOOLO (TOOLO)",
     "name": "MATERNITY CENTRE TOOLO (TOOLO)",
-    "lga": "OLORUNSOGO",
-    "ward": "OPA/OGUNNIYI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OLORUNSOGO",
     "ward": "OPA/OGUNNIYI",
     "state": "Oyo",
@@ -46143,12 +44613,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OLORUNSOGO",
-    "ward": "SERIKI I & ABOSINO (OKIN)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/24/09/001",
     "pu_name": "AGO ARE",
     "name": "AGO ARE",
@@ -46203,12 +44667,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OLORUNSOGO",
-    "ward": "SERIKI II (AGBELE)",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/24/10/001",
     "pu_name": "SAINT THOMAS PRIMARY SCHOOL APATA ALAJE (APATA ALAJE)",
     "name": "SAINT THOMAS PRIMARY SCHOOL APATA ALAJE (APATA ALAJE)",
@@ -46257,12 +44715,6 @@
     "pu_code": "30/24/10/006",
     "pu_name": "PAKOKO/WARO",
     "name": "PAKOKO/WARO",
-    "lga": "OLORUNSOGO",
-    "ward": "WARO/APATA-ALAJE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OLORUNSOGO",
     "ward": "WARO/APATA-ALAJE",
     "state": "Oyo",
@@ -46398,12 +44850,6 @@
     "pu_code": "30/25/01/015",
     "pu_name": "OKULU",
     "name": "OKULU",
-    "lga": "OLUYOLE",
-    "ward": "AYEGUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OLUYOLE",
     "ward": "AYEGUN",
     "state": "Oyo",
@@ -46887,12 +45333,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OLUYOLE",
-    "ward": "IDI-IROKO/IKEREKU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/25/03/001",
     "pu_name": "PEGBA",
     "name": "PEGBA",
@@ -47013,12 +45453,6 @@
     "pu_code": "30/25/03/014",
     "pu_name": "PRIMARY SCHOOL IDI-IROKO",
     "name": "PRIMARY SCHOOL IDI-IROKO",
-    "lga": "OLUYOLE",
-    "ward": "IDI-OSAN/EGBEDA-ATUBA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OLUYOLE",
     "ward": "IDI-OSAN/EGBEDA-ATUBA",
     "state": "Oyo",
@@ -47277,12 +45711,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OLUYOLE",
-    "ward": "MUSLIM/OGBERE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/25/05/001",
     "pu_name": "ORILE ODO ST. MARTINS",
     "name": "ORILE ODO ST. MARTINS",
@@ -47535,12 +45963,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OLUYOLE",
-    "ward": "ODO-ONA NLA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/25/06/001",
     "pu_name": "OLOJUORO PRY. SCH.",
     "name": "OLOJUORO PRY. SCH.",
@@ -47616,12 +46038,6 @@
     "pu_code": "30/25/06/009",
     "pu_name": "HEALTH CARE CENTRE LATUNDE",
     "name": "HEALTH CARE CENTRE LATUNDE",
-    "lga": "OLUYOLE",
-    "ward": "OKANHINDE/LATUNDE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OLUYOLE",
     "ward": "OKANHINDE/LATUNDE",
     "state": "Oyo",
@@ -48015,12 +46431,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OLUYOLE",
-    "ward": "OLOMI/OLURINDE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/25/08/001",
     "pu_name": "OLONDE OLGS",
     "name": "OLONDE OLGS",
@@ -48147,12 +46557,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OLUYOLE",
-    "ward": "OLONDE/ABA-NLA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/25/09/001",
     "pu_name": "ALL SAINTS SCHOOL, ONIPE",
     "name": "ALL SAINTS SCHOOL, ONIPE",
@@ -48237,12 +46641,6 @@
     "pu_code": "30/25/09/010",
     "pu_name": "ABIPO",
     "name": "ABIPO",
-    "lga": "OLUYOLE",
-    "ward": "ONIPE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OLUYOLE",
     "ward": "ONIPE",
     "state": "Oyo",
@@ -48384,12 +46782,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OLUYOLE",
-    "ward": "ORISUNBARE/OJO-EKUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/26/01/001",
     "pu_name": "ISLAMIC MISSION SCHOOL, AKANRAN",
     "name": "ISLAMIC MISSION SCHOOL, AKANRAN",
@@ -48480,12 +46872,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ONA-ARA",
-    "ward": "AKANRAN/OLORUNDA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/26/02/001",
     "pu_name": "ARAROMI APERIN",
     "name": "ARAROMI APERIN",
@@ -48552,12 +46938,6 @@
     "pu_code": "30/26/02/008",
     "pu_name": "ALL SAINTS PRIMARY SCHOOL, ARAROMI, APERIN",
     "name": "ALL SAINTS PRIMARY SCHOOL, ARAROMI, APERIN",
-    "lga": "ONA-ARA",
-    "ward": "ARAROMI/APERIN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ONA-ARA",
     "ward": "ARAROMI/APERIN",
     "state": "Oyo",
@@ -48636,12 +47016,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ONA-ARA",
-    "ward": "BADEKU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/26/04/001",
     "pu_name": "GBADA EFON",
     "name": "GBADA EFON",
@@ -48699,12 +47073,6 @@
     "pu_code": "30/26/04/007",
     "pu_name": "ST. LUKES PRIMARY SCHOOL, ADIGUN VILLAGE",
     "name": "ST. LUKES PRIMARY SCHOOL, ADIGUN VILLAGE",
-    "lga": "ONA-ARA",
-    "ward": "GBADA EFON",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ONA-ARA",
     "ward": "GBADA EFON",
     "state": "Oyo",
@@ -48900,12 +47268,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ONA-ARA",
-    "ward": "ODI ODEYALE/ODI APERIN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/26/06/001",
     "pu_name": "IDI OSAN MARKET",
     "name": "IDI OSAN MARKET",
@@ -49035,12 +47397,6 @@
     "pu_code": "30/26/06/015",
     "pu_name": "OPEN SPACE BESIDE KESHINSI MOSQUE OREMEJI",
     "name": "OPEN SPACE BESIDE KESHINSI MOSQUE OREMEJI",
-    "lga": "ONA-ARA",
-    "ward": "OGBERE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ONA-ARA",
     "ward": "OGBERE",
     "state": "Oyo",
@@ -49281,12 +47637,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ONA-ARA",
-    "ward": "OGBERE TIOYA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/26/08/001",
     "pu_name": "AJIA I",
     "name": "AJIA I",
@@ -49362,12 +47712,6 @@
     "pu_code": "30/26/08/009",
     "pu_name": "OPEN SPACE BESIDE AJIA HEALTH CENTRE",
     "name": "OPEN SPACE BESIDE AJIA HEALTH CENTRE",
-    "lga": "ONA-ARA",
-    "ward": "OJOKU/AJIA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ONA-ARA",
     "ward": "OJOKU/AJIA",
     "state": "Oyo",
@@ -49563,12 +47907,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ONA-ARA",
-    "ward": "OLORUNSOGO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/26/10/001",
     "pu_name": "ANGLICAN GRAMMAR SCHOOL, OJEBODE",
     "name": "ANGLICAN GRAMMAR SCHOOL, OJEBODE",
@@ -49644,12 +47982,6 @@
     "pu_code": "30/26/10/009",
     "pu_name": "OJO ERIN VILLAGE JUNCTION, OJO ERIN VILLAGE",
     "name": "OJO ERIN VILLAGE JUNCTION, OJO ERIN VILLAGE",
-    "lga": "ONA-ARA",
-    "ward": "OLODE/GBEDUN/OJEBODE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ONA-ARA",
     "ward": "OLODE/GBEDUN/OJEBODE",
     "state": "Oyo",
@@ -49800,12 +48132,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ONA-ARA",
-    "ward": "OREMEJI/AGUGU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/27/01/001",
     "pu_name": "AWUJOOLA COMPOUND, OBAAGO",
     "name": "AWUJOOLA COMPOUND, OBAAGO",
@@ -49905,12 +48231,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OORELOPE",
-    "ward": "ALEPATA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/27/02/001",
     "pu_name": "BAPTIST CENTRAL SCHOOL",
     "name": "BAPTIST CENTRAL SCHOOL",
@@ -49995,12 +48315,6 @@
     "pu_code": "30/27/02/016",
     "pu_name": "BAPTIST PRIMARY SCHOOL",
     "name": "BAPTIST PRIMARY SCHOOL",
-    "lga": "OORELOPE",
-    "ward": "AARE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OORELOPE",
     "ward": "AARE",
     "state": "Oyo",
@@ -50142,12 +48456,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OORELOPE",
-    "ward": "BONNI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/27/04/001",
     "pu_name": "MUSLIM PRIMARY SCHOOL, IGBOPE",
     "name": "MUSLIM PRIMARY SCHOOL, IGBOPE",
@@ -50193,12 +48501,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OORELOPE",
-    "ward": "IGBOPE/IYEYE I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/27/05/001",
     "pu_name": "BAPTIST PRIMARY SCHOOL, IGBOPE",
     "name": "BAPTIST PRIMARY SCHOOL, IGBOPE",
@@ -50238,12 +48540,6 @@
     "pu_code": "30/27/05/005",
     "pu_name": "AJANGBA VILLAGE",
     "name": "AJANGBA VILLAGE",
-    "lga": "OORELOPE",
-    "ward": "IGBOPE/IYEYE II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OORELOPE",
     "ward": "IGBOPE/IYEYE II",
     "state": "Oyo",
@@ -50304,12 +48600,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OORELOPE",
-    "ward": "IGI ISUBU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/27/07/001",
     "pu_name": "MOSAFEJO COMPOUND, MODEKE",
     "name": "MOSAFEJO COMPOUND, MODEKE",
@@ -50358,12 +48648,6 @@
     "pu_code": "30/27/07/006",
     "pu_name": "MODEKE TEMPLE",
     "name": "MODEKE TEMPLE",
-    "lga": "OORELOPE",
-    "ward": "ONIBODE I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OORELOPE",
     "ward": "ONIBODE I",
     "state": "Oyo",
@@ -50436,12 +48720,6 @@
     "pu_code": "30/27/08/008",
     "pu_name": "IMALA COMPOUND, MODEKE",
     "name": "IMALA COMPOUND, MODEKE",
-    "lga": "OORELOPE",
-    "ward": "ONIBODE II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OORELOPE",
     "ward": "ONIBODE II",
     "state": "Oyo",
@@ -50550,12 +48828,6 @@
     "pu_code": "30/27/09/012",
     "pu_name": "MUSLIM SECONDARY SCHOOL, MODEKE",
     "name": "MUSLIM SECONDARY SCHOOL, MODEKE",
-    "lga": "OORELOPE",
-    "ward": "ONIBODE III",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OORELOPE",
     "ward": "ONIBODE III",
     "state": "Oyo",
@@ -50691,12 +48963,6 @@
     "pu_code": "30/27/10/015",
     "pu_name": "ODO OGUN (IDERA)",
     "name": "ODO OGUN (IDERA)",
-    "lga": "OORELOPE",
-    "ward": "ONIGBOHO/ALOMO/OKERE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OORELOPE",
     "ward": "ONIGBOHO/ALOMO/OKERE",
     "state": "Oyo",
@@ -50901,12 +49167,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ORI IRE",
-    "ward": "ORI IRE I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/28/02/001",
     "pu_name": "TEWURE NEW MARKET",
     "name": "TEWURE NEW MARKET",
@@ -51036,12 +49296,6 @@
     "pu_code": "30/28/02/015",
     "pu_name": "OPEN SPACE SURULERE ALONG AJINAPA ROAD, TEWURE",
     "name": "OPEN SPACE SURULERE ALONG AJINAPA ROAD, TEWURE",
-    "lga": "ORI IRE",
-    "ward": "ORI IRE II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ORI IRE",
     "ward": "ORI IRE II",
     "state": "Oyo",
@@ -51201,12 +49455,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ORI IRE",
-    "ward": "ORI IRE III",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/28/04/001",
     "pu_name": "ADAFILA OPEN SPACE I",
     "name": "ADAFILA OPEN SPACE I",
@@ -51282,12 +49530,6 @@
     "pu_code": "30/28/04/009",
     "pu_name": "OPEN SPACE KAJOLA MARKET",
     "name": "OPEN SPACE KAJOLA MARKET",
-    "lga": "ORI IRE",
-    "ward": "ORI IRE IV",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ORI IRE",
     "ward": "ORI IRE IV",
     "state": "Oyo",
@@ -51432,12 +49674,6 @@
     "pu_code": "30/28/05/016",
     "pu_name": "OPEN SPACE OKE APAOBO, OLOKA",
     "name": "OPEN SPACE OKE APAOBO, OLOKA",
-    "lga": "ORI IRE",
-    "ward": "ORI IRE V",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ORI IRE",
     "ward": "ORI IRE V",
     "state": "Oyo",
@@ -51633,12 +49869,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ORI IRE",
-    "ward": "ORI IRE VI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/28/07/001",
     "pu_name": "OOLO OPEN SPACE I",
     "name": "OOLO OPEN SPACE I",
@@ -51774,12 +50004,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ORI IRE",
-    "ward": "ORI IRE VII",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/28/08/001",
     "pu_name": "AJEGUNLE-GBENRO OPEN SPACE",
     "name": "AJEGUNLE-GBENRO OPEN SPACE",
@@ -51882,12 +50106,6 @@
     "pu_code": "30/28/08/012",
     "pu_name": "ODOGBO OPEN SPACE",
     "name": "ODOGBO OPEN SPACE",
-    "lga": "ORI IRE",
-    "ward": "ORI IRE VIII",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ORI IRE",
     "ward": "ORI IRE VIII",
     "state": "Oyo",
@@ -52068,12 +50286,6 @@
     "pu_code": "30/28/09/020",
     "pu_name": "AYEGUN AWON, OPEN SPACE",
     "name": "AYEGUN AWON, OPEN SPACE",
-    "lga": "ORI IRE",
-    "ward": "ORI IRE IX",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "ORI IRE",
     "ward": "ORI IRE IX",
     "state": "Oyo",
@@ -52269,12 +50481,6 @@
     "state_code": "30"
   },
   {
-    "lga": "ORI IRE",
-    "ward": "ORI IRE X",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/29/01/001",
     "pu_name": "BAPTIST SCHOOL AGBOYE",
     "name": "BAPTIST SCHOOL AGBOYE",
@@ -52368,12 +50574,6 @@
     "pu_code": "30/29/01/011",
     "pu_name": "OPEN SPACE BUKU",
     "name": "OPEN SPACE BUKU",
-    "lga": "OYO EAST",
-    "ward": "AGBOYE/MOLETE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OYO EAST",
     "ward": "AGBOYE/MOLETE",
     "state": "Oyo",
@@ -52560,12 +50760,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OYO EAST",
-    "ward": "AJAGBA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/29/03/001",
     "pu_name": "ALAODI O/S",
     "name": "ALAODI O/S",
@@ -52659,12 +50853,6 @@
     "pu_code": "30/29/03/011",
     "pu_name": "OPEN SPACE AGUN/ALESINLOYE",
     "name": "OPEN SPACE AGUN/ALESINLOYE",
-    "lga": "OYO EAST",
-    "ward": "ALAODI/MODEKE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OYO EAST",
     "ward": "ALAODI/MODEKE",
     "state": "Oyo",
@@ -52806,12 +50994,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OYO EAST",
-    "ward": "APAARA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/29/05/001",
     "pu_name": "ALAPINNI OPEN SPACE",
     "name": "ALAPINNI OPEN SPACE",
@@ -52947,12 +51129,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OYO EAST",
-    "ward": "APINNI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/29/06/001",
     "pu_name": "AROWONA O/S",
     "name": "AROWONA O/S",
@@ -53046,12 +51222,6 @@
     "pu_code": "30/29/06/011",
     "pu_name": "OPEN SPACE II OSIBI",
     "name": "OPEN SPACE II OSIBI",
-    "lga": "OYO EAST",
-    "ward": "BALOGUN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OYO EAST",
     "ward": "BALOGUN",
     "state": "Oyo",
@@ -53220,12 +51390,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OYO EAST",
-    "ward": "JABATA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/29/08/001",
     "pu_name": "OKE APO O/S",
     "name": "OKE APO O/S",
@@ -53352,12 +51516,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OYO EAST",
-    "ward": "OKE APO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/29/09/001",
     "pu_name": "OLUAJO O/S",
     "name": "OLUAJO O/S",
@@ -53442,12 +51600,6 @@
     "pu_code": "30/29/09/010",
     "pu_name": "OPEN SPACE ORELOPE'S HOUSE",
     "name": "OPEN SPACE ORELOPE'S HOUSE",
-    "lga": "OYO EAST",
-    "ward": "OLUAJO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OYO EAST",
     "ward": "OLUAJO",
     "state": "Oyo",
@@ -53670,12 +51822,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OYO EAST",
-    "ward": "OWODE/ARAROMI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/30/01/001",
     "pu_name": "METHODIST SCHOOL, AKEETAN I",
     "name": "METHODIST SCHOOL, AKEETAN I",
@@ -53760,12 +51906,6 @@
     "pu_code": "30/30/01/010",
     "pu_name": "AJIWUMI JUNCTION AKEETAN",
     "name": "AJIWUMI JUNCTION AKEETAN",
-    "lga": "OYO WEST",
-    "ward": "AKEETAN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OYO WEST",
     "ward": "AKEETAN",
     "state": "Oyo",
@@ -53889,12 +52029,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OYO WEST",
-    "ward": "AJOKIDERO/AKEWUGBERU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/30/03/001",
     "pu_name": "FASOLA I",
     "name": "FASOLA I",
@@ -54003,12 +52137,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OYO WEST",
-    "ward": "FASOLA/SOKU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/30/04/001",
     "pu_name": "ISEKE MARKET I",
     "name": "ISEKE MARKET I",
@@ -54102,12 +52230,6 @@
     "pu_code": "30/30/04/011",
     "pu_name": "OPEN SPACE BASSI-BABA",
     "name": "OPEN SPACE BASSI-BABA",
-    "lga": "OYO WEST",
-    "ward": "ISEKE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OYO WEST",
     "ward": "ISEKE",
     "state": "Oyo",
@@ -54252,12 +52374,6 @@
     "pu_code": "30/30/05/016",
     "pu_name": "OPEN SPACE, JAGUN OJONGBODU",
     "name": "OPEN SPACE, JAGUN OJONGBODU",
-    "lga": "OYO WEST",
-    "ward": "ISOKUN I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OYO WEST",
     "ward": "ISOKUN I",
     "state": "Oyo",
@@ -54480,12 +52596,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OYO WEST",
-    "ward": "ISOKUN II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/30/07/001",
     "pu_name": "ISALE AGBALA OPEN SPACE",
     "name": "ISALE AGBALA OPEN SPACE",
@@ -54570,12 +52680,6 @@
     "pu_code": "30/30/07/010",
     "pu_name": "OPEN SPACE ALAWUSA",
     "name": "OPEN SPACE ALAWUSA",
-    "lga": "OYO WEST",
-    "ward": "IYAJI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OYO WEST",
     "ward": "IYAJI",
     "state": "Oyo",
@@ -54684,12 +52788,6 @@
     "pu_code": "30/30/08/012",
     "pu_name": "A.D.S GRAMMAR SCHOOL,BLOCK 'C'",
     "name": "A.D.S GRAMMAR SCHOOL,BLOCK 'C'",
-    "lga": "OYO WEST",
-    "ward": "OPAPA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "OYO WEST",
     "ward": "OPAPA",
     "state": "Oyo",
@@ -54876,12 +52974,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OYO WEST",
-    "ward": "OWODE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/30/10/001",
     "pu_name": "PAKOYI, OPEN SPACE I",
     "name": "PAKOYI, OPEN SPACE I",
@@ -54981,12 +53073,6 @@
     "state_code": "30"
   },
   {
-    "lga": "OYO WEST",
-    "ward": "PAKOYI/IDODE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/31/01/001",
     "pu_name": "BAPTIST PRIMARY SCHOOL, AGBONLE I",
     "name": "BAPTIST PRIMARY SCHOOL, AGBONLE I",
@@ -55077,12 +53163,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SAKI EAST",
-    "ward": "AGBONLE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/31/02/001",
     "pu_name": "A.U.D. SCHOOL, AGO AMODU",
     "name": "A.U.D. SCHOOL, AGO AMODU",
@@ -55164,12 +53244,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SAKI EAST",
-    "ward": "AGO AMODU I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/31/03/001",
     "pu_name": "L.G. DISP. AGO-AMODU",
     "name": "L.G. DISP. AGO-AMODU",
@@ -55245,12 +53319,6 @@
     "pu_code": "30/31/03/009",
     "pu_name": "COMMUNITY PRIMARY SCHOOL, BUDO BANKI",
     "name": "COMMUNITY PRIMARY SCHOOL, BUDO BANKI",
-    "lga": "SAKI EAST",
-    "ward": "AGO AMODU II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "SAKI EAST",
     "ward": "AGO AMODU II",
     "state": "Oyo",
@@ -55347,12 +53415,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SAKI EAST",
-    "ward": "OGBOORO I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/31/05/001",
     "pu_name": "AYEBOOPO I, OGBOORO A",
     "name": "AYEBOOPO I, OGBOORO A",
@@ -55428,12 +53490,6 @@
     "pu_code": "30/31/05/009",
     "pu_name": "COMMUNITY PRIMARY SCHOOL, ABA AMUKOKO, OGBOORO",
     "name": "COMMUNITY PRIMARY SCHOOL, ABA AMUKOKO, OGBOORO",
-    "lga": "SAKI EAST",
-    "ward": "OGBOORO II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "SAKI EAST",
     "ward": "OGBOORO II",
     "state": "Oyo",
@@ -55539,12 +53595,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SAKI EAST",
-    "ward": "OJE OWODE I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/31/07/001",
     "pu_name": "N.U.D. PRIMARY SCHOOL, OJE OWODE I",
     "name": "N.U.D. PRIMARY SCHOOL, OJE OWODE I",
@@ -55644,12 +53694,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SAKI EAST",
-    "ward": "OJE OWODE II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/31/08/001",
     "pu_name": "COMMUNITY PRIMARY SCHOOL, SEPETERI I",
     "name": "COMMUNITY PRIMARY SCHOOL, SEPETERI I",
@@ -55731,12 +53775,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SAKI EAST",
-    "ward": "SEPETERI I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/31/09/001",
     "pu_name": "BAPTIST PRIMARY SCHOOL, SEPETERI",
     "name": "BAPTIST PRIMARY SCHOOL, SEPETERI",
@@ -55812,12 +53850,6 @@
     "pu_code": "30/31/09/009",
     "pu_name": "BAPTIST DAY PRIMARY SCHOOL, SEPETERI",
     "name": "BAPTIST DAY PRIMARY SCHOOL, SEPETERI",
-    "lga": "SAKI EAST",
-    "ward": "SEPETERI II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "SAKI EAST",
     "ward": "SEPETERI II",
     "state": "Oyo",
@@ -55914,12 +53946,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SAKI EAST",
-    "ward": "SEPETERI III",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/31/11/001",
     "pu_name": "N.U.D. SCHOOL, SEPETERI",
     "name": "N.U.D. SCHOOL, SEPETERI",
@@ -55986,12 +54012,6 @@
     "pu_code": "30/31/11/008",
     "pu_name": "ABA WORU, SEPETERI",
     "name": "ABA WORU, SEPETERI",
-    "lga": "SAKI EAST",
-    "ward": "SEPETERI IV",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "SAKI EAST",
     "ward": "SEPETERI IV",
     "state": "Oyo",
@@ -56145,12 +54165,6 @@
     "pu_code": "30/32/01/017",
     "pu_name": "BABA AWO",
     "name": "BABA AWO",
-    "lga": "SAKI WEST",
-    "ward": "AGANMU/KOOKO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "SAKI WEST",
     "ward": "AGANMU/KOOKO",
     "state": "Oyo",
@@ -56481,12 +54495,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SAKI WEST",
-    "ward": "AJEGUNLE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/32/03/001",
     "pu_name": "L.A. SCHOOL, ISIA I",
     "name": "L.A. SCHOOL, ISIA I",
@@ -56640,12 +54648,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SAKI WEST",
-    "ward": "BAGII",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/32/04/001",
     "pu_name": "COMMUNITY PRIMARY SCHOOL, OWODE",
     "name": "COMMUNITY PRIMARY SCHOOL, OWODE",
@@ -56784,12 +54786,6 @@
     "pu_code": "30/32/04/016",
     "pu_name": "WASANGARE CORNER",
     "name": "WASANGARE CORNER",
-    "lga": "SAKI WEST",
-    "ward": "EKOKAN / IMUA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "SAKI WEST",
     "ward": "EKOKAN / IMUA",
     "state": "Oyo",
@@ -56961,12 +54957,6 @@
     "pu_code": "30/32/05/019",
     "pu_name": "SHITTU ORE",
     "name": "SHITTU ORE",
-    "lga": "SAKI WEST",
-    "ward": "IYA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "SAKI WEST",
     "ward": "IYA",
     "state": "Oyo",
@@ -57153,12 +55143,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SAKI WEST",
-    "ward": "OGIDIGBO/KINNIKINNI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/32/07/001",
     "pu_name": "OKE-ORO MARKET I",
     "name": "OKE-ORO MARKET I",
@@ -57312,12 +55296,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SAKI WEST",
-    "ward": "OKE-ORO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/32/08/001",
     "pu_name": "TOWN HALL I",
     "name": "TOWN HALL I",
@@ -57429,12 +55407,6 @@
     "pu_code": "30/32/08/013",
     "pu_name": "JANGBADI II",
     "name": "JANGBADI II",
-    "lga": "SAKI WEST",
-    "ward": "OKERE I",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "SAKI WEST",
     "ward": "OKERE I",
     "state": "Oyo",
@@ -57693,12 +55665,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SAKI WEST",
-    "ward": "OKERE II",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/32/10/001",
     "pu_name": "ARARO WATER TAP",
     "name": "ARARO WATER TAP",
@@ -57915,12 +55881,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SAKI WEST",
-    "ward": "SANGOTE/BOODA/BAABO/ILUA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/32/11/001",
     "pu_name": "L.A. SCHOOL TABA I",
     "name": "L.A. SCHOOL TABA I",
@@ -58110,12 +56070,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SAKI WEST",
-    "ward": "SEPETERI/BAPON",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/33/01/001",
     "pu_name": "AYETORO KALE",
     "name": "AYETORO KALE",
@@ -58254,12 +56208,6 @@
     "pu_code": "30/33/01/016",
     "pu_name": "BASIC SCHOOL, IDI ORO",
     "name": "BASIC SCHOOL, IDI ORO",
-    "lga": "SURULERE",
-    "ward": "BAYA-OJE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "SURULERE",
     "ward": "BAYA-OJE",
     "state": "Oyo",
@@ -58455,12 +56403,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SURULERE",
-    "ward": "IGBON/GAMBARI",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/33/03/001",
     "pu_name": "ADUDU VILLAGE",
     "name": "ADUDU VILLAGE",
@@ -58623,12 +56565,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SURULERE",
-    "ward": "IRESAAPA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/33/04/001",
     "pu_name": "ALAGBEDE VILLAGE I",
     "name": "ALAGBEDE VILLAGE I",
@@ -58764,12 +56700,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SURULERE",
-    "ward": "AROLU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/33/05/001",
     "pu_name": "AGANYAN VILLAGE",
     "name": "AGANYAN VILLAGE",
@@ -58890,12 +56820,6 @@
     "pu_code": "30/33/05/014",
     "pu_name": "OPEN SPACE AT ORITA AJE",
     "name": "OPEN SPACE AT ORITA AJE",
-    "lga": "SURULERE",
-    "ward": "IRESAADU",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "SURULERE",
     "ward": "IRESAADU",
     "state": "Oyo",
@@ -59046,12 +56970,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SURULERE",
-    "ward": "IREGBA",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/33/07/001",
     "pu_name": "BABANFA PRIMARY SCHOOL",
     "name": "BABANFA PRIMARY SCHOOL",
@@ -59136,12 +57054,6 @@
     "pu_code": "30/33/07/010",
     "pu_name": "OKE AASA VILLAGE",
     "name": "OKE AASA VILLAGE",
-    "lga": "SURULERE",
-    "ward": "IWOFIN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "SURULERE",
     "ward": "IWOFIN",
     "state": "Oyo",
@@ -59301,12 +57213,6 @@
     "state_code": "30"
   },
   {
-    "lga": "SURULERE",
-    "ward": "OKO",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "pu_code": "30/33/09/001",
     "pu_name": "ASERAWO PRIMARY SCHOOL",
     "name": "ASERAWO PRIMARY SCHOOL",
@@ -59436,12 +57342,6 @@
     "pu_code": "30/33/09/015",
     "pu_name": "LAEGE PRIMARY SCHOOL",
     "name": "LAEGE PRIMARY SCHOOL",
-    "lga": "SURULERE",
-    "ward": "ILAJUE",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "SURULERE",
     "ward": "ILAJUE",
     "state": "Oyo",
@@ -59595,12 +57495,6 @@
     "pu_code": "30/33/10/017",
     "pu_name": "ILOGBO VILLAGE",
     "name": "ILOGBO VILLAGE",
-    "lga": "SURULERE",
-    "ward": "MAYIN",
-    "state": "Oyo",
-    "state_code": "30"
-  },
-  {
     "lga": "SURULERE",
     "ward": "MAYIN",
     "state": "Oyo",

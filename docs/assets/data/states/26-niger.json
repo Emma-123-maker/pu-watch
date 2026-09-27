@@ -162,12 +162,6 @@
     "state_code": "26"
   },
   {
-    "lga": "AGAIE",
-    "ward": "BARO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/01/02/001",
     "pu_name": "BOKU",
     "name": "BOKU",
@@ -294,12 +288,6 @@
     "state_code": "26"
   },
   {
-    "lga": "AGAIE",
-    "ward": "BOKU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/01/03/001",
     "pu_name": "ABDULKADIR UBANDAWAKI",
     "name": "ABDULKADIR UBANDAWAKI",
@@ -408,12 +396,6 @@
     "state_code": "26"
   },
   {
-    "lga": "AGAIE",
-    "ward": "EKOBADEGGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/01/04/001",
     "pu_name": "EMI DZWAFU",
     "name": "EMI DZWAFU",
@@ -516,12 +498,6 @@
     "pu_code": "26/01/04/012",
     "pu_name": "EMI-NAKORDI",
     "name": "EMI-NAKORDI",
-    "lga": "AGAIE",
-    "ward": "EKOSSA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "AGAIE",
     "ward": "EKOSSA",
     "state": "Niger",
@@ -639,12 +615,6 @@
     "pu_code": "26/01/05/013",
     "pu_name": "NUHU PRIMARY SCHOOL II",
     "name": "NUHU PRIMARY SCHOOL II",
-    "lga": "AGAIE",
-    "ward": "EKOWUGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "AGAIE",
     "ward": "EKOWUGI",
     "state": "Niger",
@@ -804,12 +774,6 @@
     "state_code": "26"
   },
   {
-    "lga": "AGAIE",
-    "ward": "EKOWUNA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/01/07/001",
     "pu_name": "CHATA I",
     "name": "CHATA I",
@@ -963,12 +927,6 @@
     "state_code": "26"
   },
   {
-    "lga": "AGAIE",
-    "ward": "ETSUGAIE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/01/08/001",
     "pu_name": "BORORO-KASANAGI",
     "name": "BORORO-KASANAGI",
@@ -1080,12 +1038,6 @@
     "pu_code": "26/01/08/013",
     "pu_name": "NDA KPOTU PRIMARY SCHOOL",
     "name": "NDA KPOTU PRIMARY SCHOOL",
-    "lga": "AGAIE",
-    "ward": "DAUACI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "AGAIE",
     "ward": "DAUACI",
     "state": "Niger",
@@ -1212,12 +1164,6 @@
     "pu_code": "26/01/09/014",
     "pu_name": "ANGUWAN BABA YAKUBU",
     "name": "ANGUWAN BABA YAKUBU",
-    "lga": "AGAIE",
-    "ward": "KUTIRIKO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "AGAIE",
     "ward": "KUTIRIKO",
     "state": "Niger",
@@ -1362,12 +1308,6 @@
     "pu_code": "26/01/10/016",
     "pu_name": "EMI WOROGI PRIMARY SCHOOL",
     "name": "EMI WOROGI PRIMARY SCHOOL",
-    "lga": "AGAIE",
-    "ward": "MAGAJI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "AGAIE",
     "ward": "MAGAJI",
     "state": "Niger",
@@ -1536,12 +1476,6 @@
     "state_code": "26"
   },
   {
-    "lga": "AGAIE",
-    "ward": "TAGAGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/02/01/001",
     "pu_name": "ADEHE PRIMARY SCHOOL  I",
     "name": "ADEHE PRIMARY SCHOOL  I",
@@ -1605,12 +1539,6 @@
     "state_code": "26"
   },
   {
-    "lga": "AGWARA",
-    "ward": "ADEHE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/02/02/001",
     "pu_name": "KASABO",
     "name": "KASABO",
@@ -1656,12 +1584,6 @@
     "state_code": "26"
   },
   {
-    "lga": "AGWARA",
-    "ward": "AGWATA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/02/03/001",
     "pu_name": "BUNSURU PRIMARY",
     "name": "BUNSURU PRIMARY",
@@ -1701,12 +1623,6 @@
     "pu_code": "26/02/03/005",
     "pu_name": "UNG. AZAKUYA",
     "name": "UNG. AZAKUYA",
-    "lga": "AGWARA",
-    "ward": "BUSURU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "AGWARA",
     "ward": "BUSURU",
     "state": "Niger",
@@ -1794,12 +1710,6 @@
     "state_code": "26"
   },
   {
-    "lga": "AGWARA",
-    "ward": "GALLAH",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/02/05/001",
     "pu_name": "AGWARA SANKE I",
     "name": "AGWARA SANKE I",
@@ -1881,12 +1791,6 @@
     "state_code": "26"
   },
   {
-    "lga": "AGWARA",
-    "ward": "KASHINI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/02/06/001",
     "pu_name": "OLD PAPIRI  I",
     "name": "OLD PAPIRI  I",
@@ -1959,12 +1863,6 @@
     "state_code": "26"
   },
   {
-    "lga": "AGWARA",
-    "ward": "KOKOLI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/02/07/001",
     "pu_name": "MAGO PRIMARY SCHOOL",
     "name": "MAGO PRIMARY SCHOOL",
@@ -2013,12 +1911,6 @@
     "pu_code": "26/02/07/006",
     "pu_name": "MAGO BASIC HEALTH CENTRE",
     "name": "MAGO BASIC HEALTH CENTRE",
-    "lga": "AGWARA",
-    "ward": "MAGO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "AGWARA",
     "ward": "MAGO",
     "state": "Niger",
@@ -2115,12 +2007,6 @@
     "state_code": "26"
   },
   {
-    "lga": "AGWARA",
-    "ward": "PAPIRI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/02/09/001",
     "pu_name": "ROFIA PRIMARY SCHOOL  I",
     "name": "ROFIA PRIMARY SCHOOL  I",
@@ -2175,12 +2061,6 @@
     "state_code": "26"
   },
   {
-    "lga": "AGWARA",
-    "ward": "ROFIA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/02/10/001",
     "pu_name": "SUTEKU PRIMARY SCHOOL",
     "name": "SUTEKU PRIMARY SCHOOL",
@@ -2220,12 +2100,6 @@
     "pu_code": "26/02/10/005",
     "pu_name": "MAHUTA HEALTH CLINIC",
     "name": "MAHUTA HEALTH CLINIC",
-    "lga": "AGWARA",
-    "ward": "SUTEKU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "AGWARA",
     "ward": "SUTEKU",
     "state": "Niger",
@@ -2487,12 +2361,6 @@
     "pu_code": "26/03/01/029",
     "pu_name": "DAN IYA",
     "name": "DAN IYA",
-    "lga": "BIDA",
-    "ward": "BARIKI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BIDA",
     "ward": "BARIKI",
     "state": "Niger",
@@ -2769,12 +2637,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BIDA",
-    "ward": "CENIYAN",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/03/03/001",
     "pu_name": "ALHAJI NDADZUNGI B/WUYA",
     "name": "ALHAJI NDADZUNGI B/WUYA",
@@ -3012,12 +2874,6 @@
     "pu_code": "26/03/03/027",
     "pu_name": "MANGIDEGI HOUSE - OPEN SPACE",
     "name": "MANGIDEGI HOUSE - OPEN SPACE",
-    "lga": "BIDA",
-    "ward": "DOKODZA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BIDA",
     "ward": "DOKODZA",
     "state": "Niger",
@@ -3276,12 +3132,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BIDA",
-    "ward": "KYARI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/03/05/001",
     "pu_name": "ALH. IBRAHIM LEMU",
     "name": "ALH. IBRAHIM LEMU",
@@ -3393,12 +3243,6 @@
     "pu_code": "26/03/05/013",
     "pu_name": "BACK OF TECHNO HOUSE -OPEN SPACE",
     "name": "BACK OF TECHNO HOUSE -OPEN SPACE",
-    "lga": "BIDA",
-    "ward": "LANDZUN",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BIDA",
     "ward": "LANDZUN",
     "state": "Niger",
@@ -3549,12 +3393,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BIDA",
-    "ward": "MASABA I",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/03/07/001",
     "pu_name": "EMI ALHAJI NDAKOTSU",
     "name": "EMI ALHAJI NDAKOTSU",
@@ -3630,12 +3468,6 @@
     "pu_code": "26/03/07/009",
     "pu_name": "EMI ALH. ALIYU (EFU SONFAWA) O/S",
     "name": "EMI ALH. ALIYU (EFU SONFAWA) O/S",
-    "lga": "BIDA",
-    "ward": "MASABA  II",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BIDA",
     "ward": "MASABA  II",
     "state": "Niger",
@@ -3726,12 +3558,6 @@
     "pu_code": "26/03/08/010",
     "pu_name": "BEHIND NDAKOBO HOUSE",
     "name": "BEHIND NDAKOBO HOUSE",
-    "lga": "BIDA",
-    "ward": "MASAGA  I",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BIDA",
     "ward": "MASAGA  I",
     "state": "Niger",
@@ -3831,12 +3657,6 @@
     "pu_code": "26/03/09/011",
     "pu_name": "EFU NDATSA CLINIC",
     "name": "EFU NDATSA CLINIC",
-    "lga": "BIDA",
-    "ward": "MASAGA II",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BIDA",
     "ward": "MASAGA II",
     "state": "Niger",
@@ -4017,12 +3837,6 @@
     "pu_code": "26/03/10/020",
     "pu_name": "EMI TSADU - OPEN SPACE",
     "name": "EMI TSADU - OPEN SPACE",
-    "lga": "BIDA",
-    "ward": "MAYAKI NDAJIYA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BIDA",
     "ward": "MAYAKI NDAJIYA",
     "state": "Niger",
@@ -4227,12 +4041,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BIDA",
-    "ward": "NASSARAFU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/03/12/001",
     "pu_name": "ALH. ALFA YEKOKO",
     "name": "ALH. ALFA YEKOKO",
@@ -4326,12 +4134,6 @@
     "pu_code": "26/03/12/011",
     "pu_name": "EMI USMAN KWAKWA - OPEN SPACE",
     "name": "EMI USMAN KWAKWA - OPEN SPACE",
-    "lga": "BIDA",
-    "ward": "UMARU/MAJIGI  I",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BIDA",
     "ward": "UMARU/MAJIGI  I",
     "state": "Niger",
@@ -4485,12 +4287,6 @@
     "pu_code": "26/03/13/017",
     "pu_name": "EMI ALH. SULE DISPENSARY-OPEN SPACE",
     "name": "EMI ALH. SULE DISPENSARY-OPEN SPACE",
-    "lga": "BIDA",
-    "ward": "UMARU MAJIGI  II",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BIDA",
     "ward": "UMARU MAJIGI  II",
     "state": "Niger",
@@ -4740,12 +4536,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BIDA",
-    "ward": "WADATA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/04/01/001",
     "pu_name": "BABANNA Z.E.B.",
     "name": "BABANNA Z.E.B.",
@@ -4911,12 +4701,6 @@
     "pu_code": "26/04/01/019",
     "pu_name": "IMILE SEUGBE",
     "name": "IMILE SEUGBE",
-    "lga": "BORGU",
-    "ward": "BABANNA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BORGU",
     "ward": "BABANNA",
     "state": "Niger",
@@ -5103,12 +4887,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BORGU",
-    "ward": "DUGGA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/04/03/001",
     "pu_name": "KARABONDE Z.E.B.",
     "name": "KARABONDE Z.E.B.",
@@ -5238,12 +5016,6 @@
     "pu_code": "26/04/03/015",
     "pu_name": "KASIM BABER AREA OPEN SPACE",
     "name": "KASIM BABER AREA OPEN SPACE",
-    "lga": "BORGU",
-    "ward": "KARABONDE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BORGU",
     "ward": "KARABONDE",
     "state": "Niger",
@@ -5403,12 +5175,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BORGU",
-    "ward": "KONKOSO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/04/05/001",
     "pu_name": "DORO Z.E.B.",
     "name": "DORO Z.E.B.",
@@ -5520,12 +5286,6 @@
     "pu_code": "26/04/05/016",
     "pu_name": "POPO PRY SCH.",
     "name": "POPO PRY SCH.",
-    "lga": "BORGU",
-    "ward": "MALALE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BORGU",
     "ward": "MALALE",
     "state": "Niger",
@@ -5910,12 +5670,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BORGU",
-    "ward": "NEW BUSSA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/04/07/001",
     "pu_name": "KABE Z.E.B. SCHOOL",
     "name": "KABE Z.E.B. SCHOOL",
@@ -6096,12 +5850,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BORGU",
-    "ward": "KABE/PISSA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/04/08/001",
     "pu_name": "UNGUWAR SARKI",
     "name": "UNGUWAR SARKI",
@@ -6267,12 +6015,6 @@
     "pu_code": "26/04/08/019",
     "pu_name": "GBAGA PRY SCH",
     "name": "GBAGA PRY SCH",
-    "lga": "BORGU",
-    "ward": "SHAGUNU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BORGU",
     "ward": "SHAGUNU",
     "state": "Niger",
@@ -6477,12 +6219,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BORGU",
-    "ward": "WAWA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/04/10/001",
     "pu_name": "DOGON GARI Z.E.B.",
     "name": "DOGON GARI Z.E.B.",
@@ -6663,12 +6399,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BORGU",
-    "ward": "RIVERINE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/05/01/001",
     "pu_name": "ANG NUPAWA",
     "name": "ANG NUPAWA",
@@ -6825,12 +6555,6 @@
     "pu_code": "26/05/01/018",
     "pu_name": "U.B.E PRIMARY SCH. CHIPASSE",
     "name": "U.B.E PRIMARY SCH. CHIPASSE",
-    "lga": "BOSSO",
-    "ward": "BEJI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BOSSO",
     "ward": "BEJI",
     "state": "Niger",
@@ -7119,12 +6843,6 @@
     "pu_code": "26/05/02/032",
     "pu_name": "PYAWU BMARIKICHI",
     "name": "PYAWU BMARIKICHI",
-    "lga": "BOSSO",
-    "ward": "BOSSO CENTRAL  I",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BOSSO",
     "ward": "BOSSO CENTRAL  I",
     "state": "Niger",
@@ -7431,12 +7149,6 @@
     "pu_code": "26/05/03/034",
     "pu_name": "OVERHEAD PUBLIC TANK",
     "name": "OVERHEAD PUBLIC TANK",
-    "lga": "BOSSO",
-    "ward": "BOSSO CENTRAL  II",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BOSSO",
     "ward": "BOSSO CENTRAL  II",
     "state": "Niger",
@@ -7821,12 +7533,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BOSSO",
-    "ward": "CHANCHAGA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/05/05/001",
     "pu_name": "GARATU",
     "name": "GARATU",
@@ -8079,12 +7785,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BOSSO",
-    "ward": "GARATU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/05/06/001",
     "pu_name": "KOIKO BATA BATAI",
     "name": "KOIKO BATA BATAI",
@@ -8220,12 +7920,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BOSSO",
-    "ward": "KAMPALA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/05/07/001",
     "pu_name": "TANDIGI",
     "name": "TANDIGI",
@@ -8337,12 +8031,6 @@
     "pu_code": "26/05/07/013",
     "pu_name": "U.B.E PRIMARY SCH. ZOKOGI",
     "name": "U.B.E PRIMARY SCH. ZOKOGI",
-    "lga": "BOSSO",
-    "ward": "KODO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BOSSO",
     "ward": "KODO",
     "state": "Niger",
@@ -8577,12 +8265,6 @@
     "pu_code": "26/05/08/026",
     "pu_name": "OPEN SPACE AIRFORCE BASE MAIKUNKELE",
     "name": "OPEN SPACE AIRFORCE BASE MAIKUNKELE",
-    "lga": "BOSSO",
-    "ward": "MAIKUNKELE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BOSSO",
     "ward": "MAIKUNKELE",
     "state": "Niger",
@@ -8850,12 +8532,6 @@
     "state_code": "26"
   },
   {
-    "lga": "BOSSO",
-    "ward": "MAITUMBI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/05/10/001",
     "pu_name": "SHATA GARI",
     "name": "SHATA GARI",
@@ -8958,12 +8634,6 @@
     "pu_code": "26/05/10/012",
     "pu_name": "OPEN SPACE MARKET SQUARE",
     "name": "OPEN SPACE MARKET SQUARE",
-    "lga": "BOSSO",
-    "ward": "SHATA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "BOSSO",
     "ward": "SHATA",
     "state": "Niger",
@@ -9276,12 +8946,6 @@
     "state_code": "26"
   },
   {
-    "lga": "CHANCHAGA",
-    "ward": "LIMAWA 'A'",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/06/02/001",
     "pu_name": "ZARUMAI MODEL SCHOOL",
     "name": "ZARUMAI MODEL SCHOOL",
@@ -9561,12 +9225,6 @@
     "state_code": "26"
   },
   {
-    "lga": "CHANCHAGA",
-    "ward": "LIMAWA 'B'",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/06/03/001",
     "pu_name": "KOFAR DANKAWU",
     "name": "KOFAR DANKAWU",
@@ -9828,12 +9486,6 @@
     "state_code": "26"
   },
   {
-    "lga": "CHANCHAGA",
-    "ward": "MAKERA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/06/04/001",
     "pu_name": "KASUWAN ZABARMA",
     "name": "KASUWAN ZABARMA",
@@ -10089,12 +9741,6 @@
     "pu_code": "26/06/04/029",
     "pu_name": "YORUBA CHURCH",
     "name": "YORUBA CHURCH",
-    "lga": "CHANCHAGA",
-    "ward": "MINNA CENTRAL",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "CHANCHAGA",
     "ward": "MINNA CENTRAL",
     "state": "Niger",
@@ -10470,12 +10116,6 @@
     "state_code": "26"
   },
   {
-    "lga": "CHANCHAGA",
-    "ward": "MINNA SOUTH",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/06/06/001",
     "pu_name": "KOFAR HAKIMI",
     "name": "KOFAR HAKIMI",
@@ -10782,12 +10422,6 @@
     "state_code": "26"
   },
   {
-    "lga": "CHANCHAGA",
-    "ward": "NASSARAWA 'A'",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/06/07/001",
     "pu_name": "KOFAR MADAKI AYAWA",
     "name": "KOFAR MADAKI AYAWA",
@@ -11016,12 +10650,6 @@
     "pu_code": "26/06/07/026",
     "pu_name": "CHINDO MAI' WANKI OPEN SPACE",
     "name": "CHINDO MAI' WANKI OPEN SPACE",
-    "lga": "CHANCHAGA",
-    "ward": "NASSARAWA 'B'",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "CHANCHAGA",
     "ward": "NASSARAWA 'B'",
     "state": "Niger",
@@ -11265,12 +10893,6 @@
     "pu_code": "26/06/08/027",
     "pu_name": "KOFAR DANTANI",
     "name": "KOFAR DANTANI",
-    "lga": "CHANCHAGA",
-    "ward": "NASSARAWA 'C'",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "CHANCHAGA",
     "ward": "NASSARAWA 'C'",
     "state": "Niger",
@@ -11637,12 +11259,6 @@
     "state_code": "26"
   },
   {
-    "lga": "CHANCHAGA",
-    "ward": "SABON GARI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/06/10/001",
     "pu_name": "TUNGA MARKET  I",
     "name": "TUNGA MARKET  I",
@@ -11979,12 +11595,6 @@
     "pu_code": "26/06/10/038",
     "pu_name": "KOFAR DAUDU DIKO",
     "name": "KOFAR DAUDU DIKO",
-    "lga": "CHANCHAGA",
-    "ward": "TUDUN WADA NORTH",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "CHANCHAGA",
     "ward": "TUDUN WADA NORTH",
     "state": "Niger",
@@ -12441,12 +12051,6 @@
     "state_code": "26"
   },
   {
-    "lga": "CHANCHAGA",
-    "ward": "TUDUN WADA SOUTH",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/07/01/001",
     "pu_name": "EMI - GABI",
     "name": "EMI - GABI",
@@ -12600,12 +12204,6 @@
     "state_code": "26"
   },
   {
-    "lga": "EDATTI",
-    "ward": "ENAGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/07/02/001",
     "pu_name": "DONKO",
     "name": "DONKO",
@@ -12741,12 +12339,6 @@
     "state_code": "26"
   },
   {
-    "lga": "EDATTI",
-    "ward": "ETSU TASHA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/07/03/001",
     "pu_name": "FAZHI",
     "name": "FAZHI",
@@ -12786,12 +12378,6 @@
     "pu_code": "26/07/03/005",
     "pu_name": "LASSAGI",
     "name": "LASSAGI",
-    "lga": "EDATTI",
-    "ward": "FAZHI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "EDATTI",
     "ward": "FAZHI",
     "state": "Niger",
@@ -12924,12 +12510,6 @@
     "state_code": "26"
   },
   {
-    "lga": "EDATTI",
-    "ward": "GAZHE  I",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/07/05/001",
     "pu_name": "LENFA - BORORO",
     "name": "LENFA - BORORO",
@@ -12996,12 +12576,6 @@
     "pu_code": "26/07/05/008",
     "pu_name": "TSWACHIKO",
     "name": "TSWACHIKO",
-    "lga": "EDATTI",
-    "ward": "GAZHE  II",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "EDATTI",
     "ward": "GAZHE  II",
     "state": "Niger",
@@ -13128,12 +12702,6 @@
     "pu_code": "26/07/06/014",
     "pu_name": "GBANGBAN PRY. SCHOOL",
     "name": "GBANGBAN PRY. SCHOOL",
-    "lga": "EDATTI",
-    "ward": "GBANGBAN",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "EDATTI",
     "ward": "GBANGBAN",
     "state": "Niger",
@@ -13275,12 +12843,6 @@
     "state_code": "26"
   },
   {
-    "lga": "EDATTI",
-    "ward": "GONAGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/07/08/001",
     "pu_name": "GUZAN",
     "name": "GUZAN",
@@ -13371,12 +12933,6 @@
     "state_code": "26"
   },
   {
-    "lga": "EDATTI",
-    "ward": "GUZAN",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/07/09/001",
     "pu_name": "ROKOTA",
     "name": "ROKOTA",
@@ -13452,12 +13008,6 @@
     "pu_code": "26/07/09/009",
     "pu_name": "KWALE - KPANGI",
     "name": "KWALE - KPANGI",
-    "lga": "EDATTI",
-    "ward": "ROKOTA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "EDATTI",
     "ward": "ROKOTA",
     "state": "Niger",
@@ -13563,12 +13113,6 @@
     "state_code": "26"
   },
   {
-    "lga": "EDATTI",
-    "ward": "SAKPE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/08/01/001",
     "pu_name": "BATAGI PRIMARY SCHOOL",
     "name": "BATAGI PRIMARY SCHOOL",
@@ -13626,12 +13170,6 @@
     "pu_code": "26/08/01/007",
     "pu_name": "MAWOGI",
     "name": "MAWOGI",
-    "lga": "GBAKO",
-    "ward": "BATAGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "GBAKO",
     "ward": "BATAGI",
     "state": "Niger",
@@ -13800,12 +13338,6 @@
     "state_code": "26"
   },
   {
-    "lga": "GBAKO",
-    "ward": "BATAKO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/08/03/001",
     "pu_name": "EDOKOTA",
     "name": "EDOKOTA",
@@ -13944,12 +13476,6 @@
     "pu_code": "26/08/03/016",
     "pu_name": "YELWA EMIWOROGI",
     "name": "YELWA EMIWOROGI",
-    "lga": "GBAKO",
-    "ward": "EDOKOTA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "GBAKO",
     "ward": "EDOKOTA",
     "state": "Niger",
@@ -14148,12 +13674,6 @@
     "pu_code": "26/08/04/022",
     "pu_name": "EMI ALHAJI MAJIN",
     "name": "EMI ALHAJI MAJIN",
-    "lga": "GBAKO",
-    "ward": "EDOZHIGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "GBAKO",
     "ward": "EDOZHIGI",
     "state": "Niger",
@@ -14367,12 +13887,6 @@
     "state_code": "26"
   },
   {
-    "lga": "GBAKO",
-    "ward": "ETSU AUDU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/08/06/001",
     "pu_name": "GBADAFU",
     "name": "GBADAFU",
@@ -14526,12 +14040,6 @@
     "state_code": "26"
   },
   {
-    "lga": "GBAKO",
-    "ward": "GBADAFU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/08/07/001",
     "pu_name": "EMIGOYI",
     "name": "EMIGOYI",
@@ -14598,12 +14106,6 @@
     "pu_code": "26/08/07/008",
     "pu_name": "AMFANI PRY. SCHOOL",
     "name": "AMFANI PRY. SCHOOL",
-    "lga": "GBAKO",
-    "ward": "GOGATA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "GBAKO",
     "ward": "GOGATA",
     "state": "Niger",
@@ -14703,12 +14205,6 @@
     "pu_code": "26/08/08/011",
     "pu_name": "SARKIN ALBASA",
     "name": "SARKIN ALBASA",
-    "lga": "GBAKO",
-    "ward": "LEMU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "GBAKO",
     "ward": "LEMU",
     "state": "Niger",
@@ -14877,12 +14373,6 @@
     "state_code": "26"
   },
   {
-    "lga": "GBAKO",
-    "ward": "NUWANKOTA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/08/10/001",
     "pu_name": "BIDAFU",
     "name": "BIDAFU",
@@ -15027,12 +14517,6 @@
     "state_code": "26"
   },
   {
-    "lga": "GBAKO",
-    "ward": "SAMMAJIKO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/09/01/001",
     "pu_name": "BAJI PRIMARY SCHOOL",
     "name": "BAJI PRIMARY SCHOOL",
@@ -15135,12 +14619,6 @@
     "pu_code": "26/09/01/012",
     "pu_name": "TAYABO PRY SCH",
     "name": "TAYABO PRY SCH",
-    "lga": "GURARA",
-    "ward": "BONU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "GURARA",
     "ward": "BONU",
     "state": "Niger",
@@ -15372,12 +14850,6 @@
     "state_code": "26"
   },
   {
-    "lga": "GURARA",
-    "ward": "DIKO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/09/03/001",
     "pu_name": "DAWAKI",
     "name": "DAWAKI",
@@ -15534,12 +15006,6 @@
     "pu_code": "26/09/03/018",
     "pu_name": "POLICE BARRACKS",
     "name": "POLICE BARRACKS",
-    "lga": "GURARA",
-    "ward": "GAWU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "GURARA",
     "ward": "GAWU",
     "state": "Niger",
@@ -15717,12 +15183,6 @@
     "state_code": "26"
   },
   {
-    "lga": "GURARA",
-    "ward": "IZOM",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/09/05/001",
     "pu_name": "IWA PRIMARY SCHOOL",
     "name": "IWA PRIMARY SCHOOL",
@@ -15798,12 +15258,6 @@
     "pu_code": "26/09/05/009",
     "pu_name": "KUTILI PRY.SCH",
     "name": "KUTILI PRY.SCH",
-    "lga": "GURARA",
-    "ward": "KABO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "GURARA",
     "ward": "KABO",
     "state": "Niger",
@@ -15912,12 +15366,6 @@
     "pu_code": "26/09/06/012",
     "pu_name": "WAGU PRIMARY SCHOOL",
     "name": "WAGU PRIMARY SCHOOL",
-    "lga": "GURARA",
-    "ward": "KWAKA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "GURARA",
     "ward": "KWAKA",
     "state": "Niger",
@@ -16086,12 +15534,6 @@
     "state_code": "26"
   },
   {
-    "lga": "GURARA",
-    "ward": "LAMBATA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/09/08/001",
     "pu_name": "KANJERE",
     "name": "KANJERE",
@@ -16182,12 +15624,6 @@
     "state_code": "26"
   },
   {
-    "lga": "GURARA",
-    "ward": "LEFU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/09/09/001",
     "pu_name": "GUNI PRIMARY SCHOOL",
     "name": "GUNI PRIMARY SCHOOL",
@@ -16263,12 +15699,6 @@
     "pu_code": "26/09/09/009",
     "pu_name": "ANG KORO",
     "name": "ANG KORO",
-    "lga": "GURARA",
-    "ward": "SHAKO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "GURARA",
     "ward": "SHAKO",
     "state": "Niger",
@@ -16437,12 +15867,6 @@
     "state_code": "26"
   },
   {
-    "lga": "GURARA",
-    "ward": "TUFA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/10/01/001",
     "pu_name": "BAKEKO PRIMARY SCHOOL  I",
     "name": "BAKEKO PRIMARY SCHOOL  I",
@@ -16581,12 +16005,6 @@
     "pu_code": "26/10/01/016",
     "pu_name": "DAGBA SODE",
     "name": "DAGBA SODE",
-    "lga": "KATCHA",
-    "ward": "BAKEKO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "KATCHA",
     "ward": "BAKEKO",
     "state": "Niger",
@@ -16737,12 +16155,6 @@
     "state_code": "26"
   },
   {
-    "lga": "KATCHA",
-    "ward": "BADEGGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/10/03/001",
     "pu_name": "BISANTI PRMARY SCHOOL",
     "name": "BISANTI PRMARY SCHOOL",
@@ -16887,12 +16299,6 @@
     "state_code": "26"
   },
   {
-    "lga": "KATCHA",
-    "ward": "BISANTI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/10/04/001",
     "pu_name": "NDABISAN PRIMARY SCHOOL",
     "name": "NDABISAN PRIMARY SCHOOL",
@@ -17010,12 +16416,6 @@
     "state_code": "26"
   },
   {
-    "lga": "KATCHA",
-    "ward": "DZWAFU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/10/05/001",
     "pu_name": "EDOTSU PRIMARY SCHOOL",
     "name": "EDOTSU PRIMARY SCHOOL",
@@ -17124,12 +16524,6 @@
     "state_code": "26"
   },
   {
-    "lga": "KATCHA",
-    "ward": "EDOTSU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/10/06/001",
     "pu_name": "ESSA PRIMARY SCHOOL",
     "name": "ESSA PRIMARY SCHOOL",
@@ -17223,12 +16617,6 @@
     "pu_code": "26/10/06/011",
     "pu_name": "GOYIKENI GODEYI",
     "name": "GOYIKENI GODEYI",
-    "lga": "KATCHA",
-    "ward": "ESSA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "KATCHA",
     "ward": "ESSA",
     "state": "Niger",
@@ -17382,12 +16770,6 @@
     "pu_code": "26/10/07/017",
     "pu_name": "EMIGI",
     "name": "EMIGI",
-    "lga": "KATCHA",
-    "ward": "GBAKOGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "KATCHA",
     "ward": "GBAKOGI",
     "state": "Niger",
@@ -17565,12 +16947,6 @@
     "state_code": "26"
   },
   {
-    "lga": "KATCHA",
-    "ward": "KATCHA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/10/09/001",
     "pu_name": "KATAEREGI PRIMARY SCHOOL",
     "name": "KATAEREGI PRIMARY SCHOOL",
@@ -17742,12 +17118,6 @@
     "state_code": "26"
   },
   {
-    "lga": "KATCHA",
-    "ward": "KATAREGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/10/10/001",
     "pu_name": "SIDI-SABA PRIMARY SCHOOL",
     "name": "SIDI-SABA PRIMARY SCHOOL",
@@ -17832,12 +17202,6 @@
     "pu_code": "26/10/10/010",
     "pu_name": "EGBANTI TSWADUKO",
     "name": "EGBANTI TSWADUKO",
-    "lga": "KATCHA",
-    "ward": "SIDI SABA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "KATCHA",
     "ward": "SIDI SABA",
     "state": "Niger",
@@ -18000,12 +17364,6 @@
     "pu_code": "26/11/01/018",
     "pu_name": "TUKURA PRIMARY HEALTH CARE",
     "name": "TUKURA PRIMARY HEALTH CARE",
-    "lga": "KONTAGORA",
-    "ward": "AREWA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "KONTAGORA",
     "ward": "AREWA",
     "state": "Niger",
@@ -18246,12 +17604,6 @@
     "state_code": "26"
   },
   {
-    "lga": "KONTAGORA",
-    "ward": "CENTRAL",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/11/03/001",
     "pu_name": "ANGUWAN GWARI  I CENTRAL PRIMARY SCHOOL",
     "name": "ANGUWAN GWARI  I CENTRAL PRIMARY SCHOOL",
@@ -18444,12 +17796,6 @@
     "pu_code": "26/11/03/022",
     "pu_name": "GOYON KURA T/WADA",
     "name": "GOYON KURA T/WADA",
-    "lga": "KONTAGORA",
-    "ward": "GABAS",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "KONTAGORA",
     "ward": "GABAS",
     "state": "Niger",
@@ -18798,12 +18144,6 @@
     "state_code": "26"
   },
   {
-    "lga": "KONTAGORA",
-    "ward": "KUDU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/11/05/001",
     "pu_name": "SARKIN BINDIGA  I",
     "name": "SARKIN BINDIGA  I",
@@ -18951,12 +18291,6 @@
     "pu_code": "26/11/05/017",
     "pu_name": "KWANAN  RIGASA (OPEN SPACE)",
     "name": "KWANAN  RIGASA (OPEN SPACE)",
-    "lga": "KONTAGORA",
-    "ward": "MAGAJIYA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "KONTAGORA",
     "ward": "MAGAJIYA",
     "state": "Niger",
@@ -19125,12 +18459,6 @@
     "state_code": "26"
   },
   {
-    "lga": "KONTAGORA",
-    "ward": "MASUGA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/11/07/001",
     "pu_name": "MADARA GARI  I",
     "name": "MADARA GARI  I",
@@ -19293,12 +18621,6 @@
     "state_code": "26"
   },
   {
-    "lga": "KONTAGORA",
-    "ward": "MADARA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/11/08/001",
     "pu_name": "USALLE GARI",
     "name": "USALLE GARI",
@@ -19392,12 +18714,6 @@
     "pu_code": "26/11/08/011",
     "pu_name": "JUMMAA MOSQUE (UNDER TREE)",
     "name": "JUMMAA MOSQUE (UNDER TREE)",
-    "lga": "KONTAGORA",
-    "ward": "NAGWAMATSE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "KONTAGORA",
     "ward": "NAGWAMATSE",
     "state": "Niger",
@@ -19515,12 +18831,6 @@
     "pu_code": "26/11/09/013",
     "pu_name": "OPEN SPACE UNDER TWO MANGOES TREES",
     "name": "OPEN SPACE UNDER TWO MANGOES TREES",
-    "lga": "KONTAGORA",
-    "ward": "RAFIN GORA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "KONTAGORA",
     "ward": "RAFIN GORA",
     "state": "Niger",
@@ -19662,12 +18972,6 @@
     "state_code": "26"
   },
   {
-    "lga": "KONTAGORA",
-    "ward": "TUNGANWAWA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/11/11/001",
     "pu_name": "TUNGAN KAWO PRIMARY SCHOOL  I",
     "name": "TUNGAN KAWO PRIMARY SCHOOL  I",
@@ -19776,12 +19080,6 @@
     "state_code": "26"
   },
   {
-    "lga": "KONTAGORA",
-    "ward": "TUNGAN KAWO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/11/12/001",
     "pu_name": "KAMFANIN WAYA PRIMARY SCHOOL I",
     "name": "KAMFANIN WAYA PRIMARY SCHOOL I",
@@ -19866,12 +19164,6 @@
     "pu_code": "26/11/12/010",
     "pu_name": "PHC KAMFANIN WAYA",
     "name": "PHC KAMFANIN WAYA",
-    "lga": "KONTAGORA",
-    "ward": "USALLE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "KONTAGORA",
     "ward": "USALLE",
     "state": "Niger",
@@ -20148,12 +19440,6 @@
     "state_code": "26"
   },
   {
-    "lga": "KONTAGORA",
-    "ward": "YAMMA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/12/01/001",
     "pu_name": "BANI PRIMARY SCHOOL",
     "name": "BANI PRIMARY SCHOOL",
@@ -20361,12 +19647,6 @@
     "state_code": "26"
   },
   {
-    "lga": "LAPAI",
-    "ward": "AREWA/YAMMA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/12/02/001",
     "pu_name": "SAMINAKA PRIMARY SCHOOL I",
     "name": "SAMINAKA PRIMARY SCHOOL I",
@@ -20496,12 +19776,6 @@
     "pu_code": "26/12/02/015",
     "pu_name": "EMINUKU PRY SCHOOL",
     "name": "EMINUKU PRY SCHOOL",
-    "lga": "LAPAI",
-    "ward": "BIRNIN MAZA/TASHIBO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "LAPAI",
     "ward": "BIRNIN MAZA/TASHIBO",
     "state": "Niger",
@@ -20655,12 +19929,6 @@
     "pu_code": "26/12/03/017",
     "pu_name": "CHIGBAGA PRIMARY SCHOOL",
     "name": "CHIGBAGA PRIMARY SCHOOL",
-    "lga": "LAPAI",
-    "ward": "EBBO/GBACINKU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "LAPAI",
     "ward": "EBBO/GBACINKU",
     "state": "Niger",
@@ -20823,12 +20091,6 @@
     "pu_code": "26/12/04/018",
     "pu_name": "DAY SEC SCH, KPADA GWARI I",
     "name": "DAY SEC SCH, KPADA GWARI I",
-    "lga": "LAPAI",
-    "ward": "EVUTI/KPADA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "LAPAI",
     "ward": "EVUTI/KPADA",
     "state": "Niger",
@@ -21033,12 +20295,6 @@
     "state_code": "26"
   },
   {
-    "lga": "LAPAI",
-    "ward": "GULU/ANGUWA VATSA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/12/06/001",
     "pu_name": "GUPA BOKYO PRIMARY SCHOOL",
     "name": "GUPA BOKYO PRIMARY SCHOOL",
@@ -21237,12 +20493,6 @@
     "state_code": "26"
   },
   {
-    "lga": "LAPAI",
-    "ward": "GUPA/ABUGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/12/07/001",
     "pu_name": "ZAGO PRIMARY SCHOOL",
     "name": "ZAGO PRIMARY SCHOOL",
@@ -21336,12 +20586,6 @@
     "pu_code": "26/12/07/011",
     "pu_name": "ANG. ETSU USMAN",
     "name": "ANG. ETSU USMAN",
-    "lga": "LAPAI",
-    "ward": "GURDI/ZAGO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "LAPAI",
     "ward": "GURDI/ZAGO",
     "state": "Niger",
@@ -21546,12 +20790,6 @@
     "state_code": "26"
   },
   {
-    "lga": "LAPAI",
-    "ward": "KUDU/GABAS",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/12/09/001",
     "pu_name": "MUYE PRIMARY SCHOOL",
     "name": "MUYE PRIMARY SCHOOL",
@@ -21708,12 +20946,6 @@
     "pu_code": "26/12/09/018",
     "pu_name": "CKEKU PRY HEALTH CARE",
     "name": "CKEKU PRY HEALTH CARE",
-    "lga": "LAPAI",
-    "ward": "MUYE/EGBA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "LAPAI",
     "ward": "MUYE/EGBA",
     "state": "Niger",
@@ -21945,12 +21177,6 @@
     "state_code": "26"
   },
   {
-    "lga": "LAPAI",
-    "ward": "TAKUTI/SHAKU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/13/01/001",
     "pu_name": "AMGBASA",
     "name": "AMGBASA",
@@ -22167,12 +21393,6 @@
     "state_code": "26"
   },
   {
-    "lga": "LAVUN",
-    "ward": "BUSU/KUCHI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/13/02/001",
     "pu_name": "BATATI",
     "name": "BATATI",
@@ -22326,12 +21546,6 @@
     "state_code": "26"
   },
   {
-    "lga": "LAVUN",
-    "ward": "BATATI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/13/03/001",
     "pu_name": "CIBO",
     "name": "CIBO",
@@ -22461,12 +21675,6 @@
     "pu_code": "26/13/03/015",
     "pu_name": "DAKPACHI",
     "name": "DAKPACHI",
-    "lga": "LAVUN",
-    "ward": "DASSUN",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "LAVUN",
     "ward": "DASSUN",
     "state": "Niger",
@@ -22680,12 +21888,6 @@
     "state_code": "26"
   },
   {
-    "lga": "LAVUN",
-    "ward": "DOKO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/13/05/001",
     "pu_name": "LAFIYAGI",
     "name": "LAFIYAGI",
@@ -22788,12 +21990,6 @@
     "pu_code": "26/13/05/012",
     "pu_name": "HEALTH CENTER DABBAN",
     "name": "HEALTH CENTER DABBAN",
-    "lga": "LAVUN",
-    "ward": "DABBAN",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "LAVUN",
     "ward": "DABBAN",
     "state": "Niger",
@@ -22962,12 +22158,6 @@
     "state_code": "26"
   },
   {
-    "lga": "LAVUN",
-    "ward": "EGBAKO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/13/07/001",
     "pu_name": "GABA",
     "name": "GABA",
@@ -23070,12 +22260,6 @@
     "pu_code": "26/13/07/012",
     "pu_name": "WASHI PRY. SCHOOL",
     "name": "WASHI PRY. SCHOOL",
-    "lga": "LAVUN",
-    "ward": "GABA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "LAVUN",
     "ward": "GABA",
     "state": "Niger",
@@ -23211,12 +22395,6 @@
     "pu_code": "26/13/08/015",
     "pu_name": "GOVT SECONDARY  SCHOOL",
     "name": "GOVT SECONDARY  SCHOOL",
-    "lga": "LAVUN",
-    "ward": "JIMA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "LAVUN",
     "ward": "JIMA",
     "state": "Niger",
@@ -23448,12 +22626,6 @@
     "state_code": "26"
   },
   {
-    "lga": "LAVUN",
-    "ward": "KUTIGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/13/10/001",
     "pu_name": "SHABA MALIKI",
     "name": "SHABA MALIKI",
@@ -23634,12 +22806,6 @@
     "state_code": "26"
   },
   {
-    "lga": "LAVUN",
-    "ward": "KUSOTACHI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/13/11/001",
     "pu_name": "CHATAFU",
     "name": "CHATAFU",
@@ -23805,12 +22971,6 @@
     "pu_code": "26/13/11/019",
     "pu_name": "EMI  LIMAN",
     "name": "EMI  LIMAN",
-    "lga": "LAVUN",
-    "ward": "LAGUN",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "LAVUN",
     "ward": "LAGUN",
     "state": "Niger",
@@ -24024,12 +23184,6 @@
     "state_code": "26"
   },
   {
-    "lga": "LAVUN",
-    "ward": "MAMBE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/14/01/001",
     "pu_name": "ALANGASA",
     "name": "ALANGASA",
@@ -24168,12 +23322,6 @@
     "pu_code": "26/14/01/016",
     "pu_name": "UNG. MARAFA AUNA",
     "name": "UNG. MARAFA AUNA",
-    "lga": "MAGAMA",
-    "ward": "AUNA CENTRAL",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MAGAMA",
     "ward": "AUNA CENTRAL",
     "state": "Niger",
@@ -24441,12 +23589,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MAGAMA",
-    "ward": "AUNA EAST CENTRAL",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/14/03/001",
     "pu_name": "WANDO TSAKIYA",
     "name": "WANDO TSAKIYA",
@@ -24612,12 +23754,6 @@
     "pu_code": "26/14/03/019",
     "pu_name": "AGABA",
     "name": "AGABA",
-    "lga": "MAGAMA",
-    "ward": "AUNA EAST",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MAGAMA",
     "ward": "AUNA EAST",
     "state": "Niger",
@@ -24831,12 +23967,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MAGAMA",
-    "ward": "AUNA SOUTH EAST",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/14/05/001",
     "pu_name": "MOMOGI",
     "name": "MOMOGI",
@@ -24903,12 +24033,6 @@
     "pu_code": "26/14/05/008",
     "pu_name": "JANYAU",
     "name": "JANYAU",
-    "lga": "MAGAMA",
-    "ward": "AUNA SOUTH",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MAGAMA",
     "ward": "AUNA SOUTH",
     "state": "Niger",
@@ -25068,12 +24192,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MAGAMA",
-    "ward": "IBELU CENTRAL",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/14/07/001",
     "pu_name": "IBILI BADO",
     "name": "IBILI BADO",
@@ -25227,12 +24345,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MAGAMA",
-    "ward": "IBELU EAST",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/14/08/001",
     "pu_name": "ZOMA",
     "name": "ZOMA",
@@ -25335,12 +24447,6 @@
     "pu_code": "26/14/08/012",
     "pu_name": "SUKUN TUMAI",
     "name": "SUKUN TUMAI",
-    "lga": "MAGAMA",
-    "ward": "IBELU NORTH",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MAGAMA",
     "ward": "IBELU NORTH",
     "state": "Niger",
@@ -25509,12 +24615,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MAGAMA",
-    "ward": "IBELU WEST",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/14/10/001",
     "pu_name": "ISSALLE",
     "name": "ISSALLE",
@@ -25668,12 +24768,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MAGAMA",
-    "ward": "NASKO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/14/11/001",
     "pu_name": "KWATAN GARAHUNI",
     "name": "KWATAN GARAHUNI",
@@ -25785,12 +24879,6 @@
     "pu_code": "26/14/11/013",
     "pu_name": "UNG. NUPAWA",
     "name": "UNG. NUPAWA",
-    "lga": "MAGAMA",
-    "ward": "NASSARAWA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MAGAMA",
     "ward": "NASSARAWA",
     "state": "Niger",
@@ -26049,12 +25137,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MARIGA",
-    "ward": "BANGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/15/02/001",
     "pu_name": "ALABANI",
     "name": "ALABANI",
@@ -26184,12 +25266,6 @@
     "pu_code": "26/15/02/015",
     "pu_name": "UNG. DAN MALLAM",
     "name": "UNG. DAN MALLAM",
-    "lga": "MARIGA",
-    "ward": "BERI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MARIGA",
     "ward": "BERI",
     "state": "Niger",
@@ -26457,12 +25533,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MARIGA",
-    "ward": "BOBI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/15/04/001",
     "pu_name": "UNG. ATTA",
     "name": "UNG. ATTA",
@@ -26688,12 +25758,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MARIGA",
-    "ward": "GULBIN - BOKA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/15/05/001",
     "pu_name": "GAZMA",
     "name": "GAZMA",
@@ -26868,12 +25932,6 @@
     "pu_code": "26/15/05/020",
     "pu_name": "TUDUN WADA WAMBA",
     "name": "TUDUN WADA WAMBA",
-    "lga": "MARIGA",
-    "ward": "GALMA/WAMBA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MARIGA",
     "ward": "GALMA/WAMBA",
     "state": "Niger",
@@ -27078,12 +26136,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MARIGA",
-    "ward": "INKWAI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/15/07/001",
     "pu_name": "IGWAMA PRIMARY SCHOOL",
     "name": "IGWAMA PRIMARY SCHOOL",
@@ -27255,12 +26307,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MARIGA",
-    "ward": "IGWAMA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/15/08/001",
     "pu_name": "UNG. ISHANGA",
     "name": "UNG. ISHANGA",
@@ -27354,12 +26400,6 @@
     "pu_code": "26/15/08/011",
     "pu_name": "RUGGA",
     "name": "RUGGA",
-    "lga": "MARIGA",
-    "ward": "KAKIHUM",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MARIGA",
     "ward": "KAKIHUM",
     "state": "Niger",
@@ -27528,12 +26568,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MARIGA",
-    "ward": "KONTOKORO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/15/10/001",
     "pu_name": "MAZAME  I",
     "name": "MAZAME  I",
@@ -27660,12 +26694,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MARIGA",
-    "ward": "KUMBASHI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/15/11/001",
     "pu_name": "KOFAR FADA",
     "name": "KOFAR FADA",
@@ -27777,12 +26805,6 @@
     "pu_code": "26/15/11/013",
     "pu_name": "LABI PRIMARY SCHOOL",
     "name": "LABI PRIMARY SCHOOL",
-    "lga": "MARIGA",
-    "ward": "MABURYA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MARIGA",
     "ward": "MABURYA",
     "state": "Niger",
@@ -28008,12 +27030,6 @@
     "pu_code": "26/16/01/025",
     "pu_name": "UNGUWAN SHAMUWA",
     "name": "UNGUWAN SHAMUWA",
-    "lga": "MASHEGU",
-    "ward": "BABBAN  RAMI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MASHEGU",
     "ward": "BABBAN  RAMI",
     "state": "Niger",
@@ -28263,12 +27279,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MASHEGU",
-    "ward": "DAPANGI/MAKERA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/16/03/001",
     "pu_name": "UNG. DAGACHI IBBI",
     "name": "UNG. DAGACHI IBBI",
@@ -28434,12 +27444,6 @@
     "pu_code": "26/16/03/019",
     "pu_name": "UNG. GUNGAWA",
     "name": "UNG. GUNGAWA",
-    "lga": "MASHEGU",
-    "ward": "IBBI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MASHEGU",
     "ward": "IBBI",
     "state": "Niger",
@@ -28671,12 +27675,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MASHEGU",
-    "ward": "KABOJI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/16/05/001",
     "pu_name": "K/SARKIN KASSANGA",
     "name": "K/SARKIN KASSANGA",
@@ -28821,12 +27819,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MASHEGU",
-    "ward": "KASANGA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/16/06/001",
     "pu_name": "UNG. LIMAN KPATACHI",
     "name": "UNG. LIMAN KPATACHI",
@@ -28938,12 +27930,6 @@
     "pu_code": "26/16/06/013",
     "pu_name": "ADO MAI UNGUWA",
     "name": "ADO MAI UNGUWA",
-    "lga": "MASHEGU",
-    "ward": "KWATACHI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MASHEGU",
     "ward": "KWATACHI",
     "state": "Niger",
@@ -29070,12 +28056,6 @@
     "pu_code": "26/16/07/014",
     "pu_name": "MAI KADE",
     "name": "MAI KADE",
-    "lga": "MASHEGU",
-    "ward": "KULHO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MASHEGU",
     "ward": "KULHO",
     "state": "Niger",
@@ -29343,12 +28323,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MASHEGU",
-    "ward": "MASHEGU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/16/09/001",
     "pu_name": "MAKAZANTA PRIMARY SCHOOL",
     "name": "MAKAZANTA PRIMARY SCHOOL",
@@ -29487,12 +28461,6 @@
     "pu_code": "26/16/09/016",
     "pu_name": "UNG. SARKI LIKORO",
     "name": "UNG. SARKI LIKORO",
-    "lga": "MASHEGU",
-    "ward": "MAZAKUKA/LIKORO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MASHEGU",
     "ward": "MAZAKUKA/LIKORO",
     "state": "Niger",
@@ -29688,12 +28656,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MASHEGU",
-    "ward": "SAHO-RAMI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/17/01/001",
     "pu_name": "BOKANI TAKO",
     "name": "BOKANI TAKO",
@@ -29814,12 +28776,6 @@
     "pu_code": "26/17/01/014",
     "pu_name": "WA'ABI PRI. SCH.",
     "name": "WA'ABI PRI. SCH.",
-    "lga": "MOKWA",
-    "ward": "BOKANI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MOKWA",
     "ward": "BOKANI",
     "state": "Niger",
@@ -30006,12 +28962,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MOKWA",
-    "ward": "GBAJIBO/MUWO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/17/03/001",
     "pu_name": "GBARA TIFFIN",
     "name": "GBARA TIFFIN",
@@ -30177,12 +29127,6 @@
     "pu_code": "26/17/03/019",
     "pu_name": "DATUSN PRIMARY HEALTH CARE CENTRE",
     "name": "DATUSN PRIMARY HEALTH CARE CENTRE",
-    "lga": "MOKWA",
-    "ward": "GBARA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MOKWA",
     "ward": "GBARA",
     "state": "Niger",
@@ -30441,12 +29385,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MOKWA",
-    "ward": "JA'AGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/17/05/001",
     "pu_name": "JEBBA EMI",
     "name": "JEBBA EMI",
@@ -30531,12 +29469,6 @@
     "pu_code": "26/17/05/010",
     "pu_name": "UNG. SARKI HAUSAWA",
     "name": "UNG. SARKI HAUSAWA",
-    "lga": "MOKWA",
-    "ward": "JEBBA NORTH",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MOKWA",
     "ward": "JEBBA NORTH",
     "state": "Niger",
@@ -30633,12 +29565,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MOKWA",
-    "ward": "KPAKI/TAKUMA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/17/07/001",
     "pu_name": "CHIJI",
     "name": "CHIJI",
@@ -30696,12 +29622,6 @@
     "pu_code": "26/17/07/007",
     "pu_name": "AREA COURT KUDU",
     "name": "AREA COURT KUDU",
-    "lga": "MOKWA",
-    "ward": "KUDU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MOKWA",
     "ward": "KUDU",
     "state": "Niger",
@@ -30801,12 +29721,6 @@
     "pu_code": "26/17/08/011",
     "pu_name": "SUNTI CAMP",
     "name": "SUNTI CAMP",
-    "lga": "MOKWA",
-    "ward": "LABOZHI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MOKWA",
     "ward": "LABOZHI",
     "state": "Niger",
@@ -31110,12 +30024,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MOKWA",
-    "ward": "MOKWA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/17/10/001",
     "pu_name": "TSWASHA",
     "name": "TSWASHA",
@@ -31263,12 +30171,6 @@
     "pu_code": "26/17/10/017",
     "pu_name": "MUREGI PRI. HEALTH CENTRE",
     "name": "MUREGI PRI. HEALTH CENTRE",
-    "lga": "MOKWA",
-    "ward": "MUREGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MOKWA",
     "ward": "MUREGI",
     "state": "Niger",
@@ -31437,12 +30339,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MOKWA",
-    "ward": "RABBA/NDAYAKO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/18/01/001",
     "pu_name": "BENI GWARI",
     "name": "BENI GWARI",
@@ -31482,12 +30378,6 @@
     "pu_code": "26/18/01/005",
     "pu_name": "UNG. SARKIN KORO",
     "name": "UNG. SARKIN KORO",
-    "lga": "MUNYA",
-    "ward": "BENI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MUNYA",
     "ward": "BENI",
     "state": "Niger",
@@ -31578,12 +30468,6 @@
     "pu_code": "26/18/02/010",
     "pu_name": "ANGUWAN BAUCHI",
     "name": "ANGUWAN BAUCHI",
-    "lga": "MUNYA",
-    "ward": "DANDAUDU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MUNYA",
     "ward": "DANDAUDU",
     "state": "Niger",
@@ -31743,12 +30627,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MUNYA",
-    "ward": "DANGUNU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/18/04/001",
     "pu_name": "GUNDUMA",
     "name": "GUNDUMA",
@@ -31839,12 +30717,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MUNYA",
-    "ward": "DAZA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/18/05/001",
     "pu_name": "FUKA PRIMARY SCH  (I)",
     "name": "FUKA PRIMARY SCH  (I)",
@@ -31920,12 +30792,6 @@
     "pu_code": "26/18/05/009",
     "pu_name": "KAUTAKI",
     "name": "KAUTAKI",
-    "lga": "MUNYA",
-    "ward": "FUKA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MUNYA",
     "ward": "FUKA",
     "state": "Niger",
@@ -32016,12 +30882,6 @@
     "pu_code": "26/18/06/010",
     "pu_name": "GYEGAI",
     "name": "GYEGAI",
-    "lga": "MUNYA",
-    "ward": "GINI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MUNYA",
     "ward": "GINI",
     "state": "Niger",
@@ -32145,12 +31005,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MUNYA",
-    "ward": "GUNI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/18/08/001",
     "pu_name": "LUWI",
     "name": "LUWI",
@@ -32241,12 +31095,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MUNYA",
-    "ward": "KABULA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/18/09/001",
     "pu_name": "KAZAI GWARI  (I)",
     "name": "KAZAI GWARI  (I)",
@@ -32295,12 +31143,6 @@
     "pu_code": "26/18/09/006",
     "pu_name": "WULGBI",
     "name": "WULGBI",
-    "lga": "MUNYA",
-    "ward": "KAZAI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MUNYA",
     "ward": "KAZAI",
     "state": "Niger",
@@ -32418,12 +31260,6 @@
     "pu_code": "26/18/10/013",
     "pu_name": "LAGBE",
     "name": "LAGBE",
-    "lga": "MUNYA",
-    "ward": "KUCHI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "MUNYA",
     "ward": "KUCHI",
     "state": "Niger",
@@ -32574,12 +31410,6 @@
     "state_code": "26"
   },
   {
-    "lga": "MUNYA",
-    "ward": "SARKIN PAWA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/19/01/001",
     "pu_name": "BAKIN KASUWA",
     "name": "BAKIN KASUWA",
@@ -32664,12 +31494,6 @@
     "pu_code": "26/19/01/010",
     "pu_name": "DAN GALADIMA",
     "name": "DAN GALADIMA",
-    "lga": "PAIKORO",
-    "ward": "ADUNU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "PAIKORO",
     "ward": "ADUNU",
     "state": "Niger",
@@ -32769,12 +31593,6 @@
     "pu_code": "26/19/02/011",
     "pu_name": "KICHIKPA PRY SCH",
     "name": "KICHIKPA PRY SCH",
-    "lga": "PAIKORO",
-    "ward": "CHIMBI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "PAIKORO",
     "ward": "CHIMBI",
     "state": "Niger",
@@ -32916,12 +31734,6 @@
     "state_code": "26"
   },
   {
-    "lga": "PAIKORO",
-    "ward": "GWAM",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/19/04/001",
     "pu_name": "ISHAU TOWN",
     "name": "ISHAU TOWN",
@@ -33057,12 +31869,6 @@
     "state_code": "26"
   },
   {
-    "lga": "PAIKORO",
-    "ward": "ISHAU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/19/05/001",
     "pu_name": "DOBWA",
     "name": "DOBWA",
@@ -33165,12 +31971,6 @@
     "pu_code": "26/19/05/013",
     "pu_name": "SHAYI PRIMARY SCHOOL",
     "name": "SHAYI PRIMARY SCHOOL",
-    "lga": "PAIKORO",
-    "ward": "JERE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "PAIKORO",
     "ward": "JERE",
     "state": "Niger",
@@ -33420,12 +32220,6 @@
     "state_code": "26"
   },
   {
-    "lga": "PAIKORO",
-    "ward": "KAFIN KORO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/19/07/001",
     "pu_name": "ABOLLO",
     "name": "ABOLLO",
@@ -33591,12 +32385,6 @@
     "pu_code": "26/19/07/019",
     "pu_name": "ZONKOLO 2",
     "name": "ZONKOLO 2",
-    "lga": "PAIKORO",
-    "ward": "KWAGANA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "PAIKORO",
     "ward": "KWAGANA",
     "state": "Niger",
@@ -33777,12 +32565,6 @@
     "pu_code": "26/19/08/020",
     "pu_name": "DAGABA",
     "name": "DAGABA",
-    "lga": "PAIKORO",
-    "ward": "KWAKUTI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "PAIKORO",
     "ward": "KWAKUTI",
     "state": "Niger",
@@ -34089,12 +32871,6 @@
     "pu_code": "26/19/09/034",
     "pu_name": "SEDNA",
     "name": "SEDNA",
-    "lga": "PAIKORO",
-    "ward": "NIKUCHI T/MALLAM",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "PAIKORO",
     "ward": "NIKUCHI T/MALLAM",
     "state": "Niger",
@@ -34452,12 +33228,6 @@
     "state_code": "26"
   },
   {
-    "lga": "PAIKORO",
-    "ward": "PAIKO CENTRAL",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/19/11/001",
     "pu_name": "TATIKO  I",
     "name": "TATIKO  I",
@@ -34719,12 +33489,6 @@
     "state_code": "26"
   },
   {
-    "lga": "PAIKORO",
-    "ward": "TUTUNGO JEDNA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/20/01/001",
     "pu_name": "AHMADU ATTAHIRU PRIMARY SCHOOL",
     "name": "AHMADU ATTAHIRU PRIMARY SCHOOL",
@@ -34941,12 +33705,6 @@
     "state_code": "26"
   },
   {
-    "lga": "RAFI",
-    "ward": "KAGARA GARI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/20/02/001",
     "pu_name": "DISPENSARY MADAKA",
     "name": "DISPENSARY MADAKA",
@@ -35067,12 +33825,6 @@
     "pu_code": "26/20/02/014",
     "pu_name": "DISPENSARY MADAKA  II",
     "name": "DISPENSARY MADAKA  II",
-    "lga": "RAFI",
-    "ward": "KAKURI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "RAFI",
     "ward": "KAKURI",
     "state": "Niger",
@@ -35313,12 +34065,6 @@
     "state_code": "26"
   },
   {
-    "lga": "RAFI",
-    "ward": "KONGOMA CENTRAL",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/20/04/001",
     "pu_name": "DISPENSARY MAIKUJERI",
     "name": "DISPENSARY MAIKUJERI",
@@ -35457,12 +34203,6 @@
     "pu_code": "26/20/04/016",
     "pu_name": "DISPENSARY USHIBA",
     "name": "DISPENSARY USHIBA",
-    "lga": "RAFI",
-    "ward": "KONGOMA WEST",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "RAFI",
     "ward": "KONGOMA WEST",
     "state": "Niger",
@@ -35676,12 +34416,6 @@
     "state_code": "26"
   },
   {
-    "lga": "RAFI",
-    "ward": "KUSHERKI NORTH",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/20/06/001",
     "pu_name": "AFITA  MAZA PRIMARY SCHOOL",
     "name": "AFITA  MAZA PRIMARY SCHOOL",
@@ -35853,12 +34587,6 @@
     "state_code": "26"
   },
   {
-    "lga": "RAFI",
-    "ward": "KUSHIRKI SOUTH",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/20/07/001",
     "pu_name": "GUSHE",
     "name": "GUSHE",
@@ -35961,12 +34689,6 @@
     "pu_code": "26/20/07/012",
     "pu_name": "UNG  BAMAIYI   PRI. SCHOOL",
     "name": "UNG  BAMAIYI   PRI. SCHOOL",
-    "lga": "RAFI",
-    "ward": "KUNDU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "RAFI",
     "ward": "KUNDU",
     "state": "Niger",
@@ -36225,12 +34947,6 @@
     "state_code": "26"
   },
   {
-    "lga": "RAFI",
-    "ward": "SABON GARI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/20/09/001",
     "pu_name": "AP SABON HANYA I",
     "name": "AP SABON HANYA I",
@@ -36447,12 +35163,6 @@
     "state_code": "26"
   },
   {
-    "lga": "RAFI",
-    "ward": "TEGINA GARI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/20/10/001",
     "pu_name": "BABBAN GONA PRY. SCH",
     "name": "BABBAN GONA PRY. SCH",
@@ -36615,12 +35325,6 @@
     "state_code": "26"
   },
   {
-    "lga": "RAFI",
-    "ward": "TEGINA WEST",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/20/11/001",
     "pu_name": "AUTA USHAMA",
     "name": "AUTA USHAMA",
@@ -36750,12 +35454,6 @@
     "pu_code": "26/20/11/015",
     "pu_name": "UNG BALARABE",
     "name": "UNG BALARABE",
-    "lga": "RAFI",
-    "ward": "YAKILA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "RAFI",
     "ward": "YAKILA",
     "state": "Niger",
@@ -36924,12 +35622,6 @@
     "state_code": "26"
   },
   {
-    "lga": "RIJAU",
-    "ward": "DANRANGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/21/02/001",
     "pu_name": "UNG. MAGAJIN GARI",
     "name": "UNG. MAGAJIN GARI",
@@ -36960,12 +35652,6 @@
     "pu_code": "26/21/02/004",
     "pu_name": "ZUTTU KAMBARI",
     "name": "ZUTTU KAMBARI",
-    "lga": "RIJAU",
-    "ward": "DUGGE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "RIJAU",
     "ward": "DUGGE",
     "state": "Niger",
@@ -37170,12 +35856,6 @@
     "state_code": "26"
   },
   {
-    "lga": "RIJAU",
-    "ward": "DUKKU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/21/04/001",
     "pu_name": "ARGIDA MAKARANTA",
     "name": "ARGIDA MAKARANTA",
@@ -37302,12 +35982,6 @@
     "state_code": "26"
   },
   {
-    "lga": "RIJAU",
-    "ward": "GENU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/21/05/001",
     "pu_name": "KWARSO RUKUKUJE",
     "name": "KWARSO RUKUKUJE",
@@ -37392,12 +36066,6 @@
     "pu_code": "26/21/05/010",
     "pu_name": "UNG. FALALE",
     "name": "UNG. FALALE",
-    "lga": "RIJAU",
-    "ward": "JAMA'ARE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "RIJAU",
     "ward": "JAMA'ARE",
     "state": "Niger",
@@ -37683,12 +36351,6 @@
     "state_code": "26"
   },
   {
-    "lga": "RIJAU",
-    "ward": "RIJAU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/21/07/001",
     "pu_name": "ALANGA KURE",
     "name": "ALANGA KURE",
@@ -37791,12 +36453,6 @@
     "pu_code": "26/21/07/012",
     "pu_name": "UNG S. HAUSAWA SHAMBO",
     "name": "UNG S. HAUSAWA SHAMBO",
-    "lga": "RIJAU",
-    "ward": "SHAMBO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "RIJAU",
     "ward": "SHAMBO",
     "state": "Niger",
@@ -37965,12 +36621,6 @@
     "state_code": "26"
   },
   {
-    "lga": "RIJAU",
-    "ward": "T/BUNU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/21/09/001",
     "pu_name": "BAKIN KASUWA",
     "name": "BAKIN KASUWA",
@@ -38100,12 +36750,6 @@
     "pu_code": "26/21/09/015",
     "pu_name": "UNG. MALLAM YAHAYA",
     "name": "UNG. MALLAM YAHAYA",
-    "lga": "RIJAU",
-    "ward": "T/MAGAJIYA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "RIJAU",
     "ward": "T/MAGAJIYA",
     "state": "Niger",
@@ -38265,12 +36909,6 @@
     "state_code": "26"
   },
   {
-    "lga": "RIJAU",
-    "ward": "USHE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/21/11/001",
     "pu_name": "MAHOLA BIYAMU",
     "name": "MAHOLA BIYAMU",
@@ -38424,12 +37062,6 @@
     "state_code": "26"
   },
   {
-    "lga": "RIJAU",
-    "ward": "WARARI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/22/01/001",
     "pu_name": "ALLAWA PRIMARY SCHOOL  I",
     "name": "ALLAWA PRIMARY SCHOOL  I",
@@ -38523,12 +37155,6 @@
     "pu_code": "26/22/01/011",
     "pu_name": "MODEL PRI.SCH. ALLAWA",
     "name": "MODEL PRI.SCH. ALLAWA",
-    "lga": "SHIRORO",
-    "ward": "ALLAWA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "SHIRORO",
     "ward": "ALLAWA",
     "state": "Niger",
@@ -38823,12 +37449,6 @@
     "state_code": "26"
   },
   {
-    "lga": "SHIRORO",
-    "ward": "BANGAJIYA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/22/03/001",
     "pu_name": "BASSA PRIMARY SCHOOL",
     "name": "BASSA PRIMARY SCHOOL",
@@ -38895,12 +37515,6 @@
     "pu_code": "26/22/03/008",
     "pu_name": "TUNGAN GORA",
     "name": "TUNGAN GORA",
-    "lga": "SHIRORO",
-    "ward": "BASSA/KUKOKI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "SHIRORO",
     "ward": "BASSA/KUKOKI",
     "state": "Niger",
@@ -39195,12 +37809,6 @@
     "state_code": "26"
   },
   {
-    "lga": "SHIRORO",
-    "ward": "EGWA/GWADA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/22/05/001",
     "pu_name": "UNG. HAKIMI",
     "name": "UNG. HAKIMI",
@@ -39399,12 +38007,6 @@
     "state_code": "26"
   },
   {
-    "lga": "SHIRORO",
-    "ward": "ERANA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/22/06/001",
     "pu_name": "GALKOGO",
     "name": "GALKOGO",
@@ -39540,12 +38142,6 @@
     "state_code": "26"
   },
   {
-    "lga": "SHIRORO",
-    "ward": "GALKOGO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/22/07/001",
     "pu_name": "AJATA ABOKI",
     "name": "AJATA ABOKI",
@@ -39621,12 +38217,6 @@
     "pu_code": "26/22/07/009",
     "pu_name": "KOFAR HAKIMI",
     "name": "KOFAR HAKIMI",
-    "lga": "SHIRORO",
-    "ward": "GURMANA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "SHIRORO",
     "ward": "GURMANA",
     "state": "Niger",
@@ -39813,12 +38403,6 @@
     "state_code": "26"
   },
   {
-    "lga": "SHIRORO",
-    "ward": "GUSSORO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/22/09/001",
     "pu_name": "GIJIWA",
     "name": "GIJIWA",
@@ -39963,12 +38547,6 @@
     "state_code": "26"
   },
   {
-    "lga": "SHIRORO",
-    "ward": "KATO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/22/10/001",
     "pu_name": "KUREBE",
     "name": "KUREBE",
@@ -40053,12 +38631,6 @@
     "pu_code": "26/22/10/010",
     "pu_name": "U.B.E PRI.SCH.PALALE",
     "name": "U.B.E PRI.SCH.PALALE",
-    "lga": "SHIRORO",
-    "ward": "KUSHAKA/KUREBE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "SHIRORO",
     "ward": "KUSHAKA/KUREBE",
     "state": "Niger",
@@ -40173,12 +38745,6 @@
     "state_code": "26"
   },
   {
-    "lga": "SHIRORO",
-    "ward": "KWAKI/CHUKWUBA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/22/12/001",
     "pu_name": "BERI",
     "name": "BERI",
@@ -40278,12 +38844,6 @@
     "state_code": "26"
   },
   {
-    "lga": "SHIRORO",
-    "ward": "MANTA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/22/13/001",
     "pu_name": "KOFAR JAMATA",
     "name": "KOFAR JAMATA",
@@ -40350,12 +38910,6 @@
     "pu_code": "26/22/13/008",
     "pu_name": "AGOGOYI",
     "name": "AGOGOYI",
-    "lga": "SHIRORO",
-    "ward": "PINA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "SHIRORO",
     "ward": "PINA",
     "state": "Niger",
@@ -40563,12 +39117,6 @@
     "pu_code": "26/22/14/023",
     "pu_name": "WAYI",
     "name": "WAYI",
-    "lga": "SHIRORO",
-    "ward": "SHE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "SHIRORO",
     "ward": "SHE",
     "state": "Niger",
@@ -40818,12 +39366,6 @@
     "state_code": "26"
   },
   {
-    "lga": "SHIRORO",
-    "ward": "UBANDOMA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/23/01/001",
     "pu_name": "DAWAKI PRIMARY SCHOOL  I",
     "name": "DAWAKI PRIMARY SCHOOL  I",
@@ -41016,12 +39558,6 @@
     "pu_code": "26/23/01/022",
     "pu_name": "BEHIND LIMAN JUMA'A TSOHON CHOCHI",
     "name": "BEHIND LIMAN JUMA'A TSOHON CHOCHI",
-    "lga": "SULEJA",
-    "ward": "BAGMAMA 'A'",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "SULEJA",
     "ward": "BAGMAMA 'A'",
     "state": "Niger",
@@ -41292,12 +39828,6 @@
     "pu_code": "26/23/02/030",
     "pu_name": "TSOWA PHARMACY",
     "name": "TSOWA PHARMACY",
-    "lga": "SULEJA",
-    "ward": "BAGAMA 'B'",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "SULEJA",
     "ward": "BAGAMA 'B'",
     "state": "Niger",
@@ -41577,12 +40107,6 @@
     "pu_code": "26/23/03/031",
     "pu_name": "K/G MALLAM USMAN  UNG KOKO",
     "name": "K/G MALLAM USMAN  UNG KOKO",
-    "lga": "SULEJA",
-    "ward": "HASHIMI 'A'",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "SULEJA",
     "ward": "HASHIMI 'A'",
     "state": "Niger",
@@ -41904,12 +40428,6 @@
     "state_code": "26"
   },
   {
-    "lga": "SULEJA",
-    "ward": "HASHIMI 'B'",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/23/05/001",
     "pu_name": "MADALLA PRIMARY SCHOOL  I",
     "name": "MADALLA PRIMARY SCHOOL  I",
@@ -42039,12 +40557,6 @@
     "pu_code": "26/23/05/015",
     "pu_name": "ANG LIMAN KG DAGACHI",
     "name": "ANG LIMAN KG DAGACHI",
-    "lga": "SULEJA",
-    "ward": "IKU SOUTH I",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "SULEJA",
     "ward": "IKU SOUTH I",
     "state": "Niger",
@@ -42330,12 +40842,6 @@
     "state_code": "26"
   },
   {
-    "lga": "SULEJA",
-    "ward": "IKU SOUTH II",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/23/07/001",
     "pu_name": "ANG. IYA PRIMARY SCHOOL",
     "name": "ANG. IYA PRIMARY SCHOOL",
@@ -42561,12 +41067,6 @@
     "state_code": "26"
   },
   {
-    "lga": "SULEJA",
-    "ward": "KURMIN SARKI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/23/08/001",
     "pu_name": "KOFAR GIDAN SALANKE",
     "name": "KOFAR GIDAN SALANKE",
@@ -42696,12 +41196,6 @@
     "pu_code": "26/23/08/015",
     "pu_name": "K/G SARKIN SHANU",
     "name": "K/G SARKIN SHANU",
-    "lga": "SULEJA",
-    "ward": "MAGAJIYA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "SULEJA",
     "ward": "MAGAJIYA",
     "state": "Niger",
@@ -43239,12 +41733,6 @@
     "state_code": "26"
   },
   {
-    "lga": "SULEJA",
-    "ward": "MAJE NORTH",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/23/10/001",
     "pu_name": "ANG. JUMA PRIMARY SCHOOL I",
     "name": "ANG. JUMA PRIMARY SCHOOL I",
@@ -43365,12 +41853,6 @@
     "pu_code": "26/23/10/014",
     "pu_name": "K/MAI ANG BOYE",
     "name": "K/MAI ANG BOYE",
-    "lga": "SULEJA",
-    "ward": "WAMBAI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "SULEJA",
     "ward": "WAMBAI",
     "state": "Niger",
@@ -43512,12 +41994,6 @@
     "state_code": "26"
   },
   {
-    "lga": "TAFA",
-    "ward": "DOGON KURMI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/24/02/001",
     "pu_name": "K/GIDAN SARKI GARAM",
     "name": "K/GIDAN SARKI GARAM",
@@ -43617,12 +42093,6 @@
     "state_code": "26"
   },
   {
-    "lga": "TAFA",
-    "ward": "GARAM",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/24/03/001",
     "pu_name": "IJA GWARI PRIMARY SCHOOL I",
     "name": "IJA GWARI PRIMARY SCHOOL I",
@@ -43713,12 +42183,6 @@
     "state_code": "26"
   },
   {
-    "lga": "TAFA",
-    "ward": "IJA GWARI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/24/04/001",
     "pu_name": "IJA KORO PRIMARY SCHOOL",
     "name": "IJA KORO PRIMARY SCHOOL",
@@ -43785,12 +42249,6 @@
     "pu_code": "26/24/04/008",
     "pu_name": "KATA SENI PRY SCHOOL",
     "name": "KATA SENI PRY SCHOOL",
-    "lga": "TAFA",
-    "ward": "IJA KORO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "TAFA",
     "ward": "IJA KORO",
     "state": "Niger",
@@ -43959,12 +42417,6 @@
     "state_code": "26"
   },
   {
-    "lga": "TAFA",
-    "ward": "IKU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/24/06/001",
     "pu_name": "NEW BWARI",
     "name": "NEW BWARI",
@@ -44067,12 +42519,6 @@
     "pu_code": "26/24/06/012",
     "pu_name": "KUCHIKO IJA PRY SCHOOL",
     "name": "KUCHIKO IJA PRY SCHOOL",
-    "lga": "TAFA",
-    "ward": "NEW BWARI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "TAFA",
     "ward": "NEW BWARI",
     "state": "Niger",
@@ -44235,12 +42681,6 @@
     "pu_code": "26/24/07/018",
     "pu_name": "ANGWAN IDI",
     "name": "ANGWAN IDI",
-    "lga": "TAFA",
-    "ward": "WUSE WEST",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "TAFA",
     "ward": "WUSE WEST",
     "state": "Niger",
@@ -44508,12 +42948,6 @@
     "state_code": "26"
   },
   {
-    "lga": "TAFA",
-    "ward": "WUSE  EAST",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/24/09/001",
     "pu_name": "GAURAKA PRIMARY SCHOOL  I",
     "name": "GAURAKA PRIMARY SCHOOL  I",
@@ -44706,12 +43140,6 @@
     "pu_code": "26/24/09/022",
     "pu_name": "ANGUWAN MATASA",
     "name": "ANGUWAN MATASA",
-    "lga": "TAFA",
-    "ward": "ZUMA EAST",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "TAFA",
     "ward": "ZUMA EAST",
     "state": "Niger",
@@ -44970,12 +43398,6 @@
     "state_code": "26"
   },
   {
-    "lga": "TAFA",
-    "ward": "ZUMA WEST",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/25/01/001",
     "pu_name": "AKARE DISPENSARY",
     "name": "AKARE DISPENSARY",
@@ -45066,12 +43488,6 @@
     "state_code": "26"
   },
   {
-    "lga": "WUSHISHI",
-    "ward": "AKARE",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/25/02/001",
     "pu_name": "KOFAR GIDAN BARWA",
     "name": "KOFAR GIDAN BARWA",
@@ -45147,12 +43563,6 @@
     "pu_code": "26/25/02/009",
     "pu_name": "KOFAR GIDAN YAKUBU SARKIN NOMA",
     "name": "KOFAR GIDAN YAKUBU SARKIN NOMA",
-    "lga": "WUSHISHI",
-    "ward": "BARWA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "WUSHISHI",
     "ward": "BARWA",
     "state": "Niger",
@@ -45249,12 +43659,6 @@
     "state_code": "26"
   },
   {
-    "lga": "WUSHISHI",
-    "ward": "GWARJIKO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/25/04/001",
     "pu_name": "KOFAR GIDAN LARAN KOKO",
     "name": "KOFAR GIDAN LARAN KOKO",
@@ -45330,12 +43734,6 @@
     "pu_code": "26/25/04/009",
     "pu_name": "KOFAR GIDAN NASANDA",
     "name": "KOFAR GIDAN NASANDA",
-    "lga": "WUSHISHI",
-    "ward": "KANWURI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "WUSHISHI",
     "ward": "KANWURI",
     "state": "Niger",
@@ -45450,12 +43848,6 @@
     "state_code": "26"
   },
   {
-    "lga": "WUSHISHI",
-    "ward": "KODO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/25/06/001",
     "pu_name": "KWATA PRIMARY SCHOOL",
     "name": "KWATA PRIMARY SCHOOL",
@@ -45555,12 +43947,6 @@
     "state_code": "26"
   },
   {
-    "lga": "WUSHISHI",
-    "ward": "KWATA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/25/07/001",
     "pu_name": "LOKOGOMA PRIMARY SCHOOL",
     "name": "LOKOGOMA PRIMARY SCHOOL",
@@ -45618,12 +44004,6 @@
     "pu_code": "26/25/07/007",
     "pu_name": "BUTU",
     "name": "BUTU",
-    "lga": "WUSHISHI",
-    "ward": "LOKOGOMA",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "WUSHISHI",
     "ward": "LOKOGOMA",
     "state": "Niger",
@@ -45696,12 +44076,6 @@
     "pu_code": "26/25/08/008",
     "pu_name": "UNG. SARKIN HAUSAWA",
     "name": "UNG. SARKIN HAUSAWA",
-    "lga": "WUSHISHI",
-    "ward": "MAITO",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "WUSHISHI",
     "ward": "MAITO",
     "state": "Niger",
@@ -45834,12 +44208,6 @@
     "state_code": "26"
   },
   {
-    "lga": "WUSHISHI",
-    "ward": "SABON GARI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "pu_code": "26/25/10/001",
     "pu_name": "TUKUNJI",
     "name": "TUKUNJI",
@@ -45933,12 +44301,6 @@
     "pu_code": "26/25/10/011",
     "pu_name": "FUGAGI DISPENSARY",
     "name": "FUGAGI DISPENSARY",
-    "lga": "WUSHISHI",
-    "ward": "TUKUNJI/YAMIGI",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "WUSHISHI",
     "ward": "TUKUNJI/YAMIGI",
     "state": "Niger",
@@ -46146,12 +44508,6 @@
     "pu_code": "26/25/11/023",
     "pu_name": "UNG. SARKIN KALIKO",
     "name": "UNG. SARKIN KALIKO",
-    "lga": "WUSHISHI",
-    "ward": "ZUNGERU",
-    "state": "Niger",
-    "state_code": "26"
-  },
-  {
     "lga": "WUSHISHI",
     "ward": "ZUNGERU",
     "state": "Niger",

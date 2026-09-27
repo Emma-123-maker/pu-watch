@@ -216,12 +216,6 @@
     "state_code": "17"
   },
   {
-    "lga": "AUYO",
-    "ward": "AUYO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/01/02/001",
     "pu_name": "AUYAKAYI PRI. SCH, AUYAKAYI",
     "name": "AUYAKAYI PRI. SCH, AUYAKAYI",
@@ -324,12 +318,6 @@
     "pu_code": "17/01/02/012",
     "pu_name": "KUDIGIN ANKU",
     "name": "KUDIGIN ANKU",
-    "lga": "AUYO",
-    "ward": "AUYAKAYI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "AUYO",
     "ward": "AUYAKAYI",
     "state": "Jigawa",
@@ -480,12 +468,6 @@
     "state_code": "17"
   },
   {
-    "lga": "AUYO",
-    "ward": "AYAMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/01/04/001",
     "pu_name": "AYAN PRI. SCH AYAN",
     "name": "AYAN PRI. SCH AYAN",
@@ -576,12 +558,6 @@
     "state_code": "17"
   },
   {
-    "lga": "AUYO",
-    "ward": "AYAN",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/01/05/001",
     "pu_name": "GAMAFOI PRI. SCH GAMAFOI KWAZIMO",
     "name": "GAMAFOI PRI. SCH GAMAFOI KWAZIMO",
@@ -666,12 +642,6 @@
     "pu_code": "17/01/05/010",
     "pu_name": "GASANYA PRIMARY SCHOOL II",
     "name": "GASANYA PRIMARY SCHOOL II",
-    "lga": "AUYO",
-    "ward": "GAMAFOI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "AUYO",
     "ward": "GAMAFOI",
     "state": "Jigawa",
@@ -822,12 +792,6 @@
     "state_code": "17"
   },
   {
-    "lga": "AUYO",
-    "ward": "GAMSARKA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/01/07/001",
     "pu_name": "GATAFA PRI. SCH. GATFA YALWA 'A'",
     "name": "GATAFA PRI. SCH. GATFA YALWA 'A'",
@@ -903,12 +867,6 @@
     "pu_code": "17/01/07/009",
     "pu_name": "GATAFA PRIMARY SCHOOL II",
     "name": "GATAFA PRIMARY SCHOOL II",
-    "lga": "AUYO",
-    "ward": "GATAFA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "AUYO",
     "ward": "GATAFA",
     "state": "Jigawa",
@@ -1023,12 +981,6 @@
     "state_code": "17"
   },
   {
-    "lga": "AUYO",
-    "ward": "KAFUR",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/01/09/001",
     "pu_name": "TSIDIR PRI. SCH. TSIDIR",
     "name": "TSIDIR PRI. SCH. TSIDIR",
@@ -1122,12 +1074,6 @@
     "pu_code": "17/01/09/011",
     "pu_name": "MURAN PRIMARY SCHOOL I",
     "name": "MURAN PRIMARY SCHOOL I",
-    "lga": "AUYO",
-    "ward": "TSIDIR",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "AUYO",
     "ward": "TSIDIR",
     "state": "Jigawa",
@@ -1281,12 +1227,6 @@
     "pu_code": "17/01/10/017",
     "pu_name": "JAMA'AR GUYU VILLAGE, JAMA'AR GUYU",
     "name": "JAMA'AR GUYU VILLAGE, JAMA'AR GUYU",
-    "lga": "AUYO",
-    "ward": "UNIK",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "AUYO",
     "ward": "UNIK",
     "state": "Jigawa",
@@ -1599,12 +1539,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BABURA",
-    "ward": "BABURA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/02/02/001",
     "pu_name": "BATALI PRI. SCH. BATALI",
     "name": "BATALI PRI. SCH. BATALI",
@@ -1740,12 +1674,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BABURA",
-    "ward": "BATALI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/02/03/001",
     "pu_name": "AJJAH GARI/AJJAH GARI",
     "name": "AJJAH GARI/AJJAH GARI",
@@ -1863,12 +1791,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BABURA",
-    "ward": "DORAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/02/04/001",
     "pu_name": "ANDO PRI. SCH./ANDO KANAWA",
     "name": "ANDO PRI. SCH./ANDO KANAWA",
@@ -1971,12 +1893,6 @@
     "pu_code": "17/02/04/012",
     "pu_name": "GARU PRI. SCH. / GARU",
     "name": "GARU PRI. SCH. / GARU",
-    "lga": "BABURA",
-    "ward": "GARU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BABURA",
     "ward": "GARU",
     "state": "Jigawa",
@@ -2130,12 +2046,6 @@
     "pu_code": "17/02/05/017",
     "pu_name": "GASAKOLI PRI. SCH. II",
     "name": "GASAKOLI PRI. SCH. II",
-    "lga": "BABURA",
-    "ward": "GASAKOLI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BABURA",
     "ward": "GASAKOLI",
     "state": "Jigawa",
@@ -2316,12 +2226,6 @@
     "pu_code": "17/02/06/020",
     "pu_name": "MUNI NOMADIC PRI. SCH",
     "name": "MUNI NOMADIC PRI. SCH",
-    "lga": "BABURA",
-    "ward": "INSHARUWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BABURA",
     "ward": "INSHARUWA",
     "state": "Jigawa",
@@ -2598,12 +2502,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BABURA",
-    "ward": "JIGAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/02/08/001",
     "pu_name": "DANBANDO /DANBANDO",
     "name": "DANBANDO /DANBANDO",
@@ -2856,12 +2754,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BABURA",
-    "ward": "KANYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/02/09/001",
     "pu_name": "ADUGUL/ADUGUL",
     "name": "ADUGUL/ADUGUL",
@@ -3033,12 +2925,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BABURA",
-    "ward": "KUZUNZUMI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/02/10/001",
     "pu_name": "DANHALILI/DANHALILI",
     "name": "DANHALILI/DANHALILI",
@@ -3132,12 +3018,6 @@
     "pu_code": "17/02/10/011",
     "pu_name": "LAMINTANI II",
     "name": "LAMINTANI II",
-    "lga": "BABURA",
-    "ward": "KYAMBO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BABURA",
     "ward": "KYAMBO",
     "state": "Jigawa",
@@ -3273,12 +3153,6 @@
     "pu_code": "17/02/11/015",
     "pu_name": "GAGARAWA RIJIYA",
     "name": "GAGARAWA RIJIYA",
-    "lga": "BABURA",
-    "ward": "TAKWASA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BABURA",
     "ward": "TAKWASA",
     "state": "Jigawa",
@@ -3753,12 +3627,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BIRNIN KUDU",
-    "ward": "BIRNIN KUDU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/03/02/001",
     "pu_name": "KANGIRE YAMMA/AREWA/KANGIRE P.S",
     "name": "KANGIRE YAMMA/AREWA/KANGIRE P.S",
@@ -4056,12 +3924,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BIRNIN KUDU",
-    "ward": "KANGIRE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/03/03/001",
     "pu_name": "KANTOGA GARI  KANTOGA P.S",
     "name": "KANTOGA GARI  KANTOGA P.S",
@@ -4350,12 +4212,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BIRNIN KUDU",
-    "ward": "KANTOGA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/03/04/001",
     "pu_name": "KIYAKO P.S",
     "name": "KIYAKO P.S",
@@ -4599,12 +4455,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BIRNIN KUDU",
-    "ward": "KIYAKO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/03/05/001",
     "pu_name": "KWANGWARA TSAKIYA/ KWANGWARA P.S",
     "name": "KWANGWARA TSAKIYA/ KWANGWARA P.S",
@@ -4767,12 +4617,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BIRNIN KUDU",
-    "ward": "KWANGWARA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/03/06/001",
     "pu_name": "LAFIYA P.SCH.",
     "name": "LAFIYA P.SCH.",
@@ -4929,12 +4773,6 @@
     "pu_code": "17/03/06/018",
     "pu_name": "JINGINA",
     "name": "JINGINA",
-    "lga": "BIRNIN KUDU",
-    "ward": "LAFIYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BIRNIN KUDU",
     "ward": "LAFIYA",
     "state": "Jigawa",
@@ -5247,12 +5085,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BIRNIN KUDU",
-    "ward": "SUNDIMINA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/03/08/001",
     "pu_name": "SURKO DUGAJI SURKO P.S",
     "name": "SURKO DUGAJI SURKO P.S",
@@ -5373,12 +5205,6 @@
     "pu_code": "17/03/08/014",
     "pu_name": "FADA/GIDAN RUWA",
     "name": "FADA/GIDAN RUWA",
-    "lga": "BIRNIN KUDU",
-    "ward": "SURKO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BIRNIN KUDU",
     "ward": "SURKO",
     "state": "Jigawa",
@@ -5559,12 +5385,6 @@
     "pu_code": "17/03/09/020",
     "pu_name": "UNGUWAR YA JUNIOR SEC. SCH.  II",
     "name": "UNGUWAR YA JUNIOR SEC. SCH.  II",
-    "lga": "BIRNIN KUDU",
-    "ward": "UNGUWARYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BIRNIN KUDU",
     "ward": "UNGUWARYA",
     "state": "Jigawa",
@@ -5949,12 +5769,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BIRNIN KUDU",
-    "ward": "WURNO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/03/11/001",
     "pu_name": "YALWAN DAMAI P.S I",
     "name": "YALWAN DAMAI P.S I",
@@ -6243,12 +6057,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BIRNIN KUDU",
-    "ward": "YALWAN DAMAI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/04/01/001",
     "pu_name": "BATU PRI. SCH/BATU GARI/FULANI",
     "name": "BATU PRI. SCH/BATU GARI/FULANI",
@@ -6351,12 +6159,6 @@
     "pu_code": "17/04/01/012",
     "pu_name": "DAGACERI PRI SCH",
     "name": "DAGACERI PRI SCH",
-    "lga": "BIRNIWA",
-    "ward": "BATU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BIRNIWA",
     "ward": "BATU",
     "state": "Jigawa",
@@ -6570,12 +6372,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BIRNIWA",
-    "ward": "BIRNIWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/04/03/001",
     "pu_name": "DANGWALERI PRI. SCH / DANGWALERI / D BULA",
     "name": "DANGWALERI PRI. SCH / DANGWALERI / D BULA",
@@ -6669,12 +6465,6 @@
     "pu_code": "17/04/03/011",
     "pu_name": "RAKUMIN ARI PRI SCH./ RAKUMINARI / RAFA",
     "name": "RAKUMIN ARI PRI SCH./ RAKUMINARI / RAFA",
-    "lga": "BIRNIWA",
-    "ward": "DANGWALERI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BIRNIWA",
     "ward": "DANGWALERI",
     "state": "Jigawa",
@@ -6834,12 +6624,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BIRNIWA",
-    "ward": "DIGINSA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/04/05/001",
     "pu_name": "FAGI PRI. SCH. FAGI",
     "name": "FAGI PRI. SCH. FAGI",
@@ -6930,12 +6714,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BIRNIWA",
-    "ward": "FAGI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/04/06/001",
     "pu_name": "KACHALLARI PRI. SCH/KACHALLARI I",
     "name": "KACHALLARI PRI. SCH/KACHALLARI I",
@@ -7020,12 +6798,6 @@
     "pu_code": "17/04/06/010",
     "pu_name": "KOFAR MAIGARI/KANYA KARAMA",
     "name": "KOFAR MAIGARI/KANYA KARAMA",
-    "lga": "BIRNIWA",
-    "ward": "KACHALLARI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BIRNIWA",
     "ward": "KACHALLARI",
     "state": "Jigawa",
@@ -7143,12 +6915,6 @@
     "pu_code": "17/04/07/013",
     "pu_name": "KOFAR MAIGARI/MAIWARI/R.GATA  II",
     "name": "KOFAR MAIGARI/MAIWARI/R.GATA  II",
-    "lga": "BIRNIWA",
-    "ward": "KARANKA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BIRNIWA",
     "ward": "KARANKA",
     "state": "Jigawa",
@@ -7284,12 +7050,6 @@
     "pu_code": "17/04/08/015",
     "pu_name": "KAZURA PRI SCH  II",
     "name": "KAZURA PRI SCH  II",
-    "lga": "BIRNIWA",
-    "ward": "KAZURA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BIRNIWA",
     "ward": "KAZURA",
     "state": "Jigawa",
@@ -7440,12 +7200,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BIRNIWA",
-    "ward": "MACHINAMARI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/04/10/001",
     "pu_name": "MATAMU PRI. SCH./MATAMU KULI GUYA",
     "name": "MATAMU PRI. SCH./MATAMU KULI GUYA",
@@ -7554,12 +7308,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BIRNIWA",
-    "ward": "MATAMU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/04/11/001",
     "pu_name": "NGUWA PRI. SCH./NGUWA/NGUWA M. BRAI",
     "name": "NGUWA PRI. SCH./NGUWA/NGUWA M. BRAI",
@@ -7641,12 +7389,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BIRNIWA",
-    "ward": "NGUWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/05/01/001",
     "pu_name": "PRI. SCH. AHOTO AREWA",
     "name": "PRI. SCH. AHOTO AREWA",
@@ -7722,12 +7464,6 @@
     "pu_code": "17/05/01/009",
     "pu_name": "AHOTO YAMMA",
     "name": "AHOTO YAMMA",
-    "lga": "BUJI",
-    "ward": "AHOTO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BUJI",
     "ward": "AHOTO",
     "state": "Jigawa",
@@ -7818,12 +7554,6 @@
     "pu_code": "17/05/02/010",
     "pu_name": "CHAKWAMA YAMMA ISILAMIYA SCH.",
     "name": "CHAKWAMA YAMMA ISILAMIYA SCH.",
-    "lga": "BUJI",
-    "ward": "BUJI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BUJI",
     "ward": "BUJI",
     "state": "Jigawa",
@@ -7932,12 +7662,6 @@
     "pu_code": "17/05/03/012",
     "pu_name": "NURUL ISILAM UNGUWAR MAINA SCH",
     "name": "NURUL ISILAM UNGUWAR MAINA SCH",
-    "lga": "BUJI",
-    "ward": "CHURBUN",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BUJI",
     "ward": "CHURBUN",
     "state": "Jigawa",
@@ -8088,12 +7812,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BUJI",
-    "ward": "GANTSA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/05/05/001",
     "pu_name": "PRI. SCH FALAGERI FADA",
     "name": "PRI. SCH FALAGERI FADA",
@@ -8160,12 +7878,6 @@
     "pu_code": "17/05/05/008",
     "pu_name": "FALGERI DISPENSERY",
     "name": "FALGERI DISPENSERY",
-    "lga": "BUJI",
-    "ward": "FALAGERI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BUJI",
     "ward": "FALAGERI",
     "state": "Jigawa",
@@ -8334,12 +8046,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BUJI",
-    "ward": "KAWAYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/05/07/001",
     "pu_name": "KUKUMA AREWA PRI. SCH.",
     "name": "KUKUMA AREWA PRI. SCH.",
@@ -8457,12 +8163,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BUJI",
-    "ward": "KUKUMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/05/08/001",
     "pu_name": "KARANJAU/L.KUDU PRI. SCH.",
     "name": "KARANJAU/L.KUDU PRI. SCH.",
@@ -8571,12 +8271,6 @@
     "state_code": "17"
   },
   {
-    "lga": "BUJI",
-    "ward": "K/LELEN KUDU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/05/09/001",
     "pu_name": "MADABE PRI. SCH.",
     "name": "MADABE PRI. SCH.",
@@ -8625,12 +8319,6 @@
     "pu_code": "17/05/09/006",
     "pu_name": "MADABE ISILAMIYA SCH",
     "name": "MADABE ISILAMIYA SCH",
-    "lga": "BUJI",
-    "ward": "MADABE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BUJI",
     "ward": "MADABE",
     "state": "Jigawa",
@@ -8739,12 +8427,6 @@
     "pu_code": "17/05/10/012",
     "pu_name": "KAFIN MADAKI ISLAMIYYA SCH",
     "name": "KAFIN MADAKI ISLAMIYYA SCH",
-    "lga": "BUJI",
-    "ward": "Y/TUKUR",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "BUJI",
     "ward": "Y/TUKUR",
     "state": "Jigawa",
@@ -8880,12 +8562,6 @@
     "pu_code": "17/06/01/015",
     "pu_name": "DOGON JEJI P.S",
     "name": "DOGON JEJI P.S",
-    "lga": "DUTSE",
-    "ward": "ABAYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "DUTSE",
     "ward": "ABAYA",
     "state": "Jigawa",
@@ -9072,12 +8748,6 @@
     "state_code": "17"
   },
   {
-    "lga": "DUTSE",
-    "ward": "CHAMO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/06/03/001",
     "pu_name": "ALANJERI PRI. SCH.",
     "name": "ALANJERI PRI. SCH.",
@@ -9198,12 +8868,6 @@
     "pu_code": "17/06/03/014",
     "pu_name": "PHC DUNDUBUS",
     "name": "PHC DUNDUBUS",
-    "lga": "DUTSE",
-    "ward": "DUNDUBUS",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "DUTSE",
     "ward": "DUNDUBUS",
     "state": "Jigawa",
@@ -9444,12 +9108,6 @@
     "state_code": "17"
   },
   {
-    "lga": "DUTSE",
-    "ward": "DURU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/06/05/001",
     "pu_name": "DAN TAWUYA PRI. SCH.",
     "name": "DAN TAWUYA PRI. SCH.",
@@ -9651,12 +9309,6 @@
     "pu_code": "17/06/05/023",
     "pu_name": "TAKUR SITE VIEWING CENTRE",
     "name": "TAKUR SITE VIEWING CENTRE",
-    "lga": "DUTSE",
-    "ward": "JIGAWAR TSADA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "DUTSE",
     "ward": "JIGAWAR TSADA",
     "state": "Jigawa",
@@ -10050,12 +9702,6 @@
     "state_code": "17"
   },
   {
-    "lga": "DUTSE",
-    "ward": "KACHI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/06/07/001",
     "pu_name": "BAKIN RUWA PRI. SCH.",
     "name": "BAKIN RUWA PRI. SCH.",
@@ -10221,12 +9867,6 @@
     "pu_code": "17/06/07/019",
     "pu_name": "RUMBAWA",
     "name": "RUMBAWA",
-    "lga": "DUTSE",
-    "ward": "KARNAYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "DUTSE",
     "ward": "KARNAYA",
     "state": "Jigawa",
@@ -10443,12 +10083,6 @@
     "pu_code": "17/06/08/024",
     "pu_name": "YALWA DISPENSARY,",
     "name": "YALWA DISPENSARY,",
-    "lga": "DUTSE",
-    "ward": "KUDAI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "DUTSE",
     "ward": "KUDAI",
     "state": "Jigawa",
@@ -10725,12 +10359,6 @@
     "state_code": "17"
   },
   {
-    "lga": "DUTSE",
-    "ward": "LIMAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/06/10/001",
     "pu_name": "BARANDA PRI. SCH.",
     "name": "BARANDA PRI. SCH.",
@@ -10992,12 +10620,6 @@
     "state_code": "17"
   },
   {
-    "lga": "DUTSE",
-    "ward": "MADOBI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/06/11/001",
     "pu_name": "BASHURI",
     "name": "BASHURI",
@@ -11205,12 +10827,6 @@
     "state_code": "17"
   },
   {
-    "lga": "DUTSE",
-    "ward": "SAKWAYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/07/01/001",
     "pu_name": "BUDURU PRI. SCH.BUDURU",
     "name": "BUDURU PRI. SCH.BUDURU",
@@ -11268,12 +10884,6 @@
     "pu_code": "17/07/01/007",
     "pu_name": "POLLING SHADE AT JAFTAWA",
     "name": "POLLING SHADE AT JAFTAWA",
-    "lga": "GARKI",
-    "ward": "BUDURU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GARKI",
     "ward": "BUDURU",
     "state": "Jigawa",
@@ -11460,12 +11070,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GARKI",
-    "ward": "DOKO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/07/03/001",
     "pu_name": "GARKI PRI. SCH./GARKI GABAS",
     "name": "GARKI PRI. SCH./GARKI GABAS",
@@ -11646,12 +11250,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GARKI",
-    "ward": "GARKI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/07/04/001",
     "pu_name": "GWARZO PRI. SCH. GWARZO",
     "name": "GWARZO PRI. SCH. GWARZO",
@@ -11814,12 +11412,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GARKI",
-    "ward": "GWARZON GARKI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/07/05/001",
     "pu_name": "JIRIMA PRI. SCH/JIRIMA",
     "name": "JIRIMA PRI. SCH/JIRIMA",
@@ -11964,12 +11556,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GARKI",
-    "ward": "JIRIMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/07/06/001",
     "pu_name": "KANYA PRI. SCH - KANYA  I",
     "name": "KANYA PRI. SCH - KANYA  I",
@@ -12072,12 +11658,6 @@
     "pu_code": "17/07/06/012",
     "pu_name": "MAKANGAWA PS",
     "name": "MAKANGAWA PS",
-    "lga": "GARKI",
-    "ward": "KANYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GARKI",
     "ward": "KANYA",
     "state": "Jigawa",
@@ -12255,12 +11835,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GARKI",
-    "ward": "KARGO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/07/08/001",
     "pu_name": "KORE PRI. SCH./KORE  I",
     "name": "KORE PRI. SCH./KORE  I",
@@ -12381,12 +11955,6 @@
     "pu_code": "17/07/08/014",
     "pu_name": "GSS FAGEN GAWO",
     "name": "GSS FAGEN GAWO",
-    "lga": "GARKI",
-    "ward": "KORE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GARKI",
     "ward": "KORE",
     "state": "Jigawa",
@@ -12564,12 +12132,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GARKI",
-    "ward": "MUKU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/07/10/001",
     "pu_name": "RAFIN MARKE PRI. SCH./RAFIN MARKE",
     "name": "RAFIN MARKE PRI. SCH./RAFIN MARKE",
@@ -12672,12 +12234,6 @@
     "pu_code": "17/07/10/012",
     "pu_name": "PHC RAFIN MARKE",
     "name": "PHC RAFIN MARKE",
-    "lga": "GARKI",
-    "ward": "RAFIN MARKE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GARKI",
     "ward": "RAFIN MARKE",
     "state": "Jigawa",
@@ -12819,12 +12375,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GARKI",
-    "ward": "SIYORI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/08/01/001",
     "pu_name": "GARIN /PRI. SCH  GARIN GOTO PRI. SCH.",
     "name": "GARIN /PRI. SCH  GARIN GOTO PRI. SCH.",
@@ -12882,12 +12432,6 @@
     "pu_code": "17/08/01/007",
     "pu_name": "GARIN GOTO II",
     "name": "GARIN GOTO II",
-    "lga": "GAGARAWA",
-    "ward": "GAGARAWA GARI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GAGARAWA",
     "ward": "GAGARAWA GARI",
     "state": "Jigawa",
@@ -13002,12 +12546,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GAGARAWA",
-    "ward": "GAGARAWA TASHA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/08/03/001",
     "pu_name": "GAYAWAR MALAM/PRI. SCH.",
     "name": "GAYAWAR MALAM/PRI. SCH.",
@@ -13089,12 +12627,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GAGARAWA",
-    "ward": "GARIN CHIROMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/08/04/001",
     "pu_name": "KORE BALATU PRI. SCH.",
     "name": "KORE BALATU PRI. SCH.",
@@ -13143,12 +12675,6 @@
     "pu_code": "17/08/04/006",
     "pu_name": "KOFAR FADA/DANNANI",
     "name": "KOFAR FADA/DANNANI",
-    "lga": "GAGARAWA",
-    "ward": "KORE BALATU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GAGARAWA",
     "ward": "KORE BALATU",
     "state": "Jigawa",
@@ -13212,12 +12738,6 @@
     "pu_code": "17/08/05/007",
     "pu_name": "MADAKA CLINIC",
     "name": "MADAKA CLINIC",
-    "lga": "GAGARAWA",
-    "ward": "MADAKA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GAGARAWA",
     "ward": "MADAKA",
     "state": "Jigawa",
@@ -13314,12 +12834,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GAGARAWA",
-    "ward": "MAIADUWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/08/07/001",
     "pu_name": "KANGARWA PRI. SCH.",
     "name": "KANGARWA PRI. SCH.",
@@ -13404,12 +12918,6 @@
     "pu_code": "17/08/07/010",
     "pu_name": "GARIN MADO PRI. SCH.",
     "name": "GARIN MADO PRI. SCH.",
-    "lga": "GAGARAWA",
-    "ward": "MAIKILILI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GAGARAWA",
     "ward": "MAIKILILI",
     "state": "Jigawa",
@@ -13524,12 +13032,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GAGARAWA",
-    "ward": "MEDU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/08/09/001",
     "pu_name": "YALAWA GARI PRI. SCH  I",
     "name": "YALAWA GARI PRI. SCH  I",
@@ -13569,12 +13071,6 @@
     "pu_code": "17/08/09/005",
     "pu_name": "KOFAR FADA / JAGINDI",
     "name": "KOFAR FADA / JAGINDI",
-    "lga": "GAGARAWA",
-    "ward": "YALAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GAGARAWA",
     "ward": "YALAWA",
     "state": "Jigawa",
@@ -13671,12 +13167,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GAGARAWA",
-    "ward": "ZARADA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/09/01/001",
     "pu_name": "BAIKARYA PRI. SCH. I",
     "name": "BAIKARYA PRI. SCH. I",
@@ -13734,12 +13224,6 @@
     "pu_code": "17/09/01/007",
     "pu_name": "BAIKARYA PRI. SCH II",
     "name": "BAIKARYA PRI. SCH II",
-    "lga": "GUMEL",
-    "ward": "BAIKARYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GUMEL",
     "ward": "BAIKARYA",
     "state": "Jigawa",
@@ -13812,12 +13296,6 @@
     "pu_code": "17/09/02/012",
     "pu_name": "G.S.S LAUTAI II",
     "name": "G.S.S LAUTAI II",
-    "lga": "GUMEL",
-    "ward": "DANAMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GUMEL",
     "ward": "DANAMA",
     "state": "Jigawa",
@@ -13959,12 +13437,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GUMEL",
-    "ward": "DANTANOMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/09/04/001",
     "pu_name": "GALAGAMMA PRI. SCH.  I",
     "name": "GALAGAMMA PRI. SCH.  I",
@@ -14073,12 +13545,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GUMEL",
-    "ward": "GALAGAMMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/09/05/001",
     "pu_name": "GARIN GAMBO PRI. SCH.  I",
     "name": "GARIN GAMBO PRI. SCH.  I",
@@ -14100,12 +13566,6 @@
     "pu_code": "17/09/05/003",
     "pu_name": "GARIN  BAKI CIKIN GARI.",
     "name": "GARIN  BAKI CIKIN GARI.",
-    "lga": "GUMEL",
-    "ward": "GARIN GAMBO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GUMEL",
     "ward": "GARIN GAMBO",
     "state": "Jigawa",
@@ -14169,12 +13629,6 @@
     "pu_code": "17/09/06/007",
     "pu_name": "MAIGAZARI CIKIN GARI",
     "name": "MAIGAZARI CIKIN GARI",
-    "lga": "GUMEL",
-    "ward": "GARIN ALHAJI BARKA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GUMEL",
     "ward": "GARIN ALHAJI BARKA",
     "state": "Jigawa",
@@ -14343,12 +13797,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GUMEL",
-    "ward": "GUSAU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/09/08/001",
     "pu_name": "HAMMADO PRI. SCH.  I",
     "name": "HAMMADO PRI. SCH.  I",
@@ -14388,12 +13836,6 @@
     "pu_code": "17/09/08/006",
     "pu_name": "ZUWO NOMADIC PRI. SCH",
     "name": "ZUWO NOMADIC PRI. SCH",
-    "lga": "GUMEL",
-    "ward": "HAMMADO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GUMEL",
     "ward": "HAMMADO",
     "state": "Jigawa",
@@ -14517,12 +13959,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GUMEL",
-    "ward": "KOFAR AREWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/09/10/001",
     "pu_name": "KOFAR YAMMA YANKWANAKWANA  I",
     "name": "KOFAR YAMMA YANKWANAKWANA  I",
@@ -14580,12 +14016,6 @@
     "pu_code": "17/09/10/007",
     "pu_name": "KWANA KWANA II",
     "name": "KWANA KWANA II",
-    "lga": "GUMEL",
-    "ward": "KOFAR YAMMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GUMEL",
     "ward": "KOFAR YAMMA",
     "state": "Jigawa",
@@ -14658,12 +14088,6 @@
     "pu_code": "17/09/11/008",
     "pu_name": "ZANGO PRI. SCH IV",
     "name": "ZANGO PRI. SCH IV",
-    "lga": "GUMEL",
-    "ward": "ZANGO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GUMEL",
     "ward": "ZANGO",
     "state": "Jigawa",
@@ -14796,12 +14220,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GURI",
-    "ward": "ABUNABO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/10/02/001",
     "pu_name": "ADIYANI PRI. SCH. ADIYANI  I",
     "name": "ADIYANI PRI. SCH. ADIYANI  I",
@@ -14895,12 +14313,6 @@
     "pu_code": "17/10/02/011",
     "pu_name": "JSS ADIYANI II",
     "name": "JSS ADIYANI II",
-    "lga": "GURI",
-    "ward": "ADIYANI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GURI",
     "ward": "ADIYANI",
     "state": "Jigawa",
@@ -15024,12 +14436,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GURI",
-    "ward": "DAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/10/04/001",
     "pu_name": "GARBAGAL PRI. SCH. GARBAGAL  I",
     "name": "GARBAGAL PRI. SCH. GARBAGAL  I",
@@ -15087,12 +14493,6 @@
     "pu_code": "17/10/04/007",
     "pu_name": "GARMAGUWAN GABAS PRI. SCH.",
     "name": "GARMAGUWAN GABAS PRI. SCH.",
-    "lga": "GURI",
-    "ward": "GARBAGAL",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GURI",
     "ward": "GARBAGAL",
     "state": "Jigawa",
@@ -15261,12 +14661,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GURI",
-    "ward": "GURI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/10/06/001",
     "pu_name": "KADIRA PRI. SCH. KADIRA  I",
     "name": "KADIRA PRI. SCH. KADIRA  I",
@@ -15402,12 +14796,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GURI",
-    "ward": "KADIRA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/10/07/001",
     "pu_name": "LAFIYA PRI. SCH. LAFIYA  I",
     "name": "LAFIYA PRI. SCH. LAFIYA  I",
@@ -15480,12 +14868,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GURI",
-    "ward": "LAFIYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/10/08/001",
     "pu_name": "MARGADU PRI. SCH. MARGADU  I",
     "name": "MARGADU PRI. SCH. MARGADU  I",
@@ -15525,12 +14907,6 @@
     "pu_code": "17/10/08/005",
     "pu_name": "YOLA MARGADU",
     "name": "YOLA MARGADU",
-    "lga": "GURI",
-    "ward": "MARGADU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GURI",
     "ward": "MARGADU",
     "state": "Jigawa",
@@ -15594,12 +14970,6 @@
     "pu_code": "17/10/09/007",
     "pu_name": "DAGANA PRI. SCH.  DAGANA II",
     "name": "DAGANA PRI. SCH.  DAGANA II",
-    "lga": "GURI",
-    "ward": "MATARA BABA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GURI",
     "ward": "MATARA BABA",
     "state": "Jigawa",
@@ -15735,12 +15105,6 @@
     "pu_code": "17/10/10/015",
     "pu_name": "TAKAZZA BASIC HEALTH CARE",
     "name": "TAKAZZA BASIC HEALTH CARE",
-    "lga": "GURI",
-    "ward": "MUSARI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GURI",
     "ward": "MUSARI",
     "state": "Jigawa",
@@ -15981,12 +15345,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GWARAM",
-    "ward": "BASIRKA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/11/02/001",
     "pu_name": "KOFAR FADA/ DINGAYA FADA",
     "name": "KOFAR FADA/ DINGAYA FADA",
@@ -16188,12 +15546,6 @@
     "pu_code": "17/11/02/023",
     "pu_name": "BONGON AUYAKAWA PRI. SCH. II",
     "name": "BONGON AUYAKAWA PRI. SCH. II",
-    "lga": "GWARAM",
-    "ward": "DINGAYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GWARAM",
     "ward": "DINGAYA",
     "state": "Jigawa",
@@ -16551,12 +15903,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GWARAM",
-    "ward": "FAGAM",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/11/04/001",
     "pu_name": "F/DUTSE PRI. SCH/ MAKARANTA B/ KASUWA",
     "name": "F/DUTSE PRI. SCH/ MAKARANTA B/ KASUWA",
@@ -16722,12 +16068,6 @@
     "pu_code": "17/11/04/019",
     "pu_name": "FARIN DUTSE PRI. SCH. KUDU II",
     "name": "FARIN DUTSE PRI. SCH. KUDU II",
-    "lga": "GWARAM",
-    "ward": "FARIN DUTSE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GWARAM",
     "ward": "FARIN DUTSE",
     "state": "Jigawa",
@@ -17112,12 +16452,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GWARAM",
-    "ward": "GWARAM TSOHUWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/11/06/001",
     "pu_name": "KILA PRI. SCH/HAWAN MADAKI MAKARANTA",
     "name": "KILA PRI. SCH/HAWAN MADAKI MAKARANTA",
@@ -17334,12 +16668,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GWARAM",
-    "ward": "KILA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/11/07/001",
     "pu_name": "KWANDIKO PRI. SCH. KWANDIKO GARI",
     "name": "KWANDIKO PRI. SCH. KWANDIKO GARI",
@@ -17496,12 +16824,6 @@
     "pu_code": "17/11/07/018",
     "pu_name": "UNGUWAR RIMI KIRYA ASIBITI",
     "name": "UNGUWAR RIMI KIRYA ASIBITI",
-    "lga": "GWARAM",
-    "ward": "KWANDIKO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GWARAM",
     "ward": "KWANDIKO",
     "state": "Jigawa",
@@ -17718,12 +17040,6 @@
     "pu_code": "17/11/08/024",
     "pu_name": "JIKAS PRIMARY SCHOOL JIKAS AREWA II",
     "name": "JIKAS PRIMARY SCHOOL JIKAS AREWA II",
-    "lga": "GWARAM",
-    "ward": "MARUTA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GWARAM",
     "ward": "MARUTA",
     "state": "Jigawa",
@@ -18036,12 +17352,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GWARAM",
-    "ward": "SARA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/11/10/001",
     "pu_name": "TSANGARWA FADA PRI. SCH",
     "name": "TSANGARWA FADA PRI. SCH",
@@ -18252,12 +17562,6 @@
     "pu_code": "17/11/10/024",
     "pu_name": "BUDINGA PRI. SCH., YAMMA II",
     "name": "BUDINGA PRI. SCH., YAMMA II",
-    "lga": "GWARAM",
-    "ward": "TSANGARWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GWARAM",
     "ward": "TSANGARWA",
     "state": "Jigawa",
@@ -18489,12 +17793,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GWARAM",
-    "ward": "ZANDAN NAGOGO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/12/01/001",
     "pu_name": "BUNTUSUN DUZAU PRI. SCH. BUNTUSU DUZAU",
     "name": "BUNTUSUN DUZAU PRI. SCH. BUNTUSU DUZAU",
@@ -18606,12 +17904,6 @@
     "pu_code": "17/12/01/013",
     "pu_name": "UNG. DOROWA JSS",
     "name": "UNG. DOROWA JSS",
-    "lga": "GWIWA",
-    "ward": "BUNTUSU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GWIWA",
     "ward": "BUNTUSU",
     "state": "Jigawa",
@@ -18735,12 +18027,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GWIWA",
-    "ward": "DABI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/12/03/001",
     "pu_name": "DARINA HABE CIKIN GARI/DARINA HABE",
     "name": "DARINA HABE CIKIN GARI/DARINA HABE",
@@ -18813,12 +18099,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GWIWA",
-    "ward": "DARINA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/12/04/001",
     "pu_name": "BENGEL/BENGEL",
     "name": "BENGEL/BENGEL",
@@ -18867,12 +18147,6 @@
     "pu_code": "17/12/04/006",
     "pu_name": "FIRJI YAMMA III",
     "name": "FIRJI YAMMA III",
-    "lga": "GWIWA",
-    "ward": "F/YAMMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GWIWA",
     "ward": "F/YAMMA",
     "state": "Jigawa",
@@ -18978,12 +18252,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GWIWA",
-    "ward": "GUNTAI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/12/06/001",
     "pu_name": "DANSALA CIKIN GARI/DANSALA",
     "name": "DANSALA CIKIN GARI/DANSALA",
@@ -19041,12 +18309,6 @@
     "pu_code": "17/12/06/007",
     "pu_name": "GWIWA KUDU TAHFRUL QURAN ISLAMIYYA",
     "name": "GWIWA KUDU TAHFRUL QURAN ISLAMIYYA",
-    "lga": "GWIWA",
-    "ward": "GWIWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GWIWA",
     "ward": "GWIWA",
     "state": "Jigawa",
@@ -19125,12 +18387,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GWIWA",
-    "ward": "KORAYEL",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/12/08/001",
     "pu_name": "R/MAGUZAWA PRI. SCH. R/MAGUZAWA KARSHI",
     "name": "R/MAGUZAWA PRI. SCH. R/MAGUZAWA KARSHI",
@@ -19179,12 +18435,6 @@
     "pu_code": "17/12/08/006",
     "pu_name": "R/MALAMAI CLINIC",
     "name": "R/MALAMAI CLINIC",
-    "lga": "GWIWA",
-    "ward": "RORAU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GWIWA",
     "ward": "RORAU",
     "state": "Jigawa",
@@ -19335,12 +18585,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GWIWA",
-    "ward": "SHAFE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/12/10/001",
     "pu_name": "GASAKOLI PRI. SCH. GASAKOLI",
     "name": "GASAKOLI PRI. SCH. GASAKOLI",
@@ -19416,12 +18660,6 @@
     "pu_code": "17/12/10/009",
     "pu_name": "KWARARE PRI. SCH II",
     "name": "KWARARE PRI. SCH II",
-    "lga": "GWIWA",
-    "ward": "YOLA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "GWIWA",
     "ward": "YOLA",
     "state": "Jigawa",
@@ -19554,12 +18792,6 @@
     "state_code": "17"
   },
   {
-    "lga": "GWIWA",
-    "ward": "ZAUMAR SAINAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/13/01/001",
     "pu_name": "ATAFI/RAMIN ATAFI",
     "name": "ATAFI/RAMIN ATAFI",
@@ -19635,12 +18867,6 @@
     "pu_code": "17/13/01/009",
     "pu_name": "WURIWA/TUNDU WURIWA",
     "name": "WURIWA/TUNDU WURIWA",
-    "lga": "HADEJIA",
-    "ward": "ATAFI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "HADEJIA",
     "ward": "ATAFI",
     "state": "Jigawa",
@@ -19782,12 +19008,6 @@
     "state_code": "17"
   },
   {
-    "lga": "HADEJIA",
-    "ward": "DUBANTU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/13/03/001",
     "pu_name": "AUYAKARI/KOFAR AREWA PRI. SCH  I",
     "name": "AUYAKARI/KOFAR AREWA PRI. SCH  I",
@@ -19923,12 +19143,6 @@
     "state_code": "17"
   },
   {
-    "lga": "HADEJIA",
-    "ward": "GAGULMARI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/13/04/001",
     "pu_name": "DIKILA",
     "name": "DIKILA",
@@ -20019,12 +19233,6 @@
     "state_code": "17"
   },
   {
-    "lga": "HADEJIA",
-    "ward": "KASUWAR KUDA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/13/05/001",
     "pu_name": "BADERIN YAMMA",
     "name": "BADERIN YAMMA",
@@ -20082,12 +19290,6 @@
     "pu_code": "17/13/05/007",
     "pu_name": "KASUWAR KOFA  II",
     "name": "KASUWAR KOFA  II",
-    "lga": "HADEJIA",
-    "ward": "KASUWAR KOFA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "HADEJIA",
     "ward": "KASUWAR KOFA",
     "state": "Jigawa",
@@ -20178,12 +19380,6 @@
     "pu_code": "17/13/06/010",
     "pu_name": "TAGURZAN GABAS  II",
     "name": "TAGURZAN GABAS  II",
-    "lga": "HADEJIA",
-    "ward": "MAJEMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "HADEJIA",
     "ward": "MAJEMA",
     "state": "Jigawa",
@@ -20406,12 +19602,6 @@
     "state_code": "17"
   },
   {
-    "lga": "HADEJIA",
-    "ward": "MATSARO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/13/08/001",
     "pu_name": "BADERIN GABAS",
     "name": "BADERIN GABAS",
@@ -20523,12 +19713,6 @@
     "pu_code": "17/13/08/013",
     "pu_name": "KALABAKORI/HUDU IPS II",
     "name": "KALABAKORI/HUDU IPS II",
-    "lga": "HADEJIA",
-    "ward": "RUMFA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "HADEJIA",
     "ward": "RUMFA",
     "state": "Jigawa",
@@ -20652,12 +19836,6 @@
     "state_code": "17"
   },
   {
-    "lga": "HADEJIA",
-    "ward": "SABON GARU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/13/10/001",
     "pu_name": "AGUYAKA",
     "name": "AGUYAKA",
@@ -20742,12 +19920,6 @@
     "pu_code": "17/13/10/010",
     "pu_name": "YANKOLI/RIJIYAR YANKOLI",
     "name": "YANKOLI/RIJIYAR YANKOLI",
-    "lga": "HADEJIA",
-    "ward": "YANKOLI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "HADEJIA",
     "ward": "YANKOLI",
     "state": "Jigawa",
@@ -20847,12 +20019,6 @@
     "pu_code": "17/13/11/011",
     "pu_name": "HARUNA PRI SCH II",
     "name": "HARUNA PRI SCH II",
-    "lga": "HADEJIA",
-    "ward": "YAYARI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "HADEJIA",
     "ward": "YAYARI",
     "state": "Jigawa",
@@ -21102,12 +20268,6 @@
     "state_code": "17"
   },
   {
-    "lga": "JAHUN",
-    "ward": "AUJARA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/14/02/001",
     "pu_name": "GANGAWA C/GARI/GANGAWA C./GARI I",
     "name": "GANGAWA C/GARI/GANGAWA C./GARI I",
@@ -21279,12 +20439,6 @@
     "state_code": "17"
   },
   {
-    "lga": "JAHUN",
-    "ward": "GANGAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/14/03/001",
     "pu_name": "GAUZA C./GARI   GAUZA C./GARI",
     "name": "GAUZA C./GARI   GAUZA C./GARI",
@@ -21441,12 +20595,6 @@
     "pu_code": "17/14/03/018",
     "pu_name": "HEALTH CENTER TAZARA",
     "name": "HEALTH CENTER TAZARA",
-    "lga": "JAHUN",
-    "ward": "GAUZA TAZARA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "JAHUN",
     "ward": "GAUZA TAZARA",
     "state": "Jigawa",
@@ -21654,12 +20802,6 @@
     "pu_code": "17/14/04/023",
     "pu_name": "RAMANU/RAMANU",
     "name": "RAMANU/RAMANU",
-    "lga": "JAHUN",
-    "ward": "GUNKA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "JAHUN",
     "ward": "GUNKA",
     "state": "Jigawa",
@@ -21882,12 +21024,6 @@
     "state_code": "17"
   },
   {
-    "lga": "JAHUN",
-    "ward": "HARBO SABUWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/14/06/001",
     "pu_name": "HARBO TSOHUWA C./GARI I",
     "name": "HARBO TSOHUWA C./GARI I",
@@ -22008,12 +21144,6 @@
     "pu_code": "17/14/06/014",
     "pu_name": "MADARASATUL TARBIYATUL ADFAL ISLAMIYYA",
     "name": "MADARASATUL TARBIYATUL ADFAL ISLAMIYYA",
-    "lga": "JAHUN",
-    "ward": "HARBO TSOHUWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "JAHUN",
     "ward": "HARBO TSOHUWA",
     "state": "Jigawa",
@@ -22149,12 +21279,6 @@
     "pu_code": "17/14/07/015",
     "pu_name": "JSS GAMPAI",
     "name": "JSS GAMPAI",
-    "lga": "JAHUN",
-    "ward": "IDANDUNA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "JAHUN",
     "ward": "IDANDUNA",
     "state": "Jigawa",
@@ -22299,12 +21423,6 @@
     "pu_code": "17/14/08/016",
     "pu_name": "HATSIN KAWONI",
     "name": "HATSIN KAWONI",
-    "lga": "JAHUN",
-    "ward": "JABARNA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "JAHUN",
     "ward": "JABARNA",
     "state": "Jigawa",
@@ -22680,12 +21798,6 @@
     "state_code": "17"
   },
   {
-    "lga": "JAHUN",
-    "ward": "JAHUN",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/14/10/001",
     "pu_name": "KALE CIKIN GARI/KALE CIKIN GARI I",
     "name": "KALE CIKIN GARI/KALE CIKIN GARI I",
@@ -22857,12 +21969,6 @@
     "state_code": "17"
   },
   {
-    "lga": "JAHUN",
-    "ward": "KALE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/14/11/001",
     "pu_name": "KANWA GIDAN MADAKI",
     "name": "KANWA GIDAN MADAKI",
@@ -23001,12 +22107,6 @@
     "pu_code": "17/14/11/016",
     "pu_name": "ZANGO",
     "name": "ZANGO",
-    "lga": "JAHUN",
-    "ward": "KANWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "JAHUN",
     "ward": "KANWA",
     "state": "Jigawa",
@@ -23256,12 +22356,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KAFIN HAUSA",
-    "ward": "BALANGU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/15/02/001",
     "pu_name": "PRI. SCH. AUNO IBRAHIM",
     "name": "PRI. SCH. AUNO IBRAHIM",
@@ -23373,12 +22467,6 @@
     "pu_code": "17/15/02/013",
     "pu_name": "DUMADUMIN-TOKA PS II",
     "name": "DUMADUMIN-TOKA PS II",
-    "lga": "KAFIN HAUSA",
-    "ward": "DUMADUMIN TOKA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAFIN HAUSA",
     "ward": "DUMADUMIN TOKA",
     "state": "Jigawa",
@@ -23550,12 +22638,6 @@
     "pu_code": "17/15/03/020",
     "pu_name": "RAMFA PRIMARY SCHOOL II",
     "name": "RAMFA PRIMARY SCHOOL II",
-    "lga": "KAFIN HAUSA",
-    "ward": "GAFAYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAFIN HAUSA",
     "ward": "GAFAYA",
     "state": "Jigawa",
@@ -23745,12 +22827,6 @@
     "pu_code": "17/15/04/021",
     "pu_name": "HAGO TOWN II",
     "name": "HAGO TOWN II",
-    "lga": "KAFIN HAUSA",
-    "ward": "JABO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAFIN HAUSA",
     "ward": "JABO",
     "state": "Jigawa",
@@ -24072,12 +23148,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KAFIN HAUSA",
-    "ward": "KAFIN HAUSA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/15/06/001",
     "pu_name": "ABDALLAWA PRI. SCH",
     "name": "ABDALLAWA PRI. SCH",
@@ -24213,12 +23283,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KAFIN HAUSA",
-    "ward": "KAZALEWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/15/07/001",
     "pu_name": "ALHAJERI PRI. SCH. ALHAJERI",
     "name": "ALHAJERI PRI. SCH. ALHAJERI",
@@ -24339,12 +23403,6 @@
     "pu_code": "17/15/07/014",
     "pu_name": "SHAKATO PRIMARY SCHOOL II",
     "name": "SHAKATO PRIMARY SCHOOL II",
-    "lga": "KAFIN HAUSA",
-    "ward": "MAJAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAFIN HAUSA",
     "ward": "MAJAWA",
     "state": "Jigawa",
@@ -24558,12 +23616,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KAFIN HAUSA",
-    "ward": "MEZAN",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/15/09/001",
     "pu_name": "VILLAGE CENTRE/DUNDAYE",
     "name": "VILLAGE CENTRE/DUNDAYE",
@@ -24738,12 +23790,6 @@
     "pu_code": "17/15/09/020",
     "pu_name": "UP RUBA JSS II",
     "name": "UP RUBA JSS II",
-    "lga": "KAFIN HAUSA",
-    "ward": "RUBA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAFIN HAUSA",
     "ward": "RUBA",
     "state": "Jigawa",
@@ -25065,12 +24111,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KAFIN HAUSA",
-    "ward": "SARAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/15/11/001",
     "pu_name": "VILLAGE CENTRE/G/KWARI",
     "name": "VILLAGE CENTRE/G/KWARI",
@@ -25188,12 +24228,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KAFIN HAUSA",
-    "ward": "ZAGO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/16/01/001",
     "pu_name": "ARBUS PRI. SCH. ARBUS",
     "name": "ARBUS PRI. SCH. ARBUS",
@@ -25296,12 +24330,6 @@
     "pu_code": "17/16/01/012",
     "pu_name": "JSS KANTAMARI",
     "name": "JSS KANTAMARI",
-    "lga": "KAUGAMA",
-    "ward": "ARBUS",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAUGAMA",
     "ward": "ARBUS",
     "state": "Jigawa",
@@ -25419,12 +24447,6 @@
     "pu_code": "17/16/02/013",
     "pu_name": "ALBASHI PRI SCH II",
     "name": "ALBASHI PRI SCH II",
-    "lga": "KAUGAMA",
-    "ward": "ASKANDU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAUGAMA",
     "ward": "ASKANDU",
     "state": "Jigawa",
@@ -25551,12 +24573,6 @@
     "pu_code": "17/16/03/014",
     "pu_name": "MUSARAN TA FULANI P/G",
     "name": "MUSARAN TA FULANI P/G",
-    "lga": "KAUGAMA",
-    "ward": "DABUWARAN",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAUGAMA",
     "ward": "DABUWARAN",
     "state": "Jigawa",
@@ -25734,12 +24750,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KAUGAMA",
-    "ward": "DAKAIYAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/16/05/001",
     "pu_name": "HADIN PRI. SCH./HADIN  I",
     "name": "HADIN PRI. SCH./HADIN  I",
@@ -25815,12 +24825,6 @@
     "pu_code": "17/16/05/009",
     "pu_name": "JSS HADIN III",
     "name": "JSS HADIN III",
-    "lga": "KAUGAMA",
-    "ward": "HADIN",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAUGAMA",
     "ward": "HADIN",
     "state": "Jigawa",
@@ -25980,12 +24984,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KAUGAMA",
-    "ward": "JA'E",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/16/07/001",
     "pu_name": "GIRBOBO PRI. SCH./ GIRBOBO I",
     "name": "GIRBOBO PRI. SCH./ GIRBOBO I",
@@ -26097,12 +25095,6 @@
     "pu_code": "17/16/07/013",
     "pu_name": "JSS GIRBOBO",
     "name": "JSS GIRBOBO",
-    "lga": "KAUGAMA",
-    "ward": "JARKASA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAUGAMA",
     "ward": "JARKASA",
     "state": "Jigawa",
@@ -26307,12 +25299,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KAUGAMA",
-    "ward": "KAUGAMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/16/09/001",
     "pu_name": "MARKE PRI. SCH./ MARKE I",
     "name": "MARKE PRI. SCH./ MARKE I",
@@ -26442,12 +25428,6 @@
     "pu_code": "17/16/09/015",
     "pu_name": "MAHAUTA MARKE II",
     "name": "MAHAUTA MARKE II",
-    "lga": "KAUGAMA",
-    "ward": "MARKE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAUGAMA",
     "ward": "MARKE",
     "state": "Jigawa",
@@ -26598,12 +25578,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KAUGAMA",
-    "ward": "UNGUWAR JIBRIN",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/16/11/001",
     "pu_name": "YALO PRI. SCH. /YALO I",
     "name": "YALO PRI. SCH. /YALO I",
@@ -26697,12 +25671,6 @@
     "pu_code": "17/16/11/011",
     "pu_name": "KWANDIGA DISPENSARY",
     "name": "KWANDIGA DISPENSARY",
-    "lga": "KAUGAMA",
-    "ward": "YALO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAUGAMA",
     "ward": "YALO",
     "state": "Jigawa",
@@ -26808,12 +25776,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KAZAURE",
-    "ward": "BA'AUZINI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/17/02/001",
     "pu_name": "DABA PRI. SCH. /DABA",
     "name": "DABA PRI. SCH. /DABA",
@@ -26898,12 +25860,6 @@
     "pu_code": "17/17/02/010",
     "pu_name": "DABA KAURA NOMADIC SCH.",
     "name": "DABA KAURA NOMADIC SCH.",
-    "lga": "KAZAURE",
-    "ward": "DABA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAZAURE",
     "ward": "DABA",
     "state": "Jigawa",
@@ -27021,12 +25977,6 @@
     "pu_code": "17/17/03/013",
     "pu_name": "KAINA/BAKIN MASALLACI",
     "name": "KAINA/BAKIN MASALLACI",
-    "lga": "KAZAURE",
-    "ward": "DABAZA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAZAURE",
     "ward": "DABAZA",
     "state": "Jigawa",
@@ -27177,12 +26127,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KAZAURE",
-    "ward": "DANDI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/17/05/001",
     "pu_name": "GADA PRI. SCH./ GADA",
     "name": "GADA PRI. SCH./ GADA",
@@ -27276,12 +26220,6 @@
     "pu_code": "17/17/05/011",
     "pu_name": "KARYA DANKI P.S",
     "name": "KARYA DANKI P.S",
-    "lga": "KAZAURE",
-    "ward": "GADA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAZAURE",
     "ward": "GADA",
     "state": "Jigawa",
@@ -27477,12 +26415,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KAZAURE",
-    "ward": "KANTI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/17/07/001",
     "pu_name": "FITARE PRI.  SCH. / FITARE",
     "name": "FITARE PRI.  SCH. / FITARE",
@@ -27558,12 +26490,6 @@
     "pu_code": "17/17/07/011",
     "pu_name": "KARAFTAYI CLINIC",
     "name": "KARAFTAYI CLINIC",
-    "lga": "KAZAURE",
-    "ward": "MARADAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAZAURE",
     "ward": "MARADAWA",
     "state": "Jigawa",
@@ -27654,12 +26580,6 @@
     "pu_code": "17/17/08/010",
     "pu_name": "BANDUTSE ARABIC SCH",
     "name": "BANDUTSE ARABIC SCH",
-    "lga": "KAZAURE",
-    "ward": "SABARU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAZAURE",
     "ward": "SABARU",
     "state": "Jigawa",
@@ -27768,12 +26688,6 @@
     "pu_code": "17/17/09/012",
     "pu_name": "TSAMIYA YAMMA/GIDAN WUTA",
     "name": "TSAMIYA YAMMA/GIDAN WUTA",
-    "lga": "KAZAURE",
-    "ward": "UNGUWAR AREWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAZAURE",
     "ward": "UNGUWAR AREWA",
     "state": "Jigawa",
@@ -27942,12 +26856,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KAZAURE",
-    "ward": "UNGUWAR GABAS",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/17/11/001",
     "pu_name": "K/MAIUNGUWA/GANGULI  KUDU",
     "name": "K/MAIUNGUWA/GANGULI  KUDU",
@@ -28059,12 +26967,6 @@
     "pu_code": "17/17/11/013",
     "pu_name": "ZAINAB ARABIC PRI. SCH.",
     "name": "ZAINAB ARABIC PRI. SCH.",
-    "lga": "KAZAURE",
-    "ward": "UNGUWAR YAMMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KAZAURE",
     "ward": "UNGUWAR YAMMA",
     "state": "Jigawa",
@@ -28251,12 +27153,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KIRIKA SAMMA",
-    "ward": "BATURIYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/18/02/001",
     "pu_name": "BULUNCHAI PRI. SCH.",
     "name": "BULUNCHAI PRI. SCH.",
@@ -28365,12 +27261,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KIRIKA SAMMA",
-    "ward": "BULUNCHAI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/18/03/001",
     "pu_name": "DOLERI PRI. SCH./ DOLERI",
     "name": "DOLERI PRI. SCH./ DOLERI",
@@ -28446,12 +27336,6 @@
     "pu_code": "17/18/03/009",
     "pu_name": "SAYINADI PRIMARY SCHOOL",
     "name": "SAYINADI PRIMARY SCHOOL",
-    "lga": "KIRIKA SAMMA",
-    "ward": "DOLERI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KIRIKA SAMMA",
     "ward": "DOLERI",
     "state": "Jigawa",
@@ -28710,12 +27594,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KIRIKA SAMMA",
-    "ward": "FANDUM",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/18/05/001",
     "pu_name": "GAYIN PRI. SCH./ GAYIN I",
     "name": "GAYIN PRI. SCH./ GAYIN I",
@@ -28791,12 +27669,6 @@
     "pu_code": "17/18/05/009",
     "pu_name": "GAYIN JUNIOR SEC. SCHOOL",
     "name": "GAYIN JUNIOR SEC. SCHOOL",
-    "lga": "KIRIKA SAMMA",
-    "ward": "GAYIN",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KIRIKA SAMMA",
     "ward": "GAYIN",
     "state": "Jigawa",
@@ -28983,12 +27855,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KIRIKA SAMMA",
-    "ward": "KIRIKA SAMMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/18/07/001",
     "pu_name": "MADACHI PRI. SCH. I/MADACHI",
     "name": "MADACHI PRI. SCH. I/MADACHI",
@@ -29082,12 +27948,6 @@
     "pu_code": "17/18/07/011",
     "pu_name": "MADACHI PRIMARY HEALTH CARE",
     "name": "MADACHI PRIMARY HEALTH CARE",
-    "lga": "KIRIKA SAMMA",
-    "ward": "MADACHI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KIRIKA SAMMA",
     "ward": "MADACHI",
     "state": "Jigawa",
@@ -29220,12 +28080,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KIRIKA SAMMA",
-    "ward": "MARMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/18/09/001",
     "pu_name": "TASHEGUWA PRI. SCH./TSHEGUWA I",
     "name": "TASHEGUWA PRI. SCH./TSHEGUWA I",
@@ -29319,12 +28173,6 @@
     "pu_code": "17/18/09/011",
     "pu_name": "TASHEGUWA DISPENSARY",
     "name": "TASHEGUWA DISPENSARY",
-    "lga": "KIRIKA SAMMA",
-    "ward": "TSHEGUWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KIRIKA SAMMA",
     "ward": "TSHEGUWA",
     "state": "Jigawa",
@@ -29466,12 +28314,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KIRIKA SAMMA",
-    "ward": "TARABU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/19/01/001",
     "pu_name": "ABALAGO  CIKIN GARI PRI. SCH.",
     "name": "ABALAGO  CIKIN GARI PRI. SCH.",
@@ -29592,12 +28434,6 @@
     "pu_code": "17/19/01/014",
     "pu_name": "BAKATA PRI. SCH.",
     "name": "BAKATA PRI. SCH.",
-    "lga": "KIYAWA",
-    "ward": "ABALAGO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KIYAWA",
     "ward": "ABALAGO",
     "state": "Jigawa",
@@ -29742,12 +28578,6 @@
     "pu_code": "17/19/02/016",
     "pu_name": "ANDAZA DISPENSARY",
     "name": "ANDAZA DISPENSARY",
-    "lga": "KIYAWA",
-    "ward": "ANDAZA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KIYAWA",
     "ward": "ANDAZA",
     "state": "Jigawa",
@@ -29952,12 +28782,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KIYAWA",
-    "ward": "FAKI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/19/04/001",
     "pu_name": "GARKO CIKIN GARI PRI. SCH. I",
     "name": "GARKO CIKIN GARI PRI. SCH. I",
@@ -30033,12 +28857,6 @@
     "pu_code": "17/19/04/009",
     "pu_name": "MAZAZZAGA DISPENSARY",
     "name": "MAZAZZAGA DISPENSARY",
-    "lga": "KIYAWA",
-    "ward": "GARKO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KIYAWA",
     "ward": "GARKO",
     "state": "Jigawa",
@@ -30252,12 +29070,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KIYAWA",
-    "ward": "GURUDUBA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/19/06/001",
     "pu_name": "BODI / TUBA",
     "name": "BODI / TUBA",
@@ -30378,12 +29190,6 @@
     "pu_code": "17/19/06/014",
     "pu_name": "KATANGA YAMMA PRI. SCH. II",
     "name": "KATANGA YAMMA PRI. SCH. II",
-    "lga": "KIYAWA",
-    "ward": "KATANGA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KIYAWA",
     "ward": "KATANGA",
     "state": "Jigawa",
@@ -30537,12 +29343,6 @@
     "pu_code": "17/19/07/017",
     "pu_name": "GIDAN DACHI/FULANI",
     "name": "GIDAN DACHI/FULANI",
-    "lga": "KIYAWA",
-    "ward": "KATUKA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KIYAWA",
     "ward": "KATUKA",
     "state": "Jigawa",
@@ -30855,12 +29655,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KIYAWA",
-    "ward": "KIYAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/19/09/001",
     "pu_name": "AGAYEN GIDE PRI. SCH.",
     "name": "AGAYEN GIDE PRI. SCH.",
@@ -30954,12 +29748,6 @@
     "pu_code": "17/19/09/011",
     "pu_name": "KWANDA DISPENSARY",
     "name": "KWANDA DISPENSARY",
-    "lga": "KIYAWA",
-    "ward": "KWANDA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KIYAWA",
     "ward": "KWANDA",
     "state": "Jigawa",
@@ -31068,12 +29856,6 @@
     "pu_code": "17/19/10/012",
     "pu_name": "ALA'AR KIMBA OPEN SPACE",
     "name": "ALA'AR KIMBA OPEN SPACE",
-    "lga": "KIYAWA",
-    "ward": "MAJE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "KIYAWA",
     "ward": "MAJE",
     "state": "Jigawa",
@@ -31224,12 +30006,6 @@
     "state_code": "17"
   },
   {
-    "lga": "KIYAWA",
-    "ward": "TSURMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/20/01/001",
     "pu_name": "BALARABE PRI. SCH. BALARABE I",
     "name": "BALARABE PRI. SCH. BALARABE I",
@@ -31374,12 +30150,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MAIGATARI",
-    "ward": "BALARABE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/20/02/001",
     "pu_name": "DANKUMBO PRI. SCH. DANKUMBO",
     "name": "DANKUMBO PRI. SCH. DANKUMBO",
@@ -31461,12 +30231,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MAIGATARI",
-    "ward": "DANKUMBO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/20/03/001",
     "pu_name": "FULATA PRI. SCH. FULATA I",
     "name": "FULATA PRI. SCH. FULATA I",
@@ -31533,12 +30297,6 @@
     "pu_code": "17/20/03/008",
     "pu_name": "MATSARIDA / MATSARIDA",
     "name": "MATSARIDA / MATSARIDA",
-    "lga": "MAIGATARI",
-    "ward": "FULATA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "MAIGATARI",
     "ward": "FULATA",
     "state": "Jigawa",
@@ -31680,12 +30438,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MAIGATARI",
-    "ward": "GALADI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/20/05/001",
     "pu_name": "JAJERI PRI. SCH.  JAJERI I",
     "name": "JAJERI PRI. SCH.  JAJERI I",
@@ -31788,12 +30540,6 @@
     "pu_code": "17/20/05/012",
     "pu_name": "YARDAR LAUTAI",
     "name": "YARDAR LAUTAI",
-    "lga": "MAIGATARI",
-    "ward": "JAJERI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "MAIGATARI",
     "ward": "JAJERI",
     "state": "Jigawa",
@@ -31971,12 +30717,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MAIGATARI",
-    "ward": "KUKAYASKU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/20/07/001",
     "pu_name": "MADANA PRI. SCH.  I MADANA",
     "name": "MADANA PRI. SCH.  I MADANA",
@@ -32061,12 +30801,6 @@
     "pu_code": "17/20/07/010",
     "pu_name": "OPP. VILLAGE HEAD HOUSE II (DAKIDO/DAKIDO)",
     "name": "OPP. VILLAGE HEAD HOUSE II (DAKIDO/DAKIDO)",
-    "lga": "MAIGATARI",
-    "ward": "MADANA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "MAIGATARI",
     "ward": "MADANA",
     "state": "Jigawa",
@@ -32253,12 +30987,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MAIGATARI",
-    "ward": "MAIGATARI AREWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/20/09/001",
     "pu_name": "KOFAR KUDU S.MAJA PRI. SCH. I",
     "name": "KOFAR KUDU S.MAJA PRI. SCH. I",
@@ -32433,12 +31161,6 @@
     "pu_code": "17/20/09/020",
     "pu_name": "S. MAJA PRI. SCH. UNGUWAR DODO II",
     "name": "S. MAJA PRI. SCH. UNGUWAR DODO II",
-    "lga": "MAIGATARI",
-    "ward": "MAIGATARI KUDU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "MAIGATARI",
     "ward": "MAIGATARI KUDU",
     "state": "Jigawa",
@@ -32625,12 +31347,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MAIGATARI",
-    "ward": "MATOYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/20/11/001",
     "pu_name": "TURBUS PRI. SCH. I TURBUS",
     "name": "TURBUS PRI. SCH. I TURBUS",
@@ -32724,12 +31440,6 @@
     "pu_code": "17/20/11/011",
     "pu_name": "TURBUS PRI. SCH. II",
     "name": "TURBUS PRI. SCH. II",
-    "lga": "MAIGATARI",
-    "ward": "TURBUS",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "MAIGATARI",
     "ward": "TURBUS",
     "state": "Jigawa",
@@ -32856,12 +31566,6 @@
     "pu_code": "17/21/01/014",
     "pu_name": "MATSA PRI. SCH. I",
     "name": "MATSA PRI. SCH. I",
-    "lga": "MALAM MADORI",
-    "ward": "ARKI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "MALAM MADORI",
     "ward": "ARKI",
     "state": "Jigawa",
@@ -33066,12 +31770,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MALAM MADORI",
-    "ward": "DUNARI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/21/03/001",
     "pu_name": "KOFAR GIDA MAIGARI/ASUWARI",
     "name": "KOFAR GIDA MAIGARI/ASUWARI",
@@ -33183,12 +31881,6 @@
     "pu_code": "17/21/03/013",
     "pu_name": "AKURYA GABAS PRI. SCH. III",
     "name": "AKURYA GABAS PRI. SCH. III",
-    "lga": "MALAM MADORI",
-    "ward": "FATEKA AKURYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "MALAM MADORI",
     "ward": "FATEKA AKURYA",
     "state": "Jigawa",
@@ -33312,12 +32004,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MALAM MADORI",
-    "ward": "GARIN GABAS",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/21/05/001",
     "pu_name": "GIDAN MAI UNGUWA/MANOMI GABAS",
     "name": "GIDAN MAI UNGUWA/MANOMI GABAS",
@@ -33426,12 +32112,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MALAM MADORI",
-    "ward": "MAIRA KUMI-BARA MUSA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/21/06/001",
     "pu_name": "GIDAN MAIGARI/GARIN MAJIYA",
     "name": "GIDAN MAIGARI/GARIN MAJIYA",
@@ -33525,12 +32205,6 @@
     "pu_code": "17/21/06/011",
     "pu_name": "GIDAN MAIGARI/MALAMAWAR ZARAMI",
     "name": "GIDAN MAIGARI/MALAMAWAR ZARAMI",
-    "lga": "MALAM MADORI",
-    "ward": "MAKA DDARI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "MALAM MADORI",
     "ward": "MAKA DDARI",
     "state": "Jigawa",
@@ -33753,12 +32427,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MALAM MADORI",
-    "ward": "MALAM MADORI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/21/08/001",
     "pu_name": "GIDAN MAI UNGUWA/KARGON SHAYYA",
     "name": "GIDAN MAI UNGUWA/KARGON SHAYYA",
@@ -33843,12 +32511,6 @@
     "pu_code": "17/21/08/010",
     "pu_name": "KOFAR MADAKI",
     "name": "KOFAR MADAKI",
-    "lga": "MALAM MADORI",
-    "ward": "SHAIYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "MALAM MADORI",
     "ward": "SHAIYA",
     "state": "Jigawa",
@@ -33963,12 +32625,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MALAM MADORI",
-    "ward": "TAGWARO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/21/10/001",
     "pu_name": "GIDAN MAIGARI/AGUBU",
     "name": "GIDAN MAIGARI/AGUBU",
@@ -34053,12 +32709,6 @@
     "pu_code": "17/21/10/010",
     "pu_name": "GIDAN MAI GARI AZAMU I",
     "name": "GIDAN MAI GARI AZAMU I",
-    "lga": "MALAM MADORI",
-    "ward": "TASHENA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "MALAM MADORI",
     "ward": "TASHENA",
     "state": "Jigawa",
@@ -34167,12 +32817,6 @@
     "pu_code": "17/21/11/013",
     "pu_name": "SAUKI MAI KANTI HADEJIA",
     "name": "SAUKI MAI KANTI HADEJIA",
-    "lga": "MALAM MADORI",
-    "ward": "TONIKUTARA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "MALAM MADORI",
     "ward": "TONIKUTARA",
     "state": "Jigawa",
@@ -34296,12 +32940,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MIGA",
-    "ward": "DANGYATIN",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/22/02/001",
     "pu_name": "ALFA-GARBO - ALFA   I",
     "name": "ALFA-GARBO - ALFA   I",
@@ -34401,12 +33039,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MIGA",
-    "ward": "GARBO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/22/03/001",
     "pu_name": "HANTSU PRI. SCH.  HANTSU C/GARI  I",
     "name": "HANTSU PRI. SCH.  HANTSU C/GARI  I",
@@ -34497,12 +33129,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MIGA",
-    "ward": "HANTSU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/22/04/001",
     "pu_name": "KOYA PRI. SCH. KOYA - C/GARI  I",
     "name": "KOYA PRI. SCH. KOYA - C/GARI  I",
@@ -34542,12 +33168,6 @@
     "pu_code": "17/22/04/005",
     "pu_name": "KOYA HEALTH CLINIC",
     "name": "KOYA HEALTH CLINIC",
-    "lga": "MIGA",
-    "ward": "KOYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "MIGA",
     "ward": "KOYA",
     "state": "Jigawa",
@@ -34797,12 +33417,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MIGA",
-    "ward": "MIGA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/22/06/001",
     "pu_name": "SABON GARI PRI. SCH. SABON GARI  I",
     "name": "SABON GARI PRI. SCH. SABON GARI  I",
@@ -34920,12 +33534,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MIGA",
-    "ward": "SABON GARI TAKANEBU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/22/07/001",
     "pu_name": "ATAFIYAWA  I",
     "name": "ATAFIYAWA  I",
@@ -35025,12 +33633,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MIGA",
-    "ward": "SANSANI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/22/08/001",
     "pu_name": "TSAKUWAWA PRI. SCH. TSAKUWAWA C/GARI",
     "name": "TSAKUWAWA PRI. SCH. TSAKUWAWA C/GARI",
@@ -35103,12 +33705,6 @@
     "state_code": "17"
   },
   {
-    "lga": "MIGA",
-    "ward": "TSAKUWAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/22/09/001",
     "pu_name": "YANDUNA PRI. SCH. C/GARI",
     "name": "YANDUNA PRI. SCH. C/GARI",
@@ -35157,12 +33753,6 @@
     "pu_code": "17/22/09/006",
     "pu_name": "YANDUNA C/GARI",
     "name": "YANDUNA C/GARI",
-    "lga": "MIGA",
-    "ward": "YANDUNA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "MIGA",
     "ward": "YANDUNA",
     "state": "Jigawa",
@@ -35244,12 +33834,6 @@
     "pu_code": "17/22/10/009",
     "pu_name": "ZAREKU DABAKA II",
     "name": "ZAREKU DABAKA II",
-    "lga": "MIGA",
-    "ward": "ZAREKU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "MIGA",
     "ward": "ZAREKU",
     "state": "Jigawa",
@@ -35439,12 +34023,6 @@
     "pu_code": "17/23/01/021",
     "pu_name": "GIDAN SANI PRI. SCH.  GIDAN SANI II",
     "name": "GIDAN SANI PRI. SCH.  GIDAN SANI II",
-    "lga": "RINGIM",
-    "ward": "CHAI-CHAI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "RINGIM",
     "ward": "CHAI-CHAI",
     "state": "Jigawa",
@@ -35658,12 +34236,6 @@
     "state_code": "17"
   },
   {
-    "lga": "RINGIM",
-    "ward": "DABI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/23/03/001",
     "pu_name": "KAFIN BABUSHE PRI. SCH. KAFIN BABUSHE I",
     "name": "KAFIN BABUSHE PRI. SCH. KAFIN BABUSHE I",
@@ -35781,12 +34353,6 @@
     "state_code": "17"
   },
   {
-    "lga": "RINGIM",
-    "ward": "KAFIN BABUSHE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/23/04/001",
     "pu_name": "KARSHI PRI. SCH. KARSHI",
     "name": "KARSHI PRI. SCH. KARSHI",
@@ -35898,12 +34464,6 @@
     "pu_code": "17/23/04/013",
     "pu_name": "KWARI KUDU DISPENSARY",
     "name": "KWARI KUDU DISPENSARY",
-    "lga": "RINGIM",
-    "ward": "KARSHI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "RINGIM",
     "ward": "KARSHI",
     "state": "Jigawa",
@@ -36048,12 +34608,6 @@
     "pu_code": "17/23/05/016",
     "pu_name": "OPEN SHED DABIGEL",
     "name": "OPEN SHED DABIGEL",
-    "lga": "RINGIM",
-    "ward": "KYARAMA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "RINGIM",
     "ward": "KYARAMA",
     "state": "Jigawa",
@@ -36582,12 +35136,6 @@
     "state_code": "17"
   },
   {
-    "lga": "RINGIM",
-    "ward": "RINGIM",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/23/07/001",
     "pu_name": "SANKARA PRI. SCH. SANKARA GABAS I",
     "name": "SANKARA PRI. SCH. SANKARA GABAS I",
@@ -36813,12 +35361,6 @@
     "state_code": "17"
   },
   {
-    "lga": "RINGIM",
-    "ward": "SANKARA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/23/08/001",
     "pu_name": "SINTILMAWA PRI. SCH. SINTILMAWA I",
     "name": "SINTILMAWA PRI. SCH. SINTILMAWA I",
@@ -37035,12 +35577,6 @@
     "state_code": "17"
   },
   {
-    "lga": "RINGIM",
-    "ward": "SINTILMAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/23/09/001",
     "pu_name": "TOFA PRI. SCH. TOFA/KANTAMAWA II",
     "name": "TOFA PRI. SCH. TOFA/KANTAMAWA II",
@@ -37215,12 +35751,6 @@
     "pu_code": "17/23/09/020",
     "pu_name": "KUDE OPEN SHED",
     "name": "KUDE OPEN SHED",
-    "lga": "RINGIM",
-    "ward": "TOFA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "RINGIM",
     "ward": "TOFA",
     "state": "Jigawa",
@@ -37461,12 +35991,6 @@
     "state_code": "17"
   },
   {
-    "lga": "RINGIM",
-    "ward": "YANDUTSE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/24/01/001",
     "pu_name": "AMARYAWA PRI. SCH./ AMARYAWA I",
     "name": "AMARYAWA PRI. SCH./ AMARYAWA I",
@@ -37584,12 +36108,6 @@
     "state_code": "17"
   },
   {
-    "lga": "RONI",
-    "ward": "AMARYAWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/24/02/001",
     "pu_name": "BARAGUMI PRI. SCH. /BARAGUMI",
     "name": "BARAGUMI PRI. SCH. /BARAGUMI",
@@ -37674,12 +36192,6 @@
     "pu_code": "17/24/02/010",
     "pu_name": "TSAUNIN GOGA/GINDINTAHUNA",
     "name": "TSAUNIN GOGA/GINDINTAHUNA",
-    "lga": "RONI",
-    "ward": "BARAGUMI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "RONI",
     "ward": "BARAGUMI",
     "state": "Jigawa",
@@ -37776,12 +36288,6 @@
     "state_code": "17"
   },
   {
-    "lga": "RONI",
-    "ward": "DANSURE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/24/04/001",
     "pu_name": "FARA-BARAGUMI DANDALI/BARAGUMI-FARA",
     "name": "FARA-BARAGUMI DANDALI/BARAGUMI-FARA",
@@ -37830,12 +36336,6 @@
     "pu_code": "17/24/04/006",
     "pu_name": "GINDIN DORAWA/ZANGUNA",
     "name": "GINDIN DORAWA/ZANGUNA",
-    "lga": "RONI",
-    "ward": "FARA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "RONI",
     "ward": "FARA",
     "state": "Jigawa",
@@ -37932,12 +36432,6 @@
     "state_code": "17"
   },
   {
-    "lga": "RONI",
-    "ward": "GORA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/24/06/001",
     "pu_name": "GIDAN SARKIN FULANI/BULA-KWAITA",
     "name": "GIDAN SARKIN FULANI/BULA-KWAITA",
@@ -38004,12 +36498,6 @@
     "pu_code": "17/24/06/008",
     "pu_name": "KAYA PRY SCH/KAYA YAMMA",
     "name": "KAYA PRY SCH/KAYA YAMMA",
-    "lga": "RONI",
-    "ward": "KWAITA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "RONI",
     "ward": "KWAITA",
     "state": "Jigawa",
@@ -38124,12 +36612,6 @@
     "state_code": "17"
   },
   {
-    "lga": "RONI",
-    "ward": "RONI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/24/08/001",
     "pu_name": "BALLE DANDALI/BALLE",
     "name": "BALLE DANDALI/BALLE",
@@ -38220,12 +36702,6 @@
     "state_code": "17"
   },
   {
-    "lga": "RONI",
-    "ward": "SANKAU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/24/09/001",
     "pu_name": "DANDALI / SANTAR TSAYE",
     "name": "DANDALI / SANTAR TSAYE",
@@ -38310,12 +36786,6 @@
     "pu_code": "17/24/09/010",
     "pu_name": "SHIMFIDA LIMAWA",
     "name": "SHIMFIDA LIMAWA",
-    "lga": "RONI",
-    "ward": "TUNAS",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "RONI",
     "ward": "TUNAS",
     "state": "Jigawa",
@@ -38421,12 +36891,6 @@
     "state_code": "17"
   },
   {
-    "lga": "RONI",
-    "ward": "YANZAKI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/24/11/001",
     "pu_name": "BAN IYAKA",
     "name": "BAN IYAKA",
@@ -38511,12 +36975,6 @@
     "pu_code": "17/24/11/010",
     "pu_name": "LUDA CIKIN GARI/LUDA",
     "name": "LUDA CIKIN GARI/LUDA",
-    "lga": "RONI",
-    "ward": "ZUGAI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "RONI",
     "ward": "ZUGAI",
     "state": "Jigawa",
@@ -38625,12 +37083,6 @@
     "pu_code": "17/25/01/012",
     "pu_name": "MUKU PRI. SCH. MUKU II",
     "name": "MUKU PRI. SCH. MUKU II",
-    "lga": "SULE-TANKARKAR",
-    "ward": "ALBASU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "SULE-TANKARKAR",
     "ward": "ALBASU",
     "state": "Jigawa",
@@ -38811,12 +37263,6 @@
     "pu_code": "17/25/02/020",
     "pu_name": "MAITSAMIYA PRI. SCH. MAITSAMIYA II",
     "name": "MAITSAMIYA PRI. SCH. MAITSAMIYA II",
-    "lga": "SULE-TANKARKAR",
-    "ward": "AMANGA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "SULE-TANKARKAR",
     "ward": "AMANGA",
     "state": "Jigawa",
@@ -39012,12 +37458,6 @@
     "state_code": "17"
   },
   {
-    "lga": "SULE-TANKARKAR",
-    "ward": "DANGWANKI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/25/04/001",
     "pu_name": "DANLADI PRI. SCH. DANLADI I",
     "name": "DANLADI PRI. SCH. DANLADI I",
@@ -39147,12 +37587,6 @@
     "pu_code": "17/25/04/015",
     "pu_name": "B/SARA PRI. SCH. BABBANSARA II",
     "name": "B/SARA PRI. SCH. BABBANSARA II",
-    "lga": "SULE-TANKARKAR",
-    "ward": "DANLADI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "SULE-TANKARKAR",
     "ward": "DANLADI",
     "state": "Jigawa",
@@ -39303,12 +37737,6 @@
     "state_code": "17"
   },
   {
-    "lga": "SULE-TANKARKAR",
-    "ward": "DANZOMO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/25/06/001",
     "pu_name": "JEKE PRI. SCH. JEKE-GABAS",
     "name": "JEKE PRI. SCH. JEKE-GABAS",
@@ -39453,12 +37881,6 @@
     "state_code": "17"
   },
   {
-    "lga": "SULE-TANKARKAR",
-    "ward": "JEKE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/25/07/001",
     "pu_name": "HAMMADO PRI. SCH. HAMMADO",
     "name": "HAMMADO PRI. SCH. HAMMADO",
@@ -39570,12 +37992,6 @@
     "pu_code": "17/25/07/013",
     "pu_name": "TURKUSHAWA PRY SCH",
     "name": "TURKUSHAWA PRY SCH",
-    "lga": "SULE-TANKARKAR",
-    "ward": "SHABARU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "SULE-TANKARKAR",
     "ward": "SHABARU",
     "state": "Jigawa",
@@ -39843,12 +38259,6 @@
     "state_code": "17"
   },
   {
-    "lga": "SULE-TANKARKAR",
-    "ward": "SULE-TANKARKAR",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/25/09/001",
     "pu_name": "BANAGA PRI. SCH. BANAGA",
     "name": "BANAGA PRI. SCH. BANAGA",
@@ -39942,12 +38352,6 @@
     "pu_code": "17/25/09/011",
     "pu_name": "MAIGAGGAFA PRI. SCH. MAIGAGGAFA II",
     "name": "MAIGAGGAFA PRI. SCH. MAIGAGGAFA II",
-    "lga": "SULE-TANKARKAR",
-    "ward": "TAKATSABA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "SULE-TANKARKAR",
     "ward": "TAKATSABA",
     "state": "Jigawa",
@@ -40065,12 +38469,6 @@
     "pu_code": "17/25/10/025",
     "pu_name": "CHAKINDI-KALGO PRI. SCH. CHAKINDI/KALGO II",
     "name": "CHAKINDI-KALGO PRI. SCH. CHAKINDI/KALGO II",
-    "lga": "SULE-TANKARKAR",
-    "ward": "YANDAMO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "SULE-TANKARKAR",
     "ward": "YANDAMO",
     "state": "Jigawa",
@@ -40248,12 +38646,6 @@
     "state_code": "17"
   },
   {
-    "lga": "TAURA",
-    "ward": "AJAURA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/26/02/001",
     "pu_name": "CHAKWAIKWAIWA PRI. SCH. I",
     "name": "CHAKWAIKWAIWA PRI. SCH. I",
@@ -40347,12 +38739,6 @@
     "pu_code": "17/26/02/011",
     "pu_name": "CHAKWAIKWAIWA PRI. SCH. IV",
     "name": "CHAKWAIKWAIWA PRI. SCH. IV",
-    "lga": "TAURA",
-    "ward": "CHAKWAIKWAIWA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "TAURA",
     "ward": "CHAKWAIKWAIWA",
     "state": "Jigawa",
@@ -40521,12 +38907,6 @@
     "state_code": "17"
   },
   {
-    "lga": "TAURA",
-    "ward": "CHUKUTO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/26/04/001",
     "pu_name": "GUJUNGU YAMMA/ PRI. SCH. I",
     "name": "GUJUNGU YAMMA/ PRI. SCH. I",
@@ -40635,12 +39015,6 @@
     "state_code": "17"
   },
   {
-    "lga": "TAURA",
-    "ward": "GUJUNGU",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/26/05/001",
     "pu_name": "KIRI YAMMA /PRI. SCH. I",
     "name": "KIRI YAMMA /PRI. SCH. I",
@@ -40716,12 +39090,6 @@
     "pu_code": "17/26/05/009",
     "pu_name": "TSINAHO/ PRI. SCH. I",
     "name": "TSINAHO/ PRI. SCH. I",
-    "lga": "TAURA",
-    "ward": "KIRI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "TAURA",
     "ward": "KIRI",
     "state": "Jigawa",
@@ -40899,12 +39267,6 @@
     "state_code": "17"
   },
   {
-    "lga": "TAURA",
-    "ward": "KWALAM",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/26/07/001",
     "pu_name": "MAJE GABAS /PRIMARY SCHOOL I",
     "name": "MAJE GABAS /PRIMARY SCHOOL I",
@@ -41040,12 +39402,6 @@
     "state_code": "17"
   },
   {
-    "lga": "TAURA",
-    "ward": "MAJE",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/26/08/001",
     "pu_name": "MAJIYA  YAMMA /PRIMARY SCHOOL I",
     "name": "MAJIYA  YAMMA /PRIMARY SCHOOL I",
@@ -41166,12 +39522,6 @@
     "pu_code": "17/26/08/014",
     "pu_name": "VILLAGE HEAD GROUND /(GANYAWA)",
     "name": "VILLAGE HEAD GROUND /(GANYAWA)",
-    "lga": "TAURA",
-    "ward": "MAJIYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "TAURA",
     "ward": "MAJIYA",
     "state": "Jigawa",
@@ -41307,12 +39657,6 @@
     "pu_code": "17/26/09/015",
     "pu_name": "KANGAL /PRIMARY SCHOOL II",
     "name": "KANGAL /PRIMARY SCHOOL II",
-    "lga": "TAURA",
-    "ward": "S/GARIN YAYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "TAURA",
     "ward": "S/GARIN YAYA",
     "state": "Jigawa",
@@ -41544,12 +39888,6 @@
     "state_code": "17"
   },
   {
-    "lga": "TAURA",
-    "ward": "TAURA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/27/01/001",
     "pu_name": "DISPENSARY/ACHILAFIYA",
     "name": "DISPENSARY/ACHILAFIYA",
@@ -41640,12 +39978,6 @@
     "state_code": "17"
   },
   {
-    "lga": "YANKWASHI",
-    "ward": "ACHILAFIYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/27/02/001",
     "pu_name": "SADA-DAN BAUSHE PRI. SCH./SADA DAN BAUSSHE",
     "name": "SADA-DAN BAUSHE PRI. SCH./SADA DAN BAUSSHE",
@@ -41700,12 +40032,6 @@
     "state_code": "17"
   },
   {
-    "lga": "YANKWASHI",
-    "ward": "BELAS",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/27/03/001",
     "pu_name": "DAN KAMA PRIMARY SCHOOL/ DAN KAMA",
     "name": "DAN KAMA PRIMARY SCHOOL/ DAN KAMA",
@@ -41754,12 +40080,6 @@
     "pu_code": "17/27/03/006",
     "pu_name": "DANKAMA ISLAMIYA",
     "name": "DANKAMA ISLAMIYA",
-    "lga": "YANKWASHI",
-    "ward": "DAWAN-GAWO",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "YANKWASHI",
     "ward": "DAWAN-GAWO",
     "state": "Jigawa",
@@ -41841,12 +40161,6 @@
     "pu_code": "17/27/04/009",
     "pu_name": "GWARTA ISLAMIYA",
     "name": "GWARTA ISLAMIYA",
-    "lga": "YANKWASHI",
-    "ward": "GWARTA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "YANKWASHI",
     "ward": "GWARTA",
     "state": "Jigawa",
@@ -41937,12 +40251,6 @@
     "pu_code": "17/27/05/010",
     "pu_name": "KWARIN KALGO PRI SCH II",
     "name": "KWARIN KALGO PRI SCH II",
-    "lga": "YANKWASHI",
-    "ward": "GURJIYA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "YANKWASHI",
     "ward": "GURJIYA",
     "state": "Jigawa",
@@ -42048,12 +40356,6 @@
     "state_code": "17"
   },
   {
-    "lga": "YANKWASHI",
-    "ward": "KARKARNA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/27/07/001",
     "pu_name": "KAWAYE /PRIMARY  SCHOOL",
     "name": "KAWAYE /PRIMARY  SCHOOL",
@@ -42117,12 +40419,6 @@
     "state_code": "17"
   },
   {
-    "lga": "YANKWASHI",
-    "ward": "KUDA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/27/08/001",
     "pu_name": "DUMBU PRI. SCH/DUMBU",
     "name": "DUMBU PRI. SCH/DUMBU",
@@ -42171,12 +40467,6 @@
     "pu_code": "17/27/08/006",
     "pu_name": "MAHAUYA NOMADIC SCH",
     "name": "MAHAUYA NOMADIC SCH",
-    "lga": "YANKWASHI",
-    "ward": "RINGIM",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "YANKWASHI",
     "ward": "RINGIM",
     "state": "Jigawa",
@@ -42246,12 +40536,6 @@
     "state_code": "17"
   },
   {
-    "lga": "YANKWASHI",
-    "ward": "YANKWASHI",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "pu_code": "17/27/10/001",
     "pu_name": "DISPENSARY/UNGUWAR MAL. ADAMU",
     "name": "DISPENSARY/UNGUWAR MAL. ADAMU",
@@ -42291,12 +40575,6 @@
     "pu_code": "17/27/10/005",
     "pu_name": "ZUNGUMBA SENIOR SEC SCH II",
     "name": "ZUNGUMBA SENIOR SEC SCH II",
-    "lga": "YANKWASHI",
-    "ward": "ZUNGUMBA",
-    "state": "Jigawa",
-    "state_code": "17"
-  },
-  {
     "lga": "YANKWASHI",
     "ward": "ZUNGUMBA",
     "state": "Jigawa",

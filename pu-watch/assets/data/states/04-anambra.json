@@ -126,12 +126,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AGUATA",
-    "ward": "ACHINA   I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/01/02/001",
     "pu_name": "PROGRESSIVE SCHOOL I",
     "name": "PROGRESSIVE SCHOOL I",
@@ -252,12 +246,6 @@
     "pu_code": "04/01/02/014",
     "pu_name": "PROGRESSIVE SCH. II",
     "name": "PROGRESSIVE SCH. II",
-    "lga": "AGUATA",
-    "ward": "ACHINA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AGUATA",
     "ward": "ACHINA  II",
     "state": "Anambra",
@@ -399,12 +387,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AGUATA",
-    "ward": "AGULUEZE CHUKWU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/01/04/001",
     "pu_name": "AKPO TOWN HALL I",
     "name": "AKPO TOWN HALL I",
@@ -516,12 +498,6 @@
     "pu_code": "04/01/04/013",
     "pu_name": "UBE BLOCK UDOKA PRIMARY SCHOOL",
     "name": "UBE BLOCK UDOKA PRIMARY SCHOOL",
-    "lga": "AGUATA",
-    "ward": "AKPO",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AGUATA",
     "ward": "AKPO",
     "state": "Anambra",
@@ -657,12 +633,6 @@
     "pu_code": "04/01/05/015",
     "pu_name": "SOCIAL CENTRE V",
     "name": "SOCIAL CENTRE V",
-    "lga": "AGUATA",
-    "ward": "AMESI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AGUATA",
     "ward": "AMESI",
     "state": "Anambra",
@@ -966,12 +936,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AGUATA",
-    "ward": "EKWULOBIA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/01/07/001",
     "pu_name": "EZEKANNAGHA  SQUARE I",
     "name": "EZEKANNAGHA  SQUARE I",
@@ -1215,12 +1179,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AGUATA",
-    "ward": "EKWULOBIA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/01/08/001",
     "pu_name": "TOWN HALL I",
     "name": "TOWN HALL I",
@@ -1329,12 +1287,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AGUATA",
-    "ward": "EZINIFITE  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/01/09/001",
     "pu_name": "OGBUGBAOGU PRY. SCHOOL I",
     "name": "OGBUGBAOGU PRY. SCHOOL I",
@@ -1428,12 +1380,6 @@
     "pu_code": "04/01/09/011",
     "pu_name": "TOWN SCHOOL UHUALA",
     "name": "TOWN SCHOOL UHUALA",
-    "lga": "AGUATA",
-    "ward": "EZINIFITE  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AGUATA",
     "ward": "EZINIFITE  II",
     "state": "Anambra",
@@ -1641,12 +1587,6 @@
     "pu_code": "04/01/10/023",
     "pu_name": "IHUANUKA HALL II",
     "name": "IHUANUKA HALL II",
-    "lga": "AGUATA",
-    "ward": "IGBO-UKWU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AGUATA",
     "ward": "IGBO-UKWU  I",
     "state": "Anambra",
@@ -1869,12 +1809,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AGUATA",
-    "ward": "IGBO - UKWU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/01/12/001",
     "pu_name": "COMMUNITY SCHOOL I",
     "name": "COMMUNITY SCHOOL I",
@@ -1941,12 +1875,6 @@
     "pu_code": "04/01/12/008",
     "pu_name": "IFITE HALL II",
     "name": "IFITE HALL II",
-    "lga": "AGUATA",
-    "ward": "IKENGA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AGUATA",
     "ward": "IKENGA",
     "state": "Anambra",
@@ -2106,12 +2034,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AGUATA",
-    "ward": "ISUOFIA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/01/14/001",
     "pu_name": "CENTRAL SCHOOL",
     "name": "CENTRAL SCHOOL",
@@ -2232,12 +2154,6 @@
     "pu_code": "04/01/14/014",
     "pu_name": "UDARA-EKE SQUARE",
     "name": "UDARA-EKE SQUARE",
-    "lga": "AGUATA",
-    "ward": "NKPOLOGWU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AGUATA",
     "ward": "NKPOLOGWU",
     "state": "Anambra",
@@ -2436,12 +2352,6 @@
     "pu_code": "04/01/15/022",
     "pu_name": "UMUDIKE HALL  V",
     "name": "UMUDIKE HALL  V",
-    "lga": "AGUATA",
-    "ward": "ORAERI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AGUATA",
     "ward": "ORAERI",
     "state": "Anambra",
@@ -2673,12 +2583,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AGUATA",
-    "ward": "UGA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/01/17/001",
     "pu_name": "COMMUNITY PRY. SCHOOL I",
     "name": "COMMUNITY PRY. SCHOOL I",
@@ -2823,12 +2727,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AGUATA",
-    "ward": "UGA II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/01/18/001",
     "pu_name": "CIVIC CENTRE",
     "name": "CIVIC CENTRE",
@@ -2949,12 +2847,6 @@
     "pu_code": "04/01/18/014",
     "pu_name": "UMUMILO VILLAGE",
     "name": "UMUMILO VILLAGE",
-    "lga": "AGUATA",
-    "ward": "UMUCHU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AGUATA",
     "ward": "UMUCHU  I",
     "state": "Anambra",
@@ -3123,12 +3015,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AGUATA",
-    "ward": "UMUCHU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/01/20/001",
     "pu_name": "IRUILE VILLAGE HALL",
     "name": "IRUILE VILLAGE HALL",
@@ -3186,12 +3072,6 @@
     "pu_code": "04/01/20/007",
     "pu_name": "PRY. SCHOOL, UMUONA VII",
     "name": "PRY. SCHOOL, UMUONA VII",
-    "lga": "AGUATA",
-    "ward": "UMUONA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AGUATA",
     "ward": "UMUONA",
     "state": "Anambra",
@@ -3432,12 +3312,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AYAMELUM",
-    "ward": "ANAKU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/02/02/001",
     "pu_name": "C.P.S IFITE-OGWARI I",
     "name": "C.P.S IFITE-OGWARI I",
@@ -3582,12 +3456,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AYAMELUM",
-    "ward": "IFITE OGWARI  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/02/03/001",
     "pu_name": "OGWARI PRIMARY SCHOOL I (UMUAWA SQUARE I)",
     "name": "OGWARI PRIMARY SCHOOL I (UMUAWA SQUARE I)",
@@ -3723,12 +3591,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AYAMELUM",
-    "ward": "IFITE OGWARI  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/02/04/001",
     "pu_name": "ISIACHAELLE VILLAGE HALL I (UMUEREAKAGBA I)",
     "name": "ISIACHAELLE VILLAGE HALL I (UMUEREAKAGBA I)",
@@ -3840,12 +3702,6 @@
     "pu_code": "04/02/04/013",
     "pu_name": "ISIOKWE VILLAGE HALL V (UMUEREODILI VILLAGE SQUARE V)",
     "name": "ISIOKWE VILLAGE HALL V (UMUEREODILI VILLAGE SQUARE V)",
-    "lga": "AYAMELUM",
-    "ward": "IGBAKWU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AYAMELUM",
     "ward": "IGBAKWU",
     "state": "Anambra",
@@ -4008,12 +3864,6 @@
     "pu_code": "04/02/05/018",
     "pu_name": "MIGRANT PRIMARY SCHOOL OMASI AGU",
     "name": "MIGRANT PRIMARY SCHOOL OMASI AGU",
-    "lga": "AYAMELUM",
-    "ward": "OMASI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AYAMELUM",
     "ward": "OMASI",
     "state": "Anambra",
@@ -4254,12 +4104,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AYAMELUM",
-    "ward": "OMOR I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/02/07/001",
     "pu_name": "AKANATOR PRI. SCH I (OYE MARKET SQUARE I)",
     "name": "AKANATOR PRI. SCH I (OYE MARKET SQUARE I)",
@@ -4467,12 +4311,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AYAMELUM",
-    "ward": "OMOR II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/02/08/001",
     "pu_name": "AMA ATURIA I",
     "name": "AMA ATURIA I",
@@ -4635,12 +4473,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AYAMELUM",
-    "ward": "OMOR III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/02/09/001",
     "pu_name": "C/SCHOOL UMU ERUM",
     "name": "C/SCHOOL UMU ERUM",
@@ -4749,12 +4581,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AYAMELUM",
-    "ward": "UMU ELUM",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/02/10/001",
     "pu_name": "UMUOKE VILLAGE HALL I (EKE MARKET SQUARE I)",
     "name": "UMUOKE VILLAGE HALL I (EKE MARKET SQUARE I)",
@@ -4821,12 +4647,6 @@
     "pu_code": "04/02/10/008",
     "pu_name": "COMMUNITY PRY. SCH. UMUEJE IV",
     "name": "COMMUNITY PRY. SCH. UMUEJE IV",
-    "lga": "AYAMELUM",
-    "ward": "UMUEJE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AYAMELUM",
     "ward": "UMUEJE",
     "state": "Anambra",
@@ -4971,12 +4791,6 @@
     "pu_code": "04/02/11/016",
     "pu_name": "UGA-ACHI UNITY HALL",
     "name": "UGA-ACHI UNITY HALL",
-    "lga": "AYAMELUM",
-    "ward": "UMUMBO",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AYAMELUM",
     "ward": "UMUMBO",
     "state": "Anambra",
@@ -5145,12 +4959,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAMBRA EAST",
-    "ward": "AGULERI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/03/02/001",
     "pu_name": "CENTRAL SCHOOL",
     "name": "CENTRAL SCHOOL",
@@ -5271,12 +5079,6 @@
     "pu_code": "04/03/02/014",
     "pu_name": "OKPU VILLAGE HALL",
     "name": "OKPU VILLAGE HALL",
-    "lga": "ANAMBRA EAST",
-    "ward": "AGULERI  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAMBRA EAST",
     "ward": "AGULERI  II",
     "state": "Anambra",
@@ -5445,12 +5247,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAMBRA EAST",
-    "ward": "ENUGWU-OTU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/03/04/001",
     "pu_name": "AKPATA SQUARE I",
     "name": "AKPATA SQUARE I",
@@ -5589,12 +5385,6 @@
     "pu_code": "04/03/04/016",
     "pu_name": "ITILIBE SQUARE",
     "name": "ITILIBE SQUARE",
-    "lga": "ANAMBRA EAST",
-    "ward": "EZIAGULU-OTU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAMBRA EAST",
     "ward": "EZIAGULU-OTU",
     "state": "Anambra",
@@ -5754,12 +5544,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAMBRA EAST",
-    "ward": "IGBARIAM",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/03/06/001",
     "pu_name": "AMANSOKWA SQUARE",
     "name": "AMANSOKWA SQUARE",
@@ -5844,12 +5628,6 @@
     "pu_code": "04/03/06/010",
     "pu_name": "AMAENUIYI SQUARE II",
     "name": "AMAENUIYI SQUARE II",
-    "lga": "ANAMBRA EAST",
-    "ward": "NANDO  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAMBRA EAST",
     "ward": "NANDO  I",
     "state": "Anambra",
@@ -5967,12 +5745,6 @@
     "pu_code": "04/03/07/013",
     "pu_name": "IFITE PRY. SCHOOL II",
     "name": "IFITE PRY. SCHOOL II",
-    "lga": "ANAMBRA EAST",
-    "ward": "NANDO  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAMBRA EAST",
     "ward": "NANDO  II",
     "state": "Anambra",
@@ -6141,12 +5913,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAMBRA EAST",
-    "ward": "NANDO  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/03/09/001",
     "pu_name": "ILO ABITO SQUARE",
     "name": "ILO ABITO SQUARE",
@@ -6240,12 +6006,6 @@
     "pu_code": "04/03/09/011",
     "pu_name": "ILO UMUAKOSIAM",
     "name": "ILO UMUAKOSIAM",
-    "lga": "ANAMBRA EAST",
-    "ward": "NSUGBE I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAMBRA EAST",
     "ward": "NSUGBE I",
     "state": "Anambra",
@@ -6399,12 +6159,6 @@
     "pu_code": "04/03/10/017",
     "pu_name": "PROMISE LAND ESTATE",
     "name": "PROMISE LAND ESTATE",
-    "lga": "ANAMBRA EAST",
-    "ward": "NSUGBE II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAMBRA EAST",
     "ward": "NSUGBE II",
     "state": "Anambra",
@@ -6627,12 +6381,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAMBRA EAST",
-    "ward": "OTUOCHA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/03/12/001",
     "pu_name": "OVUAKWU  PRY.  SCHOOL I",
     "name": "OVUAKWU  PRY.  SCHOOL I",
@@ -6777,12 +6525,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAMBRA EAST",
-    "ward": "OTUOCHA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/03/13/001",
     "pu_name": "OBINETITI PRY. SCHOOL",
     "name": "OBINETITI PRY. SCHOOL",
@@ -6885,12 +6627,6 @@
     "pu_code": "04/03/13/012",
     "pu_name": "IRUAGU UMUDIANI",
     "name": "IRUAGU UMUDIANI",
-    "lga": "ANAMBRA EAST",
-    "ward": "UMURELI  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAMBRA EAST",
     "ward": "UMURELI  I",
     "state": "Anambra",
@@ -7008,12 +6744,6 @@
     "pu_code": "04/03/14/013",
     "pu_name": "AMA MGBEDE",
     "name": "AMA MGBEDE",
-    "lga": "ANAMBRA EAST",
-    "ward": "UMULERI  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAMBRA EAST",
     "ward": "UMULERI  II",
     "state": "Anambra",
@@ -7236,12 +6966,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAMBRA EAST",
-    "ward": "UMUOBA-ANAM",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/04/01/001",
     "pu_name": "UMUALOR-UMUDORA SQUARE",
     "name": "UMUALOR-UMUDORA SQUARE",
@@ -7431,12 +7155,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAMBRA WEST",
-    "ward": "EZI-ANAM",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/04/02/001",
     "pu_name": "UMUOGBUEVIAGU I",
     "name": "UMUOGBUEVIAGU I",
@@ -7617,12 +7335,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAMBRA WEST",
-    "ward": "IFITE-ANAM",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/04/03/001",
     "pu_name": "ECHA VILLAGE SQUARE",
     "name": "ECHA VILLAGE SQUARE",
@@ -7761,12 +7473,6 @@
     "pu_code": "04/04/03/016",
     "pu_name": "COMMUNITY SECONDARY SCHOOL",
     "name": "COMMUNITY SECONDARY SCHOOL",
-    "lga": "ANAMBRA WEST",
-    "ward": "NZAM",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAMBRA WEST",
     "ward": "NZAM",
     "state": "Anambra",
@@ -7935,12 +7641,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAMBRA WEST",
-    "ward": "OLUMBANASA - ODE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/04/05/001",
     "pu_name": "OWELLE TOWN HALL",
     "name": "OWELLE TOWN HALL",
@@ -8070,12 +7770,6 @@
     "pu_code": "04/04/05/015",
     "pu_name": "ALLAH PUBLIC SQUARE II",
     "name": "ALLAH PUBLIC SQUARE II",
-    "lga": "ANAMBRA WEST",
-    "ward": "OLUMBANASA-INOMA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAMBRA WEST",
     "ward": "OLUMBANASA-INOMA",
     "state": "Anambra",
@@ -8226,12 +7920,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAMBRA WEST",
-    "ward": "OROMA ETITI-ANAM",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/04/07/001",
     "pu_name": "AMACHARA VILLAGE SQUARE",
     "name": "AMACHARA VILLAGE SQUARE",
@@ -8340,12 +8028,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAMBRA WEST",
-    "ward": "UMUENWELUM-ANAM",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/04/08/001",
     "pu_name": "HEALTH CENTRE",
     "name": "HEALTH CENTRE",
@@ -8403,12 +8085,6 @@
     "pu_code": "04/04/08/007",
     "pu_name": "OKPAGU CAMP SQUARE",
     "name": "OKPAGU CAMP SQUARE",
-    "lga": "ANAMBRA WEST",
-    "ward": "UMUEZE-ANAM  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAMBRA WEST",
     "ward": "UMUEZE-ANAM  I",
     "state": "Anambra",
@@ -8622,12 +8298,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAMBRA WEST",
-    "ward": "UMUEZE-ANAM  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/04/10/001",
     "pu_name": "ABEGBU-UMUOCHE SQUARE I",
     "name": "ABEGBU-UMUOCHE SQUARE I",
@@ -8772,12 +8442,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAMBRA WEST",
-    "ward": "UMUOBA-ANAM",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/05/01/001",
     "pu_name": "O.G.S.S ADAZI ANI I",
     "name": "O.G.S.S ADAZI ANI I",
@@ -8880,12 +8544,6 @@
     "pu_code": "04/05/01/012",
     "pu_name": "IKENGA  NURSERY SCHOOL",
     "name": "IKENGA  NURSERY SCHOOL",
-    "lga": "ANAOCHA",
-    "ward": "ADAZI ANI I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAOCHA",
     "ward": "ADAZI ANI I",
     "state": "Anambra",
@@ -9000,12 +8658,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAOCHA",
-    "ward": "ADAZI ANI II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/05/03/001",
     "pu_name": "OGWENI OCHA HALL I",
     "name": "OGWENI OCHA HALL I",
@@ -9105,12 +8757,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAOCHA",
-    "ward": "ADAZI ENU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/05/04/001",
     "pu_name": "COMMUNITY PRY. SCHOOL I",
     "name": "COMMUNITY PRY. SCHOOL I",
@@ -9204,12 +8850,6 @@
     "pu_code": "04/05/04/011",
     "pu_name": "IHUDUMANUNU HALL II",
     "name": "IHUDUMANUNU HALL II",
-    "lga": "ANAOCHA",
-    "ward": "ADAZI ENU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAOCHA",
     "ward": "ADAZI ENU  II",
     "state": "Anambra",
@@ -9342,12 +8982,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAOCHA",
-    "ward": "ADAZI NNUKWU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/05/06/001",
     "pu_name": "UNION PRY. SCHOOL I",
     "name": "UNION PRY. SCHOOL I",
@@ -9468,12 +9102,6 @@
     "pu_code": "04/05/06/014",
     "pu_name": "UNION P/S III (BLOCK A)",
     "name": "UNION P/S III (BLOCK A)",
-    "lga": "ANAOCHA",
-    "ward": "ADAZI NNUKWU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAOCHA",
     "ward": "ADAZI NNUKWU  II",
     "state": "Anambra",
@@ -9618,12 +9246,6 @@
     "pu_code": "04/05/07/016",
     "pu_name": "AMOJI HALL II",
     "name": "AMOJI HALL II",
-    "lga": "ANAOCHA",
-    "ward": "AGULU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAOCHA",
     "ward": "AGULU  I",
     "state": "Anambra",
@@ -9831,12 +9453,6 @@
     "pu_code": "04/05/08/023",
     "pu_name": "MODEL P/S HEALTH CENTER, AMATUTU",
     "name": "MODEL P/S HEALTH CENTER, AMATUTU",
-    "lga": "ANAOCHA",
-    "ward": "AGULU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAOCHA",
     "ward": "AGULU  II",
     "state": "Anambra",
@@ -10104,12 +9720,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAOCHA",
-    "ward": "AGULU  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/05/10/001",
     "pu_name": "NWANCHI PRY. SCHOOL I",
     "name": "NWANCHI PRY. SCHOOL I",
@@ -10308,12 +9918,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAOCHA",
-    "ward": "AGULU   IV",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/05/11/001",
     "pu_name": "IRUOWELLE VILLAGE HALL I",
     "name": "IRUOWELLE VILLAGE HALL I",
@@ -10479,12 +10083,6 @@
     "pu_code": "04/05/11/019",
     "pu_name": "AGULUZIGBO TOWN HALL III (THIRD DOOR)",
     "name": "AGULUZIGBO TOWN HALL III (THIRD DOOR)",
-    "lga": "ANAOCHA",
-    "ward": "AGULU UZOIGBO",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAOCHA",
     "ward": "AGULU UZOIGBO",
     "state": "Anambra",
@@ -10671,12 +10269,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAOCHA",
-    "ward": "AKWAEZE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/05/13/001",
     "pu_name": "UMUEZESUE HALL I",
     "name": "UMUEZESUE HALL I",
@@ -10824,12 +10416,6 @@
     "pu_code": "04/05/13/017",
     "pu_name": "UGOCHUKWU SQUARE II",
     "name": "UGOCHUKWU SQUARE II",
-    "lga": "ANAOCHA",
-    "ward": "ICHIDA I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAOCHA",
     "ward": "ICHIDA I",
     "state": "Anambra",
@@ -11043,12 +10629,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAOCHA",
-    "ward": "ICHIDA II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/05/15/001",
     "pu_name": "NENI TOWN HALL I",
     "name": "NENI TOWN HALL I",
@@ -11202,12 +10782,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAOCHA",
-    "ward": "NENI  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/05/16/001",
     "pu_name": "EZI NENI VILLAGE HALL I",
     "name": "EZI NENI VILLAGE HALL I",
@@ -11337,12 +10911,6 @@
     "pu_code": "04/05/16/015",
     "pu_name": "OBIEYISI HALL",
     "name": "OBIEYISI HALL",
-    "lga": "ANAOCHA",
-    "ward": "NENI  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAOCHA",
     "ward": "NENI  II",
     "state": "Anambra",
@@ -11502,12 +11070,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAOCHA",
-    "ward": "NRI  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/05/18/001",
     "pu_name": "ANUOYE SQUARE I",
     "name": "ANUOYE SQUARE I",
@@ -11628,12 +11190,6 @@
     "pu_code": "04/05/18/014",
     "pu_name": "ARO - UMUDIANI II",
     "name": "ARO - UMUDIANI II",
-    "lga": "ANAOCHA",
-    "ward": "NRI  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ANAOCHA",
     "ward": "NRI  II",
     "state": "Anambra",
@@ -11766,12 +11322,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ANAOCHA",
-    "ward": "OBELEDU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/06/01/001",
     "pu_name": "IRUETE V SQUARE I",
     "name": "IRUETE V SQUARE I",
@@ -11838,12 +11388,6 @@
     "pu_code": "04/06/01/008",
     "pu_name": "AGUEGBO V HALL",
     "name": "AGUEGBO V HALL",
-    "lga": "AWKA NORTH",
-    "ward": "ACHALLA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA NORTH",
     "ward": "ACHALLA  I",
     "state": "Anambra",
@@ -11949,12 +11493,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA NORTH",
-    "ward": "ACHALLA  I1",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/06/03/001",
     "pu_name": "UDEZU V SQUARE I",
     "name": "UDEZU V SQUARE I",
@@ -12039,12 +11577,6 @@
     "pu_code": "04/06/03/010",
     "pu_name": "UDEZU V SQUARE II",
     "name": "UDEZU V SQUARE II",
-    "lga": "AWKA NORTH",
-    "ward": "ACHALLA  I1I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA NORTH",
     "ward": "ACHALLA  I1I",
     "state": "Anambra",
@@ -12177,12 +11709,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA NORTH",
-    "ward": "AMANSEA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/06/05/001",
     "pu_name": "UNION P/S I",
     "name": "UNION P/S I",
@@ -12267,12 +11793,6 @@
     "pu_code": "04/06/05/010",
     "pu_name": "UMUEZE V SQUARE IV",
     "name": "UMUEZE V SQUARE IV",
-    "lga": "AWKA NORTH",
-    "ward": "AMANUKE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA NORTH",
     "ward": "AMANUKE",
     "state": "Anambra",
@@ -12369,12 +11889,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA NORTH",
-    "ward": "AWBA-OFEMMILI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/06/07/001",
     "pu_name": "C/S EBENEBE I",
     "name": "C/S EBENEBE I",
@@ -12441,12 +11955,6 @@
     "pu_code": "04/06/07/008",
     "pu_name": "UMUARUKA V. HALL",
     "name": "UMUARUKA V. HALL",
-    "lga": "AWKA NORTH",
-    "ward": "EBENEBE  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA NORTH",
     "ward": "EBENEBE  I",
     "state": "Anambra",
@@ -12525,12 +12033,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA NORTH",
-    "ward": "EBENEBE  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/06/09/001",
     "pu_name": "UMUOGBUEFI  P/S I",
     "name": "UMUOGBUEFI  P/S I",
@@ -12597,12 +12099,6 @@
     "pu_code": "04/06/09/008",
     "pu_name": "UMUOKPALA V. SQUARE",
     "name": "UMUOKPALA V. SQUARE",
-    "lga": "AWKA NORTH",
-    "ward": "EBENEBE  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA NORTH",
     "ward": "EBENEBE  III",
     "state": "Anambra",
@@ -12720,12 +12216,6 @@
     "pu_code": "04/06/10/013",
     "pu_name": "UMUNERI VILLAGE SQUARE",
     "name": "UMUNERI VILLAGE SQUARE",
-    "lga": "AWKA NORTH",
-    "ward": "ISU ANIOCHA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA NORTH",
     "ward": "ISU ANIOCHA",
     "state": "Anambra",
@@ -12921,12 +12411,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA NORTH",
-    "ward": "MGBAKWU  I (ANEZIKE)",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/06/12/001",
     "pu_name": "CENTRAL SCHOOL, UGBENE",
     "name": "CENTRAL SCHOOL, UGBENE",
@@ -12993,12 +12477,6 @@
     "pu_code": "04/06/12/008",
     "pu_name": "UMUEMEMU SQUARE",
     "name": "UMUEMEMU SQUARE",
-    "lga": "AWKA NORTH",
-    "ward": "UGBENE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA NORTH",
     "ward": "UGBENE",
     "state": "Anambra",
@@ -13080,12 +12558,6 @@
     "pu_code": "04/06/13/009",
     "pu_name": "OMATA VILLAGE SQUARE",
     "name": "OMATA VILLAGE SQUARE",
-    "lga": "AWKA NORTH",
-    "ward": "UGBENU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA NORTH",
     "ward": "UGBENU",
     "state": "Anambra",
@@ -13194,12 +12666,6 @@
     "pu_code": "04/06/14/012",
     "pu_name": "AKAEZE VILLAGE HALL",
     "name": "AKAEZE VILLAGE HALL",
-    "lga": "AWKA NORTH",
-    "ward": "URUM",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA NORTH",
     "ward": "URUM",
     "state": "Anambra",
@@ -13512,12 +12978,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA SOUTH",
-    "ward": "AGU OKA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/07/02/001",
     "pu_name": "COMMUNITY PRY. SCHOOL I",
     "name": "COMMUNITY PRY. SCHOOL I",
@@ -13620,12 +13080,6 @@
     "pu_code": "04/07/02/012",
     "pu_name": "EZI EGEGE SQUARE III",
     "name": "EZI EGEGE SQUARE III",
-    "lga": "AWKA SOUTH",
-    "ward": "AMAWBIA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA SOUTH",
     "ward": "AMAWBIA  I",
     "state": "Anambra",
@@ -13761,12 +13215,6 @@
     "pu_code": "04/07/03/015",
     "pu_name": "EBE ADABEBE SQUARE II  (OPEN SPACE BESIDE NWORAHSPECIALIST EVE FOUNDATION)",
     "name": "EBE ADABEBE SQUARE II  (OPEN SPACE BESIDE NWORAHSPECIALIST EVE FOUNDATION)",
-    "lga": "AWKA SOUTH",
-    "ward": "AMAWBIA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA SOUTH",
     "ward": "AMAWBIA  II",
     "state": "Anambra",
@@ -13926,12 +13374,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA SOUTH",
-    "ward": "AMAWBIA  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/07/05/001",
     "pu_name": "UMUNOKE SQUARE I",
     "name": "UMUNOKE SQUARE I",
@@ -14079,12 +13521,6 @@
     "pu_code": "04/07/05/017",
     "pu_name": "AYOM NA OKPALA SQ IV (OPEN SPACE AT AYOM NA OKPARA VILLAGE)",
     "name": "AYOM NA OKPALA SQ IV (OPEN SPACE AT AYOM NA OKPARA VILLAGE)",
-    "lga": "AWKA SOUTH",
-    "ward": "AWKA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA SOUTH",
     "ward": "AWKA  I",
     "state": "Anambra",
@@ -14325,12 +13761,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA SOUTH",
-    "ward": "AWKA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/07/07/001",
     "pu_name": "AFOR NKPUKPU SQUARE",
     "name": "AFOR NKPUKPU SQUARE",
@@ -14514,12 +13944,6 @@
     "pu_code": "04/07/07/021",
     "pu_name": "ODOAGBA SQUARE III (OPEN SPACE BY OPPOSITE TACOMA HOTEL)",
     "name": "ODOAGBA SQUARE III (OPEN SPACE BY OPPOSITE TACOMA HOTEL)",
-    "lga": "AWKA SOUTH",
-    "ward": "AWKA  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA SOUTH",
     "ward": "AWKA  III",
     "state": "Anambra",
@@ -14736,12 +14160,6 @@
     "pu_code": "04/07/08/024",
     "pu_name": "EZI EFIFIE SQUARE IV (OPEN SPACE BESIDE UMUKWA HALL)",
     "name": "EZI EFIFIE SQUARE IV (OPEN SPACE BESIDE UMUKWA HALL)",
-    "lga": "AWKA SOUTH",
-    "ward": "AWKA  IV",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA SOUTH",
     "ward": "AWKA  IV",
     "state": "Anambra",
@@ -15135,12 +14553,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA SOUTH",
-    "ward": "AWKA  V",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/07/10/001",
     "pu_name": "EZI IBI SQUARE I",
     "name": "EZI IBI SQUARE I",
@@ -15393,12 +14805,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA SOUTH",
-    "ward": "AWKA  VI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/07/11/001",
     "pu_name": "COMMUNITY PRY. SCHOOL I",
     "name": "COMMUNITY PRY. SCHOOL I",
@@ -15474,12 +14880,6 @@
     "pu_code": "04/07/11/009",
     "pu_name": "EBE DUNU SQUARE II (OPEN SPACE BESIDE OYE STREET UMUOKPU)",
     "name": "EBE DUNU SQUARE II (OPEN SPACE BESIDE OYE STREET UMUOKPU)",
-    "lga": "AWKA SOUTH",
-    "ward": "AWKA  VII",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA SOUTH",
     "ward": "AWKA  VII",
     "state": "Anambra",
@@ -15606,12 +15006,6 @@
     "pu_code": "04/07/12/014",
     "pu_name": "OBU OKPALA SQUARE II",
     "name": "OBU OKPALA SQUARE II",
-    "lga": "AWKA SOUTH",
-    "ward": "EZINATO/ISIAGU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA SOUTH",
     "ward": "EZINATO/ISIAGU",
     "state": "Anambra",
@@ -15807,12 +15201,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA SOUTH",
-    "ward": "MBA-UKWU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/07/14/001",
     "pu_name": "EKE NIBO MARKET SQUARE I",
     "name": "EKE NIBO MARKET SQUARE I",
@@ -15948,12 +15336,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA SOUTH",
-    "ward": "NIBO  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/07/15/001",
     "pu_name": "UMUNONO HALL I",
     "name": "UMUNONO HALL I",
@@ -16065,12 +15447,6 @@
     "pu_code": "04/07/15/013",
     "pu_name": "UMUEZUDU VILLAGE HALL NIBO (OPEN SPACE BESIDE UMUEZUDU VILLAGE HALL)",
     "name": "UMUEZUDU VILLAGE HALL NIBO (OPEN SPACE BESIDE UMUEZUDU VILLAGE HALL)",
-    "lga": "AWKA SOUTH",
-    "ward": "NIBO  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA SOUTH",
     "ward": "NIBO  II",
     "state": "Anambra",
@@ -16194,12 +15570,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA SOUTH",
-    "ward": "NIBO  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/07/17/001",
     "pu_name": "EZI EBENEBE SQUARE I",
     "name": "EZI EBENEBE SQUARE I",
@@ -16308,12 +15678,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA SOUTH",
-    "ward": "NISE  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/07/18/001",
     "pu_name": "EZI EZENWAKA SQUARE I",
     "name": "EZI EZENWAKA SQUARE I",
@@ -16398,12 +15762,6 @@
     "pu_code": "04/07/18/010",
     "pu_name": "UMUAZU HALL III",
     "name": "UMUAZU HALL III",
-    "lga": "AWKA SOUTH",
-    "ward": "NISE  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "AWKA SOUTH",
     "ward": "NISE  II",
     "state": "Anambra",
@@ -16680,12 +16038,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA SOUTH",
-    "ward": "OKPUNO",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/07/20/001",
     "pu_name": "OYE UMUENU SQUARE I",
     "name": "OYE UMUENU SQUARE I",
@@ -16830,12 +16182,6 @@
     "state_code": "04"
   },
   {
-    "lga": "AWKA SOUTH",
-    "ward": "UMUAWULU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/08/01/001",
     "pu_name": "CENTRAL SCHOOL I",
     "name": "CENTRAL SCHOOL I",
@@ -16962,12 +16308,6 @@
     "state_code": "04"
   },
   {
-    "lga": "DUNUKOFIA",
-    "ward": "AKWA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/08/02/001",
     "pu_name": "UKPOMILI HALL I",
     "name": "UKPOMILI HALL I",
@@ -17079,12 +16419,6 @@
     "pu_code": "04/08/02/013",
     "pu_name": "MADONA PRY/ SEC SCH",
     "name": "MADONA PRY/ SEC SCH",
-    "lga": "DUNUKOFIA",
-    "ward": "IFITEDUNU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "DUNUKOFIA",
     "ward": "IFITEDUNU  I",
     "state": "Anambra",
@@ -17208,12 +16542,6 @@
     "state_code": "04"
   },
   {
-    "lga": "DUNUKOFIA",
-    "ward": "IFITEDUNU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/08/04/001",
     "pu_name": "IRUKA P/S I",
     "name": "IRUKA P/S I",
@@ -17286,12 +16614,6 @@
     "state_code": "04"
   },
   {
-    "lga": "DUNUKOFIA",
-    "ward": "NAWGU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/08/05/001",
     "pu_name": "EZIMEZI SQUARE I",
     "name": "EZIMEZI SQUARE I",
@@ -17340,12 +16662,6 @@
     "pu_code": "04/08/05/006",
     "pu_name": "EBE OLLOR SQUARE II",
     "name": "EBE OLLOR SQUARE II",
-    "lga": "DUNUKOFIA",
-    "ward": "NAWGU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "DUNUKOFIA",
     "ward": "NAWGU  II",
     "state": "Anambra",
@@ -17532,12 +16848,6 @@
     "state_code": "04"
   },
   {
-    "lga": "DUNUKOFIA",
-    "ward": "UKPO  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/08/07/001",
     "pu_name": "OKPATU MEM. SCHOOL I",
     "name": "OKPATU MEM. SCHOOL I",
@@ -17631,12 +16941,6 @@
     "pu_code": "04/08/07/011",
     "pu_name": "CENTRAL SCHOOL II",
     "name": "CENTRAL SCHOOL II",
-    "lga": "DUNUKOFIA",
-    "ward": "UKPO  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "DUNUKOFIA",
     "ward": "UKPO  II",
     "state": "Anambra",
@@ -17769,12 +17073,6 @@
     "state_code": "04"
   },
   {
-    "lga": "DUNUKOFIA",
-    "ward": "UKPO  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/08/09/001",
     "pu_name": "OBINWANNE HALL I",
     "name": "OBINWANNE HALL I",
@@ -17856,12 +17154,6 @@
     "state_code": "04"
   },
   {
-    "lga": "DUNUKOFIA",
-    "ward": "UKWULU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/08/10/001",
     "pu_name": "CENTRAL SCHOOL I",
     "name": "CENTRAL SCHOOL I",
@@ -17928,12 +17220,6 @@
     "pu_code": "04/08/10/008",
     "pu_name": "EBEISI UKWULU III",
     "name": "EBEISI UKWULU III",
-    "lga": "DUNUKOFIA",
-    "ward": "UKWULU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "DUNUKOFIA",
     "ward": "UKWULU  II",
     "state": "Anambra",
@@ -18033,12 +17319,6 @@
     "pu_code": "04/08/11/011",
     "pu_name": "ILOUGWU VILLAGE HALL II",
     "name": "ILOUGWU VILLAGE HALL II",
-    "lga": "DUNUKOFIA",
-    "ward": "UMUDIOKA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "DUNUKOFIA",
     "ward": "UMUDIOKA  I",
     "state": "Anambra",
@@ -18171,12 +17451,6 @@
     "state_code": "04"
   },
   {
-    "lga": "DUNUKOFIA",
-    "ward": "UMUDIOKA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/08/13/001",
     "pu_name": "NAGBANA VILLAGE SQUARE I",
     "name": "NAGBANA VILLAGE SQUARE I",
@@ -18261,12 +17535,6 @@
     "pu_code": "04/08/13/010",
     "pu_name": "EZIAGU PRY SCH III (ILOAGU SQUARE III)",
     "name": "EZIAGU PRY SCH III (ILOAGU SQUARE III)",
-    "lga": "DUNUKOFIA",
-    "ward": "UMUNNACHI  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "DUNUKOFIA",
     "ward": "UMUNNACHI  I",
     "state": "Anambra",
@@ -18393,12 +17661,6 @@
     "pu_code": "04/08/14/014",
     "pu_name": "CENTRAL SCH III",
     "name": "CENTRAL SCH III",
-    "lga": "DUNUKOFIA",
-    "ward": "UMUNNACHI  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "DUNUKOFIA",
     "ward": "UMUNNACHI  II",
     "state": "Anambra",
@@ -18549,12 +17811,6 @@
     "state_code": "04"
   },
   {
-    "lga": "EKWUSIGO",
-    "ward": "ICHI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/09/02/001",
     "pu_name": "UMUNAKWA HALL I",
     "name": "UMUNAKWA HALL I",
@@ -18630,12 +17886,6 @@
     "pu_code": "04/09/02/009",
     "pu_name": "NDEGWU SQUARE",
     "name": "NDEGWU SQUARE",
-    "lga": "EKWUSIGO",
-    "ward": "IHEMBOSI/ANAUBAHU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "EKWUSIGO",
     "ward": "IHEMBOSI/ANAUBAHU",
     "state": "Anambra",
@@ -18849,12 +18099,6 @@
     "state_code": "04"
   },
   {
-    "lga": "EKWUSIGO",
-    "ward": "ORAIFITE  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/09/04/001",
     "pu_name": "AWOR COMMUNITY SCHOOL I",
     "name": "AWOR COMMUNITY SCHOOL I",
@@ -19053,12 +18297,6 @@
     "state_code": "04"
   },
   {
-    "lga": "EKWUSIGO",
-    "ward": "ORAIFITE  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/09/05/001",
     "pu_name": "EZUMERI COMMUNITY SCHOOL I",
     "name": "EZUMERI COMMUNITY SCHOOL I",
@@ -19212,12 +18450,6 @@
     "state_code": "04"
   },
   {
-    "lga": "EKWUSIGO",
-    "ward": "ORAIFITE  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/09/06/001",
     "pu_name": "UMUOTUTU HALL I",
     "name": "UMUOTUTU HALL I",
@@ -19320,12 +18552,6 @@
     "pu_code": "04/09/06/012",
     "pu_name": "UMUEZEKWE AMANKHIKE HALL II",
     "name": "UMUEZEKWE AMANKHIKE HALL II",
-    "lga": "EKWUSIGO",
-    "ward": "OZUBULU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "EKWUSIGO",
     "ward": "OZUBULU  I",
     "state": "Anambra",
@@ -19488,12 +18714,6 @@
     "pu_code": "04/09/07/018",
     "pu_name": "UMUEZELEONUMA VILL. HALL",
     "name": "UMUEZELEONUMA VILL. HALL",
-    "lga": "EKWUSIGO",
-    "ward": "OZUBULU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "EKWUSIGO",
     "ward": "OZUBULU  II",
     "state": "Anambra",
@@ -19665,12 +18885,6 @@
     "pu_code": "04/09/08/019",
     "pu_name": "UMUALAISI VILL. HALL",
     "name": "UMUALAISI VILL. HALL",
-    "lga": "EKWUSIGO",
-    "ward": "OZUBULU  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "EKWUSIGO",
     "ward": "OZUBULU  III",
     "state": "Anambra",
@@ -19884,12 +19098,6 @@
     "state_code": "04"
   },
   {
-    "lga": "EKWUSIGO",
-    "ward": "OZUBULU  IV",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/09/10/001",
     "pu_name": "NZA CENTRAL SCHOOL I",
     "name": "NZA CENTRAL SCHOOL I",
@@ -19974,12 +19182,6 @@
     "pu_code": "04/09/10/010",
     "pu_name": "ZIXTON PRY. SCHOOL II",
     "name": "ZIXTON PRY. SCHOOL II",
-    "lga": "EKWUSIGO",
-    "ward": "OZUBULU  V",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "EKWUSIGO",
     "ward": "OZUBULU  V",
     "state": "Anambra",
@@ -20112,12 +19314,6 @@
     "state_code": "04"
   },
   {
-    "lga": "EKWUSIGO",
-    "ward": "AMAKWA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/09/12/001",
     "pu_name": "UMUABU PRY. SCHOOL I",
     "name": "UMUABU PRY. SCHOOL I",
@@ -20208,12 +19404,6 @@
     "state_code": "04"
   },
   {
-    "lga": "EKWUSIGO",
-    "ward": "IHITEOHA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/10/01/001",
     "pu_name": "AKANATO P/S I",
     "name": "AKANATO P/S I",
@@ -20280,12 +19470,6 @@
     "pu_code": "04/10/01/008",
     "pu_name": "ABACHA CENTRAL SCHOOL III",
     "name": "ABACHA CENTRAL SCHOOL III",
-    "lga": "IDEMILI NORTH",
-    "ward": "ABACHA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IDEMILI NORTH",
     "ward": "ABACHA",
     "state": "Anambra",
@@ -20616,12 +19800,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IDEMILI NORTH",
-    "ward": "ABATETE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/10/03/001",
     "pu_name": "OBIALUNAMMA HALL I",
     "name": "OBIALUNAMMA HALL I",
@@ -20802,12 +19980,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IDEMILI NORTH",
-    "ward": "EZIOWELLE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/10/04/001",
     "pu_name": "IDEANI COMMUNITY HALL",
     "name": "IDEANI COMMUNITY HALL",
@@ -20874,12 +20046,6 @@
     "pu_code": "04/10/04/008",
     "pu_name": "URUEZE VILLAGE HALL II",
     "name": "URUEZE VILLAGE HALL II",
-    "lga": "IDEMILI NORTH",
-    "ward": "IDEANI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IDEMILI NORTH",
     "ward": "IDEANI",
     "state": "Anambra",
@@ -21141,12 +20307,6 @@
     "pu_code": "04/10/05/029",
     "pu_name": "EZENNIA SQUARE ISINGWU NKPOR, ABOR-AKPU(OPEN SPACE)",
     "name": "EZENNIA SQUARE ISINGWU NKPOR, ABOR-AKPU(OPEN SPACE)",
-    "lga": "IDEMILI NORTH",
-    "ward": "NKPOR  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IDEMILI NORTH",
     "ward": "NKPOR  I",
     "state": "Anambra",
@@ -21867,12 +21027,6 @@
     "pu_code": "04/10/06/080",
     "pu_name": "INFRONT OF NO. 22 FRANKMOORE BY UGA STREET AMAFOR (OPEN SPACE)",
     "name": "INFRONT OF NO. 22 FRANKMOORE BY UGA STREET AMAFOR (OPEN SPACE)",
-    "lga": "IDEMILI NORTH",
-    "ward": "NKPOR  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IDEMILI NORTH",
     "ward": "NKPOR  II",
     "state": "Anambra",
@@ -23040,12 +22194,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IDEMILI NORTH",
-    "ward": "OBOSI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/10/08/001",
     "pu_name": "BOY'S SECONDARY SCHOOL I",
     "name": "BOY'S SECONDARY SCHOOL I",
@@ -23541,12 +22689,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IDEMILI NORTH",
-    "ward": "OGIDI  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/10/09/001",
     "pu_name": "ADAZI CENTRAL SCHOOL I",
     "name": "ADAZI CENTRAL SCHOOL I",
@@ -23763,12 +22905,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IDEMILI NORTH",
-    "ward": "OGIDI  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/10/10/001",
     "pu_name": "COUNCIL HALL I",
     "name": "COUNCIL HALL I",
@@ -23958,12 +23094,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IDEMILI NORTH",
-    "ward": "ORAUKWU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/10/11/001",
     "pu_name": "URUABO HALL I",
     "name": "URUABO HALL I",
@@ -24111,12 +23241,6 @@
     "pu_code": "04/10/11/017",
     "pu_name": "OMIMI UMUNNAKWE YOUTH HALL III",
     "name": "OMIMI UMUNNAKWE YOUTH HALL III",
-    "lga": "IDEMILI NORTH",
-    "ward": "UKE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IDEMILI NORTH",
     "ward": "UKE",
     "state": "Anambra",
@@ -24474,12 +23598,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IDEMILI NORTH",
-    "ward": "UMUOJI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/11/01/001",
     "pu_name": "COMMUNITY PRIMARY SCHOOL IV",
     "name": "COMMUNITY PRIMARY SCHOOL IV",
@@ -24588,12 +23706,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IDEMILI-SOUTH",
-    "ward": "AKWUKWU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/11/02/001",
     "pu_name": "OKWU MEMORIAL P/SCHOOL I",
     "name": "OKWU MEMORIAL P/SCHOOL I",
@@ -24678,12 +23790,6 @@
     "pu_code": "04/11/02/010",
     "pu_name": "NKWO IDE PUBLIC SQUARE V",
     "name": "NKWO IDE PUBLIC SQUARE V",
-    "lga": "IDEMILI-SOUTH",
-    "ward": "ALOR  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IDEMILI-SOUTH",
     "ward": "ALOR  I",
     "state": "Anambra",
@@ -24792,12 +23898,6 @@
     "pu_code": "04/11/03/012",
     "pu_name": "ALOR TOWN HALL",
     "name": "ALOR TOWN HALL",
-    "lga": "IDEMILI-SOUTH",
-    "ward": "ALOR  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IDEMILI-SOUTH",
     "ward": "ALOR  II",
     "state": "Anambra",
@@ -24957,12 +24057,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IDEMILI-SOUTH",
-    "ward": "AWKA-ETITI  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/11/05/001",
     "pu_name": "UMUNOCHA HALL I",
     "name": "UMUNOCHA HALL I",
@@ -25092,12 +24186,6 @@
     "pu_code": "04/11/05/015",
     "pu_name": "UMUEZEANYA HALL",
     "name": "UMUEZEANYA HALL",
-    "lga": "IDEMILI-SOUTH",
-    "ward": "AWKA-ETITI  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IDEMILI-SOUTH",
     "ward": "AWKA-ETITI  II",
     "state": "Anambra",
@@ -25248,12 +24336,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IDEMILI-SOUTH",
-    "ward": "NNOBI I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/11/07/001",
     "pu_name": "EZEME HALL I",
     "name": "EZEME HALL I",
@@ -25392,12 +24474,6 @@
     "pu_code": "04/11/07/016",
     "pu_name": "CUSTOMARY COURT II",
     "name": "CUSTOMARY COURT II",
-    "lga": "IDEMILI-SOUTH",
-    "ward": "NNOBI II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IDEMILI-SOUTH",
     "ward": "NNOBI II",
     "state": "Anambra",
@@ -25566,12 +24642,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IDEMILI-SOUTH",
-    "ward": "NNOBI  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/11/09/001",
     "pu_name": "DISPENSARY NNOKWA I",
     "name": "DISPENSARY NNOKWA I",
@@ -25719,12 +24789,6 @@
     "pu_code": "04/11/09/017",
     "pu_name": "IDEMILI SQUARE III",
     "name": "IDEMILI SQUARE III",
-    "lga": "IDEMILI-SOUTH",
-    "ward": "NNOKWA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IDEMILI-SOUTH",
     "ward": "NNOKWA",
     "state": "Anambra",
@@ -25977,12 +25041,6 @@
     "pu_code": "04/11/10/028",
     "pu_name": "ISU-UMUABU PRIMARY SCHOOL III",
     "name": "ISU-UMUABU PRIMARY SCHOOL III",
-    "lga": "IDEMILI-SOUTH",
-    "ward": "OBA I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IDEMILI-SOUTH",
     "ward": "OBA I",
     "state": "Anambra",
@@ -26367,12 +25425,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IDEMILI-SOUTH",
-    "ward": "OBA II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/11/12/001",
     "pu_name": "ENUOGWUGWU HALL I",
     "name": "ENUOGWUGWU HALL I",
@@ -26733,12 +25785,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IDEMILI-SOUTH",
-    "ward": "OJOTO",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/12/01/001",
     "pu_name": "EZEANI C/S I",
     "name": "EZEANI C/S I",
@@ -26955,12 +26001,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IHALA",
-    "ward": "AMAMU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/12/02/001",
     "pu_name": "ST. JUDE SEC. SCHOOL",
     "name": "ST. JUDE SEC. SCHOOL",
@@ -27087,12 +26127,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IHALA",
-    "ward": "AMAMU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/12/03/001",
     "pu_name": "AMORKA C.P.S",
     "name": "AMORKA C.P.S",
@@ -27195,12 +26229,6 @@
     "pu_code": "04/12/03/012",
     "pu_name": "UMUEJIM COMM HALL",
     "name": "UMUEJIM COMM HALL",
-    "lga": "IHALA",
-    "ward": "AMORKA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IHALA",
     "ward": "AMORKA",
     "state": "Anambra",
@@ -27324,12 +26352,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IHALA",
-    "ward": "AZIA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/12/05/001",
     "pu_name": "UMUEZEAWALA C.P.S I",
     "name": "UMUEZEAWALA C.P.S I",
@@ -27441,12 +26463,6 @@
     "pu_code": "04/12/05/013",
     "pu_name": "IHITE P/SCHOOL IV",
     "name": "IHITE P/SCHOOL IV",
-    "lga": "IHALA",
-    "ward": "IHITE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IHALA",
     "ward": "IHITE",
     "state": "Anambra",
@@ -27588,12 +26604,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IHALA",
-    "ward": "ISSEKE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/12/07/001",
     "pu_name": "UBAHUEKWEM C.P.S I",
     "name": "UBAHUEKWEM C.P.S I",
@@ -27723,12 +26733,6 @@
     "pu_code": "04/12/07/015",
     "pu_name": "OGBOLO PRIMARY SCHOOL",
     "name": "OGBOLO PRIMARY SCHOOL",
-    "lga": "IHALA",
-    "ward": "OGBOLO",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IHALA",
     "ward": "OGBOLO",
     "state": "Anambra",
@@ -27906,12 +26910,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IHALA",
-    "ward": "OKIJA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/12/09/001",
     "pu_name": "EZIEKE P/S I",
     "name": "EZIEKE P/S I",
@@ -28050,12 +27048,6 @@
     "pu_code": "04/12/09/016",
     "pu_name": "ANUNWA COMM HALL",
     "name": "ANUNWA COMM HALL",
-    "lga": "IHALA",
-    "ward": "OKIJA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IHALA",
     "ward": "OKIJA  II",
     "state": "Anambra",
@@ -28215,12 +27207,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IHALA",
-    "ward": "OKIJA  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/12/11/001",
     "pu_name": "C.S.S OKIJA I",
     "name": "C.S.S OKIJA I",
@@ -28332,12 +27318,6 @@
     "pu_code": "04/12/11/013",
     "pu_name": "OBUM ODUGA",
     "name": "OBUM ODUGA",
-    "lga": "IHALA",
-    "ward": "OKIJA  IV",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IHALA",
     "ward": "OKIJA  IV",
     "state": "Anambra",
@@ -28497,12 +27477,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IHALA",
-    "ward": "OKIJA  V",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/12/13/001",
     "pu_name": "ORSU CENTRAL SCHOOL I",
     "name": "ORSU CENTRAL SCHOOL I",
@@ -28629,12 +27603,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IHALA",
-    "ward": "ORSUMOGHU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/12/14/001",
     "pu_name": "UBULUISIUZOR C.P.S I",
     "name": "UBULUISIUZOR C.P.S I",
@@ -28683,12 +27651,6 @@
     "pu_code": "04/12/14/006",
     "pu_name": "UBULUISIUZOR COMM SEC SCHOOL  II",
     "name": "UBULUISIUZOR COMM SEC SCHOOL  II",
-    "lga": "IHALA",
-    "ward": "UBULUISIUZOR",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IHALA",
     "ward": "UBULUISIUZOR",
     "state": "Anambra",
@@ -28965,12 +27927,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IHALA",
-    "ward": "ULI  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/12/16/001",
     "pu_name": "ULI CENTRAL SCHOOL",
     "name": "ULI CENTRAL SCHOOL",
@@ -29160,12 +28116,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IHALA",
-    "ward": "ULI  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/12/17/001",
     "pu_name": "UMUOMA C/S I",
     "name": "UMUOMA C/S I",
@@ -29319,12 +28269,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IHALA",
-    "ward": "ULI  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/12/18/001",
     "pu_name": "LILU CENTRAL SCHOOL I",
     "name": "LILU CENTRAL SCHOOL I",
@@ -29436,12 +28380,6 @@
     "pu_code": "04/12/18/013",
     "pu_name": "UMUODOCHI COMMUNITY HALL LILU",
     "name": "UMUODOCHI COMMUNITY HALL LILU",
-    "lga": "IHALA",
-    "ward": "LILU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "IHALA",
     "ward": "LILU",
     "state": "Anambra",
@@ -29628,12 +28566,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IHALA",
-    "ward": "UZOAKWA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/12/20/001",
     "pu_name": "MBOSI HIGH SCHOOL I",
     "name": "MBOSI HIGH SCHOOL I",
@@ -29760,12 +28692,6 @@
     "state_code": "04"
   },
   {
-    "lga": "IHALA",
-    "ward": "MBOSI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/13/01/001",
     "pu_name": "AMABO P/S I",
     "name": "AMABO P/S I",
@@ -29847,12 +28773,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NJIKOKA",
-    "ward": "ABBA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/13/02/001",
     "pu_name": "CHIBUZO PRY. SCH. I",
     "name": "CHIBUZO PRY. SCH. I",
@@ -29928,12 +28848,6 @@
     "pu_code": "04/13/02/009",
     "pu_name": "AMORJI SQAURE",
     "name": "AMORJI SQAURE",
-    "lga": "NJIKOKA",
-    "ward": "ABBA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NJIKOKA",
     "ward": "ABBA  II",
     "state": "Anambra",
@@ -30060,12 +28974,6 @@
     "pu_code": "04/13/03/014",
     "pu_name": "AMORJI HALL",
     "name": "AMORJI HALL",
-    "lga": "NJIKOKA",
-    "ward": "ABAGANA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NJIKOKA",
     "ward": "ABAGANA  I",
     "state": "Anambra",
@@ -30225,12 +29133,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NJIKOKA",
-    "ward": "ABAGANA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/13/05/001",
     "pu_name": "KINDERGATEN P/S, OBUOFU I",
     "name": "KINDERGATEN P/S, OBUOFU I",
@@ -30366,12 +29268,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NJIKOKA",
-    "ward": "ABAGANA  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/13/06/001",
     "pu_name": "EPUPE P/S I",
     "name": "EPUPE P/S I",
@@ -30492,12 +29388,6 @@
     "pu_code": "04/13/06/014",
     "pu_name": "EZI-NKWO SQUARE",
     "name": "EZI-NKWO SQUARE",
-    "lga": "NJIKOKA",
-    "ward": "ABAGANA  IV",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NJIKOKA",
     "ward": "ABAGANA  IV",
     "state": "Anambra",
@@ -30639,12 +29529,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NJIKOKA",
-    "ward": "ENUGWU-AGIDI  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/13/08/001",
     "pu_name": "IRUEBIELI CIVIC CENTRE I",
     "name": "IRUEBIELI CIVIC CENTRE I",
@@ -30729,12 +29613,6 @@
     "pu_code": "04/13/08/010",
     "pu_name": "IGBOLO SQUARE II",
     "name": "IGBOLO SQUARE II",
-    "lga": "NJIKOKA",
-    "ward": "ENUGWU-AGIDI  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NJIKOKA",
     "ward": "ENUGWU-AGIDI  II",
     "state": "Anambra",
@@ -30903,12 +29781,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NJIKOKA",
-    "ward": "ENUGWU UKWU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/13/10/001",
     "pu_name": "EKWO CIVIC CENTRE I",
     "name": "EKWO CIVIC CENTRE I",
@@ -31035,12 +29907,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NJIKOKA",
-    "ward": "ENUGWU UKWU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/13/11/001",
     "pu_name": "OSILI P/S I",
     "name": "OSILI P/S I",
@@ -31125,12 +29991,6 @@
     "pu_code": "04/13/11/010",
     "pu_name": "OBU-NWANDU SQAURE AWOVU",
     "name": "OBU-NWANDU SQAURE AWOVU",
-    "lga": "NJIKOKA",
-    "ward": "ENUGWU UKWU  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NJIKOKA",
     "ward": "ENUGWU UKWU  III",
     "state": "Anambra",
@@ -31236,12 +30096,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NJIKOKA",
-    "ward": "ENUGWU UKWU  IV",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/13/13/001",
     "pu_name": "URUOJI P/S",
     "name": "URUOJI P/S",
@@ -31299,12 +30153,6 @@
     "pu_code": "04/13/13/007",
     "pu_name": "EBE-EZI ALOR SQAURE",
     "name": "EBE-EZI ALOR SQAURE",
-    "lga": "NJIKOKA",
-    "ward": "NAWFIA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NJIKOKA",
     "ward": "NAWFIA  I",
     "state": "Anambra",
@@ -31431,12 +30279,6 @@
     "pu_code": "04/13/14/014",
     "pu_name": "AKPU-AGWU SQUARE",
     "name": "AKPU-AGWU SQUARE",
-    "lga": "NJIKOKA",
-    "ward": "NAWFIA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NJIKOKA",
     "ward": "NAWFIA  II",
     "state": "Anambra",
@@ -31578,12 +30420,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NJIKOKA",
-    "ward": "NIMO  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/13/16/001",
     "pu_name": "KINDERGATEN URUKOFIA I",
     "name": "KINDERGATEN URUKOFIA I",
@@ -31686,12 +30522,6 @@
     "pu_code": "04/13/16/012",
     "pu_name": "OBODO OKOLO SQUARE URUOKOKWE",
     "name": "OBODO OKOLO SQUARE URUOKOKWE",
-    "lga": "NJIKOKA",
-    "ward": "NIMO  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NJIKOKA",
     "ward": "NIMO  II",
     "state": "Anambra",
@@ -31809,12 +30639,6 @@
     "pu_code": "04/13/17/013",
     "pu_name": "OLILE EZI OBIAMALU SQUARE",
     "name": "OLILE EZI OBIAMALU SQUARE",
-    "lga": "NJIKOKA",
-    "ward": "NIMO  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NJIKOKA",
     "ward": "NIMO  III",
     "state": "Anambra",
@@ -31941,12 +30765,6 @@
     "pu_code": "04/13/18/014",
     "pu_name": "OBEAGU EZI NWOBODO SQAURE",
     "name": "OBEAGU EZI NWOBODO SQAURE",
-    "lga": "NJIKOKA",
-    "ward": "NIMO  IV",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NJIKOKA",
     "ward": "NIMO  IV",
     "state": "Anambra",
@@ -32235,12 +31053,6 @@
     "pu_code": "04/14/01/032",
     "pu_name": "OKPUNO HEALTH CENTRE",
     "name": "OKPUNO HEALTH CENTRE",
-    "lga": "NNEWI NORTH",
-    "ward": "NNEWI-ICHI  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NNEWI NORTH",
     "ward": "NNEWI-ICHI  I",
     "state": "Anambra",
@@ -32589,12 +31401,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI NORTH",
-    "ward": "NNEWI-ICHI  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/14/03/001",
     "pu_name": "COOPERATIVE CENTRE I",
     "name": "COOPERATIVE CENTRE I",
@@ -32850,12 +31656,6 @@
     "pu_code": "04/14/03/029",
     "pu_name": "OKOFIA COMMUNITY HALL",
     "name": "OKOFIA COMMUNITY HALL",
-    "lga": "NNEWI NORTH",
-    "ward": "OTOLO  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NNEWI NORTH",
     "ward": "OTOLO  I",
     "state": "Anambra",
@@ -33123,12 +31923,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI NORTH",
-    "ward": "OTOLO II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/14/05/001",
     "pu_name": "EZEKWUABO C/S I",
     "name": "EZEKWUABO C/S I",
@@ -33384,12 +32178,6 @@
     "pu_code": "04/14/05/029",
     "pu_name": "EZEKWUABOR  HEALTH CENTERI",
     "name": "EZEKWUABOR  HEALTH CENTERI",
-    "lga": "NNEWI NORTH",
-    "ward": "OTOLO  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NNEWI NORTH",
     "ward": "OTOLO  III",
     "state": "Anambra",
@@ -33687,12 +32475,6 @@
     "pu_code": "04/14/06/033",
     "pu_name": "UGHAJI COMMUNITY HALL",
     "name": "UGHAJI COMMUNITY HALL",
-    "lga": "NNEWI NORTH",
-    "ward": "UMUDIM  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NNEWI NORTH",
     "ward": "UMUDIM  I",
     "state": "Anambra",
@@ -34035,12 +32817,6 @@
     "pu_code": "04/14/07/038",
     "pu_name": "OPEN SPACE AT EKWULU LAYOUT",
     "name": "OPEN SPACE AT EKWULU LAYOUT",
-    "lga": "NNEWI NORTH",
-    "ward": "UMUDIM  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NNEWI NORTH",
     "ward": "UMUDIM  II",
     "state": "Anambra",
@@ -34407,12 +33183,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI NORTH",
-    "ward": "URUAGU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/14/09/001",
     "pu_name": "COMM. P/S URUAGU I",
     "name": "COMM. P/S URUAGU I",
@@ -34737,12 +33507,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI NORTH",
-    "ward": "URUAGU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/14/10/001",
     "pu_name": "OKPUNO UZODIKE VILLAGE HALL I",
     "name": "OKPUNO UZODIKE VILLAGE HALL I",
@@ -34869,12 +33633,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI NORTH",
-    "ward": "URUAGU  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/15/01/001",
     "pu_name": "AKWAIHEDI CENTRAL SCHOOL I",
     "name": "AKWAIHEDI CENTRAL SCHOOL I",
@@ -34974,12 +33732,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI SOUTH",
-    "ward": "AKWA-IHEDI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/15/02/001",
     "pu_name": "UHUACHUSI HALL",
     "name": "UHUACHUSI HALL",
@@ -35073,12 +33825,6 @@
     "pu_code": "04/15/02/011",
     "pu_name": "UMEOBENE HALL EZIAMA II",
     "name": "UMEOBENE HALL EZIAMA II",
-    "lga": "NNEWI SOUTH",
-    "ward": "AMICHI  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NNEWI SOUTH",
     "ward": "AMICHI  I",
     "state": "Anambra",
@@ -35196,12 +33942,6 @@
     "pu_code": "04/15/03/013",
     "pu_name": "UMUNACHI HALL EBENATOR UDENE",
     "name": "UMUNACHI HALL EBENATOR UDENE",
-    "lga": "NNEWI SOUTH",
-    "ward": "AMICHI  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NNEWI SOUTH",
     "ward": "AMICHI  II",
     "state": "Anambra",
@@ -35352,12 +34092,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI SOUTH",
-    "ward": "AMICHI  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/15/05/001",
     "pu_name": "AZUIGBO TOWN HALL I",
     "name": "AZUIGBO TOWN HALL I",
@@ -35466,12 +34200,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI SOUTH",
-    "ward": "AZUIGBO",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/15/06/001",
     "pu_name": "UMUNNAM VILLAGE CIVIC CENTRE I",
     "name": "UMUNNAM VILLAGE CIVIC CENTRE I",
@@ -35574,12 +34302,6 @@
     "pu_code": "04/15/06/012",
     "pu_name": "EBENATOR COMMUNITY SCHOOL VI",
     "name": "EBENATOR COMMUNITY SCHOOL VI",
-    "lga": "NNEWI SOUTH",
-    "ward": "EBENATOR",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NNEWI SOUTH",
     "ward": "EBENATOR",
     "state": "Anambra",
@@ -35820,12 +34542,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI SOUTH",
-    "ward": "EKWULUMILI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/15/08/001",
     "pu_name": "AWOR PRIMARY SCHOOL I",
     "name": "AWOR PRIMARY SCHOOL I",
@@ -35901,12 +34617,6 @@
     "pu_code": "04/15/08/009",
     "pu_name": "AWOR HALL II",
     "name": "AWOR HALL II",
-    "lga": "NNEWI SOUTH",
-    "ward": "EZINIFITE  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NNEWI SOUTH",
     "ward": "EZINIFITE  I",
     "state": "Anambra",
@@ -36048,12 +34758,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI SOUTH",
-    "ward": "EZINIFITE  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/15/10/001",
     "pu_name": "ETITI HALL I",
     "name": "ETITI HALL I",
@@ -36111,12 +34815,6 @@
     "pu_code": "04/15/10/007",
     "pu_name": "UMUCHE HALL",
     "name": "UMUCHE HALL",
-    "lga": "NNEWI SOUTH",
-    "ward": "EZINIFITE  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NNEWI SOUTH",
     "ward": "EZINIFITE  III",
     "state": "Anambra",
@@ -36234,12 +34932,6 @@
     "pu_code": "04/15/11/013",
     "pu_name": "GIRLS HIGH SCHOOL II",
     "name": "GIRLS HIGH SCHOOL II",
-    "lga": "NNEWI SOUTH",
-    "ward": "OSUMENYI  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NNEWI SOUTH",
     "ward": "OSUMENYI  I",
     "state": "Anambra",
@@ -36444,12 +35136,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI SOUTH",
-    "ward": "OSUMENYI  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/15/13/001",
     "pu_name": "UMUEZEANI VILLAGE HALL I",
     "name": "UMUEZEANI VILLAGE HALL I",
@@ -36585,12 +35271,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI SOUTH",
-    "ward": "UKPOR  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/15/14/001",
     "pu_name": "UMUHU CENTRAL SCHOOL I",
     "name": "UMUHU CENTRAL SCHOOL I",
@@ -36699,12 +35379,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI SOUTH",
-    "ward": "UKPOR II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/15/15/001",
     "pu_name": "OBIUKWU HALL I",
     "name": "OBIUKWU HALL I",
@@ -36798,12 +35472,6 @@
     "pu_code": "04/15/15/011",
     "pu_name": "AGWURIA VILLAGE HALL II",
     "name": "AGWURIA VILLAGE HALL II",
-    "lga": "NNEWI SOUTH",
-    "ward": "UKPOR III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NNEWI SOUTH",
     "ward": "UKPOR III",
     "state": "Anambra",
@@ -36936,12 +35604,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI SOUTH",
-    "ward": "UKPOR IV",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/15/17/001",
     "pu_name": "AMAKOM CENTRAL SCHOOL I",
     "name": "AMAKOM CENTRAL SCHOOL I",
@@ -37026,12 +35688,6 @@
     "pu_code": "04/15/17/010",
     "pu_name": "NZAGHA VILLAGE HALL II",
     "name": "NZAGHA VILLAGE HALL II",
-    "lga": "NNEWI SOUTH",
-    "ward": "UKPOR V",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NNEWI SOUTH",
     "ward": "UKPOR V",
     "state": "Anambra",
@@ -37203,12 +35859,6 @@
     "pu_code": "04/15/18/019",
     "pu_name": "CENTRAL SCHOOL, UKPOR II",
     "name": "CENTRAL SCHOOL, UKPOR II",
-    "lga": "NNEWI SOUTH",
-    "ward": "UKPOR VI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "NNEWI SOUTH",
     "ward": "UKPOR VI",
     "state": "Anambra",
@@ -37458,12 +36108,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI SOUTH",
-    "ward": "UNUBI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/15/20/001",
     "pu_name": "COMMUNITY TOWN HALL NKETE I",
     "name": "COMMUNITY TOWN HALL NKETE I",
@@ -37662,12 +36306,6 @@
     "state_code": "04"
   },
   {
-    "lga": "NNEWI SOUTH",
-    "ward": "UTUH",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/16/01/001",
     "pu_name": "C.P.S AKILI OGIDI",
     "name": "C.P.S AKILI OGIDI",
@@ -37776,12 +36414,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OGBARU",
-    "ward": "AKILI OGIDI/OBEAGWE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/16/02/001",
     "pu_name": "CENTRAL SCHOOL, AKILI OZIZOR I",
     "name": "CENTRAL SCHOOL, AKILI OZIZOR I",
@@ -37875,12 +36507,6 @@
     "pu_code": "04/16/02/011",
     "pu_name": "HEALTH CENTRE, AKILI-OZIZOR",
     "name": "HEALTH CENTRE, AKILI-OZIZOR",
-    "lga": "OGBARU",
-    "ward": "AKILI - OZIZOR",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "OGBARU",
     "ward": "AKILI - OZIZOR",
     "state": "Anambra",
@@ -38022,12 +36648,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OGBARU",
-    "ward": "ATANI  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/16/04/001",
     "pu_name": "TAX OFFICE I",
     "name": "TAX OFFICE I",
@@ -38103,12 +36723,6 @@
     "pu_code": "04/16/04/009",
     "pu_name": "LGA PAVILLION ATANI II",
     "name": "LGA PAVILLION ATANI II",
-    "lga": "OGBARU",
-    "ward": "ATANI  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "OGBARU",
     "ward": "ATANI  II",
     "state": "Anambra",
@@ -38511,12 +37125,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OGBARU",
-    "ward": "IYIOWA/ODEKPE/OHITA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/16/06/001",
     "pu_name": "CENTRAL SCHOOL",
     "name": "CENTRAL SCHOOL",
@@ -38664,12 +37272,6 @@
     "pu_code": "04/16/06/017",
     "pu_name": "OGBAKUBA HIGH SCHOOL.",
     "name": "OGBAKUBA HIGH SCHOOL.",
-    "lga": "OGBARU",
-    "ward": "OCHUCHE-UMUODU/OGBAKUBA/AMIYI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "OGBARU",
     "ward": "OCHUCHE-UMUODU/OGBAKUBA/AMIYI",
     "state": "Anambra",
@@ -38829,12 +37431,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OGBARU",
-    "ward": "OGWUANIOCHA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/16/08/001",
     "pu_name": "POST OFFICE I",
     "name": "POST OFFICE I",
@@ -38973,12 +37569,6 @@
     "pu_code": "04/16/08/016",
     "pu_name": "OKICHI ELEKE II",
     "name": "OKICHI ELEKE II",
-    "lga": "OGBARU",
-    "ward": "OGWU-IKPELE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "OGBARU",
     "ward": "OGWU-IKPELE",
     "state": "Anambra",
@@ -39255,12 +37845,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OGBARU",
-    "ward": "OKPOKO I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/16/10/001",
     "pu_name": "NTUEKE HALL I",
     "name": "NTUEKE HALL I",
@@ -39480,12 +38064,6 @@
     "pu_code": "04/16/10/025",
     "pu_name": "FIRE SERVICE",
     "name": "FIRE SERVICE",
-    "lga": "OGBARU",
-    "ward": "OKPOKO II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "OGBARU",
     "ward": "OKPOKO II",
     "state": "Anambra",
@@ -39744,12 +38322,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OGBARU",
-    "ward": "OKPOKO III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/16/12/001",
     "pu_name": "ARIRI ONWU/OJOTO I",
     "name": "ARIRI ONWU/OJOTO I",
@@ -39960,12 +38532,6 @@
     "pu_code": "04/16/12/024",
     "pu_name": "UMUOBOM HALL VIII",
     "name": "UMUOBOM HALL VIII",
-    "lga": "OGBARU",
-    "ward": "OKPOKO IV",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "OGBARU",
     "ward": "OKPOKO IV",
     "state": "Anambra",
@@ -40290,12 +38856,6 @@
     "pu_code": "04/16/13/036",
     "pu_name": "COMMUNITY PRIMARY SCHOOL V ORUMBA STREET, OKPOKO.",
     "name": "COMMUNITY PRIMARY SCHOOL V ORUMBA STREET, OKPOKO.",
-    "lga": "OGBARU",
-    "ward": "OKPOKO V",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "OGBARU",
     "ward": "OKPOKO V",
     "state": "Anambra",
@@ -41004,12 +39564,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OGBARU",
-    "ward": "OKPOKO VI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/16/15/001",
     "pu_name": "C.P.S OSSOMALA I",
     "name": "C.P.S OSSOMALA I",
@@ -41118,12 +39672,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OGBARU",
-    "ward": "OSSOMALA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/16/16/001",
     "pu_name": "C.P.S. UMUNANKWO",
     "name": "C.P.S. UMUNANKWO",
@@ -41199,12 +39747,6 @@
     "pu_code": "04/16/16/009",
     "pu_name": "CPS MPUTU II",
     "name": "CPS MPUTU II",
-    "lga": "OGBARU",
-    "ward": "UMUNANKWO/MPUTU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "OGBARU",
     "ward": "UMUNANKWO/MPUTU",
     "state": "Anambra",
@@ -41463,12 +40005,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA-NORTH",
-    "ward": "AMERICAN QUARTERS",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/17/02/001",
     "pu_name": "INTERNAL REVENUE I",
     "name": "INTERNAL REVENUE I",
@@ -41625,12 +40161,6 @@
     "pu_code": "04/17/02/018",
     "pu_name": "OPEN SPACE BESIDE ONWUGBENU CRESENT/AHAONU CLOSE",
     "name": "OPEN SPACE BESIDE ONWUGBENU CRESENT/AHAONU CLOSE",
-    "lga": "ONITSHA-NORTH",
-    "ward": "G.R.A",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA-NORTH",
     "ward": "G.R.A",
     "state": "Anambra",
@@ -41802,12 +40332,6 @@
     "pu_code": "04/17/03/019",
     "pu_name": "OPEN SPACE BESIDE NO. 65 TASIA ROAD",
     "name": "OPEN SPACE BESIDE NO. 65 TASIA ROAD",
-    "lga": "ONITSHA-NORTH",
-    "ward": "INLAND TOWN I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA-NORTH",
     "ward": "INLAND TOWN I",
     "state": "Anambra",
@@ -41988,12 +40512,6 @@
     "pu_code": "04/17/04/020",
     "pu_name": "OPEN SPACE BESIDE NO. 9 OJIBA/ABUTU LANE",
     "name": "OPEN SPACE BESIDE NO. 9 OJIBA/ABUTU LANE",
-    "lga": "ONITSHA-NORTH",
-    "ward": "INLAND TOWN II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA-NORTH",
     "ward": "INLAND TOWN II",
     "state": "Anambra",
@@ -42198,12 +40716,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA-NORTH",
-    "ward": "INLAND TOWN III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/17/06/001",
     "pu_name": "STANDARD COMMERCIAL COLLEGE",
     "name": "STANDARD COMMERCIAL COLLEGE",
@@ -42324,12 +40836,6 @@
     "pu_code": "04/17/06/014",
     "pu_name": "OPEN SPACE BESIDE NO. 4 OGBOLI RD OPEN SPACE",
     "name": "OPEN SPACE BESIDE NO. 4 OGBOLI RD OPEN SPACE",
-    "lga": "ONITSHA-NORTH",
-    "ward": "INLAND TOWN IV",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA-NORTH",
     "ward": "INLAND TOWN IV",
     "state": "Anambra",
@@ -42483,12 +40989,6 @@
     "pu_code": "04/17/07/017",
     "pu_name": "OPEN SPACE BESIDE NO. 204 AWKA ROAD, OPPOSITE ACHUKWU",
     "name": "OPEN SPACE BESIDE NO. 204 AWKA ROAD, OPPOSITE ACHUKWU",
-    "lga": "ONITSHA-NORTH",
-    "ward": "INLAND TOWN V",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA-NORTH",
     "ward": "INLAND TOWN V",
     "state": "Anambra",
@@ -42729,12 +41229,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA-NORTH",
-    "ward": "INLAND TOWN VI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/17/09/001",
     "pu_name": "BORROMEO HOSPITAL AREA1",
     "name": "BORROMEO HOSPITAL AREA1",
@@ -42969,12 +41463,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA-NORTH",
-    "ward": "INLAND TOWN VII",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/17/10/001",
     "pu_name": "OMAGBA PRY. SCHOOL I",
     "name": "OMAGBA PRY. SCHOOL I",
@@ -43173,12 +41661,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA-NORTH",
-    "ward": "INLAND TOWN VIII`",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/17/11/001",
     "pu_name": "ONITSHA BOYS HIGH SCHOOL I",
     "name": "ONITSHA BOYS HIGH SCHOOL I",
@@ -43326,12 +41808,6 @@
     "pu_code": "04/17/11/017",
     "pu_name": "OPEN SPACE BESIDE NO. 8 BOSAH STREET/OKOSIEME NEAR BETHANY HOUSE",
     "name": "OPEN SPACE BESIDE NO. 8 BOSAH STREET/OKOSIEME NEAR BETHANY HOUSE",
-    "lga": "ONITSHA-NORTH",
-    "ward": "OGBE UMUONICHA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA-NORTH",
     "ward": "OGBE UMUONICHA",
     "state": "Anambra",
@@ -43662,12 +42138,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA-NORTH",
-    "ward": "TRANS NKISI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/17/13/001",
     "pu_name": "OREZE PRY. SCHOOL I",
     "name": "OREZE PRY. SCHOOL I",
@@ -43821,12 +42291,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA-NORTH",
-    "ward": "WATER-SIDE CENTRAL  1",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/17/14/001",
     "pu_name": "Y.W.C.A I",
     "name": "Y.W.C.A I",
@@ -43947,12 +42411,6 @@
     "pu_code": "04/17/14/014",
     "pu_name": "OPEN SPACE BESIDE NO. 33 FRANCIS/ VENN ROAD NORTH",
     "name": "OPEN SPACE BESIDE NO. 33 FRANCIS/ VENN ROAD NORTH",
-    "lga": "ONITSHA-NORTH",
-    "ward": "WATER-SIDE CENTRAL  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA-NORTH",
     "ward": "WATER-SIDE CENTRAL  II",
     "state": "Anambra",
@@ -44112,12 +42570,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA-NORTH",
-    "ward": "WOLUWO LAYOUT",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/18/01/001",
     "pu_name": "HOUSING ESTATE PLAYGROUND I",
     "name": "HOUSING ESTATE PLAYGROUND I",
@@ -44211,12 +42663,6 @@
     "pu_code": "04/18/01/011",
     "pu_name": "OPEN SPACE IN FRONT OF PLOT 1/22 END OF IDEMILI STR",
     "name": "OPEN SPACE IN FRONT OF PLOT 1/22 END OF IDEMILI STR",
-    "lga": "ONITSHA -SOUTH",
-    "ward": "BRIDGE HEAD I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA -SOUTH",
     "ward": "BRIDGE HEAD I",
     "state": "Anambra",
@@ -44322,12 +42768,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA -SOUTH",
-    "ward": "BRIDGE HEAD II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/18/03/001",
     "pu_name": "2/3 AKPO STREET  I",
     "name": "2/3 AKPO STREET  I",
@@ -44394,12 +42834,6 @@
     "pu_code": "04/18/03/008",
     "pu_name": "OPEN SPACE IN FRONT OF 2/4, URUNEBO STREET, ADJACENT ASMATA OFFICE.",
     "name": "OPEN SPACE IN FRONT OF 2/4, URUNEBO STREET, ADJACENT ASMATA OFFICE.",
-    "lga": "ONITSHA -SOUTH",
-    "ward": "BRIDGE HEAD III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA -SOUTH",
     "ward": "BRIDGE HEAD III",
     "state": "Anambra",
@@ -44604,12 +43038,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA -SOUTH",
-    "ward": "FEGGE 1",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/18/05/001",
     "pu_name": "LAFIAJI PRY. SCHOOL I",
     "name": "LAFIAJI PRY. SCHOOL I",
@@ -44793,12 +43221,6 @@
     "pu_code": "04/18/05/021",
     "pu_name": "OPEN SPACE IN FRONT OF NO. 58/59, ZIKS AVENUE.",
     "name": "OPEN SPACE IN FRONT OF NO. 58/59, ZIKS AVENUE.",
-    "lga": "ONITSHA -SOUTH",
-    "ward": "FEGGE II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA -SOUTH",
     "ward": "FEGGE II",
     "state": "Anambra",
@@ -44994,12 +43416,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA -SOUTH",
-    "ward": "FEGGE III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/18/07/001",
     "pu_name": "ZIK'S AVENUE PRY. SCHOOL I",
     "name": "ZIK'S AVENUE PRY. SCHOOL I",
@@ -45120,12 +43536,6 @@
     "pu_code": "04/18/07/014",
     "pu_name": "HOLY ROSARY II/ NIGER PRIMARY SCHOOL   III",
     "name": "HOLY ROSARY II/ NIGER PRIMARY SCHOOL   III",
-    "lga": "ONITSHA -SOUTH",
-    "ward": "FEGGE 1V",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA -SOUTH",
     "ward": "FEGGE 1V",
     "state": "Anambra",
@@ -45270,12 +43680,6 @@
     "pu_code": "04/18/08/016",
     "pu_name": "URBAN GIRLS SECONDARY SCHOOL   IV  (NBL BUILDING)",
     "name": "URBAN GIRLS SECONDARY SCHOOL   IV  (NBL BUILDING)",
-    "lga": "ONITSHA -SOUTH",
-    "ward": "FEGGE V",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA -SOUTH",
     "ward": "FEGGE V",
     "state": "Anambra",
@@ -45528,12 +43932,6 @@
     "pu_code": "04/18/09/028",
     "pu_name": "OPEN SPACE IN FRONT OF NO. 31, AGGREY ROAD/ONYEKWELU STR.   II.",
     "name": "OPEN SPACE IN FRONT OF NO. 31, AGGREY ROAD/ONYEKWELU STR.   II.",
-    "lga": "ONITSHA -SOUTH",
-    "ward": "FEGGE VI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA -SOUTH",
     "ward": "FEGGE VI",
     "state": "Anambra",
@@ -45963,12 +44361,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA -SOUTH",
-    "ward": "FEGGE VII",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/18/11/001",
     "pu_name": "PIONEER PRY. SCHOOL I",
     "name": "PIONEER PRY. SCHOOL I",
@@ -46143,12 +44535,6 @@
     "pu_code": "04/18/11/020",
     "pu_name": "C.K.C. COLLEGE III                                               (FRONT OF BASKET BALL COURT )",
     "name": "C.K.C. COLLEGE III                                               (FRONT OF BASKET BALL COURT )",
-    "lga": "ONITSHA -SOUTH",
-    "ward": "ODOAKPU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA -SOUTH",
     "ward": "ODOAKPU  I",
     "state": "Anambra",
@@ -46407,12 +44793,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA -SOUTH",
-    "ward": "ODOAKPU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/18/13/001",
     "pu_name": "ANIONWU/OBANYE STREET I",
     "name": "ANIONWU/OBANYE STREET I",
@@ -46497,12 +44877,6 @@
     "pu_code": "04/18/13/010",
     "pu_name": "IBOKU/ONWUDIWE STREET III",
     "name": "IBOKU/ONWUDIWE STREET III",
-    "lga": "ONITSHA -SOUTH",
-    "ward": "ODOAKPU  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA -SOUTH",
     "ward": "ODOAKPU  III",
     "state": "Anambra",
@@ -46680,12 +45054,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA -SOUTH",
-    "ward": "ODOAKPU  IV",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/18/15/001",
     "pu_name": "MODEBE MEMO P/S I",
     "name": "MODEBE MEMO P/S I",
@@ -46779,12 +45147,6 @@
     "pu_code": "04/18/15/011",
     "pu_name": "NWEJE PRIMARY SCHOOL  IV, IN FRONT OF HEADMISTRESS OFFICE",
     "name": "NWEJE PRIMARY SCHOOL  IV, IN FRONT OF HEADMISTRESS OFFICE",
-    "lga": "ONITSHA -SOUTH",
-    "ward": "ODOAKPU V",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ONITSHA -SOUTH",
     "ward": "ODOAKPU V",
     "state": "Anambra",
@@ -46953,12 +45315,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA -SOUTH",
-    "ward": "ODOAKPU VI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/18/17/001",
     "pu_name": "METU MEMO SEC. SCHOOL I",
     "name": "METU MEMO SEC. SCHOOL I",
@@ -47103,12 +45459,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ONITSHA -SOUTH",
-    "ward": "ODOAKPU VII",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/19/01/001",
     "pu_name": "EZIONUOGU  SQUARE I",
     "name": "EZIONUOGU  SQUARE I",
@@ -47244,12 +45594,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA NORTH",
-    "ward": "AJALLI  I (OBINIKPA AND UMUEVE)",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/19/02/001",
     "pu_name": "EZIBE ADIBE SQUARE",
     "name": "EZIBE ADIBE SQUARE",
@@ -47295,12 +45639,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA NORTH",
-    "ward": "AJALLI  II (UMUABIAMA AND AMAGA)",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/19/03/001",
     "pu_name": "CENTRAL SCHOOL, AMAETITI",
     "name": "CENTRAL SCHOOL, AMAETITI",
@@ -47322,12 +45660,6 @@
     "pu_code": "04/19/03/003",
     "pu_name": "ENUKO VILLAGE",
     "name": "ENUKO VILLAGE",
-    "lga": "ORUMBA NORTH",
-    "ward": "AMAETITI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA NORTH",
     "ward": "AMAETITI",
     "state": "Anambra",
@@ -47460,12 +45792,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA NORTH",
-    "ward": "AMAOKPALA / OMOGHO",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/19/05/001",
     "pu_name": "OBINAGU SQUARE",
     "name": "OBINAGU SQUARE",
@@ -47541,12 +45867,6 @@
     "pu_code": "04/19/05/009",
     "pu_name": "PRY. SCHOOL",
     "name": "PRY. SCHOOL",
-    "lga": "ORUMBA NORTH",
-    "ward": "AWA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA NORTH",
     "ward": "AWA",
     "state": "Anambra",
@@ -47673,12 +45993,6 @@
     "pu_code": "04/19/06/014",
     "pu_name": "AKIDI SQUARE",
     "name": "AKIDI SQUARE",
-    "lga": "ORUMBA NORTH",
-    "ward": "AWGBU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA NORTH",
     "ward": "AWGBU  I",
     "state": "Anambra",
@@ -47874,12 +46188,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA NORTH",
-    "ward": "AWGBU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/19/08/001",
     "pu_name": "AMOKWE SQUARE",
     "name": "AMOKWE SQUARE",
@@ -48069,12 +46377,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA NORTH",
-    "ward": "NANKA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/19/09/001",
     "pu_name": "EZINANO SQUARE, ENUGWUNANKA",
     "name": "EZINANO SQUARE, ENUGWUNANKA",
@@ -48210,12 +46512,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA NORTH",
-    "ward": "NANKA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/19/10/001",
     "pu_name": "CENTRAL SCHOOL, NDIKE I",
     "name": "CENTRAL SCHOOL, NDIKE I",
@@ -48315,12 +46611,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA NORTH",
-    "ward": "NDIKELIONWU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/19/11/001",
     "pu_name": "AMAUDALA SQUARE",
     "name": "AMAUDALA SQUARE",
@@ -48351,12 +46641,6 @@
     "pu_code": "04/19/11/004",
     "pu_name": "EZIUDALA NDIOKPALEKE",
     "name": "EZIUDALA NDIOKPALEKE",
-    "lga": "ORUMBA NORTH",
-    "ward": "NDIOKOLO/NDIOKPALEKE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA NORTH",
     "ward": "NDIOKOLO/NDIOKPALEKE",
     "state": "Anambra",
@@ -48498,12 +46782,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA NORTH",
-    "ward": "NDIOWU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/19/13/001",
     "pu_name": "CENTRAL SCHOOL, OZU I",
     "name": "CENTRAL SCHOOL, OZU I",
@@ -48570,12 +46848,6 @@
     "pu_code": "04/19/13/008",
     "pu_name": "MKPOHO UBANI",
     "name": "MKPOHO UBANI",
-    "lga": "ORUMBA NORTH",
-    "ward": "NDIUKWUENU/OKPEZE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA NORTH",
     "ward": "NDIUKWUENU/OKPEZE",
     "state": "Anambra",
@@ -48693,12 +46965,6 @@
     "pu_code": "04/19/14/013",
     "pu_name": "COMMUNITY SECONDARY SCHOOL OKO I",
     "name": "COMMUNITY SECONDARY SCHOOL OKO I",
-    "lga": "ORUMBA NORTH",
-    "ward": "OKO I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA NORTH",
     "ward": "OKO I",
     "state": "Anambra",
@@ -48957,12 +47223,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA NORTH",
-    "ward": "OKO  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/19/16/001",
     "pu_name": "R.C.M. NDIOKPALEZE",
     "name": "R.C.M. NDIOKPALEZE",
@@ -48984,12 +47244,6 @@
     "pu_code": "04/19/16/003",
     "pu_name": "EZIOGWE SQUARE",
     "name": "EZIOGWE SQUARE",
-    "lga": "ORUMBA NORTH",
-    "ward": "NDI OKPALAEZE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA NORTH",
     "ward": "NDI OKPALAEZE",
     "state": "Anambra",
@@ -49239,12 +47493,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA NORTH",
-    "ward": "UFUMA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/19/18/001",
     "pu_name": "OBU UMUOGU UMUAGU I",
     "name": "OBU UMUOGU UMUAGU I",
@@ -49488,12 +47736,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA NORTH",
-    "ward": "UFUMA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/20/01/001",
     "pu_name": "CENTRAL SCHOOL, AGBUDU I",
     "name": "CENTRAL SCHOOL, AGBUDU I",
@@ -49515,12 +47757,6 @@
     "pu_code": "04/20/01/003",
     "pu_name": "NGENE AJA OCHA SQUARE",
     "name": "NGENE AJA OCHA SQUARE",
-    "lga": "ORUMBA  SOUTH",
-    "ward": "AGBUDU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA  SOUTH",
     "ward": "AGBUDU",
     "state": "Anambra",
@@ -49593,12 +47829,6 @@
     "pu_code": "04/20/02/008",
     "pu_name": "EZIBE AMBROSE OKEKE SQUARE",
     "name": "EZIBE AMBROSE OKEKE SQUARE",
-    "lga": "ORUMBA  SOUTH",
-    "ward": "AKPU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA  SOUTH",
     "ward": "AKPU",
     "state": "Anambra",
@@ -49680,12 +47910,6 @@
     "pu_code": "04/20/03/009",
     "pu_name": "UMUEJINDU VILLAGE HALL",
     "name": "UMUEJINDU VILLAGE HALL",
-    "lga": "ORUMBA  SOUTH",
-    "ward": "ENUGU/UMONYIA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA  SOUTH",
     "ward": "ENUGU/UMONYIA",
     "state": "Anambra",
@@ -49785,12 +48009,6 @@
     "pu_code": "04/20/04/011",
     "pu_name": "ORIE MARKET SQUARE IV",
     "name": "ORIE MARKET SQUARE IV",
-    "lga": "ORUMBA  SOUTH",
-    "ward": "EZIAGU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA  SOUTH",
     "ward": "EZIAGU",
     "state": "Anambra",
@@ -49959,12 +48177,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA  SOUTH",
-    "ward": "EZIRA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/20/06/001",
     "pu_name": "COMMUNITY PRY. SCHOOL, IHITE",
     "name": "COMMUNITY PRY. SCHOOL, IHITE",
@@ -50040,12 +48252,6 @@
     "pu_code": "04/20/06/009",
     "pu_name": "MBARA ONYEKAMMA SQUARE",
     "name": "MBARA ONYEKAMMA SQUARE",
-    "lga": "ORUMBA  SOUTH",
-    "ward": "IHITE",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA  SOUTH",
     "ward": "IHITE",
     "state": "Anambra",
@@ -50142,12 +48348,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA  SOUTH",
-    "ward": "ISULO",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/20/08/001",
     "pu_name": "ST. MARK'S NAWFIJA",
     "name": "ST. MARK'S NAWFIJA",
@@ -50229,12 +48429,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA  SOUTH",
-    "ward": "NAWFIJA",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/20/09/001",
     "pu_name": "COMMUNITY SCHOOL, UMUCHUKWU",
     "name": "COMMUNITY SCHOOL, UMUCHUKWU",
@@ -50274,12 +48468,6 @@
     "pu_code": "04/20/09/005",
     "pu_name": "AFOR MARKET SQUARE",
     "name": "AFOR MARKET SQUARE",
-    "lga": "ORUMBA  SOUTH",
-    "ward": "UMUCHUKWU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA  SOUTH",
     "ward": "UMUCHUKWU",
     "state": "Anambra",
@@ -50376,12 +48564,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA  SOUTH",
-    "ward": "OGBOJI",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/20/11/001",
     "pu_name": "BOYS SECONDARY SCHOOL I",
     "name": "BOYS SECONDARY SCHOOL I",
@@ -50466,12 +48648,6 @@
     "pu_code": "04/20/11/010",
     "pu_name": "MBARA AGALA SQUARE II",
     "name": "MBARA AGALA SQUARE II",
-    "lga": "ORUMBA  SOUTH",
-    "ward": "OGBUNKA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA  SOUTH",
     "ward": "OGBUNKA  I",
     "state": "Anambra",
@@ -50586,12 +48762,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA  SOUTH",
-    "ward": "OGBUNKA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/20/13/001",
     "pu_name": "IHIE PRY. SCHOOL",
     "name": "IHIE PRY. SCHOOL",
@@ -50649,12 +48819,6 @@
     "pu_code": "04/20/13/007",
     "pu_name": "OBAKPU VILLAGE HALL, LETE",
     "name": "OBAKPU VILLAGE HALL, LETE",
-    "lga": "ORUMBA  SOUTH",
-    "ward": "OWERRE-EZUKALA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA  SOUTH",
     "ward": "OWERRE-EZUKALA  I",
     "state": "Anambra",
@@ -50745,12 +48909,6 @@
     "pu_code": "04/20/14/010",
     "pu_name": "OGUME NEW LAYOUT HALL",
     "name": "OGUME NEW LAYOUT HALL",
-    "lga": "ORUMBA  SOUTH",
-    "ward": "OWERRE-EZUKALA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA  SOUTH",
     "ward": "OWERRE-EZUKALA  II",
     "state": "Anambra",
@@ -51000,12 +49158,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA  SOUTH",
-    "ward": "UMUNZE I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/20/16/001",
     "pu_name": "MBARIZO HALL",
     "name": "MBARIZO HALL",
@@ -51204,12 +49356,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA  SOUTH",
-    "ward": "UMUNZE II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/20/17/001",
     "pu_name": "OGANIRU PRY. SCHOOL",
     "name": "OGANIRU PRY. SCHOOL",
@@ -51345,12 +49491,6 @@
     "state_code": "04"
   },
   {
-    "lga": "ORUMBA  SOUTH",
-    "ward": "UMUNZE III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/20/18/001",
     "pu_name": "UMUNAMBU VILLAGE HALL I",
     "name": "UMUNAMBU VILLAGE HALL I",
@@ -51462,12 +49602,6 @@
     "pu_code": "04/20/18/013",
     "pu_name": "AMA NWOKEDI SQUARE",
     "name": "AMA NWOKEDI SQUARE",
-    "lga": "ORUMBA  SOUTH",
-    "ward": "UMUOMAKU",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "ORUMBA  SOUTH",
     "ward": "UMUOMAKU",
     "state": "Anambra",
@@ -51600,12 +49734,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OYI",
-    "ward": "AWKUZU  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/21/02/001",
     "pu_name": "AMA MGBAGO UKPOMACHI I",
     "name": "AMA MGBAGO UKPOMACHI I",
@@ -51732,12 +49860,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OYI",
-    "ward": "AWKUZU  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/21/03/001",
     "pu_name": "PROGRESS P/S",
     "name": "PROGRESS P/S",
@@ -51822,12 +49944,6 @@
     "pu_code": "04/21/03/010",
     "pu_name": "AMA UDENE VILLAGE SQUARE",
     "name": "AMA UDENE VILLAGE SQUARE",
-    "lga": "OYI",
-    "ward": "AWKUZU  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "OYI",
     "ward": "AWKUZU  III",
     "state": "Anambra",
@@ -52032,12 +50148,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OYI",
-    "ward": "AWKUZU  IV",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/21/05/001",
     "pu_name": "IRUCHIMA VILLAGE HALL I",
     "name": "IRUCHIMA VILLAGE HALL I",
@@ -52209,12 +50319,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OYI",
-    "ward": "NTEJE  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/21/06/001",
     "pu_name": "MGBAGO HALL",
     "name": "MGBAGO HALL",
@@ -52299,12 +50403,6 @@
     "pu_code": "04/21/06/010",
     "pu_name": "AMA UMU ANIGBO SQUARE",
     "name": "AMA UMU ANIGBO SQUARE",
-    "lga": "OYI",
-    "ward": "NTEJE  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "OYI",
     "ward": "NTEJE  II",
     "state": "Anambra",
@@ -52419,12 +50517,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OYI",
-    "ward": "NTEJE  III",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/21/08/001",
     "pu_name": "ACHALLA UNO P/S",
     "name": "ACHALLA UNO P/S",
@@ -52533,12 +50625,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OYI",
-    "ward": "NTEJE  IV",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/21/09/001",
     "pu_name": "AMA OKPO ORUKABIA SQUARE",
     "name": "AMA OKPO ORUKABIA SQUARE",
@@ -52623,12 +50709,6 @@
     "pu_code": "04/21/09/010",
     "pu_name": "NTEJE BOYS SEC. SCH",
     "name": "NTEJE BOYS SEC. SCH",
-    "lga": "OYI",
-    "ward": "NTEJE  V",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "OYI",
     "ward": "NTEJE  V",
     "state": "Anambra",
@@ -52746,12 +50826,6 @@
     "pu_code": "04/21/10/013",
     "pu_name": "MODEL COMPREHENSIVE SEC. SCH. NKWELLE",
     "name": "MODEL COMPREHENSIVE SEC. SCH. NKWELLE",
-    "lga": "OYI",
-    "ward": "NKWELLE EZUNAKA I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "OYI",
     "ward": "NKWELLE EZUNAKA I",
     "state": "Anambra",
@@ -52911,12 +50985,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OYI",
-    "ward": "NKWELLE EZUNAKA II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/21/12/001",
     "pu_name": "EKE OLISE CENTRAL SCHOOL",
     "name": "EKE OLISE CENTRAL SCHOOL",
@@ -53037,12 +51105,6 @@
     "pu_code": "04/21/12/014",
     "pu_name": "ILO OMENNU VILLAGE SQ (OPEN SPACE)",
     "name": "ILO OMENNU VILLAGE SQ (OPEN SPACE)",
-    "lga": "OYI",
-    "ward": "OGBUNIKE  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "OYI",
     "ward": "OGBUNIKE  I",
     "state": "Anambra",
@@ -53193,12 +51255,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OYI",
-    "ward": "OGBUNIKE  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/21/14/001",
     "pu_name": "PROGRESS P/S I",
     "name": "PROGRESS P/S I",
@@ -53325,12 +51381,6 @@
     "state_code": "04"
   },
   {
-    "lga": "OYI",
-    "ward": "UMUNYA  I",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "pu_code": "04/21/15/001",
     "pu_name": "AKANANO P/S I",
     "name": "AKANANO P/S I",
@@ -53415,12 +51465,6 @@
     "pu_code": "04/21/15/010",
     "pu_name": "UMUEBO VILLAGE SQUARE II",
     "name": "UMUEBO VILLAGE SQUARE II",
-    "lga": "OYI",
-    "ward": "UMUNYA  II",
-    "state": "Anambra",
-    "state_code": "04"
-  },
-  {
     "lga": "OYI",
     "ward": "UMUNYA  II",
     "state": "Anambra",

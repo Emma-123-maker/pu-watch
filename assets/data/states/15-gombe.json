@@ -288,12 +288,6 @@
     "state_code": "15"
   },
   {
-    "lga": "AKKO",
-    "ward": "AKKO",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/01/02/001",
     "pu_name": "YANKARI,  KOFAR S. YAKI",
     "name": "YANKARI,  KOFAR S. YAKI",
@@ -1302,12 +1296,6 @@
     "state_code": "15"
   },
   {
-    "lga": "AKKO",
-    "ward": "GARKO",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/01/03/001",
     "pu_name": "TUDUN WADA,  KALSHINGI PRI. SCH.",
     "name": "TUDUN WADA,  KALSHINGI PRI. SCH.",
@@ -1626,12 +1614,6 @@
     "pu_code": "15/01/03/036",
     "pu_name": "SHILO WAZIRI , SHILO WAZIRI PRI. SCH",
     "name": "SHILO WAZIRI , SHILO WAZIRI PRI. SCH",
-    "lga": "AKKO",
-    "ward": "KALSHINGI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "AKKO",
     "ward": "KALSHINGI",
     "state": "Gombe",
@@ -2052,12 +2034,6 @@
     "state_code": "15"
   },
   {
-    "lga": "AKKO",
-    "ward": "KASHERE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/01/05/001",
     "pu_name": "KUMO S.YAKI, K. S. YAKI",
     "name": "KUMO S.YAKI, K. S. YAKI",
@@ -2394,12 +2370,6 @@
     "pu_code": "15/01/05/038",
     "pu_name": "GARIN LIMAN II, PRIMARY SCH.",
     "name": "GARIN LIMAN II, PRIMARY SCH.",
-    "lga": "AKKO",
-    "ward": "KUMO CENTRAL",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "AKKO",
     "ward": "KUMO CENTRAL",
     "state": "Gombe",
@@ -2883,12 +2853,6 @@
     "state_code": "15"
   },
   {
-    "lga": "AKKO",
-    "ward": "KUMO EAST",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/01/07/001",
     "pu_name": "LEMBI, LEMBI PRI. SCH.",
     "name": "LEMBI, LEMBI PRI. SCH.",
@@ -3054,12 +3018,6 @@
     "pu_code": "15/01/07/019",
     "pu_name": "NAHUTA WURO YAYA II, NAHUTA PRIMARY SCHOOL",
     "name": "NAHUTA WURO YAYA II, NAHUTA PRIMARY SCHOOL",
-    "lga": "AKKO",
-    "ward": "KUMO NORTH",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "AKKO",
     "ward": "KUMO NORTH",
     "state": "Gombe",
@@ -3561,12 +3519,6 @@
     "state_code": "15"
   },
   {
-    "lga": "AKKO",
-    "ward": "KUMO WEST",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/01/09/001",
     "pu_name": "UBANDOMA, PINDIGA DISTRICT OFFICE",
     "name": "UBANDOMA, PINDIGA DISTRICT OFFICE",
@@ -3837,12 +3789,6 @@
     "state_code": "15"
   },
   {
-    "lga": "AKKO",
-    "ward": "PINDIGA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/01/10/001",
     "pu_name": "ZABIN KANI, KOFAR JAURO",
     "name": "ZABIN KANI, KOFAR JAURO",
@@ -4059,12 +4005,6 @@
     "state_code": "15"
   },
   {
-    "lga": "AKKO",
-    "ward": "TUMU",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/01/11/001",
     "pu_name": "GOKARU, K.  J. DAN BURAM",
     "name": "GOKARU, K.  J. DAN BURAM",
@@ -4272,12 +4212,6 @@
     "state_code": "15"
   },
   {
-    "lga": "AKKO",
-    "ward": "TUKULMA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/02/01/001",
     "pu_name": "BAKIN KASUWA, KOFAR MAI UNG.",
     "name": "BAKIN KASUWA, KOFAR MAI UNG.",
@@ -4476,12 +4410,6 @@
     "state_code": "15"
   },
   {
-    "lga": "BALANGA",
-    "ward": "BAMBAM",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/02/02/001",
     "pu_name": "GORURUWA, BANGU PRI. SCH.",
     "name": "GORURUWA, BANGU PRI. SCH.",
@@ -4638,12 +4566,6 @@
     "pu_code": "15/02/02/018",
     "pu_name": "NADIYA B. DISPENSARY",
     "name": "NADIYA B. DISPENSARY",
-    "lga": "BALANGA",
-    "ward": "BANGU",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "BALANGA",
     "ward": "BANGU",
     "state": "Gombe",
@@ -4869,12 +4791,6 @@
     "pu_code": "15/02/03/025",
     "pu_name": "BALU LOFIYO, OPEN SPACE",
     "name": "BALU LOFIYO, OPEN SPACE",
-    "lga": "BALANGA",
-    "ward": "DADIYA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "BALANGA",
     "ward": "DADIYA",
     "state": "Gombe",
@@ -5133,12 +5049,6 @@
     "state_code": "15"
   },
   {
-    "lga": "BALANGA",
-    "ward": "GELENGU / BALANGA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/02/05/001",
     "pu_name": "KULO I, CHAM PRI. SCH.",
     "name": "KULO I, CHAM PRI. SCH.",
@@ -5358,12 +5268,6 @@
     "pu_code": "15/02/05/025",
     "pu_name": "NOMADIC PRI SCH",
     "name": "NOMADIC PRI SCH",
-    "lga": "BALANGA",
-    "ward": "KINDIYO",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "BALANGA",
     "ward": "KINDIYO",
     "state": "Gombe",
@@ -5622,12 +5526,6 @@
     "state_code": "15"
   },
   {
-    "lga": "BALANGA",
-    "ward": "KULANI / DEGRE /SIKKAM",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/02/07/001",
     "pu_name": "LOYEL, LOYEL PRI. SCH. I",
     "name": "LOYEL, LOYEL PRI. SCH. I",
@@ -5826,12 +5724,6 @@
     "state_code": "15"
   },
   {
-    "lga": "BALANGA",
-    "ward": "MWONA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/02/08/001",
     "pu_name": "CHUNYI I, NYUWAR PRI. SCH.",
     "name": "CHUNYI I, NYUWAR PRI. SCH.",
@@ -6024,12 +5916,6 @@
     "pu_code": "15/02/08/022",
     "pu_name": "KANBURAI PRI SCH NYUWAR",
     "name": "KANBURAI PRI SCH NYUWAR",
-    "lga": "BALANGA",
-    "ward": "NYUWAR / JESSU",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "BALANGA",
     "ward": "NYUWAR / JESSU",
     "state": "Gombe",
@@ -6282,12 +6168,6 @@
     "pu_code": "15/02/09/028",
     "pu_name": "REFELE PRI SCH",
     "name": "REFELE PRI SCH",
-    "lga": "BALANGA",
-    "ward": "SWA / REF / W. WAJA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "BALANGA",
     "ward": "SWA / REF / W. WAJA",
     "state": "Gombe",
@@ -6618,12 +6498,6 @@
     "state_code": "15"
   },
   {
-    "lga": "BALANGA",
-    "ward": "TALASSE / DONG / REME",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/03/01/001",
     "pu_name": "LAWORKONDO, PRI. SCH. LAWORKONDO",
     "name": "LAWORKONDO, PRI. SCH. LAWORKONDO",
@@ -6735,12 +6609,6 @@
     "pu_code": "15/03/01/013",
     "pu_name": "LAMUGU LAMUGU PRI. SCH A.",
     "name": "LAMUGU LAMUGU PRI. SCH A.",
-    "lga": "BILLIRI",
-    "ward": "BAGANJE NORTH",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "BILLIRI",
     "ward": "BAGANJE NORTH",
     "state": "Gombe",
@@ -6930,12 +6798,6 @@
     "pu_code": "15/03/02/021",
     "pu_name": "LAWISHI, LAYAFI K.J.LAWISHI I. A.",
     "name": "LAWISHI, LAYAFI K.J.LAWISHI I. A.",
-    "lga": "BILLIRI",
-    "ward": "BAGANJE SOUTH",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "BILLIRI",
     "ward": "BAGANJE SOUTH",
     "state": "Gombe",
@@ -7212,12 +7074,6 @@
     "state_code": "15"
   },
   {
-    "lga": "BILLIRI",
-    "ward": "BARE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/03/04/001",
     "pu_name": "LAKWALAK, KOFAR JAURO LAKWALAK",
     "name": "LAKWALAK, KOFAR JAURO LAKWALAK",
@@ -7365,12 +7221,6 @@
     "pu_code": "15/03/04/017",
     "pu_name": "SANSANI K.J TOYI (A)",
     "name": "SANSANI K.J TOYI (A)",
-    "lga": "BILLIRI",
-    "ward": "BILLIRI NORTH",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "BILLIRI",
     "ward": "BILLIRI NORTH",
     "state": "Gombe",
@@ -7683,12 +7533,6 @@
     "state_code": "15"
   },
   {
-    "lga": "BILLIRI",
-    "ward": "BILLIRI SOUTH",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/03/06/001",
     "pu_name": "KALMAI, K. SARKI",
     "name": "KALMAI, K. SARKI",
@@ -7818,12 +7662,6 @@
     "pu_code": "15/03/06/015",
     "pu_name": "POBAWURE PRI. SCH A",
     "name": "POBAWURE PRI. SCH A",
-    "lga": "BILLIRI",
-    "ward": "KALMAI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "BILLIRI",
     "ward": "KALMAI",
     "state": "Gombe",
@@ -8082,12 +7920,6 @@
     "state_code": "15"
   },
   {
-    "lga": "BILLIRI",
-    "ward": "TAL",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/03/08/001",
     "pu_name": "KAMPANDI KWAYA, K. PEACE ATIKU",
     "name": "KAMPANDI KWAYA, K. PEACE ATIKU",
@@ -8214,12 +8046,6 @@
     "state_code": "15"
   },
   {
-    "lga": "BILLIRI",
-    "ward": "TANGLANG",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/03/09/001",
     "pu_name": "DONGOR  I, PRI. SCH.",
     "name": "DONGOR  I, PRI. SCH.",
@@ -8340,12 +8166,6 @@
     "pu_code": "15/03/09/014",
     "pu_name": "SHGELA PRIMARY SCH. A",
     "name": "SHGELA PRIMARY SCH. A",
-    "lga": "BILLIRI",
-    "ward": "TODI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "BILLIRI",
     "ward": "TODI",
     "state": "Gombe",
@@ -8490,12 +8310,6 @@
     "pu_code": "15/03/10/016",
     "pu_name": "LAYONA K.J LAYONA A",
     "name": "LAYONA K.J LAYONA A",
-    "lga": "BILLIRI",
-    "ward": "TUDU KWAYA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "BILLIRI",
     "ward": "TUDU KWAYA",
     "state": "Gombe",
@@ -8700,12 +8514,6 @@
     "state_code": "15"
   },
   {
-    "lga": "DUKKU",
-    "ward": "GOMBE ABBA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/04/02/001",
     "pu_name": "MADAKI EAST, HASHIDU CENTRAL PRI. SCH.",
     "name": "MADAKI EAST, HASHIDU CENTRAL PRI. SCH.",
@@ -8781,12 +8589,6 @@
     "pu_code": "15/04/02/009",
     "pu_name": "MADAKI CENTRAL KOFAR SARKI HASHIDU I",
     "name": "MADAKI CENTRAL KOFAR SARKI HASHIDU I",
-    "lga": "DUKKU",
-    "ward": "HASHIDU",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "DUKKU",
     "ward": "HASHIDU",
     "state": "Gombe",
@@ -9117,12 +8919,6 @@
     "state_code": "15"
   },
   {
-    "lga": "DUKKU",
-    "ward": "JAMARI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/04/04/001",
     "pu_name": "CHIROMA, KUNDE PRI. S CH.",
     "name": "CHIROMA, KUNDE PRI. S CH.",
@@ -9267,12 +9063,6 @@
     "state_code": "15"
   },
   {
-    "lga": "DUKKU",
-    "ward": "KUNDE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/04/05/001",
     "pu_name": "LAFIYA CHIROMA, LAFIYA PRI. SCH.",
     "name": "LAFIYA CHIROMA, LAFIYA PRI. SCH.",
@@ -9366,12 +9156,6 @@
     "pu_code": "15/04/05/011",
     "pu_name": "ALKALERI, KOFAR S. ALKALERI",
     "name": "ALKALERI, KOFAR S. ALKALERI",
-    "lga": "DUKKU",
-    "ward": "LAFIYA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "DUKKU",
     "ward": "LAFIYA",
     "state": "Gombe",
@@ -9606,12 +9390,6 @@
     "pu_code": "15/04/06/026",
     "pu_name": "BURARI KOFAR MAI ANGUWA I",
     "name": "BURARI KOFAR MAI ANGUWA I",
-    "lga": "DUKKU",
-    "ward": "MALALA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "DUKKU",
     "ward": "MALALA",
     "state": "Gombe",
@@ -9954,12 +9732,6 @@
     "pu_code": "15/04/07/038",
     "pu_name": "LAFIYA VETERINARY CLINIC I",
     "name": "LAFIYA VETERINARY CLINIC I",
-    "lga": "DUKKU",
-    "ward": "WAZIRI NORTH",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "DUKKU",
     "ward": "WAZIRI NORTH",
     "state": "Gombe",
@@ -10425,12 +10197,6 @@
     "state_code": "15"
   },
   {
-    "lga": "DUKKU",
-    "ward": "WAZIRI SOUTH / CENTRAL",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/04/09/001",
     "pu_name": "WURO TALE, PRI. SCH.",
     "name": "WURO TALE, PRI. SCH.",
@@ -10587,12 +10353,6 @@
     "pu_code": "15/04/09/025",
     "pu_name": "KOBINI ZANGE PRI SCH. 1",
     "name": "KOBINI ZANGE PRI SCH. 1",
-    "lga": "DUKKU",
-    "ward": "WURO TALE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "DUKKU",
     "ward": "WURO TALE",
     "state": "Gombe",
@@ -10815,12 +10575,6 @@
     "state_code": "15"
   },
   {
-    "lga": "DUKKU",
-    "ward": "ZANGE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/04/11/001",
     "pu_name": "TAFIDA ZAUNE, PRI. SCH.",
     "name": "TAFIDA ZAUNE, PRI. SCH.",
@@ -10896,12 +10650,6 @@
     "pu_code": "15/04/11/009",
     "pu_name": "MALUMRI/YELWA, KOFAR SARKI",
     "name": "MALUMRI/YELWA, KOFAR SARKI",
-    "lga": "DUKKU",
-    "ward": "ZAUNE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "DUKKU",
     "ward": "ZAUNE",
     "state": "Gombe",
@@ -11241,12 +10989,6 @@
     "state_code": "15"
   },
   {
-    "lga": "FUNAKAYE",
-    "ward": "ASHAKA / MAGABA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/05/02/001",
     "pu_name": "UNG. SHAMAKI, KOFAR SHAMARI",
     "name": "UNG. SHAMAKI, KOFAR SHAMARI",
@@ -11529,12 +11271,6 @@
     "pu_code": "15/05/02/032",
     "pu_name": "BADABDI PRI. SCHOOL",
     "name": "BADABDI PRI. SCHOOL",
-    "lga": "FUNAKAYE",
-    "ward": "BAGE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "FUNAKAYE",
     "ward": "BAGE",
     "state": "Gombe",
@@ -11841,12 +11577,6 @@
     "pu_code": "15/05/03/034",
     "pu_name": "UNG. MAIDUGURI SARKIN BAKA BOREHOLE",
     "name": "UNG. MAIDUGURI SARKIN BAKA BOREHOLE",
-    "lga": "FUNAKAYE",
-    "ward": "BAJOGA  WEST",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "FUNAKAYE",
     "ward": "BAJOGA  WEST",
     "state": "Gombe",
@@ -12213,12 +11943,6 @@
     "state_code": "15"
   },
   {
-    "lga": "FUNAKAYE",
-    "ward": "BAJOGA EAST",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/05/05/001",
     "pu_name": "UNG. MADAKI TILDE, KOFAR MADAKI",
     "name": "UNG. MADAKI TILDE, KOFAR MADAKI",
@@ -12426,12 +12150,6 @@
     "state_code": "15"
   },
   {
-    "lga": "FUNAKAYE",
-    "ward": "BODOR / TILDE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/05/06/001",
     "pu_name": "UNG. BAUCHI JILLAHI, KOFAR SARKI",
     "name": "UNG. BAUCHI JILLAHI, KOFAR SARKI",
@@ -12570,12 +12288,6 @@
     "pu_code": "15/05/06/016",
     "pu_name": "DUGA SABO, KOFAR DAMJI",
     "name": "DUGA SABO, KOFAR DAMJI",
-    "lga": "FUNAKAYE",
-    "ward": "JILLAHI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "FUNAKAYE",
     "ward": "JILLAHI",
     "state": "Gombe",
@@ -12729,12 +12441,6 @@
     "pu_code": "15/05/07/017",
     "pu_name": "GARIN ABARE, KOFAR ABARE",
     "name": "GARIN ABARE, KOFAR ABARE",
-    "lga": "FUNAKAYE",
-    "ward": "KUPTO",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "FUNAKAYE",
     "ward": "KUPTO",
     "state": "Gombe",
@@ -12957,12 +12663,6 @@
     "state_code": "15"
   },
   {
-    "lga": "FUNAKAYE",
-    "ward": "RIBADU",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/05/09/001",
     "pu_name": "UNG. BAUCHI TONGO, TONGO AREA COURT",
     "name": "UNG. BAUCHI TONGO, TONGO AREA COURT",
@@ -13143,12 +12843,6 @@
     "state_code": "15"
   },
   {
-    "lga": "FUNAKAYE",
-    "ward": "TONGO",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/05/10/001",
     "pu_name": "UNG. MADAKI WAWA, PRIMARY SCHOOL",
     "name": "UNG. MADAKI WAWA, PRIMARY SCHOOL",
@@ -13278,12 +12972,6 @@
     "pu_code": "15/05/10/015",
     "pu_name": "UNG. FULANI VETERINARY",
     "name": "UNG. FULANI VETERINARY",
-    "lga": "FUNAKAYE",
-    "ward": "WAWA / WAKKULUTU",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "FUNAKAYE",
     "ward": "WAWA / WAKKULUTU",
     "state": "Gombe",
@@ -13437,12 +13125,6 @@
     "pu_code": "15/06/01/017",
     "pu_name": "IDI MATERNITY ZAINAB BULKACHUWA",
     "name": "IDI MATERNITY ZAINAB BULKACHUWA",
-    "lga": "GOMBE",
-    "ward": "AJIYA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "GOMBE",
     "ward": "AJIYA",
     "state": "Gombe",
@@ -13686,12 +13368,6 @@
     "pu_code": "15/06/02/027",
     "pu_name": "KOFAR MALAM SHEHU",
     "name": "KOFAR MALAM SHEHU",
-    "lga": "GOMBE",
-    "ward": "BAJOGA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "GOMBE",
     "ward": "BAJOGA",
     "state": "Gombe",
@@ -14076,12 +13752,6 @@
     "state_code": "15"
   },
   {
-    "lga": "GOMBE",
-    "ward": "BOLARI EAST",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/06/04/001",
     "pu_name": "KOFAR A. B. BOMALA / A. B. BOMALA",
     "name": "KOFAR A. B. BOMALA / A. B. BOMALA",
@@ -14301,12 +13971,6 @@
     "pu_code": "15/06/04/025",
     "pu_name": "ALH. HARUNA BESIDE GSM ANTENNA",
     "name": "ALH. HARUNA BESIDE GSM ANTENNA",
-    "lga": "GOMBE",
-    "ward": "BOLARI WEST",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "GOMBE",
     "ward": "BOLARI WEST",
     "state": "Gombe",
@@ -14577,12 +14241,6 @@
     "pu_code": "15/06/05/030",
     "pu_name": "GOMBE L.E.A. GIDAN MAGANI",
     "name": "GOMBE L.E.A. GIDAN MAGANI",
-    "lga": "GOMBE",
-    "ward": "DAWAKI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "GOMBE",
     "ward": "DAWAKI",
     "state": "Gombe",
@@ -14880,12 +14538,6 @@
     "pu_code": "15/06/06/033",
     "pu_name": "KOFAR ALH. MOH'D MAI CHITTA OPEN SPACE",
     "name": "KOFAR ALH. MOH'D MAI CHITTA OPEN SPACE",
-    "lga": "GOMBE",
-    "ward": "HERWAGANA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "GOMBE",
     "ward": "HERWAGANA",
     "state": "Gombe",
@@ -15450,12 +15102,6 @@
     "state_code": "15"
   },
   {
-    "lga": "GOMBE",
-    "ward": "JEKA DAFARI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/06/08/001",
     "pu_name": "GOJE, KOFAR GOJE",
     "name": "GOJE, KOFAR GOJE",
@@ -15681,12 +15327,6 @@
     "state_code": "15"
   },
   {
-    "lga": "GOMBE",
-    "ward": "KUMBIYA - KUMBIYA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/06/09/001",
     "pu_name": "YALAH GURUZA, K. J. YALAN  GURUZA",
     "name": "YALAH GURUZA, K. J. YALAN  GURUZA",
@@ -15843,12 +15483,6 @@
     "pu_code": "15/06/09/018",
     "pu_name": "GJDSS SABON GARI",
     "name": "GJDSS SABON GARI",
-    "lga": "GOMBE",
-    "ward": "NASARAWA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "GOMBE",
     "ward": "NASARAWA",
     "state": "Gombe",
@@ -16299,12 +15933,6 @@
     "pu_code": "15/06/10/050",
     "pu_name": "MANAWASHI PRI. SCH II",
     "name": "MANAWASHI PRI. SCH II",
-    "lga": "GOMBE",
-    "ward": "PANTAMI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "GOMBE",
     "ward": "PANTAMI",
     "state": "Gombe",
@@ -17022,12 +16650,6 @@
     "state_code": "15"
   },
   {
-    "lga": "GOMBE",
-    "ward": "SHAMAKI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/07/01/001",
     "pu_name": "DOGON RUWA, KOFAR  S. RAFI",
     "name": "DOGON RUWA, KOFAR  S. RAFI",
@@ -17343,12 +16965,6 @@
     "state_code": "15"
   },
   {
-    "lga": "KALTUNGO",
-    "ward": "AWAK",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/07/02/001",
     "pu_name": "BALAMUSA / KWAY, K/J  BALAMUSA",
     "name": "BALAMUSA / KWAY, K/J  BALAMUSA",
@@ -17514,12 +17130,6 @@
     "pu_code": "15/07/02/019",
     "pu_name": "SABON GARI PRIMARY SCH.",
     "name": "SABON GARI PRIMARY SCH.",
-    "lga": "KALTUNGO",
-    "ward": "BULE / KALTIN",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "KALTUNGO",
     "ward": "BULE / KALTIN",
     "state": "Gombe",
@@ -17877,12 +17487,6 @@
     "state_code": "15"
   },
   {
-    "lga": "KALTUNGO",
-    "ward": "KALTUNGO WEST",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/07/04/001",
     "pu_name": "KALARING A I KALARING PRI. SCH",
     "name": "KALARING A I KALARING PRI. SCH",
@@ -18207,12 +17811,6 @@
     "state_code": "15"
   },
   {
-    "lga": "KALTUNGO",
-    "ward": "KALTUNGO EAST",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/07/05/001",
     "pu_name": "SHENGE / SHENGE, K. J. MAI TUMBI",
     "name": "SHENGE / SHENGE, K. J. MAI TUMBI",
@@ -18465,12 +18063,6 @@
     "state_code": "15"
   },
   {
-    "lga": "KALTUNGO",
-    "ward": "KAMO",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/07/06/001",
     "pu_name": "BILKI TAMAN, K. JAURO",
     "name": "BILKI TAMAN, K. JAURO",
@@ -18651,12 +18243,6 @@
     "state_code": "15"
   },
   {
-    "lga": "KALTUNGO",
-    "ward": "TULA BAULE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/07/07/001",
     "pu_name": "BAYAM UP I, K/ J ISHIYAKU",
     "name": "BAYAM UP I, K/ J ISHIYAKU",
@@ -18828,12 +18414,6 @@
     "state_code": "15"
   },
   {
-    "lga": "KALTUNGO",
-    "ward": "TULA WANGE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/07/08/001",
     "pu_name": "UNG. SARKI I, YIRI PRI. SCH.",
     "name": "UNG. SARKI I, YIRI PRI. SCH.",
@@ -18963,12 +18543,6 @@
     "pu_code": "15/07/08/015",
     "pu_name": "GALADIMA YIRI",
     "name": "GALADIMA YIRI",
-    "lga": "KALTUNGO",
-    "ward": "TULA - YIRI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "KALTUNGO",
     "ward": "TULA - YIRI",
     "state": "Gombe",
@@ -19113,12 +18687,6 @@
     "pu_code": "15/07/09/016",
     "pu_name": "LIMDE /C/ SEC SCH.",
     "name": "LIMDE /C/ SEC SCH.",
-    "lga": "KALTUNGO",
-    "ward": "TUNGO",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "KALTUNGO",
     "ward": "TUNGO",
     "state": "Gombe",
@@ -19290,12 +18858,6 @@
     "pu_code": "15/07/10/019",
     "pu_name": "WISHI PRIMARY SCH",
     "name": "WISHI PRIMARY SCH",
-    "lga": "KALTUNGO",
-    "ward": "TURE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "KALTUNGO",
     "ward": "TURE",
     "state": "Gombe",
@@ -19509,12 +19071,6 @@
     "state_code": "15"
   },
   {
-    "lga": "KWAMI",
-    "ward": "BOJUDE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/08/02/001",
     "pu_name": "UNG. GALADIMA, KOFAR GALADIMA",
     "name": "UNG. GALADIMA, KOFAR GALADIMA",
@@ -19671,12 +19227,6 @@
     "pu_code": "15/08/02/018",
     "pu_name": "WURO KOHA (METTAKO), KOFAR JAURO YAHAYA",
     "name": "WURO KOHA (METTAKO), KOFAR JAURO YAHAYA",
-    "lga": "KWAMI",
-    "ward": "DABAN FULANI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "KWAMI",
     "ward": "DABAN FULANI",
     "state": "Gombe",
@@ -19857,12 +19407,6 @@
     "pu_code": "15/08/03/020",
     "pu_name": "COMMUNITY DAY SEC, SCHOOL",
     "name": "COMMUNITY DAY SEC, SCHOOL",
-    "lga": "KWAMI",
-    "ward": "DOHO",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "KWAMI",
     "ward": "DOHO",
     "state": "Gombe",
@@ -20061,12 +19605,6 @@
     "pu_code": "15/08/04/022",
     "pu_name": "KOFAR JAURO YAYA BAGOGGO,  KOFAR JAURO YAYA BAGOGGO",
     "name": "KOFAR JAURO YAYA BAGOGGO,  KOFAR JAURO YAYA BAGOGGO",
-    "lga": "KWAMI",
-    "ward": "DUKUL",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "KWAMI",
     "ward": "DUKUL",
     "state": "Gombe",
@@ -20325,12 +19863,6 @@
     "state_code": "15"
   },
   {
-    "lga": "KWAMI",
-    "ward": "GADAM",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/08/06/001",
     "pu_name": "SARKIN JURARA, JURARA DISPENSARY",
     "name": "SARKIN JURARA, JURARA DISPENSARY",
@@ -20397,12 +19929,6 @@
     "pu_code": "15/08/06/008",
     "pu_name": "MALAM KACHALLA, KOFAR JAURO MAIGORO",
     "name": "MALAM KACHALLA, KOFAR JAURO MAIGORO",
-    "lga": "KWAMI",
-    "ward": "JURARA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "KWAMI",
     "ward": "JURARA",
     "state": "Gombe",
@@ -20796,12 +20322,6 @@
     "state_code": "15"
   },
   {
-    "lga": "KWAMI",
-    "ward": "KOMFULATA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/08/08/001",
     "pu_name": "SARKIN KWAMI, K/ SARKIN KWAMI",
     "name": "SARKIN KWAMI, K/ SARKIN KWAMI",
@@ -21126,12 +20646,6 @@
     "state_code": "15"
   },
   {
-    "lga": "KWAMI",
-    "ward": "KWAMI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/08/09/001",
     "pu_name": "MAI UNG. MADU, KOFAR MADUGU",
     "name": "MAI UNG. MADU, KOFAR MADUGU",
@@ -21375,12 +20889,6 @@
     "state_code": "15"
   },
   {
-    "lga": "KWAMI",
-    "ward": "MALAM SIDI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/08/10/001",
     "pu_name": "CHIROMA, KOFAR CHIROMA",
     "name": "CHIROMA, KOFAR CHIROMA",
@@ -21483,12 +20991,6 @@
     "pu_code": "15/08/10/012",
     "pu_name": "FESHARE, KOFAR JAURO BABA",
     "name": "FESHARE, KOFAR JAURO BABA",
-    "lga": "KWAMI",
-    "ward": "MALLERI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "KWAMI",
     "ward": "MALLERI",
     "state": "Gombe",
@@ -21612,12 +21114,6 @@
     "state_code": "15"
   },
   {
-    "lga": "NAFADA",
-    "ward": "BARWO / NASARAWO",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/09/02/001",
     "pu_name": "UNG. MADAKI, KOFAR MADAKI",
     "name": "UNG. MADAKI, KOFAR MADAKI",
@@ -21729,12 +21225,6 @@
     "pu_code": "15/09/02/013",
     "pu_name": "PRIMARY HEALTH CENTRE",
     "name": "PRIMARY HEALTH CENTRE",
-    "lga": "NAFADA",
-    "ward": "BARWO WINDE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "NAFADA",
     "ward": "BARWO WINDE",
     "state": "Gombe",
@@ -21885,12 +21375,6 @@
     "state_code": "15"
   },
   {
-    "lga": "NAFADA",
-    "ward": "BIRIN BOLEWA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/09/04/001",
     "pu_name": "UNG. GALADIMA, KOFAR UBANDOMA",
     "name": "UNG. GALADIMA, KOFAR UBANDOMA",
@@ -21990,12 +21474,6 @@
     "state_code": "15"
   },
   {
-    "lga": "NAFADA",
-    "ward": "BIRIN FULANI EAST",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/09/05/001",
     "pu_name": "UNG. MADAKI, VETERINARY OFFICE",
     "name": "UNG. MADAKI, VETERINARY OFFICE",
@@ -22080,12 +21558,6 @@
     "pu_code": "15/09/05/010",
     "pu_name": "WALI GDSS BIRIN FULANI WEST",
     "name": "WALI GDSS BIRIN FULANI WEST",
-    "lga": "NAFADA",
-    "ward": "BIRIN FULANI WEST",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "NAFADA",
     "ward": "BIRIN FULANI WEST",
     "state": "Gombe",
@@ -22185,12 +21657,6 @@
     "pu_code": "15/09/06/011",
     "pu_name": "SABON SARA, SABON SARA",
     "name": "SABON SARA, SABON SARA",
-    "lga": "NAFADA",
-    "ward": "GUDUKKU",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "NAFADA",
     "ward": "GUDUKKU",
     "state": "Gombe",
@@ -22341,12 +21807,6 @@
     "state_code": "15"
   },
   {
-    "lga": "NAFADA",
-    "ward": "JIGAWA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/09/08/001",
     "pu_name": "UNG. MADAKI, KOFAR MADAKI",
     "name": "UNG. MADAKI, KOFAR MADAKI",
@@ -22458,12 +21918,6 @@
     "pu_code": "15/09/08/013",
     "pu_name": "KOFAR CHIROMA",
     "name": "KOFAR CHIROMA",
-    "lga": "NAFADA",
-    "ward": "NAFADA CENTRAL",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "NAFADA",
     "ward": "NAFADA CENTRAL",
     "state": "Gombe",
@@ -22605,12 +22059,6 @@
     "state_code": "15"
   },
   {
-    "lga": "NAFADA",
-    "ward": "NAFADA EAST",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/09/10/001",
     "pu_name": "UNG. GALADIMA, KOFAR GALADIMA",
     "name": "UNG. GALADIMA, KOFAR GALADIMA",
@@ -22728,12 +22176,6 @@
     "state_code": "15"
   },
   {
-    "lga": "NAFADA",
-    "ward": "NAFADA WEST",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/10/01/001",
     "pu_name": "GALADIMARU, KOFAR J/HAMMA",
     "name": "GALADIMARU, KOFAR J/HAMMA",
@@ -22818,12 +22260,6 @@
     "pu_code": "15/10/01/010",
     "pu_name": "YAKUL/ LAMBA MATERNITY GALADIMARU",
     "name": "YAKUL/ LAMBA MATERNITY GALADIMARU",
-    "lga": "SHONGOM",
-    "ward": "BANGUNJI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "SHONGOM",
     "ward": "BANGUNJI",
     "state": "Gombe",
@@ -22938,12 +22374,6 @@
     "state_code": "15"
   },
   {
-    "lga": "SHONGOM",
-    "ward": "BOH",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/10/03/001",
     "pu_name": "SABON LAYI BUKAR",
     "name": "SABON LAYI BUKAR",
@@ -23001,12 +22431,6 @@
     "pu_code": "15/10/03/007",
     "pu_name": "UBE, SABON LAYI BURAK PRI. SCH",
     "name": "UBE, SABON LAYI BURAK PRI. SCH",
-    "lga": "SHONGOM",
-    "ward": "BURAK",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "SHONGOM",
     "ward": "BURAK",
     "state": "Gombe",
@@ -23175,12 +22599,6 @@
     "state_code": "15"
   },
   {
-    "lga": "SHONGOM",
-    "ward": "FILIYA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/10/05/001",
     "pu_name": "AMPOKBOJE,  KOFAR J/AMPOKBOJE",
     "name": "AMPOKBOJE,  KOFAR J/AMPOKBOJE",
@@ -23229,12 +22647,6 @@
     "pu_code": "15/10/05/006",
     "pu_name": "DWAJA / KOFAR J/DAHIRU",
     "name": "DWAJA / KOFAR J/DAHIRU",
-    "lga": "SHONGOM",
-    "ward": "GUNDALE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "SHONGOM",
     "ward": "GUNDALE",
     "state": "Gombe",
@@ -23412,12 +22824,6 @@
     "state_code": "15"
   },
   {
-    "lga": "SHONGOM",
-    "ward": "GWANDUM",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/10/07/001",
     "pu_name": "KULISHIN, KOFAR J/ BAKA",
     "name": "KULISHIN, KOFAR J/ BAKA",
@@ -23484,12 +22890,6 @@
     "pu_code": "15/10/07/008",
     "pu_name": "KALISEN PRIMARY SCH. II",
     "name": "KALISEN PRIMARY SCH. II",
-    "lga": "SHONGOM",
-    "ward": "KULISHIN",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "SHONGOM",
     "ward": "KULISHIN",
     "state": "Gombe",
@@ -23589,12 +22989,6 @@
     "pu_code": "15/10/08/011",
     "pu_name": "KUSHI DAY SEC. SCH. KAURI",
     "name": "KUSHI DAY SEC. SCH. KAURI",
-    "lga": "SHONGOM",
-    "ward": "KUSHI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "SHONGOM",
     "ward": "KUSHI",
     "state": "Gombe",
@@ -23754,12 +23148,6 @@
     "state_code": "15"
   },
   {
-    "lga": "SHONGOM",
-    "ward": "LALAIPIDO",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/10/10/001",
     "pu_name": "MANGO I, KOFAR J / AKWAGE",
     "name": "MANGO I, KOFAR J / AKWAGE",
@@ -23853,12 +23241,6 @@
     "pu_code": "15/10/10/011",
     "pu_name": "LASANJANG,. LASANGJANG PRI. SCH.",
     "name": "LASANJANG,. LASANGJANG PRI. SCH.",
-    "lga": "SHONGOM",
-    "ward": "LAPAN",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "SHONGOM",
     "ward": "LAPAN",
     "state": "Gombe",
@@ -24288,12 +23670,6 @@
     "state_code": "15"
   },
   {
-    "lga": "YALMALTU/ DEBA",
-    "ward": "DEBA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/11/02/001",
     "pu_name": "GALADIMA, PRIMARY SCH. DIFA",
     "name": "GALADIMA, PRIMARY SCH. DIFA",
@@ -24504,12 +23880,6 @@
     "pu_code": "15/11/02/024",
     "pu_name": "YERIMA GANWADE",
     "name": "YERIMA GANWADE",
-    "lga": "YALMALTU/ DEBA",
-    "ward": "DIFA / LUBO / KINAFA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "YALMALTU/ DEBA",
     "ward": "DIFA / LUBO / KINAFA",
     "state": "Gombe",
@@ -24897,12 +24267,6 @@
     "pu_code": "15/11/03/043",
     "pu_name": "UNG. SHETIMA",
     "name": "UNG. SHETIMA",
-    "lga": "YALMALTU/ DEBA",
-    "ward": "GWANI / SHINGA / WADE",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "YALMALTU/ DEBA",
     "ward": "GWANI / SHINGA / WADE",
     "state": "Gombe",
@@ -25350,12 +24714,6 @@
     "state_code": "15"
   },
   {
-    "lga": "YALMALTU/ DEBA",
-    "ward": "HINNA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/11/05/001",
     "pu_name": "SARKIN JAGALI  ZARMA, KOFAR SARKIN JAGALI",
     "name": "SARKIN JAGALI  ZARMA, KOFAR SARKIN JAGALI",
@@ -25590,12 +24948,6 @@
     "state_code": "15"
   },
   {
-    "lga": "YALMALTU/ DEBA",
-    "ward": "JAGALI NORTH",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/11/06/001",
     "pu_name": "UNG. MAHDI , KOFAR SARKI",
     "name": "UNG. MAHDI , KOFAR SARKI",
@@ -25752,12 +25104,6 @@
     "pu_code": "15/11/06/018",
     "pu_name": "JAURO AHMADI II",
     "name": "JAURO AHMADI II",
-    "lga": "YALMALTU/ DEBA",
-    "ward": "JAGALI SOUTH",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "YALMALTU/ DEBA",
     "ward": "JAGALI SOUTH",
     "state": "Gombe",
@@ -26019,12 +25365,6 @@
     "pu_code": "15/11/07/029",
     "pu_name": "BAKIN KASUWA BAURE",
     "name": "BAKIN KASUWA BAURE",
-    "lga": "YALMALTU/ DEBA",
-    "ward": "KANAWA / WAJARI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "YALMALTU/ DEBA",
     "ward": "KANAWA / WAJARI",
     "state": "Gombe",
@@ -26508,12 +25848,6 @@
     "state_code": "15"
   },
   {
-    "lga": "YALMALTU/ DEBA",
-    "ward": "KURI /LANO / LAMBAM",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/11/09/001",
     "pu_name": "GALADIMA KWADON  I, KOFAR SARKI KWADON",
     "name": "GALADIMA KWADON  I, KOFAR SARKI KWADON",
@@ -26919,12 +26253,6 @@
     "state_code": "15"
   },
   {
-    "lga": "YALMALTU/ DEBA",
-    "ward": "KWADON / LIJI / KURBA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/11/10/001",
     "pu_name": "WUDIL A. RAFI, KOFAR  RAFI",
     "name": "WUDIL A. RAFI, KOFAR  RAFI",
@@ -27294,12 +26622,6 @@
     "state_code": "15"
   },
   {
-    "lga": "YALMALTU/ DEBA",
-    "ward": "NONO / KUNWAL / W. BIRDEKA",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "pu_code": "15/11/11/001",
     "pu_name": "GALADIMA, PRI. SCH. KWALI",
     "name": "GALADIMA, PRI. SCH. KWALI",
@@ -27528,12 +26850,6 @@
     "pu_code": "15/11/11/026",
     "pu_name": "GALADIMA  II BAKIN KASUWA",
     "name": "GALADIMA  II BAKIN KASUWA",
-    "lga": "YALMALTU/ DEBA",
-    "ward": "ZAMBUK / KWALI",
-    "state": "Gombe",
-    "state_code": "15"
-  },
-  {
     "lga": "YALMALTU/ DEBA",
     "ward": "ZAMBUK / KWALI",
     "state": "Gombe",

@@ -126,12 +126,6 @@
     "state_code": "07"
   },
   {
-    "lga": "ADO",
-    "ward": "AKPOGE/OGBILOLO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/01/02/001",
     "pu_name": "METHODIST PRI SCHO I, SCH. COMP.APA",
     "name": "METHODIST PRI SCHO I, SCH. COMP.APA",
@@ -312,12 +306,6 @@
     "state_code": "07"
   },
   {
-    "lga": "ADO",
-    "ward": "APA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/01/03/001",
     "pu_name": "OFUNAGA, METH. PRIM. SCHOOL",
     "name": "OFUNAGA, METH. PRIM. SCHOOL",
@@ -444,12 +432,6 @@
     "state_code": "07"
   },
   {
-    "lga": "ADO",
-    "ward": "EKILE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/01/04/001",
     "pu_name": "L.G. CLINIC I, BY CLINIC PRE. IGUMALE I",
     "name": "L.G. CLINIC I, BY CLINIC PRE. IGUMALE I",
@@ -534,12 +516,6 @@
     "pu_code": "07/01/04/010",
     "pu_name": "L.G. CLINIC II, BY CLINIC PRE. IGUMALE",
     "name": "L.G. CLINIC II, BY CLINIC PRE. IGUMALE",
-    "lga": "ADO",
-    "ward": "IGUMALE I",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "ADO",
     "ward": "IGUMALE I",
     "state": "Benue",
@@ -648,12 +624,6 @@
     "pu_code": "07/01/05/012",
     "pu_name": "OLE/OKPARA PLAY GROUND",
     "name": "OLE/OKPARA PLAY GROUND",
-    "lga": "ADO",
-    "ward": "IGUMALE II",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "ADO",
     "ward": "IGUMALE II",
     "state": "Benue",
@@ -831,12 +801,6 @@
     "state_code": "07"
   },
   {
-    "lga": "ADO",
-    "ward": "IJIGBAN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/01/07/001",
     "pu_name": "ST JOSEPH PRIM SCH, UDEBO ORIJO",
     "name": "ST JOSEPH PRIM SCH, UDEBO ORIJO",
@@ -990,12 +954,6 @@
     "state_code": "07"
   },
   {
-    "lga": "ADO",
-    "ward": "OGEGE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/01/08/001",
     "pu_name": "UDEBO IGBA, L.G.E.A. PRI. SCH.",
     "name": "UDEBO IGBA, L.G.E.A. PRI. SCH.",
@@ -1134,12 +1092,6 @@
     "pu_code": "07/01/08/016",
     "pu_name": "ISILOKO II, MKT. SQ.",
     "name": "ISILOKO II, MKT. SQ.",
-    "lga": "ADO",
-    "ward": "ROYONGO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "ADO",
     "ward": "ROYONGO",
     "state": "Benue",
@@ -1326,12 +1278,6 @@
     "state_code": "07"
   },
   {
-    "lga": "ADO",
-    "ward": "UKWONYO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/01/10/001",
     "pu_name": "A1-OGA, PRI. SCHOOL (RCM)",
     "name": "A1-OGA, PRI. SCHOOL (RCM)",
@@ -1452,12 +1398,6 @@
     "pu_code": "07/01/10/014",
     "pu_name": "OKPERE, L.G.E.A. SCH.",
     "name": "OKPERE, L.G.E.A. SCH.",
-    "lga": "ADO",
-    "ward": "ULAYI",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "ADO",
     "ward": "ULAYI",
     "state": "Benue",
@@ -1608,12 +1548,6 @@
     "state_code": "07"
   },
   {
-    "lga": "AGATU",
-    "ward": "EGBA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/02/02/001",
     "pu_name": "ENUNGBA, PRI. SCHOOL",
     "name": "ENUNGBA, PRI. SCHOOL",
@@ -1698,12 +1632,6 @@
     "pu_code": "07/02/02/010",
     "pu_name": "ICHOGOLUGWU PRIMARY SCHOOL",
     "name": "ICHOGOLUGWU PRIMARY SCHOOL",
-    "lga": "AGATU",
-    "ward": "ENUNGBA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "AGATU",
     "ward": "ENUNGBA",
     "state": "Benue",
@@ -1890,12 +1818,6 @@
     "state_code": "07"
   },
   {
-    "lga": "AGATU",
-    "ward": "OBAGAJI",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/02/04/001",
     "pu_name": "ODUGBEHO PRI. SCH.",
     "name": "ODUGBEHO PRI. SCH.",
@@ -1950,12 +1872,6 @@
     "state_code": "07"
   },
   {
-    "lga": "AGATU",
-    "ward": "ODUGBEHO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/02/05/001",
     "pu_name": "OGBAULU PLAY GROUND",
     "name": "OGBAULU PLAY GROUND",
@@ -1995,12 +1911,6 @@
     "pu_code": "07/02/05/005",
     "pu_name": "OKPEGWA PLAY GROUND",
     "name": "OKPEGWA PLAY GROUND",
-    "lga": "AGATU",
-    "ward": "OGBAULU",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "AGATU",
     "ward": "OGBAULU",
     "state": "Benue",
@@ -2091,12 +2001,6 @@
     "pu_code": "07/02/06/010",
     "pu_name": "OKADU MARKET SQUARE",
     "name": "OKADU MARKET SQUARE",
-    "lga": "AGATU",
-    "ward": "OGWULE-KADUNA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "AGATU",
     "ward": "OGWULE-KADUNA",
     "state": "Benue",
@@ -2220,12 +2124,6 @@
     "state_code": "07"
   },
   {
-    "lga": "AGATU",
-    "ward": "OGWULE OGBAULU",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/02/08/001",
     "pu_name": "OKOKOLO PRI. SCH. I",
     "name": "OKOKOLO PRI. SCH. I",
@@ -2298,12 +2196,6 @@
     "state_code": "07"
   },
   {
-    "lga": "AGATU",
-    "ward": "OKOKOLO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/02/09/001",
     "pu_name": "OSHIGBUDU PRIM. SCH. I",
     "name": "OSHIGBUDU PRIM. SCH. I",
@@ -2361,12 +2253,6 @@
     "pu_code": "07/02/09/007",
     "pu_name": "OLD MARKET SQUARE OSHIGBUDU",
     "name": "OLD MARKET SQUARE OSHIGBUDU",
-    "lga": "AGATU",
-    "ward": "OSHIGBUDU",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "AGATU",
     "ward": "OSHIGBUDU",
     "state": "Benue",
@@ -2526,12 +2412,6 @@
     "state_code": "07"
   },
   {
-    "lga": "AGATU",
-    "ward": "USHA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/03/01/001",
     "pu_name": "OJANTELLE, MARKET SQUARE I",
     "name": "OJANTELLE, MARKET SQUARE I",
@@ -2622,12 +2502,6 @@
     "state_code": "07"
   },
   {
-    "lga": "APA",
-    "ward": "AKPETE/OJANTELLE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/03/02/001",
     "pu_name": "AUKE-IGERI PLAY GROUND",
     "name": "AUKE-IGERI PLAY GROUND",
@@ -2685,12 +2559,6 @@
     "pu_code": "07/03/02/007",
     "pu_name": "AUKE- IBADO OPEN SPACE",
     "name": "AUKE- IBADO OPEN SPACE",
-    "lga": "APA",
-    "ward": "AUKE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "APA",
     "ward": "AUKE",
     "state": "Benue",
@@ -2796,12 +2664,6 @@
     "state_code": "07"
   },
   {
-    "lga": "APA",
-    "ward": "EDIKWU I",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/03/04/001",
     "pu_name": "ODUGBO PRIM. SCHOOL",
     "name": "ODUGBO PRIM. SCHOOL",
@@ -2886,12 +2748,6 @@
     "pu_code": "07/03/04/010",
     "pu_name": "OPPOSITE PRY HEALTH CENTRE, OPAHA",
     "name": "OPPOSITE PRY HEALTH CENTRE, OPAHA",
-    "lga": "APA",
-    "ward": "EDIKWU II",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "APA",
     "ward": "EDIKWU II",
     "state": "Benue",
@@ -3006,12 +2862,6 @@
     "state_code": "07"
   },
   {
-    "lga": "APA",
-    "ward": "IGAH-OKPAYA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/03/06/001",
     "pu_name": "OCHICHI MARKET SQUARE",
     "name": "OCHICHI MARKET SQUARE",
@@ -3096,12 +2946,6 @@
     "pu_code": "07/03/06/010",
     "pu_name": "LGEA PRIMARY SCHOOL OGBONOKO",
     "name": "LGEA PRIMARY SCHOOL OGBONOKO",
-    "lga": "APA",
-    "ward": "IGORO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "APA",
     "ward": "IGORO",
     "state": "Benue",
@@ -3216,12 +3060,6 @@
     "state_code": "07"
   },
   {
-    "lga": "APA",
-    "ward": "IKOBI",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/03/08/001",
     "pu_name": "ATAKPA PRIM. SCHOOL",
     "name": "ATAKPA PRIM. SCHOOL",
@@ -3306,12 +3144,6 @@
     "pu_code": "07/03/08/010",
     "pu_name": "OBA OPEN SPACE",
     "name": "OBA OPEN SPACE",
-    "lga": "APA",
-    "ward": "OBA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "APA",
     "ward": "OBA",
     "state": "Benue",
@@ -3426,12 +3258,6 @@
     "state_code": "07"
   },
   {
-    "lga": "APA",
-    "ward": "OFOKE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/03/10/001",
     "pu_name": "OIJI PRIM. SCHOOL",
     "name": "OIJI PRIM. SCHOOL",
@@ -3507,12 +3333,6 @@
     "pu_code": "07/03/10/009",
     "pu_name": "GRADE I AREA COURT, OIJI",
     "name": "GRADE I AREA COURT, OIJI",
-    "lga": "APA",
-    "ward": "OIJI",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "APA",
     "ward": "OIJI",
     "state": "Benue",
@@ -3702,12 +3522,6 @@
     "pu_code": "07/03/11/021",
     "pu_name": "OCHUMEKWU PLAY GROUND",
     "name": "OCHUMEKWU PLAY GROUND",
-    "lga": "APA",
-    "ward": "UGBOKPO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "APA",
     "ward": "UGBOKPO",
     "state": "Benue",
@@ -3930,12 +3744,6 @@
     "state_code": "07"
   },
   {
-    "lga": "BURUKU",
-    "ward": "BINEV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/04/02/001",
     "pu_name": "NEAR OTSE ETULO COMP. ETULO",
     "name": "NEAR OTSE ETULO COMP. ETULO",
@@ -4089,12 +3897,6 @@
     "state_code": "07"
   },
   {
-    "lga": "BURUKU",
-    "ward": "ETULO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/04/03/001",
     "pu_name": "NEAR TSE TSUE COMP. 1 - MBAGBUM",
     "name": "NEAR TSE TSUE COMP. 1 - MBAGBUM",
@@ -4206,12 +4008,6 @@
     "pu_code": "07/04/03/013",
     "pu_name": "ASAWA MKT SQR",
     "name": "ASAWA MKT SQR",
-    "lga": "BURUKU",
-    "ward": "MBAADE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "BURUKU",
     "ward": "MBAADE",
     "state": "Benue",
@@ -4410,12 +4206,6 @@
     "pu_code": "07/04/04/022",
     "pu_name": "TOM GERALD NUR PRI SCH, UGBEMA",
     "name": "TOM GERALD NUR PRI SCH, UGBEMA",
-    "lga": "BURUKU",
-    "ward": "MBAAKURA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "BURUKU",
     "ward": "MBAAKURA",
     "state": "Benue",
@@ -4710,12 +4500,6 @@
     "state_code": "07"
   },
   {
-    "lga": "BURUKU",
-    "ward": "MBAAPEN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/04/06/001",
     "pu_name": "ANG. PRI. SCHOOL, UGANGESE",
     "name": "ANG. PRI. SCHOOL, UGANGESE",
@@ -4896,12 +4680,6 @@
     "state_code": "07"
   },
   {
-    "lga": "BURUKU",
-    "ward": "MBAATIRKYAA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/04/07/001",
     "pu_name": "LGEA SCHOOL, KER",
     "name": "LGEA SCHOOL, KER",
@@ -5028,12 +4806,6 @@
     "state_code": "07"
   },
   {
-    "lga": "BURUKU",
-    "ward": "MBAAZAGEE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/04/08/001",
     "pu_name": "LGEA SCHOOL, ANKUNYA",
     "name": "LGEA SCHOOL, ANKUNYA",
@@ -5118,12 +4890,6 @@
     "pu_code": "07/04/08/010",
     "pu_name": "OPEN SPACE NR NKST CHURCH, ATEOTO",
     "name": "OPEN SPACE NR NKST CHURCH, ATEOTO",
-    "lga": "BURUKU",
-    "ward": "MBAIKYONGO/NYIFON",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "BURUKU",
     "ward": "MBAIKYONGO/NYIFON",
     "state": "Benue",
@@ -5337,12 +5103,6 @@
     "state_code": "07"
   },
   {
-    "lga": "BURUKU",
-    "ward": "MBAITYOUGH",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/04/10/001",
     "pu_name": "SATI MARKET SQUARE",
     "name": "SATI MARKET SQUARE",
@@ -5454,12 +5214,6 @@
     "pu_code": "07/04/10/013",
     "pu_name": "TOMATAAN MKT SQR",
     "name": "TOMATAAN MKT SQR",
-    "lga": "BURUKU",
-    "ward": "MBAKYAAN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "BURUKU",
     "ward": "MBAKYAAN",
     "state": "Benue",
@@ -5655,12 +5409,6 @@
     "state_code": "07"
   },
   {
-    "lga": "BURUKU",
-    "ward": "MBAYA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/04/12/001",
     "pu_name": "LGEA SCHOOL, ASHAMENA",
     "name": "LGEA SCHOOL, ASHAMENA",
@@ -5781,12 +5529,6 @@
     "pu_code": "07/04/12/014",
     "pu_name": "ATANYI MKT SQR",
     "name": "ATANYI MKT SQR",
-    "lga": "BURUKU",
-    "ward": "MBAYAKA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "BURUKU",
     "ward": "MBAYAKA",
     "state": "Benue",
@@ -5931,12 +5673,6 @@
     "pu_code": "07/04/13/016",
     "pu_name": "UBE JSS GARAGBOUGHUL",
     "name": "UBE JSS GARAGBOUGHUL",
-    "lga": "BURUKU",
-    "ward": "SHOROV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "BURUKU",
     "ward": "SHOROV",
     "state": "Benue",
@@ -6216,12 +5952,6 @@
     "pu_code": "07/05/01/031",
     "pu_name": "NEAR AKIGA HOUSE",
     "name": "NEAR AKIGA HOUSE",
-    "lga": "GBOKO",
-    "ward": "GBK/CENTRAL MARKET",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GBOKO",
     "ward": "GBK/CENTRAL MARKET",
     "state": "Benue",
@@ -6750,12 +6480,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GBOKO",
-    "ward": "GBOKO EAST",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/05/03/001",
     "pu_name": "NKST PRIM. SCHOOL - ANZWAR",
     "name": "NKST PRIM. SCHOOL - ANZWAR",
@@ -6984,12 +6708,6 @@
     "pu_code": "07/05/03/026",
     "pu_name": "NEAR KUMA LODGE GBOKO",
     "name": "NEAR KUMA LODGE GBOKO",
-    "lga": "GBOKO",
-    "ward": "GBOKO NORTH WEST",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GBOKO",
     "ward": "GBOKO NORTH WEST",
     "state": "Benue",
@@ -7500,12 +7218,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GBOKO",
-    "ward": "GBOKO SOUTH",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/05/05/001",
     "pu_name": "RCM PRIM. SCH. I - NAGA",
     "name": "RCM PRIM. SCH. I - NAGA",
@@ -7698,12 +7410,6 @@
     "pu_code": "07/05/05/022",
     "pu_name": "NEAR UHON NUR/PRI. SCHOOL",
     "name": "NEAR UHON NUR/PRI. SCHOOL",
-    "lga": "GBOKO",
-    "ward": "IGYOROV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GBOKO",
     "ward": "IGYOROV",
     "state": "Benue",
@@ -7935,12 +7641,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GBOKO",
-    "ward": "MBAANKU",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/05/07/001",
     "pu_name": "NEAR TSE VISHIGH COMPOUND",
     "name": "NEAR TSE VISHIGH COMPOUND",
@@ -8040,12 +7740,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GBOKO",
-    "ward": "MBAA VARAKAA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/05/08/001",
     "pu_name": "LGEA PRIM. SCHOOL - CHAHU",
     "name": "LGEA PRIM. SCHOOL - CHAHU",
@@ -8085,12 +7779,6 @@
     "pu_code": "07/05/08/005",
     "pu_name": "MARKET SQUARE ZELGEN",
     "name": "MARKET SQUARE ZELGEN",
-    "lga": "GBOKO",
-    "ward": "MBADAM",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GBOKO",
     "ward": "MBADAM",
     "state": "Benue",
@@ -8424,12 +8112,6 @@
     "pu_code": "07/05/09/037",
     "pu_name": "IN FRONT OS ST. JOHNS CHURCH NUMPEV",
     "name": "IN FRONT OS ST. JOHNS CHURCH NUMPEV",
-    "lga": "GBOKO",
-    "ward": "MBADIM",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GBOKO",
     "ward": "MBADIM",
     "state": "Benue",
@@ -8904,12 +8586,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GBOKO",
-    "ward": "MBAKPER",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/05/11/001",
     "pu_name": "MARKET SQUARE - IKPA I",
     "name": "MARKET SQUARE - IKPA I",
@@ -9117,12 +8793,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GBOKO",
-    "ward": "MBAKWEN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/05/12/001",
     "pu_name": "LGEA PRIMARY SCHOOL MBAAMAN",
     "name": "LGEA PRIMARY SCHOOL MBAAMAN",
@@ -9234,12 +8904,6 @@
     "pu_code": "07/05/12/013",
     "pu_name": "NORMADIC PRIMARY  SCHOOL IGYULA",
     "name": "NORMADIC PRIMARY  SCHOOL IGYULA",
-    "lga": "GBOKO",
-    "ward": "MBATAN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GBOKO",
     "ward": "MBATAN",
     "state": "Benue",
@@ -9384,12 +9048,6 @@
     "pu_code": "07/05/13/016",
     "pu_name": "MARKET SQUARE BUNDE",
     "name": "MARKET SQUARE BUNDE",
-    "lga": "GBOKO",
-    "ward": "MBATSER",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GBOKO",
     "ward": "MBATSER",
     "state": "Benue",
@@ -9612,12 +9270,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GBOKO",
-    "ward": "MBATYU",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/05/15/001",
     "pu_name": "LGEA PRIM. SCHOOL - AMUA",
     "name": "LGEA PRIM. SCHOOL - AMUA",
@@ -9753,12 +9405,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GBOKO",
-    "ward": "UKPEKPE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/05/16/001",
     "pu_name": "NEAR APEINUMBU COMPOUND",
     "name": "NEAR APEINUMBU COMPOUND",
@@ -9888,12 +9534,6 @@
     "pu_code": "07/05/16/015",
     "pu_name": "LGEA PRIMARY  SCHOOL ORPIN",
     "name": "LGEA PRIMARY  SCHOOL ORPIN",
-    "lga": "GBOKO",
-    "ward": "YANDEV NORTH",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GBOKO",
     "ward": "YANDEV NORTH",
     "state": "Benue",
@@ -10062,12 +9702,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GBOKO",
-    "ward": "YANDEV SOUTH",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/06/01/001",
     "pu_name": "ABINSI CENTRAL LGEA PRIM. SCHOOL",
     "name": "ABINSI CENTRAL LGEA PRIM. SCHOOL",
@@ -10179,12 +9813,6 @@
     "pu_code": "07/06/01/013",
     "pu_name": "AFYIFE ROGO  ANGWAN ZUDOR",
     "name": "AFYIFE ROGO  ANGWAN ZUDOR",
-    "lga": "GUMA",
-    "ward": "ABINSI",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GUMA",
     "ward": "ABINSI",
     "state": "Benue",
@@ -10362,12 +9990,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GUMA",
-    "ward": "KAAMBE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/06/03/001",
     "pu_name": "ABIGE MARKET SQUARE",
     "name": "ABIGE MARKET SQUARE",
@@ -10479,12 +10101,6 @@
     "pu_code": "07/06/03/013",
     "pu_name": "TSE-WURA II -",
     "name": "TSE-WURA II -",
-    "lga": "GUMA",
-    "ward": "MBABAI",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GUMA",
     "ward": "MBABAI",
     "state": "Benue",
@@ -10611,12 +10227,6 @@
     "pu_code": "07/06/04/014",
     "pu_name": "NEAR IORTYOM DURA COMPOUND",
     "name": "NEAR IORTYOM DURA COMPOUND",
-    "lga": "GUMA",
-    "ward": "MBADWEM",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GUMA",
     "ward": "MBADWEM",
     "state": "Benue",
@@ -10803,12 +10413,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GUMA",
-    "ward": "MBAWA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/06/06/001",
     "pu_name": "ADAYI - LGEA PRIM. SCHOOL, ADAYI",
     "name": "ADAYI - LGEA PRIM. SCHOOL, ADAYI",
@@ -10983,12 +10587,6 @@
     "pu_code": "07/06/06/020",
     "pu_name": "TSE GOON COMPOUND",
     "name": "TSE GOON COMPOUND",
-    "lga": "GUMA",
-    "ward": "MBAYER/YANDEV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GUMA",
     "ward": "MBAYER/YANDEV",
     "state": "Benue",
@@ -11256,12 +10854,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GUMA",
-    "ward": "NYIEV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/06/08/001",
     "pu_name": "AGBAKA - LGEA SCHOOL, AGBAKA",
     "name": "AGBAKA - LGEA SCHOOL, AGBAKA",
@@ -11436,12 +11028,6 @@
     "pu_code": "07/06/08/020",
     "pu_name": "GOVT.SCI.&TECH.COLLEGE GBAJ",
     "name": "GOVT.SCI.&TECH.COLLEGE GBAJ",
-    "lga": "GUMA",
-    "ward": "NZOROV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GUMA",
     "ward": "NZOROV",
     "state": "Benue",
@@ -11736,12 +11322,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GUMA",
-    "ward": "SAGHEV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/06/10/001",
     "pu_name": "ADO COMPOUND",
     "name": "ADO COMPOUND",
@@ -11922,12 +11502,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GUMA",
-    "ward": "UVIR",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/07/01/001",
     "pu_name": "AINU, LGED SCHOOL",
     "name": "AINU, LGED SCHOOL",
@@ -11985,12 +11559,6 @@
     "pu_code": "07/07/01/024",
     "pu_name": "NKST SCH ALIADE",
     "name": "NKST SCH ALIADE",
-    "lga": "GWER EAST",
-    "ward": "AKPACH'AYI",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER EAST",
     "ward": "AKPACH'AYI",
     "state": "Benue",
@@ -12213,12 +11781,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GWER EAST",
-    "ward": "ALIADE TOWN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/07/03/001",
     "pu_name": "ADUKU, RCM SCHOOL",
     "name": "ADUKU, RCM SCHOOL",
@@ -12294,12 +11856,6 @@
     "pu_code": "07/07/03/009",
     "pu_name": "IGBA APUA OPEN SPACE",
     "name": "IGBA APUA OPEN SPACE",
-    "lga": "GWER EAST",
-    "ward": "GBEMACHA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER EAST",
     "ward": "GBEMACHA",
     "state": "Benue",
@@ -12390,12 +11946,6 @@
     "pu_code": "07/07/04/010",
     "pu_name": "LGED SCHOOL AKPOUGHOL",
     "name": "LGED SCHOOL AKPOUGHOL",
-    "lga": "GWER EAST",
-    "ward": "IKYOGBAJIR",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER EAST",
     "ward": "IKYOGBAJIR",
     "state": "Benue",
@@ -12528,12 +12078,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GWER EAST",
-    "ward": "IKYONOV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/07/06/001",
     "pu_name": "TYOKIGHIR NKST SCHOOL",
     "name": "TYOKIGHIR NKST SCHOOL",
@@ -12645,12 +12189,6 @@
     "pu_code": "07/07/06/013",
     "pu_name": "GYUNGU MKT SQ",
     "name": "GYUNGU MKT SQ",
-    "lga": "GWER EAST",
-    "ward": "MBABUR",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER EAST",
     "ward": "MBABUR",
     "state": "Benue",
@@ -12774,12 +12312,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GWER EAST",
-    "ward": "MBAIASE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/07/08/001",
     "pu_name": "TYOUGH GYURA - MARKET SQUARE",
     "name": "TYOUGH GYURA - MARKET SQUARE",
@@ -12891,12 +12423,6 @@
     "pu_code": "07/07/08/013",
     "pu_name": "ANSHWA OPEN SPACE",
     "name": "ANSHWA OPEN SPACE",
-    "lga": "GWER EAST",
-    "ward": "MBAIKYU",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER EAST",
     "ward": "MBAIKYU",
     "state": "Benue",
@@ -13110,12 +12636,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GWER EAST",
-    "ward": "MBAIKYAAN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/07/10/001",
     "pu_name": "RCM SCHOOL, AGANA - AGANA",
     "name": "RCM SCHOOL, AGANA - AGANA",
@@ -13218,12 +12738,6 @@
     "pu_code": "07/07/10/012",
     "pu_name": "RCM SCHOOL ANSHWA",
     "name": "RCM SCHOOL ANSHWA",
-    "lga": "GWER EAST",
-    "ward": "MBALOM",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER EAST",
     "ward": "MBALOM",
     "state": "Benue",
@@ -13356,12 +12870,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GWER EAST",
-    "ward": "MBASOMBO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/07/12/001",
     "pu_name": "GBACHE I - MARKET SQUARE",
     "name": "GBACHE I - MARKET SQUARE",
@@ -13410,12 +12918,6 @@
     "pu_code": "07/07/12/006",
     "pu_name": "GBACHE II - MARKET SQUARE",
     "name": "GBACHE II - MARKET SQUARE",
-    "lga": "GWER EAST",
-    "ward": "MBAYOM",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER EAST",
     "ward": "MBAYOM",
     "state": "Benue",
@@ -13524,12 +13026,6 @@
     "pu_code": "07/07/13/012",
     "pu_name": "NKST UGBA OPEN SPACE",
     "name": "NKST UGBA OPEN SPACE",
-    "lga": "GWER EAST",
-    "ward": "SHOUGH",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER EAST",
     "ward": "SHOUGH",
     "state": "Benue",
@@ -13707,12 +13203,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GWER EAST",
-    "ward": "UGEE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/08/01/001",
     "pu_name": "TSE - ACHU - LGEA SCHOOL, ACHU",
     "name": "TSE - ACHU - LGEA SCHOOL, ACHU",
@@ -13794,12 +13284,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GWER WEST",
-    "ward": "AVIHIJIME",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/08/02/001",
     "pu_name": "UDAM - UDAM COMP.",
     "name": "UDAM - UDAM COMP.",
@@ -13848,12 +13332,6 @@
     "pu_code": "07/08/02/006",
     "pu_name": "ORKERGA-LGEA PRI SCH",
     "name": "ORKERGA-LGEA PRI SCH",
-    "lga": "GWER WEST",
-    "ward": "GAAMBE - USHIN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER WEST",
     "ward": "GAAMBE - USHIN",
     "state": "Benue",
@@ -13935,12 +13413,6 @@
     "pu_code": "07/08/03/009",
     "pu_name": "GAASE-LGEA SCH GAASE",
     "name": "GAASE-LGEA SCH GAASE",
-    "lga": "GWER WEST",
-    "ward": "GBAANGE/TONGOV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER WEST",
     "ward": "GBAANGE/TONGOV",
     "state": "Benue",
@@ -14100,12 +13572,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GWER WEST",
-    "ward": "IKYAGHEV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/08/05/001",
     "pu_name": "TEMA - LGEA SCHOOL, TEMA",
     "name": "TEMA - LGEA SCHOOL, TEMA",
@@ -14178,12 +13644,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GWER WEST",
-    "ward": "ITYOUGHATEE/INJAHA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/08/06/001",
     "pu_name": "IKYANDE - IKYANDE MARKET SQUARE",
     "name": "IKYANDE - IKYANDE MARKET SQUARE",
@@ -14241,12 +13701,6 @@
     "pu_code": "07/08/06/007",
     "pu_name": "ANTYAM-TSE ANTYAM COMP",
     "name": "ANTYAM-TSE ANTYAM COMP",
-    "lga": "GWER WEST",
-    "ward": "MBABUANDE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER WEST",
     "ward": "MBABUANDE",
     "state": "Benue",
@@ -14334,12 +13788,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GWER WEST",
-    "ward": "MBACHOHON",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/08/08/001",
     "pu_name": "ATSWERGA - ATSWERGA COMP.",
     "name": "ATSWERGA - ATSWERGA COMP.",
@@ -14379,12 +13827,6 @@
     "pu_code": "07/08/08/005",
     "pu_name": "ABENA II - ABENA PLAY GROUND",
     "name": "ABENA II - ABENA PLAY GROUND",
-    "lga": "GWER WEST",
-    "ward": "MBANYAMSHI",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER WEST",
     "ward": "MBANYAMSHI",
     "state": "Benue",
@@ -14463,12 +13905,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GWER WEST",
-    "ward": "MBAPA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/08/10/001",
     "pu_name": "ATONDIIR - ATONDIIR MARKET SQUARE",
     "name": "ATONDIIR - ATONDIIR MARKET SQUARE",
@@ -14526,12 +13962,6 @@
     "pu_code": "07/08/10/007",
     "pu_name": "TSE ANYANKA-CHUNDA MKT SQR",
     "name": "TSE ANYANKA-CHUNDA MKT SQR",
-    "lga": "GWER WEST",
-    "ward": "MERKYEN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER WEST",
     "ward": "MERKYEN",
     "state": "Benue",
@@ -14604,12 +14034,6 @@
     "pu_code": "07/08/11/008",
     "pu_name": "AYIMBA/AYAR (YIASE MRKT SQR)",
     "name": "AYIMBA/AYAR (YIASE MRKT SQR)",
-    "lga": "GWER WEST",
-    "ward": "SAGHEV/UKUSU",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER WEST",
     "ward": "SAGHEV/UKUSU",
     "state": "Benue",
@@ -14697,12 +14121,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GWER WEST",
-    "ward": "SENGEV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/08/13/001",
     "pu_name": "TSAVHEMBA - TSAVHEMBA COMP.",
     "name": "TSAVHEMBA - TSAVHEMBA COMP.",
@@ -14769,12 +14187,6 @@
     "pu_code": "07/08/13/008",
     "pu_name": "KPEIRYISA OPEN SPACE",
     "name": "KPEIRYISA OPEN SPACE",
-    "lga": "GWER WEST",
-    "ward": "SENGEV/YENGEV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER WEST",
     "ward": "SENGEV/YENGEV",
     "state": "Benue",
@@ -14853,12 +14265,6 @@
     "state_code": "07"
   },
   {
-    "lga": "GWER WEST",
-    "ward": "TIJIME",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/08/15/001",
     "pu_name": "YOGBO - LGEA - YOGBO",
     "name": "YOGBO - LGEA - YOGBO",
@@ -14898,12 +14304,6 @@
     "pu_code": "07/08/15/005",
     "pu_name": "ABU - ABU COMP.",
     "name": "ABU - ABU COMP.",
-    "lga": "GWER WEST",
-    "ward": "TSAMBE/MBASEV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "GWER WEST",
     "ward": "TSAMBE/MBASEV",
     "state": "Benue",
@@ -15126,12 +14526,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KATSINA-ALA",
-    "ward": "IKURAV TIEV I",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/09/02/001",
     "pu_name": "HEMEN DAMSA/NEAR HEMEN DAMSA COMPOUND",
     "name": "HEMEN DAMSA/NEAR HEMEN DAMSA COMPOUND",
@@ -15252,12 +14646,6 @@
     "pu_code": "07/09/02/014",
     "pu_name": "OPEN SPACE NEAR ST. PETER'S CATHOLIC CHURCH AONDOAKAA",
     "name": "OPEN SPACE NEAR ST. PETER'S CATHOLIC CHURCH AONDOAKAA",
-    "lga": "KATSINA-ALA",
-    "ward": "IKURAV TIEV II",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KATSINA-ALA",
     "ward": "IKURAV TIEV II",
     "state": "Benue",
@@ -15447,12 +14835,6 @@
     "pu_code": "07/09/03/021",
     "pu_name": "OPEN SPACE NEAR ABUR NOR VILLAGE SQUARE.",
     "name": "OPEN SPACE NEAR ABUR NOR VILLAGE SQUARE.",
-    "lga": "KATSINA-ALA",
-    "ward": "IWAR(TONGOV I)",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KATSINA-ALA",
     "ward": "IWAR(TONGOV I)",
     "state": "Benue",
@@ -15927,12 +15309,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KATSINA-ALA",
-    "ward": "KATSINA-ALA TOWN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/09/05/001",
     "pu_name": "NKST SCHOOL, HARGA I/SCHOOL COMPOUND",
     "name": "NKST SCHOOL, HARGA I/SCHOOL COMPOUND",
@@ -16131,12 +15507,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KATSINA-ALA",
-    "ward": "MBACHER",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/09/06/001",
     "pu_name": "NKST. SCHOOL SAI I/SCHOOL COMPOUND",
     "name": "NKST. SCHOOL SAI I/SCHOOL COMPOUND",
@@ -16254,12 +15624,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KATSINA-ALA",
-    "ward": "MBAJIR",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/09/07/001",
     "pu_name": "AGU CENTRE/RCM SCHOOL, TWAR",
     "name": "AGU CENTRE/RCM SCHOOL, TWAR",
@@ -16371,12 +15735,6 @@
     "pu_code": "07/09/07/013",
     "pu_name": "LGEA PRIMARY SCHOOL ATUMBE SCHOOL COMPOUND",
     "name": "LGEA PRIMARY SCHOOL ATUMBE SCHOOL COMPOUND",
-    "lga": "KATSINA-ALA",
-    "ward": "MBATULA/MBEREV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KATSINA-ALA",
     "ward": "MBATULA/MBEREV",
     "state": "Benue",
@@ -16584,12 +15942,6 @@
     "pu_code": "07/09/08/023",
     "pu_name": "OPEN SPACE NEAR ST. MARK CATHOLIC CHURCH TSE-DE",
     "name": "OPEN SPACE NEAR ST. MARK CATHOLIC CHURCH TSE-DE",
-    "lga": "KATSINA-ALA",
-    "ward": "MBAYONGO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KATSINA-ALA",
     "ward": "MBAYONGO",
     "state": "Benue",
@@ -16842,12 +16194,6 @@
     "pu_code": "07/09/09/028",
     "pu_name": "OPEN SPACE TAVACHAN MARKET SQUARE",
     "name": "OPEN SPACE TAVACHAN MARKET SQUARE",
-    "lga": "KATSINA-ALA",
-    "ward": "MICHIHE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KATSINA-ALA",
     "ward": "MICHIHE",
     "state": "Benue",
@@ -17214,12 +16560,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KATSINA-ALA",
-    "ward": "TIIR(TONGOV II)",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/09/11/001",
     "pu_name": "AGEE LGEA SCHOOL/SCHOOL COMPOUND",
     "name": "AGEE LGEA SCHOOL/SCHOOL COMPOUND",
@@ -17463,12 +16803,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KATSINA-ALA",
-    "ward": "UTANGE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/09/12/001",
     "pu_name": "LGEA SCHOOL, TACHA/SCHOOL COMPOUND",
     "name": "LGEA SCHOOL, TACHA/SCHOOL COMPOUND",
@@ -17640,12 +16974,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KATSINA-ALA",
-    "ward": "YOOYO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/10/01/002",
     "pu_name": "LGED SCHOOL, ACHIKA - ACHIKA",
     "name": "LGED SCHOOL, ACHIKA - ACHIKA",
@@ -17766,12 +17094,6 @@
     "pu_code": "07/10/01/015",
     "pu_name": "GAJIR PUBLIC SQ",
     "name": "GAJIR PUBLIC SQ",
-    "lga": "KONSHISHA",
-    "ward": "IKYURAV/MBATWER",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KONSHISHA",
     "ward": "IKYURAV/MBATWER",
     "state": "Benue",
@@ -17934,12 +17256,6 @@
     "pu_code": "07/10/02/018",
     "pu_name": "TSE-TYO MARKET",
     "name": "TSE-TYO MARKET",
-    "lga": "KONSHISHA",
-    "ward": "MBAGUSA/MBATSER",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KONSHISHA",
     "ward": "MBAGUSA/MBATSER",
     "state": "Benue",
@@ -18261,12 +17577,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KONSHISHA",
-    "ward": "MBAIKYASE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/10/04/001",
     "pu_name": "AWAJIR MAIN LGED SCHOOL, AWAJIR",
     "name": "AWAJIR MAIN LGED SCHOOL, AWAJIR",
@@ -18501,12 +17811,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KONSHISHA",
-    "ward": "MBAIWARNYAM",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/10/05/001",
     "pu_name": "AJANDE LGED SCHOOL, AJANDE",
     "name": "AJANDE LGED SCHOOL, AJANDE",
@@ -18714,12 +18018,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KONSHISHA",
-    "ward": "MBAKE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/10/06/001",
     "pu_name": "WUAOR LGED SCHOOL - WUAOR",
     "name": "WUAOR LGED SCHOOL - WUAOR",
@@ -18867,12 +18165,6 @@
     "pu_code": "07/10/06/017",
     "pu_name": "UGI MKT SQ.",
     "name": "UGI MKT SQ.",
-    "lga": "KONSHISHA",
-    "ward": "MBANOR",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KONSHISHA",
     "ward": "MBANOR",
     "state": "Benue",
@@ -19095,12 +18387,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KONSHISHA",
-    "ward": "MBATSEN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/10/08/001",
     "pu_name": "SEV LEP. CLINIC - SEV",
     "name": "SEV LEP. CLINIC - SEV",
@@ -19221,12 +18507,6 @@
     "pu_code": "07/10/08/014",
     "pu_name": "ADULE MKT SQ.",
     "name": "ADULE MKT SQ.",
-    "lga": "KONSHISHA",
-    "ward": "MBAVAA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KONSHISHA",
     "ward": "MBAVAA",
     "state": "Benue",
@@ -19461,12 +18741,6 @@
     "pu_code": "07/10/09/026",
     "pu_name": "ANYIASE MKT. SQ.",
     "name": "ANYIASE MKT. SQ.",
-    "lga": "KONSHISHA",
-    "ward": "MBAWAR",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KONSHISHA",
     "ward": "MBAWAR",
     "state": "Benue",
@@ -19734,12 +19008,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KONSHISHA",
-    "ward": "MBAYEGH/MBAIKYER",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/10/11/001",
     "pu_name": "AGUNDU NR TIME IKYAR - AGUNDU",
     "name": "AGUNDU NR TIME IKYAR - AGUNDU",
@@ -19977,12 +19245,6 @@
     "pu_code": "07/10/11/027",
     "pu_name": "LGED PRIM. SCH. AJIM",
     "name": "LGED PRIM. SCH. AJIM",
-    "lga": "KONSHISHA",
-    "ward": "TSE-AGBERAGBA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KONSHISHA",
     "ward": "TSE-AGBERAGBA",
     "state": "Benue",
@@ -20322,12 +19584,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KWANDE",
-    "ward": "ADIKPO METROPOLIS",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/11/02/001",
     "pu_name": "ACHIA MARKET SQUARE I, NEAR THE MARKET SQUARE",
     "name": "ACHIA MARKET SQUARE I, NEAR THE MARKET SQUARE",
@@ -20538,12 +19794,6 @@
     "pu_code": "07/11/02/024",
     "pu_name": "RCM IKPONKO",
     "name": "RCM IKPONKO",
-    "lga": "KWANDE",
-    "ward": "LIEV  I",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KWANDE",
     "ward": "LIEV  I",
     "state": "Benue",
@@ -20847,12 +20097,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KWANDE",
-    "ward": "LIEV II",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/11/04/001",
     "pu_name": "SHIMANA AMATA, RCM. PRI. SCHOOL, SHIMANA",
     "name": "SHIMANA AMATA, RCM. PRI. SCHOOL, SHIMANA",
@@ -21018,12 +20262,6 @@
     "pu_code": "07/11/04/019",
     "pu_name": "WANNUNE",
     "name": "WANNUNE",
-    "lga": "KWANDE",
-    "ward": "MBADURA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KWANDE",
     "ward": "MBADURA",
     "state": "Benue",
@@ -21276,12 +20514,6 @@
     "pu_code": "07/11/05/028",
     "pu_name": "ABUJA-MBAWEN MARKET",
     "name": "ABUJA-MBAWEN MARKET",
-    "lga": "KWANDE",
-    "ward": "MBAGBA/MBAIKYAN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KWANDE",
     "ward": "MBAGBA/MBAIKYAN",
     "state": "Benue",
@@ -21594,12 +20826,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KWANDE",
-    "ward": "MBAIKYOR",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/11/07/001",
     "pu_name": "GOM GIRE, NEAR GOM GIRE COMPOUND",
     "name": "GOM GIRE, NEAR GOM GIRE COMPOUND",
@@ -21783,12 +21009,6 @@
     "pu_code": "07/11/07/021",
     "pu_name": "AJIO MARKET SQUARE",
     "name": "AJIO MARKET SQUARE",
-    "lga": "KWANDE",
-    "ward": "MBAKETSA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KWANDE",
     "ward": "MBAKETSA",
     "state": "Benue",
@@ -22011,12 +21231,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KWANDE",
-    "ward": "MENEV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/11/09/001",
     "pu_name": "TICHA MARKET, NEAR MARKET SQUARE",
     "name": "TICHA MARKET, NEAR MARKET SQUARE",
@@ -22173,12 +21387,6 @@
     "pu_code": "07/11/09/018",
     "pu_name": "HIGH LEVEL IYON",
     "name": "HIGH LEVEL IYON",
-    "lga": "KWANDE",
-    "ward": "TONDOV I",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KWANDE",
     "ward": "TONDOV I",
     "state": "Benue",
@@ -22410,12 +21618,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KWANDE",
-    "ward": "TONDOV II",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/11/11/001",
     "pu_name": "PUUSU VILLAGE, NEAR VILLAGE PREMISES",
     "name": "PUUSU VILLAGE, NEAR VILLAGE PREMISES",
@@ -22527,12 +21729,6 @@
     "pu_code": "07/11/11/013",
     "pu_name": "TSE AKON WITHIN TSE AKON VILLAGE",
     "name": "TSE AKON WITHIN TSE AKON VILLAGE",
-    "lga": "KWANDE",
-    "ward": "USAR",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KWANDE",
     "ward": "USAR",
     "state": "Benue",
@@ -22668,12 +21864,6 @@
     "pu_code": "07/11/12/015",
     "pu_name": "TSE HANIOR",
     "name": "TSE HANIOR",
-    "lga": "KWANDE",
-    "ward": "MBAYOO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "KWANDE",
     "ward": "MBAYOO",
     "state": "Benue",
@@ -22869,12 +22059,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KWANDE",
-    "ward": "YAAV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/11/14/001",
     "pu_name": "ADANGE, BESIDE ADANGE COMPOUND",
     "name": "ADANGE, BESIDE ADANGE COMPOUND",
@@ -23001,12 +22185,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KWANDE",
-    "ward": "MOON",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/11/15/001",
     "pu_name": "LGEA PRI. SCHOOL, MANYAM, SCHOOL PREMISES",
     "name": "LGEA PRI. SCHOOL, MANYAM, SCHOOL PREMISES",
@@ -23124,12 +22302,6 @@
     "state_code": "07"
   },
   {
-    "lga": "KWANDE",
-    "ward": "KUMAKWAGH",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/12/01/001",
     "pu_name": "RCM SCHOOL, GONDOZUA PLAY GROUND",
     "name": "RCM SCHOOL, GONDOZUA PLAY GROUND",
@@ -23241,12 +22413,6 @@
     "pu_code": "07/12/01/013",
     "pu_name": "TSE AZEGE VILLAGE SQUARE",
     "name": "TSE AZEGE VILLAGE SQUARE",
-    "lga": "LOGO",
-    "ward": "MBADYUL",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "LOGO",
     "ward": "MBADYUL",
     "state": "Benue",
@@ -23442,12 +22608,6 @@
     "state_code": "07"
   },
   {
-    "lga": "LOGO",
-    "ward": "MBAGBER",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/12/03/001",
     "pu_name": "ASOM VILLAGE SQUARE",
     "name": "ASOM VILLAGE SQUARE",
@@ -23613,12 +22773,6 @@
     "pu_code": "07/12/03/019",
     "pu_name": "AGANDI VILLAGE SQUARE",
     "name": "AGANDI VILLAGE SQUARE",
-    "lga": "LOGO",
-    "ward": "MBATER",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "LOGO",
     "ward": "MBATER",
     "state": "Benue",
@@ -23832,12 +22986,6 @@
     "state_code": "07"
   },
   {
-    "lga": "LOGO",
-    "ward": "MBAYAM",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/12/05/001",
     "pu_name": "LGEA SCHOOL ABEDA",
     "name": "LGEA SCHOOL ABEDA",
@@ -24009,12 +23157,6 @@
     "state_code": "07"
   },
   {
-    "lga": "LOGO",
-    "ward": "MBAVUUR",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/12/06/001",
     "pu_name": "LGEA SCHOOL ITYOKYAA",
     "name": "LGEA SCHOOL ITYOKYAA",
@@ -24126,12 +23268,6 @@
     "pu_code": "07/12/06/013",
     "pu_name": "LGEA PRIMARY SCHOOL, IKYOR",
     "name": "LGEA PRIMARY SCHOOL, IKYOR",
-    "lga": "LOGO",
-    "ward": "NENZEV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "LOGO",
     "ward": "NENZEV",
     "state": "Benue",
@@ -24381,12 +23517,6 @@
     "state_code": "07"
   },
   {
-    "lga": "LOGO",
-    "ward": "TOMBO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/12/08/001",
     "pu_name": "NKST. SCHOOL, ABOKWEN/TSE ABOKWEN",
     "name": "NKST. SCHOOL, ABOKWEN/TSE ABOKWEN",
@@ -24507,12 +23637,6 @@
     "pu_code": "07/12/08/014",
     "pu_name": "LGEA PRIMARY SCHOOL, MBADUM",
     "name": "LGEA PRIMARY SCHOOL, MBADUM",
-    "lga": "LOGO",
-    "ward": "TURAN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "LOGO",
     "ward": "TURAN",
     "state": "Benue",
@@ -24690,12 +23814,6 @@
     "state_code": "07"
   },
   {
-    "lga": "LOGO",
-    "ward": "UKEMBERGYA/ISWAREV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/12/10/001",
     "pu_name": "LGEA PRIMARY SCHOOL AKAA",
     "name": "LGEA PRIMARY SCHOOL AKAA",
@@ -24834,12 +23952,6 @@
     "pu_code": "07/12/10/016",
     "pu_name": "TSE IBOM VILLAGE SQUARE",
     "name": "TSE IBOM VILLAGE SQUARE",
-    "lga": "LOGO",
-    "ward": "YONOV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "LOGO",
     "ward": "YONOV",
     "state": "Benue",
@@ -25191,12 +24303,6 @@
     "pu_code": "07/13/01/055",
     "pu_name": "PAMPAS",
     "name": "PAMPAS",
-    "lga": "MAKURDI",
-    "ward": "AGAN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "MAKURDI",
     "ward": "AGAN",
     "state": "Benue",
@@ -25761,12 +24867,6 @@
     "state_code": "07"
   },
   {
-    "lga": "MAKURDI",
-    "ward": "ANKPA/WADATA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/13/03/001",
     "pu_name": "LGEA SCHOOL, TIONSHA - WITHIN THE SCHOOL",
     "name": "LGEA SCHOOL, TIONSHA - WITHIN THE SCHOOL",
@@ -26148,12 +25248,6 @@
     "pu_code": "07/13/03/043",
     "pu_name": "MZOUGH KAVE NEAR GLORY OF HIS MAJESTY SEC. SCH.",
     "name": "MZOUGH KAVE NEAR GLORY OF HIS MAJESTY SEC. SCH.",
-    "lga": "MAKURDI",
-    "ward": "BAR",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "MAKURDI",
     "ward": "BAR",
     "state": "Benue",
@@ -26682,12 +25776,6 @@
     "state_code": "07"
   },
   {
-    "lga": "MAKURDI",
-    "ward": "CENTRAL/SOUTH MISSION",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/13/05/001",
     "pu_name": "NEW NIGERIA BANK I - CLOSE TO NEW GARAGE",
     "name": "NEW NIGERIA BANK I - CLOSE TO NEW GARAGE",
@@ -26934,12 +26022,6 @@
     "pu_code": "07/13/05/028",
     "pu_name": "BEHIND ALL-ST. CATHEDRAL LAGOS STREET",
     "name": "BEHIND ALL-ST. CATHEDRAL LAGOS STREET",
-    "lga": "MAKURDI",
-    "ward": "CLERKS/MARKET",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "MAKURDI",
     "ward": "CLERKS/MARKET",
     "state": "Benue",
@@ -27819,12 +26901,6 @@
     "state_code": "07"
   },
   {
-    "lga": "MAKURDI",
-    "ward": "FIIDI",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/13/07/001",
     "pu_name": "MBAORKA - TSE APAGHER",
     "name": "MBAORKA - TSE APAGHER",
@@ -28026,12 +27102,6 @@
     "pu_code": "07/13/07/023",
     "pu_name": "ASOM - AVINDIGH VILLAGE SQUARE",
     "name": "ASOM - AVINDIGH VILLAGE SQUARE",
-    "lga": "MAKURDI",
-    "ward": "MBALAGH",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "MAKURDI",
     "ward": "MBALAGH",
     "state": "Benue",
@@ -28383,12 +27453,6 @@
     "pu_code": "07/13/08/039",
     "pu_name": "OPEN SPACE NO. 18 DOOYUM BAKERY STREET, DEMEKPE",
     "name": "OPEN SPACE NO. 18 DOOYUM BAKERY STREET, DEMEKPE",
-    "lga": "MAKURDI",
-    "ward": "MODERN MARKET",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "MAKURDI",
     "ward": "MODERN MARKET",
     "state": "Benue",
@@ -28782,12 +27846,6 @@
     "state_code": "07"
   },
   {
-    "lga": "MAKURDI",
-    "ward": "NORTH BANK I",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/13/10/001",
     "pu_name": "SCHOOL OF REM. STD. JUNCTION - AT THE JUNCTION",
     "name": "SCHOOL OF REM. STD. JUNCTION - AT THE JUNCTION",
@@ -29079,12 +28137,6 @@
     "pu_code": "07/13/10/033",
     "pu_name": "OPEN SPACE NEAR ALH. KAWU MOSQUE",
     "name": "OPEN SPACE NEAR ALH. KAWU MOSQUE",
-    "lga": "MAKURDI",
-    "ward": "NORTH BANK II",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "MAKURDI",
     "ward": "NORTH BANK II",
     "state": "Benue",
@@ -29946,12 +28998,6 @@
     "state_code": "07"
   },
   {
-    "lga": "MAKURDI",
-    "ward": "WAILOMAYO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/14/01/001",
     "pu_name": "PLAY GROUND-ODALIKO I",
     "name": "PLAY GROUND-ODALIKO I",
@@ -30042,12 +29088,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OBI",
-    "ward": "ADIKO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/14/02/001",
     "pu_name": "PLAY GROUND - ADUM EDII",
     "name": "PLAY GROUND - ADUM EDII",
@@ -30114,12 +29154,6 @@
     "pu_code": "07/14/02/008",
     "pu_name": "PLAYGROUND IKPON NYIRE",
     "name": "PLAYGROUND IKPON NYIRE",
-    "lga": "OBI",
-    "ward": "ADUM WEST",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OBI",
     "ward": "ADUM WEST",
     "state": "Benue",
@@ -30225,12 +29259,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OBI",
-    "ward": "IKWOKWU",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/14/04/001",
     "pu_name": "PLAY GROUND - ADEGA",
     "name": "PLAY GROUND - ADEGA",
@@ -30279,12 +29307,6 @@
     "pu_code": "07/14/04/006",
     "pu_name": "PLAYGROUND ADEGA IRABI",
     "name": "PLAYGROUND ADEGA IRABI",
-    "lga": "OBI",
-    "ward": "IRABI",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OBI",
     "ward": "IRABI",
     "state": "Benue",
@@ -30417,12 +29439,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OBI",
-    "ward": "ITOGO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/14/06/001",
     "pu_name": "NEAR ITO G - BARRACKS I",
     "name": "NEAR ITO G - BARRACKS I",
@@ -30522,12 +29538,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OBI",
-    "ward": "OBARIKE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/14/07/001",
     "pu_name": "PLAY GROUND - IWAGOGO",
     "name": "PLAY GROUND - IWAGOGO",
@@ -30621,12 +29631,6 @@
     "pu_code": "07/14/07/011",
     "pu_name": "UMAPIA ED11 OBEKO",
     "name": "UMAPIA ED11 OBEKO",
-    "lga": "OBI",
-    "ward": "OBEKO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OBI",
     "ward": "OBEKO",
     "state": "Benue",
@@ -30741,12 +29745,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OBI",
-    "ward": "ODIAPA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/14/09/001",
     "pu_name": "ABIKAM/ABOTUTU PLAY GROUND",
     "name": "ABIKAM/ABOTUTU PLAY GROUND",
@@ -30804,12 +29802,6 @@
     "pu_code": "07/14/09/007",
     "pu_name": "PLAYGROUND OBODO",
     "name": "PLAYGROUND OBODO",
-    "lga": "OBI",
-    "ward": "OGORE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OBI",
     "ward": "OGORE",
     "state": "Benue",
@@ -30924,12 +29916,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OBI",
-    "ward": "OKPOKWU",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/14/11/001",
     "pu_name": "PRIMARY SCHOOL - OHUEHE/IGBONO",
     "name": "PRIMARY SCHOOL - OHUEHE/IGBONO",
@@ -31011,12 +29997,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OBI",
-    "ward": "OKWUTUNGBE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/14/12/001",
     "pu_name": "PLAY GROUND - OHUMA",
     "name": "PLAY GROUND - OHUMA",
@@ -31092,12 +30072,6 @@
     "pu_code": "07/14/12/009",
     "pu_name": "LGEA PRY SCH. OYINYI",
     "name": "LGEA PRY SCH. OYINYI",
-    "lga": "OBI",
-    "ward": "ORIHI",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OBI",
     "ward": "ORIHI",
     "state": "Benue",
@@ -31206,12 +30180,6 @@
     "pu_code": "07/15/01/012",
     "pu_name": "OLEMPE ORIDO PLAYGROUND",
     "name": "OLEMPE ORIDO PLAYGROUND",
-    "lga": "OGBADIBO",
-    "ward": "AI-OODO I",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OGBADIBO",
     "ward": "AI-OODO I",
     "state": "Benue",
@@ -31344,12 +30312,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OGBADIBO",
-    "ward": "AI-OODO II",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/15/03/001",
     "pu_name": "ODOBA I - ONCHUPI PLAY GROUND",
     "name": "ODOBA I - ONCHUPI PLAY GROUND",
@@ -31425,12 +30387,6 @@
     "pu_code": "07/15/03/009",
     "pu_name": "OLE-ANNA OGENE PLAYGROUND",
     "name": "OLE-ANNA OGENE PLAYGROUND",
-    "lga": "OGBADIBO",
-    "ward": "AI-OONO I",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OGBADIBO",
     "ward": "AI-OONO I",
     "state": "Benue",
@@ -31530,12 +30486,6 @@
     "pu_code": "07/15/04/011",
     "pu_name": "UGBODU PRIMARY SCHOOL",
     "name": "UGBODU PRIMARY SCHOOL",
-    "lga": "OGBADIBO",
-    "ward": "AI-OONO II",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OGBADIBO",
     "ward": "AI-OONO II",
     "state": "Benue",
@@ -31650,12 +30600,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OGBADIBO",
-    "ward": "AI-OONO III",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/15/06/001",
     "pu_name": "IPOLE EHAJE - EDE MARKET SQUARE",
     "name": "IPOLE EHAJE - EDE MARKET SQUARE",
@@ -31764,12 +30708,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OGBADIBO",
-    "ward": "EHAJE I",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/15/07/001",
     "pu_name": "ADU/ONYIRADA/ERU - ADU PLAY GROUND",
     "name": "ADU/ONYIRADA/ERU - ADU PLAY GROUND",
@@ -31827,12 +30765,6 @@
     "pu_code": "07/15/07/007",
     "pu_name": "EKERE/ERU II - EKERE PRIMARY SCHOOL II",
     "name": "EKERE/ERU II - EKERE PRIMARY SCHOOL II",
-    "lga": "OGBADIBO",
-    "ward": "EHAJE II",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OGBADIBO",
     "ward": "EHAJE II",
     "state": "Benue",
@@ -31905,12 +30837,6 @@
     "pu_code": "07/15/08/008",
     "pu_name": "AI-UJI PLAYGROUND",
     "name": "AI-UJI PLAYGROUND",
-    "lga": "OGBADIBO",
-    "ward": "ITABONO I",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OGBADIBO",
     "ward": "ITABONO I",
     "state": "Benue",
@@ -32007,12 +30933,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OGBADIBO",
-    "ward": "ITABONO II",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/15/10/001",
     "pu_name": "IPISU/OLACHAGBAHA I - OLACHAGBAHA PRIMARY SCHOOL",
     "name": "IPISU/OLACHAGBAHA I - OLACHAGBAHA PRIMARY SCHOOL",
@@ -32088,12 +31008,6 @@
     "pu_code": "07/15/10/009",
     "pu_name": "ALOHI - ALOMA JUNCTION OLACHAGBAHA",
     "name": "ALOHI - ALOMA JUNCTION OLACHAGBAHA",
-    "lga": "OGBADIBO",
-    "ward": "OLACHAGBAHA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OGBADIBO",
     "ward": "OLACHAGBAHA",
     "state": "Benue",
@@ -32211,12 +31125,6 @@
     "pu_code": "07/15/11/013",
     "pu_name": "AKPA, ADUPI PLAYGROUND",
     "name": "AKPA, ADUPI PLAYGROUND",
-    "lga": "OGBADIBO",
-    "ward": "OROKAM I",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OGBADIBO",
     "ward": "OROKAM I",
     "state": "Benue",
@@ -32349,12 +31257,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OGBADIBO",
-    "ward": "OROKAM II",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/15/13/001",
     "pu_name": "UTURE - OFU UTURE",
     "name": "UTURE - OFU UTURE",
@@ -32454,12 +31356,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OGBADIBO",
-    "ward": "OROKAM III",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/16/01/001",
     "pu_name": "OGORI ITAFOR - OPEN SPACE",
     "name": "OGORI ITAFOR - OPEN SPACE",
@@ -32526,12 +31422,6 @@
     "pu_code": "07/16/01/008",
     "pu_name": "EDII/OJIYA/OGORI II - OPEN SPACE",
     "name": "EDII/OJIYA/OGORI II - OPEN SPACE",
-    "lga": "OJU",
-    "ward": "ADOKPA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OJU",
     "ward": "ADOKPA",
     "state": "Benue",
@@ -32853,12 +31743,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OJU",
-    "ward": "AINU",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/16/03/001",
     "pu_name": "ANYUWOGBU - OPEN SPACE",
     "name": "ANYUWOGBU - OPEN SPACE",
@@ -33084,12 +31968,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OJU",
-    "ward": "IBILLA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/16/04/001",
     "pu_name": "UREKE - OPEN SPACE",
     "name": "UREKE - OPEN SPACE",
@@ -33210,12 +32088,6 @@
     "pu_code": "07/16/04/014",
     "pu_name": "NDI NWANKWO OPEN SPACE",
     "name": "NDI NWANKWO OPEN SPACE",
-    "lga": "OJU",
-    "ward": "IDELLE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OJU",
     "ward": "IDELLE",
     "state": "Benue",
@@ -33393,12 +32265,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OJU",
-    "ward": "IYECHE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/16/06/001",
     "pu_name": "UKPILLA - OPEN SPACE",
     "name": "UKPILLA - OPEN SPACE",
@@ -33516,12 +32382,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OJU",
-    "ward": "OBORU/OYE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/16/07/001",
     "pu_name": "OJU IPINU - ST. THOMAS PRIMARY SCHOOL",
     "name": "OJU IPINU - ST. THOMAS PRIMARY SCHOOL",
@@ -33597,12 +32457,6 @@
     "pu_code": "07/16/07/009",
     "pu_name": "PRI. HEALTH CENTER OGA OLUWA",
     "name": "PRI. HEALTH CENTER OGA OLUWA",
-    "lga": "OJU",
-    "ward": "OJU",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OJU",
     "ward": "OJU",
     "state": "Benue",
@@ -33798,12 +32652,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OJU",
-    "ward": "OKPOKPO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/16/09/001",
     "pu_name": "UKPIRI IKWOKWU - OPEN SPACE",
     "name": "UKPIRI IKWOKWU - OPEN SPACE",
@@ -33906,12 +32754,6 @@
     "pu_code": "07/16/09/012",
     "pu_name": "EFOJI OPEN SPACE",
     "name": "EFOJI OPEN SPACE",
-    "lga": "OJU",
-    "ward": "OKWUDU",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OJU",
     "ward": "OKWUDU",
     "state": "Benue",
@@ -34047,12 +32889,6 @@
     "pu_code": "07/16/10/015",
     "pu_name": "OHOHO OHUHU PLAYGROUND",
     "name": "OHOHO OHUHU PLAYGROUND",
-    "lga": "OJU",
-    "ward": "OWO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OJU",
     "ward": "OWO",
     "state": "Benue",
@@ -34356,12 +33192,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OJU",
-    "ward": "UKPA/AINU ETTE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/17/01/001",
     "pu_name": "CLASS ROOM/OHUGBINE PRIMARY SCHOOL",
     "name": "CLASS ROOM/OHUGBINE PRIMARY SCHOOL",
@@ -34470,12 +33300,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OHIMINI",
-    "ward": "AGADAGBA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/17/02/001",
     "pu_name": "OPEN SPACE/AJEGBE PRIMARY SCHOOL",
     "name": "OPEN SPACE/AJEGBE PRIMARY SCHOOL",
@@ -34521,12 +33345,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OHIMINI",
-    "ward": "AWUME EHAJE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/17/03/001",
     "pu_name": "CLASS ROOM/EJULE PRIMARY SCHOOL",
     "name": "CLASS ROOM/EJULE PRIMARY SCHOOL",
@@ -34566,12 +33384,6 @@
     "pu_code": "07/17/03/005",
     "pu_name": "OPEN SPACE/OLAIGA - OPEN SPACE",
     "name": "OPEN SPACE/OLAIGA - OPEN SPACE",
-    "lga": "OHIMINI",
-    "ward": "AWUME ICHO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OHIMINI",
     "ward": "AWUME ICHO",
     "state": "Benue",
@@ -34644,12 +33456,6 @@
     "pu_code": "07/17/04/008",
     "pu_name": "IPU-KWABA PLAY GROUND",
     "name": "IPU-KWABA PLAY GROUND",
-    "lga": "OHIMINI",
-    "ward": "EHATOKPE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OHIMINI",
     "ward": "EHATOKPE",
     "state": "Benue",
@@ -34737,12 +33543,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OHIMINI",
-    "ward": "IDEKPA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/17/06/001",
     "pu_name": "OPEN SPACE/OCHOBO OPEN SPACE",
     "name": "OPEN SPACE/OCHOBO OPEN SPACE",
@@ -34800,12 +33600,6 @@
     "pu_code": "07/17/06/007",
     "pu_name": "OCHOBO PLAY GROUND",
     "name": "OCHOBO PLAY GROUND",
-    "lga": "OHIMINI",
-    "ward": "OCHOBO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OHIMINI",
     "ward": "OCHOBO",
     "state": "Benue",
@@ -34905,12 +33699,6 @@
     "pu_code": "07/17/07/011",
     "pu_name": "LGEA PRIM. SCH. ATAKPA",
     "name": "LGEA PRIM. SCH. ATAKPA",
-    "lga": "OHIMINI",
-    "ward": "OGLEWU EHAJE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OHIMINI",
     "ward": "OGLEWU EHAJE",
     "state": "Benue",
@@ -35034,12 +33822,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OHIMINI",
-    "ward": "OGLEWU ICHO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/17/09/001",
     "pu_name": "OPEN SPACE/ABAKPA BARRACKS",
     "name": "OPEN SPACE/ABAKPA BARRACKS",
@@ -35121,12 +33903,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OHIMINI",
-    "ward": "ONYAGEDE-EHAJE (ALLE)",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/17/10/001",
     "pu_name": "CLASS ROOM/ODEGA PRIMARY SCHOOL",
     "name": "CLASS ROOM/ODEGA PRIMARY SCHOOL",
@@ -35193,12 +33969,6 @@
     "pu_code": "07/17/10/008",
     "pu_name": "OPEN SPACE, OGOLI TOWN HALL.",
     "name": "OPEN SPACE, OGOLI TOWN HALL.",
-    "lga": "OHIMINI",
-    "ward": "ONYAGEDE ICHO (OGOLI)",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OHIMINI",
     "ward": "ONYAGEDE ICHO (OGOLI)",
     "state": "Benue",
@@ -35316,12 +34086,6 @@
     "pu_code": "07/18/01/013",
     "pu_name": "ODUDA OPEN SPACE",
     "name": "ODUDA OPEN SPACE",
-    "lga": "OKPOKWU",
-    "ward": "AMEJO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OKPOKWU",
     "ward": "AMEJO",
     "state": "Benue",
@@ -35481,12 +34245,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OKPOKWU",
-    "ward": "EKE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/18/03/001",
     "pu_name": "ICHAMA CENTRAL PRIMARY SCHOOL - ICHAMA",
     "name": "ICHAMA CENTRAL PRIMARY SCHOOL - ICHAMA",
@@ -35553,12 +34311,6 @@
     "pu_code": "07/18/03/008",
     "pu_name": "ICHAMA CENTRAL PRIMARY SCHOOL II",
     "name": "ICHAMA CENTRAL PRIMARY SCHOOL II",
-    "lga": "OKPOKWU",
-    "ward": "ICHAMA II",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OKPOKWU",
     "ward": "ICHAMA II",
     "state": "Benue",
@@ -35772,12 +34524,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OKPOKWU",
-    "ward": "OJIGO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/18/05/001",
     "pu_name": "AI-EBIEGA OPEN SPACE - AI-EBIEGA",
     "name": "AI-EBIEGA OPEN SPACE - AI-EBIEGA",
@@ -35835,12 +34581,6 @@
     "pu_code": "07/18/05/007",
     "pu_name": "IPOLE ICHAMA PRIMARY SCHOOL - IPOLE",
     "name": "IPOLE ICHAMA PRIMARY SCHOOL - IPOLE",
-    "lga": "OKPOKWU",
-    "ward": "OJOGA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OKPOKWU",
     "ward": "OJOGA",
     "state": "Benue",
@@ -35946,12 +34686,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OKPOKWU",
-    "ward": "OKONOBO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/18/07/001",
     "pu_name": "OTANUFIE PRIMARY SCHOOL - OTANUFIE",
     "name": "OTANUFIE PRIMARY SCHOOL - OTANUFIE",
@@ -36051,12 +34785,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OKPOKWU",
-    "ward": "OKPAILE/INGLE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/18/08/001",
     "pu_name": "ADOSSA PLAY GROUND - ADOSSA",
     "name": "ADOSSA PLAY GROUND - ADOSSA",
@@ -36141,12 +34869,6 @@
     "pu_code": "07/18/08/010",
     "pu_name": "DISPENSARY UMEGWU",
     "name": "DISPENSARY UMEGWU",
-    "lga": "OKPOKWU",
-    "ward": "OKPOGA CENTRAL",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OKPOKWU",
     "ward": "OKPOGA CENTRAL",
     "state": "Benue",
@@ -36261,12 +34983,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OKPOKWU",
-    "ward": "OKPOGA NORTH",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/18/10/001",
     "pu_name": "ADIGA/OKADOGA OPEN SPACE - AGIDA",
     "name": "ADIGA/OKADOGA OPEN SPACE - AGIDA",
@@ -36348,12 +35064,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OKPOKWU",
-    "ward": "OKPOGA SOUTH",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/18/11/001",
     "pu_name": "AI-EDUGWU IDIRI OPEN SPACE - A1-EDUGWU",
     "name": "AI-EDUGWU IDIRI OPEN SPACE - A1-EDUGWU",
@@ -36411,12 +35121,6 @@
     "pu_code": "07/18/11/007",
     "pu_name": "OLAGBINO/OKADOGA PLAY GROUND - OLAGBINO-OKADOGA",
     "name": "OLAGBINO/OKADOGA PLAY GROUND - OLAGBINO-OKADOGA",
-    "lga": "OKPOKWU",
-    "ward": "OKPOGA WEST",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OKPOKWU",
     "ward": "OKPOGA WEST",
     "state": "Benue",
@@ -36588,12 +35292,6 @@
     "pu_code": "07/18/12/019",
     "pu_name": "ODESSASA MARKET SQUARE III",
     "name": "ODESSASA MARKET SQUARE III",
-    "lga": "OKPOKWU",
-    "ward": "UGBOKOLO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OKPOKWU",
     "ward": "UGBOKOLO",
     "state": "Benue",
@@ -36906,12 +35604,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OTUKPO",
-    "ward": "ADOKA-ICHO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/19/02/001",
     "pu_name": "ONIPI PLAYGROUND I, PLAYGROUND",
     "name": "ONIPI PLAYGROUND I, PLAYGROUND",
@@ -37056,12 +35748,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OTUKPO",
-    "ward": "ADOKA-HAJE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/19/03/001",
     "pu_name": "ALLAN PRIMARY SCHOOL, SCHOOL COMPOUND",
     "name": "ALLAN PRIMARY SCHOOL, SCHOOL COMPOUND",
@@ -37152,12 +35838,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OTUKPO",
-    "ward": "ALLAN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/19/04/001",
     "pu_name": "UMOGIDI PRIMARY SCHOOL, SCHOOL COMPOUND",
     "name": "UMOGIDI PRIMARY SCHOOL, SCHOOL COMPOUND",
@@ -37233,12 +35913,6 @@
     "pu_code": "07/19/04/009",
     "pu_name": "OJANOWA PLAYGROUND, PLAYGROUND",
     "name": "OJANOWA PLAYGROUND, PLAYGROUND",
-    "lga": "OTUKPO",
-    "ward": "ENTEKPA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OTUKPO",
     "ward": "ENTEKPA",
     "state": "Benue",
@@ -37461,12 +36135,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OTUKPO",
-    "ward": "EWULO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/19/06/001",
     "pu_name": "OTUKPO-ICHO I, OPEN SPACE",
     "name": "OTUKPO-ICHO I, OPEN SPACE",
@@ -37593,12 +36261,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OTUKPO",
-    "ward": "OKETE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/19/07/001",
     "pu_name": "METHODIST PRIMARY SCHOOL I, SCHOOL COMPOUND",
     "name": "METHODIST PRIMARY SCHOOL I, SCHOOL COMPOUND",
@@ -37710,12 +36372,6 @@
     "pu_code": "07/19/07/013",
     "pu_name": "ONYUWEI VILLAGE SQUARE",
     "name": "ONYUWEI VILLAGE SQUARE",
-    "lga": "OTUKPO",
-    "ward": "OTOBI",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OTUKPO",
     "ward": "OTOBI",
     "state": "Benue",
@@ -38082,12 +36738,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OTUKPO",
-    "ward": "OTUKPO TOWN CENTRAL",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/19/09/001",
     "pu_name": "ST. MARY'S PRIMARY SCHOOL I, UNDER A TREE",
     "name": "ST. MARY'S PRIMARY SCHOOL I, UNDER A TREE",
@@ -38403,12 +37053,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OTUKPO",
-    "ward": "OTUKPO TOWN EAST",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/19/10/001",
     "pu_name": "NEW MARKET, ROUND ABOUT",
     "name": "NEW MARKET, ROUND ABOUT",
@@ -38661,12 +37305,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OTUKPO",
-    "ward": "OTUKPO TOWN WEST",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/19/11/001",
     "pu_name": "OGOBIA PRIMARY SCHOOL I, SCHOOL COMPOUND",
     "name": "OGOBIA PRIMARY SCHOOL I, SCHOOL COMPOUND",
@@ -38814,12 +37452,6 @@
     "pu_code": "07/19/11/017",
     "pu_name": "OGOBIA CAMP OPEN SPACE NEAR ST. ANDREW SEC. SCH.",
     "name": "OGOBIA CAMP OPEN SPACE NEAR ST. ANDREW SEC. SCH.",
-    "lga": "OTUKPO",
-    "ward": "UGBOJU-EHAJE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "OTUKPO",
     "ward": "UGBOJU-EHAJE",
     "state": "Benue",
@@ -39042,12 +37674,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OTUKPO",
-    "ward": "UGBOJU-ICHO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/19/13/001",
     "pu_name": "JERICHO, OPEN SPACE",
     "name": "JERICHO, OPEN SPACE",
@@ -39192,12 +37818,6 @@
     "state_code": "07"
   },
   {
-    "lga": "OTUKPO",
-    "ward": "UGBOJU-OTAHE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/20/01/001",
     "pu_name": "LGEA PRIMARY SCHOOL ATSEKE",
     "name": "LGEA PRIMARY SCHOOL ATSEKE",
@@ -39270,12 +37890,6 @@
     "state_code": "07"
   },
   {
-    "lga": "TARKA",
-    "ward": "MBAAJIR AKAA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/20/02/001",
     "pu_name": "LGEA PRIMARY SCHOOL AKENDE",
     "name": "LGEA PRIMARY SCHOOL AKENDE",
@@ -39315,12 +37929,6 @@
     "pu_code": "07/20/02/005",
     "pu_name": "LGEA PRI SCH TYINDIKURA",
     "name": "LGEA PRI SCH TYINDIKURA",
-    "lga": "TARKA",
-    "ward": "MBAAYO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "TARKA",
     "ward": "MBAAYO",
     "state": "Benue",
@@ -39480,12 +38088,6 @@
     "state_code": "07"
   },
   {
-    "lga": "TARKA",
-    "ward": "MBACHAVER IKYONDO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/20/04/001",
     "pu_name": "LGEA PRIMARY SCHOOL, TIAM/LGEA PRIMARY SCHOOL, TIA",
     "name": "LGEA PRIMARY SCHOOL, TIAM/LGEA PRIMARY SCHOOL, TIA",
@@ -39549,12 +38151,6 @@
     "state_code": "07"
   },
   {
-    "lga": "TARKA",
-    "ward": "MBAIGBA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/20/05/001",
     "pu_name": "LGEA PRIMARY SCHOOL, UYIO/LGEA PRIMARY SCHOOL, UYIO",
     "name": "LGEA PRIMARY SCHOOL, UYIO/LGEA PRIMARY SCHOOL, UYIO",
@@ -39612,12 +38208,6 @@
     "pu_code": "07/20/05/007",
     "pu_name": "MCHILA MKT SQ",
     "name": "MCHILA MKT SQ",
-    "lga": "TARKA",
-    "ward": "MBAIKYAA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "TARKA",
     "ward": "MBAIKYAA",
     "state": "Benue",
@@ -39831,12 +38421,6 @@
     "state_code": "07"
   },
   {
-    "lga": "TARKA",
-    "ward": "MBAIKYO/MBAYIA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/20/07/001",
     "pu_name": "LGEA PRIMARY SCHOOL, IJOR-IMENGER/LGEA PRIMARY SCHOOL, IJOR-IMENGER",
     "name": "LGEA PRIMARY SCHOOL, IJOR-IMENGER/LGEA PRIMARY SCHOOL, IJOR-IMENGER",
@@ -39900,12 +38484,6 @@
     "state_code": "07"
   },
   {
-    "lga": "TARKA",
-    "ward": "MBAKWAKEM",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/20/08/001",
     "pu_name": "NKST PRIMARY SCHOOL, USOMBO/NKST. PRIMARY SCHOOL, USOMBO",
     "name": "NKST PRIMARY SCHOOL, USOMBO/NKST. PRIMARY SCHOOL, USOMBO",
@@ -39936,12 +38514,6 @@
     "pu_code": "07/20/08/004",
     "pu_name": "ANGBAYE MKT SQ",
     "name": "ANGBAYE MKT SQ",
-    "lga": "TARKA",
-    "ward": "MBANYAGBER",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "TARKA",
     "ward": "MBANYAGBER",
     "state": "Benue",
@@ -40038,12 +38610,6 @@
     "state_code": "07"
   },
   {
-    "lga": "TARKA",
-    "ward": "SHITILE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/20/10/001",
     "pu_name": "LGEA PRIMARY SCHOOL ATIGHIR",
     "name": "LGEA PRIMARY SCHOOL ATIGHIR",
@@ -40110,12 +38676,6 @@
     "pu_code": "07/20/10/008",
     "pu_name": "IORBO MKT SQ",
     "name": "IORBO MKT SQ",
-    "lga": "TARKA",
-    "ward": "TONGOV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "TARKA",
     "ward": "TONGOV",
     "state": "Benue",
@@ -40215,12 +38775,6 @@
     "pu_code": "07/21/01/011",
     "pu_name": "ATER MARKET SQUARE - ATER MARKET SQUARE",
     "name": "ATER MARKET SQUARE - ATER MARKET SQUARE",
-    "lga": "UKUM",
-    "ward": "ATERAYANGE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "UKUM",
     "ward": "ATERAYANGE",
     "state": "Benue",
@@ -40479,12 +39033,6 @@
     "state_code": "07"
   },
   {
-    "lga": "UKUM",
-    "ward": "AZENDESHI",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/21/03/001",
     "pu_name": "RCM SCHOOL, AYATI/SCHOOL COMPOUND",
     "name": "RCM SCHOOL, AYATI/SCHOOL COMPOUND",
@@ -40692,12 +39240,6 @@
     "state_code": "07"
   },
   {
-    "lga": "UKUM",
-    "ward": "BORIKYO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/21/04/001",
     "pu_name": "AGBOR VILLAGE - SCHOOL COMPOUND",
     "name": "AGBOR VILLAGE - SCHOOL COMPOUND",
@@ -40827,12 +39369,6 @@
     "pu_code": "07/21/04/015",
     "pu_name": "MARARABA MARKET",
     "name": "MARARABA MARKET",
-    "lga": "UKUM",
-    "ward": "ITYULUV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "UKUM",
     "ward": "ITYULUV",
     "state": "Benue",
@@ -41037,12 +39573,6 @@
     "state_code": "07"
   },
   {
-    "lga": "UKUM",
-    "ward": "KENDEV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/21/06/001",
     "pu_name": "NKST. SCHOOL AERNYI - OPEN SPACE NEAR CHURCH",
     "name": "NKST. SCHOOL AERNYI - OPEN SPACE NEAR CHURCH",
@@ -41127,12 +39657,6 @@
     "pu_code": "07/21/06/010",
     "pu_name": "KPEAKAA VILLAGE",
     "name": "KPEAKAA VILLAGE",
-    "lga": "UKUM",
-    "ward": "KUNDAV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "UKUM",
     "ward": "KUNDAV",
     "state": "Benue",
@@ -41346,12 +39870,6 @@
     "state_code": "07"
   },
   {
-    "lga": "UKUM",
-    "ward": "LUMBUV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/21/08/001",
     "pu_name": "NKST ALAM NORYA/NKST ALAM NORYA OPEN SPACE",
     "name": "NKST ALAM NORYA/NKST ALAM NORYA OPEN SPACE",
@@ -41472,12 +39990,6 @@
     "pu_code": "07/21/08/019",
     "pu_name": "ATSOR VILLAGE",
     "name": "ATSOR VILLAGE",
-    "lga": "UKUM",
-    "ward": "MBATIAN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "UKUM",
     "ward": "MBATIAN",
     "state": "Benue",
@@ -41631,12 +40143,6 @@
     "pu_code": "07/21/09/017",
     "pu_name": "LGEA MELABU PRIMARY SCHOOL",
     "name": "LGEA MELABU PRIMARY SCHOOL",
-    "lga": "UKUM",
-    "ward": "MBAYENGE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "UKUM",
     "ward": "MBAYENGE",
     "state": "Benue",
@@ -41985,12 +40491,6 @@
     "state_code": "07"
   },
   {
-    "lga": "UKUM",
-    "ward": "MBAZUN",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/21/11/001",
     "pu_name": "AKOBO VILLAGE/AKOBO VILLAGE SETTLEMENT OPEN SPACE",
     "name": "AKOBO VILLAGE/AKOBO VILLAGE SETTLEMENT OPEN SPACE",
@@ -42207,12 +40707,6 @@
     "state_code": "07"
   },
   {
-    "lga": "UKUM",
-    "ward": "TSAAV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/21/12/001",
     "pu_name": "ADOGO VILLAGE/ADOGO VILLAGE SETTLEMENT OPEN SPACE",
     "name": "ADOGO VILLAGE/ADOGO VILLAGE SETTLEMENT OPEN SPACE",
@@ -42324,12 +40818,6 @@
     "pu_code": "07/21/12/013",
     "pu_name": "MAMKAA VILLAGE",
     "name": "MAMKAA VILLAGE",
-    "lga": "UKUM",
-    "ward": "UGBAAM",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "UKUM",
     "ward": "UGBAAM",
     "state": "Benue",
@@ -42642,12 +41130,6 @@
     "state_code": "07"
   },
   {
-    "lga": "UKUM",
-    "ward": "UYAM",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/22/01/001",
     "pu_name": "LGEA SCHOOL GE-MBAYEM",
     "name": "LGEA SCHOOL GE-MBAYEM",
@@ -42831,12 +41313,6 @@
     "pu_code": "07/22/01/021",
     "pu_name": "LGEA PRIMARY SCHOOL UGEE",
     "name": "LGEA PRIMARY SCHOOL UGEE",
-    "lga": "USHONGO",
-    "ward": "ATIRKYESE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "USHONGO",
     "ward": "ATIRKYESE",
     "state": "Benue",
@@ -43041,12 +41517,6 @@
     "state_code": "07"
   },
   {
-    "lga": "USHONGO",
-    "ward": "IKOV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/22/03/001",
     "pu_name": "LESSEL, GARRAGE I",
     "name": "LESSEL, GARRAGE I",
@@ -43194,12 +41664,6 @@
     "pu_code": "07/22/03/017",
     "pu_name": "GENERAL HOSPITAL LESSEL",
     "name": "GENERAL HOSPITAL LESSEL",
-    "lga": "USHONGO",
-    "ward": "LESSEL",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "USHONGO",
     "ward": "LESSEL",
     "state": "Benue",
@@ -43404,12 +41868,6 @@
     "state_code": "07"
   },
   {
-    "lga": "USHONGO",
-    "ward": "MBAAKA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/22/05/001",
     "pu_name": "ORBAN MARKET SQUARE I",
     "name": "ORBAN MARKET SQUARE I",
@@ -43554,12 +42012,6 @@
     "state_code": "07"
   },
   {
-    "lga": "USHONGO",
-    "ward": "MBAANYAM",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/22/06/001",
     "pu_name": "DOUGH AKUNDU MAR. SQU.",
     "name": "DOUGH AKUNDU MAR. SQU.",
@@ -43680,12 +42132,6 @@
     "pu_code": "07/22/06/014",
     "pu_name": "LGEA SCHOOL WAJIR",
     "name": "LGEA SCHOOL WAJIR",
-    "lga": "USHONGO",
-    "ward": "MBAAWE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "USHONGO",
     "ward": "MBAAWE",
     "state": "Benue",
@@ -43908,12 +42354,6 @@
     "state_code": "07"
   },
   {
-    "lga": "USHONGO",
-    "ward": "MBAGBA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/22/08/001",
     "pu_name": "IGBOOR MARKET SQUARE I",
     "name": "IGBOOR MARKET SQUARE I",
@@ -44043,12 +42483,6 @@
     "pu_code": "07/22/08/015",
     "pu_name": "BETHEL MARKET SQUARE",
     "name": "BETHEL MARKET SQUARE",
-    "lga": "USHONGO",
-    "ward": "MBAGWAZA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "USHONGO",
     "ward": "MBAGWAZA",
     "state": "Benue",
@@ -44280,12 +42714,6 @@
     "state_code": "07"
   },
   {
-    "lga": "USHONGO",
-    "ward": "MBAKUHA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/22/10/001",
     "pu_name": "RCM SCHOOL, USE",
     "name": "RCM SCHOOL, USE",
@@ -44493,12 +42921,6 @@
     "state_code": "07"
   },
   {
-    "lga": "USHONGO",
-    "ward": "MBAYEGH",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/22/11/001",
     "pu_name": "AKERIOR MARKET SQUARE",
     "name": "AKERIOR MARKET SQUARE",
@@ -44619,12 +43041,6 @@
     "pu_code": "07/22/11/014",
     "pu_name": "ADZER MARKET SQUARE",
     "name": "ADZER MARKET SQUARE",
-    "lga": "USHONGO",
-    "ward": "UTANGE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "USHONGO",
     "ward": "UTANGE",
     "state": "Benue",
@@ -45144,12 +43560,6 @@
     "state_code": "07"
   },
   {
-    "lga": "VANDEIKYA",
-    "ward": "MBADEDE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/23/02/001",
     "pu_name": "LGEA SCHOOL, TSAR I",
     "name": "LGEA SCHOOL, TSAR I",
@@ -45303,12 +43713,6 @@
     "state_code": "07"
   },
   {
-    "lga": "VANDEIKYA",
-    "ward": "MBATYOUGH",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/23/03/001",
     "pu_name": "NEAR COMP. TSE AONDOAKAA",
     "name": "NEAR COMP. TSE AONDOAKAA",
@@ -45447,12 +43851,6 @@
     "pu_code": "07/23/03/016",
     "pu_name": "MBAGBAM COUNCIL HALL",
     "name": "MBAGBAM COUNCIL HALL",
-    "lga": "VANDEIKYA",
-    "ward": "MBAGBAM",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "VANDEIKYA",
     "ward": "MBAGBAM",
     "state": "Benue",
@@ -45720,12 +44118,6 @@
     "state_code": "07"
   },
   {
-    "lga": "VANDEIKYA",
-    "ward": "MBAGBERA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/23/05/001",
     "pu_name": "OPEN SPACE DURA BUA (NEAR RCM TYOHON)",
     "name": "OPEN SPACE DURA BUA (NEAR RCM TYOHON)",
@@ -45846,12 +44238,6 @@
     "pu_code": "07/23/05/014",
     "pu_name": "NEAR COMP. PREMISES - AGBINDA NYANGER",
     "name": "NEAR COMP. PREMISES - AGBINDA NYANGER",
-    "lga": "VANDEIKYA",
-    "ward": "MBAJOR",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "VANDEIKYA",
     "ward": "MBAJOR",
     "state": "Benue",
@@ -45987,12 +44373,6 @@
     "pu_code": "07/23/06/015",
     "pu_name": "OPEN SPACE TSE TYOBAN",
     "name": "OPEN SPACE TSE TYOBAN",
-    "lga": "VANDEIKYA",
-    "ward": "MBAKAANGE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "VANDEIKYA",
     "ward": "MBAKAANGE",
     "state": "Benue",
@@ -46314,12 +44694,6 @@
     "state_code": "07"
   },
   {
-    "lga": "VANDEIKYA",
-    "ward": "MBAKYAHA",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/23/08/001",
     "pu_name": "MARKET SQUARE - TYEMIMONGO I",
     "name": "MARKET SQUARE - TYEMIMONGO I",
@@ -46563,12 +44937,6 @@
     "state_code": "07"
   },
   {
-    "lga": "VANDEIKYA",
-    "ward": "MBAYONGO",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/23/09/001",
     "pu_name": "LGEA SCHOOL PREMISES - GIRGI",
     "name": "LGEA SCHOOL PREMISES - GIRGI",
@@ -46689,12 +45057,6 @@
     "pu_code": "07/23/09/014",
     "pu_name": "OPEN SPACE NEAR NKST KYAAVE",
     "name": "OPEN SPACE NEAR NKST KYAAVE",
-    "lga": "VANDEIKYA",
-    "ward": "NINGEV",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "VANDEIKYA",
     "ward": "NINGEV",
     "state": "Benue",
@@ -46884,12 +45246,6 @@
     "pu_code": "07/23/10/021",
     "pu_name": "OPEN SPACE NEAR AWUA AUGUSTINE COMP.",
     "name": "OPEN SPACE NEAR AWUA AUGUSTINE COMP.",
-    "lga": "VANDEIKYA",
-    "ward": "TSAMBE",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "VANDEIKYA",
     "ward": "TSAMBE",
     "state": "Benue",
@@ -47157,12 +45513,6 @@
     "state_code": "07"
   },
   {
-    "lga": "VANDEIKYA",
-    "ward": "VANDEIKYA TOWNSHIP",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "pu_code": "07/23/12/001",
     "pu_name": "MARKET SQUARE - BETSE",
     "name": "MARKET SQUARE - BETSE",
@@ -47265,12 +45615,6 @@
     "pu_code": "07/23/12/012",
     "pu_name": "GBETAR MARKET SQUARE",
     "name": "GBETAR MARKET SQUARE",
-    "lga": "VANDEIKYA",
-    "ward": "MBANYUMANGBAGH",
-    "state": "Benue",
-    "state_code": "07"
-  },
-  {
     "lga": "VANDEIKYA",
     "ward": "MBANYUMANGBAGH",
     "state": "Benue",

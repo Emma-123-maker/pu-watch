@@ -252,12 +252,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BAKORI",
-    "ward": "BAKORI A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/01/02/001",
     "pu_name": "ZAGE-ZAGI -PRI.SCH. ZAGE-ZAGI",
     "name": "ZAGE-ZAGI -PRI.SCH. ZAGE-ZAGI",
@@ -522,12 +516,6 @@
     "pu_code": "20/01/02/030",
     "pu_name": "DR. HABIBU SANI PRI. SCH.",
     "name": "DR. HABIBU SANI PRI. SCH.",
-    "lga": "BAKORI",
-    "ward": "BAKORI B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BAKORI",
     "ward": "BAKORI B",
     "state": "Katsina",
@@ -921,12 +909,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BAKORI",
-    "ward": "KURAMI/YANKWANI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/01/04/001",
     "pu_name": "DAWAN MUSA GARI - MAI KWARI PRI. SCH.",
     "name": "DAWAN MUSA GARI - MAI KWARI PRI. SCH.",
@@ -1092,12 +1074,6 @@
     "pu_code": "20/01/04/019",
     "pu_name": "KWARIN DANBATTA PRI. SCH.",
     "name": "KWARIN DANBATTA PRI. SCH.",
-    "lga": "BAKORI",
-    "ward": "DAWAN MUSA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BAKORI",
     "ward": "DAWAN MUSA",
     "state": "Katsina",
@@ -1311,12 +1287,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BAKORI",
-    "ward": "TSIGA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/01/06/001",
     "pu_name": "KABOMO GARI I - PRI. SCHOOL",
     "name": "KABOMO GARI I - PRI. SCHOOL",
@@ -1464,12 +1434,6 @@
     "pu_code": "20/01/06/017",
     "pu_name": "HAYIN LIMAN",
     "name": "HAYIN LIMAN",
-    "lga": "BAKORI",
-    "ward": "KABOMO",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BAKORI",
     "ward": "KABOMO",
     "state": "Katsina",
@@ -1674,12 +1638,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BAKORI",
-    "ward": "BARDE/KWANTAKWARAN",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/01/08/001",
     "pu_name": "JARGABA AREWA - K/G LAWAL NA LAKO",
     "name": "JARGABA AREWA - K/G LAWAL NA LAKO",
@@ -1800,12 +1758,6 @@
     "pu_code": "20/01/08/014",
     "pu_name": "MAKUDI 'A' K/G ALH SULE (PRI. SCH.) NEW",
     "name": "MAKUDI 'A' K/G ALH SULE (PRI. SCH.) NEW",
-    "lga": "BAKORI",
-    "ward": "JARGABA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BAKORI",
     "ward": "JARGABA",
     "state": "Katsina",
@@ -1965,12 +1917,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BAKORI",
-    "ward": "KAKUMI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/01/10/001",
     "pu_name": "GUGA GARI I - MODEL PRI. SCHOOL",
     "name": "GUGA GARI I - MODEL PRI. SCHOOL",
@@ -2115,12 +2061,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BAKORI",
-    "ward": "GUGA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/01/11/001",
     "pu_name": "KANDARAWA - PRI SCHOOL",
     "name": "KANDARAWA - PRI SCHOOL",
@@ -2232,12 +2172,6 @@
     "pu_code": "20/01/11/013",
     "pu_name": "GIDAN KANAWA",
     "name": "GIDAN KANAWA",
-    "lga": "BAKORI",
-    "ward": "KANDARAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BAKORI",
     "ward": "KANDARAWA",
     "state": "Katsina",
@@ -2505,12 +2439,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BATAGARAWA",
-    "ward": "BATAGARAWA A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/02/02/001",
     "pu_name": "GWAMMA TAWA GARI",
     "name": "GWAMMA TAWA GARI",
@@ -2631,12 +2559,6 @@
     "pu_code": "20/02/02/014",
     "pu_name": "KAUYEN YAMMA BEHIND DISPENSARY",
     "name": "KAUYEN YAMMA BEHIND DISPENSARY",
-    "lga": "BATAGARAWA",
-    "ward": "BATAGARAWA B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BATAGARAWA",
     "ward": "BATAGARAWA B",
     "state": "Katsina",
@@ -2913,12 +2835,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BATAGARAWA",
-    "ward": "DANDAGORO",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/02/04/001",
     "pu_name": "BARHIN SHAISKAWA - BARHIN SHAISKAWA",
     "name": "BARHIN SHAISKAWA - BARHIN SHAISKAWA",
@@ -3144,12 +3060,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BATAGARAWA",
-    "ward": "AJIWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/02/05/001",
     "pu_name": "KOFAR FADA - KOFAR FADA",
     "name": "KOFAR FADA - KOFAR FADA",
@@ -3279,12 +3189,6 @@
     "pu_code": "20/02/05/015",
     "pu_name": "TSANNI - TSANNI 'B'",
     "name": "TSANNI - TSANNI 'B'",
-    "lga": "BATAGARAWA",
-    "ward": "TSANNI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BATAGARAWA",
     "ward": "TSANNI",
     "state": "Katsina",
@@ -3444,12 +3348,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BATAGARAWA",
-    "ward": "JINO",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/02/07/001",
     "pu_name": "BARAWA NORTH - BARAWA N.",
     "name": "BARAWA NORTH - BARAWA N.",
@@ -3552,12 +3450,6 @@
     "pu_code": "20/02/07/012",
     "pu_name": "MONON YAN KWANA R.",
     "name": "MONON YAN KWANA R.",
-    "lga": "BATAGARAWA",
-    "ward": "BARAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BATAGARAWA",
     "ward": "BARAWA",
     "state": "Katsina",
@@ -3717,12 +3609,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BATAGARAWA",
-    "ward": "BAKIYAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/02/09/001",
     "pu_name": "KAYAUKI A - KAYAUKI PRI-SCHOOL",
     "name": "KAYAUKI A - KAYAUKI PRI-SCHOOL",
@@ -3867,12 +3753,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BATAGARAWA",
-    "ward": "KAYAUKI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/02/10/001",
     "pu_name": "ALMUN JAMAA - ALMUN  JAMA'A",
     "name": "ALMUN JAMAA - ALMUN  JAMA'A",
@@ -3966,12 +3846,6 @@
     "pu_code": "20/02/10/011",
     "pu_name": "YAR GAMJI GARI ASIBITI",
     "name": "YAR GAMJI GARI ASIBITI",
-    "lga": "BATAGARAWA",
-    "ward": "YARGAMJI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BATAGARAWA",
     "ward": "YARGAMJI",
     "state": "Katsina",
@@ -4338,12 +4212,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BATSARI",
-    "ward": "BATSARI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/03/02/001",
     "pu_name": "GOBIRAWA/K.G MAI UNGUWA",
     "name": "GOBIRAWA/K.G MAI UNGUWA",
@@ -4473,12 +4341,6 @@
     "pu_code": "20/03/02/015",
     "pu_name": "DANGEZA II / T. V. CENTRE",
     "name": "DANGEZA II / T. V. CENTRE",
-    "lga": "BATSARI",
-    "ward": "MANAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BATSARI",
     "ward": "MANAWA",
     "state": "Katsina",
@@ -4701,12 +4563,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BATSARI",
-    "ward": "WAGINI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/03/04/001",
     "pu_name": "JATAKA/KG. MAIUNGUWA",
     "name": "JATAKA/KG. MAIUNGUWA",
@@ -4914,12 +4770,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BATSARI",
-    "ward": "ABADAU/KAGARA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/03/05/001",
     "pu_name": "MALLAMAWA-DISPENSARY",
     "name": "MALLAMAWA-DISPENSARY",
@@ -5055,12 +4905,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BATSARI",
-    "ward": "YAUYAU/MALLAMAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/03/06/001",
     "pu_name": "KANDAWA SOUTH  - YARA",
     "name": "KANDAWA SOUTH  - YARA",
@@ -5190,12 +5034,6 @@
     "pu_code": "20/03/06/015",
     "pu_name": "DANKAR SOUTH I",
     "name": "DANKAR SOUTH I",
-    "lga": "BATSARI",
-    "ward": "KANDAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BATSARI",
     "ward": "KANDAWA",
     "state": "Katsina",
@@ -5409,12 +5247,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BATSARI",
-    "ward": "DAN. ALH/YANGAIYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/03/08/001",
     "pu_name": "RUMA SABUWA/PRI SCH.",
     "name": "RUMA SABUWA/PRI SCH.",
@@ -5550,12 +5382,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BATSARI",
-    "ward": "RUMA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/03/09/001",
     "pu_name": "MAGAJI ABU/PRIMARY SCHOOL",
     "name": "MAGAJI ABU/PRIMARY SCHOOL",
@@ -5685,12 +5511,6 @@
     "pu_code": "20/03/09/015",
     "pu_name": "MAKURURUTA  I",
     "name": "MAKURURUTA  I",
-    "lga": "BATSARI",
-    "ward": "DARINI/MAGAJI/ABU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BATSARI",
     "ward": "DARINI/MAGAJI/ABU",
     "state": "Katsina",
@@ -5859,12 +5679,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BATSARI",
-    "ward": "KARARE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/03/11/001",
     "pu_name": "MADOGARA/T.V CENTRE",
     "name": "MADOGARA/T.V CENTRE",
@@ -6003,12 +5817,6 @@
     "pu_code": "20/03/11/016",
     "pu_name": "GARIN ZAKI I",
     "name": "GARIN ZAKI I",
-    "lga": "BATSARI",
-    "ward": "MADOGARA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BATSARI",
     "ward": "MADOGARA",
     "state": "Katsina",
@@ -6213,12 +6021,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BAURE",
-    "ward": "YANMAULU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/04/02/001",
     "pu_name": "BABBAN MUTUM GALADIMA/PRI.SCHOOL",
     "name": "BABBAN MUTUM GALADIMA/PRI.SCHOOL",
@@ -6375,12 +6177,6 @@
     "pu_code": "20/04/02/018",
     "pu_name": "SALAI FULANI",
     "name": "SALAI FULANI",
-    "lga": "BAURE",
-    "ward": "BABBAN MUTUM",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BAURE",
     "ward": "BABBAN MUTUM",
     "state": "Katsina",
@@ -6567,12 +6363,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BAURE",
-    "ward": "TARAMNAWA/BARE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/04/04/001",
     "pu_name": "BAUSHI - PRIMARY SCHOOL",
     "name": "BAUSHI - PRIMARY SCHOOL",
@@ -6657,12 +6447,6 @@
     "pu_code": "20/04/04/010",
     "pu_name": "BAUSHI B",
     "name": "BAUSHI B",
-    "lga": "BAURE",
-    "ward": "MUDURI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BAURE",
     "ward": "MUDURI",
     "state": "Katsina",
@@ -6822,12 +6606,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BAURE",
-    "ward": "BAURE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/04/06/001",
     "pu_name": "ACHAKWALE - PRIMARY SCHOOL",
     "name": "ACHAKWALE - PRIMARY SCHOOL",
@@ -6975,12 +6753,6 @@
     "pu_code": "20/04/06/017",
     "pu_name": "DANGAGI II",
     "name": "DANGAGI II",
-    "lga": "BAURE",
-    "ward": "UNGUWAR RAI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BAURE",
     "ward": "UNGUWAR RAI",
     "state": "Katsina",
@@ -7176,12 +6948,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BAURE",
-    "ward": "KAGARA/FASKI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/04/08/001",
     "pu_name": "GARKI ADO 1 - PRIMARY SCHOOL",
     "name": "GARKI ADO 1 - PRIMARY SCHOOL",
@@ -7362,12 +7128,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BAURE",
-    "ward": "GARKI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/04/09/001",
     "pu_name": "YADUNA YAMMA - KOFAR MAIGARI",
     "name": "YADUNA YAMMA - KOFAR MAIGARI",
@@ -7503,12 +7263,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BAURE",
-    "ward": "YANDUNA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/04/10/001",
     "pu_name": "MAIBARA I - PRIMARYSCHOOL",
     "name": "MAIBARA I - PRIMARYSCHOOL",
@@ -7620,12 +7374,6 @@
     "pu_code": "20/04/10/013",
     "pu_name": "KAWARI MAI CIBI B",
     "name": "KAWARI MAI CIBI B",
-    "lga": "BAURE",
-    "ward": "MAI BARA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BAURE",
     "ward": "MAI BARA",
     "state": "Katsina",
@@ -7830,12 +7578,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BAURE",
-    "ward": "HUI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/04/12/001",
     "pu_name": "DANKUM PRI. SCHOOL",
     "name": "DANKUM PRI. SCHOOL",
@@ -7989,12 +7731,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BAURE",
-    "ward": "AGALA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/05/01/001",
     "pu_name": "KAMRI UNG DANDADA/WALAWA/R-TSARA-KAMRI PRI.SCH.I",
     "name": "KAMRI UNG DANDADA/WALAWA/R-TSARA-KAMRI PRI.SCH.I",
@@ -8088,12 +7824,6 @@
     "pu_code": "20/05/01/011",
     "pu_name": "KWANAR TORI GINDIN ADUA",
     "name": "KWANAR TORI GINDIN ADUA",
-    "lga": "BINDAWA",
-    "ward": "KAMRI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BINDAWA",
     "ward": "KAMRI",
     "state": "Katsina",
@@ -8289,12 +8019,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BINDAWA",
-    "ward": "BINDAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/05/03/001",
     "pu_name": "TAMA :A; - EDUCATION OFFICE",
     "name": "TAMA :A; - EDUCATION OFFICE",
@@ -8484,12 +8208,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BINDAWA",
-    "ward": "TAMA/DAYE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/05/04/001",
     "pu_name": "FARU GARI - PRI.SCHOOL",
     "name": "FARU GARI - PRI.SCHOOL",
@@ -8661,12 +8379,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BINDAWA",
-    "ward": "FARU/DALLAJI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/05/05/001",
     "pu_name": "SHIBDAWA I SHIBDAWA PRI.SCHOOL",
     "name": "SHIBDAWA I SHIBDAWA PRI.SCHOOL",
@@ -8811,12 +8523,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BINDAWA",
-    "ward": "SHIBDAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/05/06/001",
     "pu_name": "RUGAR BADE - PRI. SCHOOL",
     "name": "RUGAR BADE - PRI. SCHOOL",
@@ -8955,12 +8661,6 @@
     "pu_code": "20/05/06/016",
     "pu_name": "ZANGON GIMI GINDIN CHEDIYA OPEN SPACE",
     "name": "ZANGON GIMI GINDIN CHEDIYA OPEN SPACE",
-    "lga": "BINDAWA",
-    "ward": "JIBAWA/R,BADE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BINDAWA",
     "ward": "JIBAWA/R,BADE",
     "state": "Katsina",
@@ -9147,12 +8847,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BINDAWA",
-    "ward": "DORO",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/05/08/001",
     "pu_name": "BAURE GARI - BAURE PRI.SCH OOL",
     "name": "BAURE GARI - BAURE PRI.SCH OOL",
@@ -9246,12 +8940,6 @@
     "pu_code": "20/05/08/011",
     "pu_name": "DANRIMI GARI PRIMARY SCHOOL",
     "name": "DANRIMI GARI PRIMARY SCHOOL",
-    "lga": "BINDAWA",
-    "ward": "BAURE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BINDAWA",
     "ward": "BAURE",
     "state": "Katsina",
@@ -9375,12 +9063,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BINDAWA",
-    "ward": "YANGORA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/05/10/001",
     "pu_name": "GUDAWA/SABON GARI-ISLAMIYYA",
     "name": "GUDAWA/SABON GARI-ISLAMIYYA",
@@ -9480,12 +9162,6 @@
     "state_code": "20"
   },
   {
-    "lga": "BINDAWA",
-    "ward": "GIREMAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/05/11/001",
     "pu_name": "MAGAMI/ISLAMIYA - /SLAMIYA",
     "name": "MAGAMI/ISLAMIYA - /SLAMIYA",
@@ -9570,12 +9246,6 @@
     "pu_code": "20/05/11/010",
     "pu_name": "WAILARE PRIMARY SCHOOL",
     "name": "WAILARE PRIMARY SCHOOL",
-    "lga": "BINDAWA",
-    "ward": "GAIWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "BINDAWA",
     "ward": "GAIWA",
     "state": "Katsina",
@@ -9879,12 +9549,6 @@
     "state_code": "20"
   },
   {
-    "lga": "CHARANCHI",
-    "ward": "CHARANCHI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/06/02/001",
     "pu_name": "DAMAKWARO A OPEN SPACE",
     "name": "DAMAKWARO A OPEN SPACE",
@@ -9960,12 +9624,6 @@
     "pu_code": "20/06/02/009",
     "pu_name": "SAFANA GABAS PRI SCHOOL II",
     "name": "SAFANA GABAS PRI SCHOOL II",
-    "lga": "CHARANCHI",
-    "ward": "SAFANA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "CHARANCHI",
     "ward": "SAFANA",
     "state": "Katsina",
@@ -10101,12 +9759,6 @@
     "pu_code": "20/06/03/015",
     "pu_name": "KATUKA PRI.SCH II",
     "name": "KATUKA PRI.SCH II",
-    "lga": "CHARANCHI",
-    "ward": "RADDA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "CHARANCHI",
     "ward": "RADDA",
     "state": "Katsina",
@@ -10257,12 +9909,6 @@
     "state_code": "20"
   },
   {
-    "lga": "CHARANCHI",
-    "ward": "MAJEN WAYYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/06/05/001",
     "pu_name": "BURTU PRI.SCHOOL",
     "name": "BURTU PRI.SCHOOL",
@@ -10353,12 +9999,6 @@
     "state_code": "20"
   },
   {
-    "lga": "CHARANCHI",
-    "ward": "GANUWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/06/06/001",
     "pu_name": "GIDAN BANYE MAI UNGUWA",
     "name": "GIDAN BANYE MAI UNGUWA",
@@ -10425,12 +10065,6 @@
     "pu_code": "20/06/06/008",
     "pu_name": "K/GIDAN M/ GARI TSAKATSA",
     "name": "K/GIDAN M/ GARI TSAKATSA",
-    "lga": "CHARANCHI",
-    "ward": "TSAKATSA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "CHARANCHI",
     "ward": "TSAKATSA",
     "state": "Katsina",
@@ -10521,12 +10155,6 @@
     "pu_code": "20/06/07/010",
     "pu_name": "SAKE KOFAR GIDAN M/UNG",
     "name": "SAKE KOFAR GIDAN M/UNG",
-    "lga": "CHARANCHI",
-    "ward": "KODA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "CHARANCHI",
     "ward": "KODA",
     "state": "Katsina",
@@ -10713,12 +10341,6 @@
     "state_code": "20"
   },
   {
-    "lga": "CHARANCHI",
-    "ward": "KURAYE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/06/09/001",
     "pu_name": "BANYE A PRI.SCHOOL",
     "name": "BANYE A PRI.SCHOOL",
@@ -10809,12 +10431,6 @@
     "state_code": "20"
   },
   {
-    "lga": "CHARANCHI",
-    "ward": "BANYE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/06/10/001",
     "pu_name": "KUNATAU K/G MAI UNGUWA",
     "name": "KUNATAU K/G MAI UNGUWA",
@@ -10899,12 +10515,6 @@
     "pu_code": "20/06/10/010",
     "pu_name": "DOKA HEALTH CENTER",
     "name": "DOKA HEALTH CENTER",
-    "lga": "CHARANCHI",
-    "ward": "DOKA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "CHARANCHI",
     "ward": "DOKA",
     "state": "Katsina",
@@ -11037,12 +10647,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DANDUME",
-    "ward": "MAHUTA A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/07/02/001",
     "pu_name": "MAHUTA AREWA/KOFAR GIDAN ZAYYANA",
     "name": "MAHUTA AREWA/KOFAR GIDAN ZAYYANA",
@@ -11151,12 +10755,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DANDUME",
-    "ward": "MAHUTA B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/07/03/001",
     "pu_name": "DOGON KAWU/K/G. DAN-GAGA",
     "name": "DOGON KAWU/K/G. DAN-GAGA",
@@ -11259,12 +10857,6 @@
     "pu_code": "20/07/03/012",
     "pu_name": "KOFAR GIDAN MALLAM HAYYATU",
     "name": "KOFAR GIDAN MALLAM HAYYATU",
-    "lga": "DANDUME",
-    "ward": "MAHUTA C",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DANDUME",
     "ward": "MAHUTA C",
     "state": "Katsina",
@@ -11613,12 +11205,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DANDUME",
-    "ward": "DANDUME A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/07/05/001",
     "pu_name": "UNG.KANDAMBA/K/G. M/UNG",
     "name": "UNG.KANDAMBA/K/G. M/UNG",
@@ -11763,12 +11349,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DANDUME",
-    "ward": "DANDUME B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/07/06/001",
     "pu_name": "KAURAN KATUKA GARI I/PRI.SCHOOL",
     "name": "KAURAN KATUKA GARI I/PRI.SCHOOL",
@@ -11895,12 +11475,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DANDUME",
-    "ward": "TUMBURKAI A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/07/07/001",
     "pu_name": "YAKURUTU/LAYIN KADANYA",
     "name": "YAKURUTU/LAYIN KADANYA",
@@ -12003,12 +11577,6 @@
     "pu_code": "20/07/07/012",
     "pu_name": "K/G M/UNG DANLAMI",
     "name": "K/G M/UNG DANLAMI",
-    "lga": "DANDUME",
-    "ward": "TUMBURKAI B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DANDUME",
     "ward": "TUMBURKAI B",
     "state": "Katsina",
@@ -12135,12 +11703,6 @@
     "pu_code": "20/07/08/014",
     "pu_name": "KADAWA DISPENSARY",
     "name": "KADAWA DISPENSARY",
-    "lga": "DANDUME",
-    "ward": "DANTANKARI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DANDUME",
     "ward": "DANTANKARI",
     "state": "Katsina",
@@ -12300,12 +11862,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DANDUME",
-    "ward": "NASARAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/07/10/001",
     "pu_name": "MAGAJI WANDO/T.V CENTRE",
     "name": "MAGAJI WANDO/T.V CENTRE",
@@ -12432,12 +11988,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DANDUME",
-    "ward": "MAGAJI WANDO A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/07/11/001",
     "pu_name": "UNG. M. HAJJI  K/G UNG.  NA BABA",
     "name": "UNG. M. HAJJI  K/G UNG.  NA BABA",
@@ -12558,12 +12108,6 @@
     "pu_code": "20/07/11/014",
     "pu_name": "BADOLE TAKUDU ISLAMIYYA",
     "name": "BADOLE TAKUDU ISLAMIYYA",
-    "lga": "DANDUME",
-    "ward": "MAGAJI WANDO B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DANDUME",
     "ward": "MAGAJI WANDO B",
     "state": "Katsina",
@@ -12741,12 +12285,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DANJA",
-    "ward": "JIBA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/08/02/001",
     "pu_name": "BUZAYE/UNG.HABIBU TSAKIYA OPEN SPACE",
     "name": "BUZAYE/UNG.HABIBU TSAKIYA OPEN SPACE",
@@ -12903,12 +12441,6 @@
     "pu_code": "20/08/02/018",
     "pu_name": "TANDAMA MODEL PRIMARY SCHOOL",
     "name": "TANDAMA MODEL PRIMARY SCHOOL",
-    "lga": "DANJA",
-    "ward": "TANDAMA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DANJA",
     "ward": "TANDAMA",
     "state": "Katsina",
@@ -13149,12 +12681,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DANJA",
-    "ward": "DANJA A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/08/04/001",
     "pu_name": "DANJA T/KASUWA PRI.HEALTH CENTRE",
     "name": "DANJA T/KASUWA PRI.HEALTH CENTRE",
@@ -13389,12 +12915,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DANJA",
-    "ward": "DANJA B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/08/05/001",
     "pu_name": "UNG.WAZIRI NEAR WAZIRI HOUSE",
     "name": "UNG.WAZIRI NEAR WAZIRI HOUSE",
@@ -13569,12 +13089,6 @@
     "pu_code": "20/08/05/020",
     "pu_name": "DORAYI PRIMARY SCHOOL",
     "name": "DORAYI PRIMARY SCHOOL",
-    "lga": "DANJA",
-    "ward": "TSANGAMAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DANJA",
     "ward": "TSANGAMAWA",
     "state": "Katsina",
@@ -13797,12 +13311,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DANJA",
-    "ward": "DABAI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/08/07/001",
     "pu_name": "UNG. JAMO A NEAR M/UNG. HOUSE",
     "name": "UNG. JAMO A NEAR M/UNG. HOUSE",
@@ -13947,12 +13455,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DANJA",
-    "ward": "YAKAJI A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/08/08/001",
     "pu_name": "UNG. MAKERA GIDAN MAKERA OPEN SPACE",
     "name": "UNG. MAKERA GIDAN MAKERA OPEN SPACE",
@@ -14088,12 +13590,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DANJA",
-    "ward": "YAKAJI B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/08/09/001",
     "pu_name": "KAHUTU A PRI. SCHOOL",
     "name": "KAHUTU A PRI. SCHOOL",
@@ -14220,12 +13716,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DANJA",
-    "ward": "KAHUTU A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/08/10/001",
     "pu_name": "DAN MAIGAUTA A PRI SCHOOL",
     "name": "DAN MAIGAUTA A PRI SCHOOL",
@@ -14346,12 +13836,6 @@
     "pu_code": "20/08/10/014",
     "pu_name": "UNG MADAKI PRIMARY SCHOOL.",
     "name": "UNG MADAKI PRIMARY SCHOOL.",
-    "lga": "DANJA",
-    "ward": "KAHUTU B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DANJA",
     "ward": "KAHUTU B",
     "state": "Katsina",
@@ -14538,12 +14022,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DAN MUSA",
-    "ward": "MARA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/09/02/001",
     "pu_name": "NASARAWA A PRI. SCHOOL",
     "name": "NASARAWA A PRI. SCHOOL",
@@ -14673,12 +14151,6 @@
     "pu_code": "20/09/02/015",
     "pu_name": "DOMAWA GINDON FAMFO",
     "name": "DOMAWA GINDON FAMFO",
-    "lga": "DAN MUSA",
-    "ward": "DAN ALKIMA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DAN MUSA",
     "ward": "DAN ALKIMA",
     "state": "Katsina",
@@ -14910,12 +14382,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DAN MUSA",
-    "ward": "DAN MUSA A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/09/04/001",
     "pu_name": "GERECEN ANNA/G.KANAWA - GERECEN ANNA",
     "name": "GERECEN ANNA/G.KANAWA - GERECEN ANNA",
@@ -15000,12 +14466,6 @@
     "pu_code": "20/09/04/010",
     "pu_name": "BAZAR JARI",
     "name": "BAZAR JARI",
-    "lga": "DAN MUSA",
-    "ward": "DAN MUSA B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DAN MUSA",
     "ward": "DAN MUSA B",
     "state": "Katsina",
@@ -15141,12 +14601,6 @@
     "pu_code": "20/09/05/015",
     "pu_name": "TSAHAR BIRI DISPENSARY",
     "name": "TSAHAR BIRI DISPENSARY",
-    "lga": "DAN MUSA",
-    "ward": "DAN ALI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DAN MUSA",
     "ward": "DAN ALI",
     "state": "Katsina",
@@ -15297,12 +14751,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DAN MUSA",
-    "ward": "MAI DABINO A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/09/07/001",
     "pu_name": "GOBIRAWA BUDA PRI.SCHOOL",
     "name": "GOBIRAWA BUDA PRI.SCHOOL",
@@ -15438,12 +14886,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DAN MUSA",
-    "ward": "MAI DABINO B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/09/08/001",
     "pu_name": "DANDIRE 'A' DISPENSARY",
     "name": "DANDIRE 'A' DISPENSARY",
@@ -15543,12 +14985,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DAN MUSA",
-    "ward": "DANDIRE A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/09/09/001",
     "pu_name": "DANTUDU 'A' PRI SCHOOL",
     "name": "DANTUDU 'A' PRI SCHOOL",
@@ -15633,12 +15069,6 @@
     "pu_code": "20/09/09/010",
     "pu_name": "DUFAR SAMA/TUBURI-TUBURI",
     "name": "DUFAR SAMA/TUBURI-TUBURI",
-    "lga": "DAN MUSA",
-    "ward": "DANDIRE 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DAN MUSA",
     "ward": "DANDIRE 'B'",
     "state": "Katsina",
@@ -15789,12 +15219,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DAN MUSA",
-    "ward": "YAN-TUMAKI A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/09/11/001",
     "pu_name": "TASHAR ICCE PRI.SCHOOL",
     "name": "TASHAR ICCE PRI.SCHOOL",
@@ -15897,12 +15321,6 @@
     "pu_code": "20/09/11/012",
     "pu_name": "MAGEZOJI DISPENSARY",
     "name": "MAGEZOJI DISPENSARY",
-    "lga": "DAN MUSA",
-    "ward": "YAN-TUMAKI B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DAN MUSA",
     "ward": "YAN-TUMAKI B",
     "state": "Katsina",
@@ -16080,12 +15498,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DAURA",
-    "ward": "SARKIN YARA A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/10/02/001",
     "pu_name": "GARAKE I KOFAR A. IBRAHIM",
     "name": "GARAKE I KOFAR A. IBRAHIM",
@@ -16257,12 +15669,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DAURA",
-    "ward": "SARKIN YARA B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/10/03/001",
     "pu_name": "MAJEMA I DAURA I PRI.SCHOOL",
     "name": "MAJEMA I DAURA I PRI.SCHOOL",
@@ -16383,12 +15789,6 @@
     "pu_code": "20/10/03/014",
     "pu_name": "ABDURRAHMAN PRI. SCHOOL",
     "name": "ABDURRAHMAN PRI. SCHOOL",
-    "lga": "DAURA",
-    "ward": "UBANDAWAKI A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DAURA",
     "ward": "UBANDAWAKI A",
     "state": "Katsina",
@@ -16557,12 +15957,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DAURA",
-    "ward": "UNBADAWAKI B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/10/05/001",
     "pu_name": "FADA BABBA I TITIN DAURA I PRI.SCHOOL",
     "name": "FADA BABBA I TITIN DAURA I PRI.SCHOOL",
@@ -16716,12 +16110,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DAURA",
-    "ward": "KUSUGU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/10/06/001",
     "pu_name": "MAZOJI I PRI.SCHOOL",
     "name": "MAZOJI I PRI.SCHOOL",
@@ -16806,12 +16194,6 @@
     "pu_code": "20/10/06/010",
     "pu_name": "SABON GARI CIKIN GARI",
     "name": "SABON GARI CIKIN GARI",
-    "lga": "DAURA",
-    "ward": "MAZOJI A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DAURA",
     "ward": "MAZOJI A",
     "state": "Katsina",
@@ -16920,12 +16302,6 @@
     "pu_code": "20/10/07/012",
     "pu_name": "OPEN SPACE S/UNG DANHEJI",
     "name": "OPEN SPACE S/UNG DANHEJI",
-    "lga": "DAURA",
-    "ward": "MAZOJI B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DAURA",
     "ward": "MAZOJI B",
     "state": "Katsina",
@@ -17097,12 +16473,6 @@
     "pu_code": "20/10/08/019",
     "pu_name": "COMM. PUMP. UNG. DUTSE",
     "name": "COMM. PUMP. UNG. DUTSE",
-    "lga": "DAURA",
-    "ward": "TUDUN WADA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DAURA",
     "ward": "TUDUN WADA",
     "state": "Katsina",
@@ -17361,12 +16731,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DAURA",
-    "ward": "SABON GARI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/10/10/001",
     "pu_name": "SUKWANAWA I.G. MAIGARI",
     "name": "SUKWANAWA I.G. MAIGARI",
@@ -17478,12 +16842,6 @@
     "pu_code": "20/10/10/013",
     "pu_name": "TV VIEWING CENTRE S/GARI MADOBI",
     "name": "TV VIEWING CENTRE S/GARI MADOBI",
-    "lga": "DAURA",
-    "ward": "MADOBI A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DAURA",
     "ward": "MADOBI A",
     "state": "Katsina",
@@ -17634,12 +16992,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DAURA",
-    "ward": "MADOBI B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/11/01/001",
     "pu_name": "DARDAR I PRI SCHOOL",
     "name": "DARDAR I PRI SCHOOL",
@@ -17784,12 +17136,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DUTSI",
-    "ward": "DAN AUNAI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/11/02/001",
     "pu_name": "DUNGUNAWA/DUGUNEJI DANDALI",
     "name": "DUNGUNAWA/DUGUNEJI DANDALI",
@@ -17862,12 +17208,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DUTSI",
-    "ward": "RUWANKAYA A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/11/03/001",
     "pu_name": "FINNINGERE K/GIDAN MAI UNG",
     "name": "FINNINGERE K/GIDAN MAI UNG",
@@ -17925,12 +17265,6 @@
     "pu_code": "20/11/03/007",
     "pu_name": "NASARAWA TV CENTER",
     "name": "NASARAWA TV CENTER",
-    "lga": "DUTSI",
-    "ward": "RUWANKAYA B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DUTSI",
     "ward": "RUWANKAYA B",
     "state": "Katsina",
@@ -18090,12 +17424,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DUTSI",
-    "ward": "DUTSI A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/11/05/001",
     "pu_name": "BIYATA K/GIDAN ALH.ABU",
     "name": "BIYATA K/GIDAN ALH.ABU",
@@ -18171,12 +17499,6 @@
     "pu_code": "20/11/05/009",
     "pu_name": "PRI. SCH. D/KUDU",
     "name": "PRI. SCH. D/KUDU",
-    "lga": "DUTSI",
-    "ward": "DUTSI B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DUTSI",
     "ward": "DUTSI B",
     "state": "Katsina",
@@ -18282,12 +17604,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DUTSI",
-    "ward": "YAMEL A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/11/07/001",
     "pu_name": "BALARE/TARA PRI.SCHOOL",
     "name": "BALARE/TARA PRI.SCHOOL",
@@ -18387,12 +17703,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DUTSI",
-    "ward": "YAMEL B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/11/08/001",
     "pu_name": "BA,EL PRI.SCHOOL",
     "name": "BA,EL PRI.SCHOOL",
@@ -18486,12 +17796,6 @@
     "pu_code": "20/11/08/011",
     "pu_name": "SIRIKA YAMMA DANDALI",
     "name": "SIRIKA YAMMA DANDALI",
-    "lga": "DUTSI",
-    "ward": "SIRIKA A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DUTSI",
     "ward": "SIRIKA A",
     "state": "Katsina",
@@ -18600,12 +17904,6 @@
     "pu_code": "20/11/09/012",
     "pu_name": "DUBAWA KOTU B",
     "name": "DUBAWA KOTU B",
-    "lga": "DUTSI",
-    "ward": "SIRIKA B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DUTSI",
     "ward": "SIRIKA B",
     "state": "Katsina",
@@ -18750,12 +18048,6 @@
     "pu_code": "20/11/10/016",
     "pu_name": "KAYAWA CENTRAL MOTOR. PARK",
     "name": "KAYAWA CENTRAL MOTOR. PARK",
-    "lga": "DUTSI",
-    "ward": "KAYAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DUTSI",
     "ward": "KAYAWA",
     "state": "Katsina",
@@ -19098,12 +18390,6 @@
     "pu_code": "20/12/01/038",
     "pu_name": "OPEN SPACE YARA DOLE",
     "name": "OPEN SPACE YARA DOLE",
-    "lga": "DUTSIN-MA",
-    "ward": "DUTSIN-MA A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DUTSIN-MA",
     "ward": "DUTSIN-MA A",
     "state": "Katsina",
@@ -19488,12 +18774,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DUTSIN-MA",
-    "ward": "DUTSIN-MA B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/12/03/001",
     "pu_name": "KOFAR G.MAIUNG. DANYADANA",
     "name": "KOFAR G.MAIUNG. DANYADANA",
@@ -19656,12 +18936,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DUTSIN-MA",
-    "ward": "SHEMA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/12/04/001",
     "pu_name": "PRI.SCHOOL KUNDAWA A",
     "name": "PRI.SCHOOL KUNDAWA A",
@@ -19764,12 +19038,6 @@
     "pu_code": "20/12/04/012",
     "pu_name": "TSOHUWAR TASHA TV CENTRE",
     "name": "TSOHUWAR TASHA TV CENTRE",
-    "lga": "DUTSIN-MA",
-    "ward": "KAROFI A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DUTSIN-MA",
     "ward": "KAROFI A",
     "state": "Katsina",
@@ -19893,12 +19161,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DUTSIN-MA",
-    "ward": "KAROFI B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/12/06/001",
     "pu_name": "GINDIN DURAWA GAJUNA I",
     "name": "GINDIN DURAWA GAJUNA I",
@@ -19998,12 +19260,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DUTSIN-MA",
-    "ward": "KUKI A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/12/07/001",
     "pu_name": "GIDAN KYARI",
     "name": "GIDAN KYARI",
@@ -20079,12 +19335,6 @@
     "pu_code": "20/12/07/009",
     "pu_name": "TV CENTRE YARA ZANGO",
     "name": "TV CENTRE YARA ZANGO",
-    "lga": "DUTSIN-MA",
-    "ward": "KUKI B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DUTSIN-MA",
     "ward": "KUKI B",
     "state": "Katsina",
@@ -20193,12 +19443,6 @@
     "pu_code": "20/12/08/012",
     "pu_name": "OPEN SPACE MONO KATSALLE",
     "name": "OPEN SPACE MONO KATSALLE",
-    "lga": "DUTSIN-MA",
-    "ward": "KUTAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DUTSIN-MA",
     "ward": "KUTAWA",
     "state": "Katsina",
@@ -20325,12 +19569,6 @@
     "pu_code": "20/12/09/014",
     "pu_name": "OPEN SPACE SOLAR UNG.GABAS",
     "name": "OPEN SPACE SOLAR UNG.GABAS",
-    "lga": "DUTSIN-MA",
-    "ward": "BAGAGADI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DUTSIN-MA",
     "ward": "BAGAGADI",
     "state": "Katsina",
@@ -20580,12 +19818,6 @@
     "state_code": "20"
   },
   {
-    "lga": "DUTSIN-MA",
-    "ward": "MAKERA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/12/11/001",
     "pu_name": "FASSADA/S/GONA PRI.SCHOOL",
     "name": "FASSADA/S/GONA PRI.SCHOOL",
@@ -20697,12 +19929,6 @@
     "pu_code": "20/12/11/013",
     "pu_name": "OPEN SPACE KWAKWARE UNG. YAMMA DABAWA",
     "name": "OPEN SPACE KWAKWARE UNG. YAMMA DABAWA",
-    "lga": "DUTSIN-MA",
-    "ward": "DABAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "DUTSIN-MA",
     "ward": "DABAWA",
     "state": "Katsina",
@@ -20961,12 +20187,6 @@
     "state_code": "20"
   },
   {
-    "lga": "FASKARI",
-    "ward": "YANKARA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/13/02/001",
     "pu_name": "SHEME KAMFANI PRI.SCHOOL",
     "name": "SHEME KAMFANI PRI.SCHOOL",
@@ -21087,12 +20307,6 @@
     "pu_code": "20/13/02/014",
     "pu_name": "K/G ALH BELLO MAI TAKI",
     "name": "K/G ALH BELLO MAI TAKI",
-    "lga": "FASKARI",
-    "ward": "SHEME",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "FASKARI",
     "ward": "SHEME",
     "state": "Katsina",
@@ -21279,12 +20493,6 @@
     "state_code": "20"
   },
   {
-    "lga": "FASKARI",
-    "ward": "MAIRUWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/13/04/001",
     "pu_name": "DAUDAWA GARI KOFAR ALARAMA",
     "name": "DAUDAWA GARI KOFAR ALARAMA",
@@ -21456,12 +20664,6 @@
     "state_code": "20"
   },
   {
-    "lga": "FASKARI",
-    "ward": "DAUDAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/13/05/001",
     "pu_name": "TAFOKI GABAS KOFAR GIDAN MAIGARI",
     "name": "TAFOKI GABAS KOFAR GIDAN MAIGARI",
@@ -21600,12 +20802,6 @@
     "pu_code": "20/13/05/016",
     "pu_name": "BALAN DAWA PRI SCHOOL",
     "name": "BALAN DAWA PRI SCHOOL",
-    "lga": "FASKARI",
-    "ward": "TAFOKI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "FASKARI",
     "ward": "TAFOKI",
     "state": "Katsina",
@@ -21819,12 +21015,6 @@
     "state_code": "20"
   },
   {
-    "lga": "FASKARI",
-    "ward": "RUWAN GODIYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/13/07/001",
     "pu_name": "MAISABO KOFAR GIDAN MAI UNGUWA",
     "name": "MAISABO KOFAR GIDAN MAI UNGUWA",
@@ -21981,12 +21171,6 @@
     "pu_code": "20/13/07/018",
     "pu_name": "MUNUNU PRI SCHOOL",
     "name": "MUNUNU PRI SCHOOL",
-    "lga": "FASKARI",
-    "ward": "YARMALAMAI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "FASKARI",
     "ward": "YARMALAMAI",
     "state": "Katsina",
@@ -22389,12 +21573,6 @@
     "state_code": "20"
   },
   {
-    "lga": "FASKARI",
-    "ward": "FASKARI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/13/09/001",
     "pu_name": "WAKA TA,BA BAKIN KASUWA",
     "name": "WAKA TA,BA BAKIN KASUWA",
@@ -22629,12 +21807,6 @@
     "state_code": "20"
   },
   {
-    "lga": "FASKARI",
-    "ward": "SABONLAYI/GALADIMA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/13/10/001",
     "pu_name": "MAIGORA GABAS K/G. WAKILI",
     "name": "MAIGORA GABAS K/G. WAKILI",
@@ -22836,12 +22008,6 @@
     "pu_code": "20/13/10/023",
     "pu_name": "MAIGORA CLINIC B",
     "name": "MAIGORA CLINIC B",
-    "lga": "FASKARI",
-    "ward": "MAIGORA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "FASKARI",
     "ward": "MAIGORA",
     "state": "Katsina",
@@ -23136,12 +22302,6 @@
     "state_code": "20"
   },
   {
-    "lga": "FUNTUA",
-    "ward": "DANDUTSE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/14/02/001",
     "pu_name": "B.C.G.A B.C.G.A PRI.SCHOOL I",
     "name": "B.C.G.A B.C.G.A PRI.SCHOOL I",
@@ -23370,12 +22530,6 @@
     "pu_code": "20/14/02/026",
     "pu_name": "ZAIDU BIN THABIT PRI. SCH.",
     "name": "ZAIDU BIN THABIT PRI. SCH.",
-    "lga": "FUNTUA",
-    "ward": "SABON GARI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "FUNTUA",
     "ward": "SABON GARI",
     "state": "Katsina",
@@ -23646,12 +22800,6 @@
     "pu_code": "20/14/03/030",
     "pu_name": "K/G ABUBAKAR LADO",
     "name": "K/G ABUBAKAR LADO",
-    "lga": "FUNTUA",
-    "ward": "UNGUWAR RABIU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "FUNTUA",
     "ward": "UNGUWAR RABIU",
     "state": "Katsina",
@@ -24009,12 +23157,6 @@
     "state_code": "20"
   },
   {
-    "lga": "FUNTUA",
-    "ward": "UNG IBRAHIM",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/14/05/001",
     "pu_name": "UNG.MUSA K/G LADAN",
     "name": "UNG.MUSA K/G LADAN",
@@ -24357,12 +23499,6 @@
     "state_code": "20"
   },
   {
-    "lga": "FUNTUA",
-    "ward": "UNGUWAR MUSA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/14/06/001",
     "pu_name": "DUKKE PRI.SCHOOL",
     "name": "DUKKE PRI.SCHOOL",
@@ -24573,12 +23709,6 @@
     "pu_code": "20/14/06/024",
     "pu_name": "K/G MAI UNG. ABDULRASHIDI MAKWALLA",
     "name": "K/G MAI UNG. ABDULRASHIDI MAKWALLA",
-    "lga": "FUNTUA",
-    "ward": "DUKKE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "FUNTUA",
     "ward": "DUKKE",
     "state": "Katsina",
@@ -24837,12 +23967,6 @@
     "state_code": "20"
   },
   {
-    "lga": "FUNTUA",
-    "ward": "MAKERA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/14/08/001",
     "pu_name": "KWANGWAI K/G HALLIRU",
     "name": "KWANGWAI K/G HALLIRU",
@@ -24972,12 +24096,6 @@
     "pu_code": "20/14/08/015",
     "pu_name": "UNG.ALH.GAMBO K/G ALH. GAMBO",
     "name": "UNG.ALH.GAMBO K/G ALH. GAMBO",
-    "lga": "FUNTUA",
-    "ward": "GOYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "FUNTUA",
     "ward": "GOYA",
     "state": "Katsina",
@@ -25209,12 +24327,6 @@
     "state_code": "20"
   },
   {
-    "lga": "FUNTUA",
-    "ward": "MAI GAMJI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/14/10/001",
     "pu_name": "DIKKO READING ROOM",
     "name": "DIKKO READING ROOM",
@@ -25404,12 +24516,6 @@
     "state_code": "20"
   },
   {
-    "lga": "FUNTUA",
-    "ward": "MASKA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/14/11/001",
     "pu_name": "TUDUN IYA PRI.SCHOOL I",
     "name": "TUDUN IYA PRI.SCHOOL I",
@@ -25590,12 +24696,6 @@
     "state_code": "20"
   },
   {
-    "lga": "FUNTUA",
-    "ward": "TUDUN IYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/15/01/001",
     "pu_name": "DUGUL - DUGUL GARI",
     "name": "DUGUL - DUGUL GARI",
@@ -25707,12 +24807,6 @@
     "pu_code": "20/15/01/013",
     "pu_name": "DUKUMA DISPENSARY",
     "name": "DUKUMA DISPENSARY",
-    "lga": "INGAWA",
-    "ward": "DUGUL",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "INGAWA",
     "ward": "DUGUL",
     "state": "Katsina",
@@ -25911,12 +25005,6 @@
     "pu_code": "20/15/02/022",
     "pu_name": "SHAISKAWA GINDIN BEDI YAR YARA",
     "name": "SHAISKAWA GINDIN BEDI YAR YARA",
-    "lga": "INGAWA",
-    "ward": "YANDOMA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "INGAWA",
     "ward": "YANDOMA",
     "state": "Katsina",
@@ -26166,12 +25254,6 @@
     "state_code": "20"
   },
   {
-    "lga": "INGAWA",
-    "ward": "INGAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/15/04/001",
     "pu_name": "AGAYAWA - MATALLAWA P.S",
     "name": "AGAYAWA - MATALLAWA P.S",
@@ -26289,12 +25371,6 @@
     "state_code": "20"
   },
   {
-    "lga": "INGAWA",
-    "ward": "AGAYAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/15/05/001",
     "pu_name": "JOBE - JOBE PRI.SCHOOL",
     "name": "JOBE - JOBE PRI.SCHOOL",
@@ -26406,12 +25482,6 @@
     "pu_code": "20/15/05/013",
     "pu_name": "SANKARAWAR GOJE DISPENSARY",
     "name": "SANKARAWAR GOJE DISPENSARY",
-    "lga": "INGAWA",
-    "ward": "JOBE/KANDAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "INGAWA",
     "ward": "JOBE/KANDAWA",
     "state": "Katsina",
@@ -26607,12 +25677,6 @@
     "state_code": "20"
   },
   {
-    "lga": "INGAWA",
-    "ward": "KURFEJI/YANKAURA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/15/07/001",
     "pu_name": "MANOMAWA MANOMAWA GARI",
     "name": "MANOMAWA MANOMAWA GARI",
@@ -26697,12 +25761,6 @@
     "pu_code": "20/15/07/010",
     "pu_name": "MANOMAWA GARI",
     "name": "MANOMAWA GARI",
-    "lga": "INGAWA",
-    "ward": "MANOMAWA/KAFI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "INGAWA",
     "ward": "MANOMAWA/KAFI",
     "state": "Katsina",
@@ -26802,12 +25860,6 @@
     "pu_code": "20/15/08/011",
     "pu_name": "YAYA DISPENSARY",
     "name": "YAYA DISPENSARY",
-    "lga": "INGAWA",
-    "ward": "BIDORE/YAYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "INGAWA",
     "ward": "BIDORE/YAYA",
     "state": "Katsina",
@@ -26925,12 +25977,6 @@
     "pu_code": "20/15/09/013",
     "pu_name": "DAN ASHITAN DISPENSARY",
     "name": "DAN ASHITAN DISPENSARY",
-    "lga": "INGAWA",
-    "ward": "BARERUWA/RURUMA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "INGAWA",
     "ward": "BARERUWA/RURUMA",
     "state": "Katsina",
@@ -27108,12 +26154,6 @@
     "state_code": "20"
   },
   {
-    "lga": "INGAWA",
-    "ward": "DAUNAKA/B.KWARI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/15/11/001",
     "pu_name": "DARA - DARA P.S",
     "name": "DARA - DARA P.S",
@@ -27180,12 +26220,6 @@
     "pu_code": "20/15/11/008",
     "pu_name": "SAUDAWA GINDIN KALGO",
     "name": "SAUDAWA GINDIN KALGO",
-    "lga": "INGAWA",
-    "ward": "DARA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "INGAWA",
     "ward": "DARA",
     "state": "Katsina",
@@ -27309,12 +26343,6 @@
     "state_code": "20"
   },
   {
-    "lga": "JIBIA",
-    "ward": "FARFARU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/16/02/001",
     "pu_name": "KUKAR BABANGIDA DISPENSARY",
     "name": "KUKAR BABANGIDA DISPENSARY",
@@ -27417,12 +26445,6 @@
     "pu_code": "20/16/02/012",
     "pu_name": "KUKAR B/GIDA PRI. SCH.",
     "name": "KUKAR B/GIDA PRI. SCH.",
-    "lga": "JIBIA",
-    "ward": "YANGAIYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "JIBIA",
     "ward": "YANGAIYA",
     "state": "Katsina",
@@ -27708,12 +26730,6 @@
     "state_code": "20"
   },
   {
-    "lga": "JIBIA",
-    "ward": "JIBIA A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/16/04/001",
     "pu_name": "TASHAR GODI/DANTUDU/OPEN SPACE T/GODE",
     "name": "TASHAR GODI/DANTUDU/OPEN SPACE T/GODE",
@@ -27975,12 +26991,6 @@
     "state_code": "20"
   },
   {
-    "lga": "JIBIA",
-    "ward": "JIBIA B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/16/05/001",
     "pu_name": "MAGAMA KAGA HASSAN OPEN SPACE",
     "name": "MAGAMA KAGA HASSAN OPEN SPACE",
@@ -28215,12 +27225,6 @@
     "state_code": "20"
   },
   {
-    "lga": "JIBIA",
-    "ward": "MAZANYA/MAGAMA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/16/06/001",
     "pu_name": "GURBIN BAURE I BAURE PRI.SCHOOL",
     "name": "GURBIN BAURE I BAURE PRI.SCHOOL",
@@ -28374,12 +27378,6 @@
     "state_code": "20"
   },
   {
-    "lga": "JIBIA",
-    "ward": "G/BAURE/MALLAMAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/16/07/001",
     "pu_name": "FARU/GURBIN M.FULANI FARU PRI.SCHOOL",
     "name": "FARU/GURBIN M.FULANI FARU PRI.SCHOOL",
@@ -28518,12 +27516,6 @@
     "pu_code": "20/16/07/016",
     "pu_name": "MAI KWARI II O/S",
     "name": "MAI KWARI II O/S",
-    "lga": "JIBIA",
-    "ward": "FARU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "JIBIA",
     "ward": "FARU",
     "state": "Katsina",
@@ -28674,12 +27666,6 @@
     "state_code": "20"
   },
   {
-    "lga": "JIBIA",
-    "ward": "BUGAJE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/16/09/001",
     "pu_name": "GANGARA I GANGARA PRI.SCHOOL",
     "name": "GANGARA I GANGARA PRI.SCHOOL",
@@ -28773,12 +27759,6 @@
     "pu_code": "20/16/09/011",
     "pu_name": "GANGARA HEALTH OFFICE",
     "name": "GANGARA HEALTH OFFICE",
-    "lga": "JIBIA",
-    "ward": "GANGARA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "JIBIA",
     "ward": "GANGARA",
     "state": "Katsina",
@@ -28896,12 +27876,6 @@
     "pu_code": "20/16/10/013",
     "pu_name": "DAGA  / DAGA PEI.SCHOOL",
     "name": "DAGA  / DAGA PEI.SCHOOL",
-    "lga": "JIBIA",
-    "ward": "RIKO",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "JIBIA",
     "ward": "RIKO",
     "state": "Katsina",
@@ -29073,12 +28047,6 @@
     "pu_code": "20/16/11/019",
     "pu_name": "YAR NONO",
     "name": "YAR NONO",
-    "lga": "JIBIA",
-    "ward": "KUSA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "JIBIA",
     "ward": "KUSA",
     "state": "Katsina",
@@ -29328,12 +28296,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KAFUR",
-    "ward": "YARTALATA/RIGOJI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/17/02/001",
     "pu_name": "DUTSEN KURA I PRI.SCHOOL",
     "name": "DUTSEN KURA I PRI.SCHOOL",
@@ -29571,12 +28533,6 @@
     "pu_code": "20/17/02/027",
     "pu_name": "MARABAR KANYA PRI. SCHOOL I",
     "name": "MARABAR KANYA PRI. SCHOOL I",
-    "lga": "KAFUR",
-    "ward": "DUTSIN KURA/KANYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KAFUR",
     "ward": "DUTSIN KURA/KANYA",
     "state": "Katsina",
@@ -29838,12 +28794,6 @@
     "pu_code": "20/17/03/029",
     "pu_name": "MATA ZALLA PRI. SCHOOL",
     "name": "MATA ZALLA PRI. SCHOOL",
-    "lga": "KAFUR",
-    "ward": "KAFUR",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KAFUR",
     "ward": "KAFUR",
     "state": "Katsina",
@@ -30147,12 +29097,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KAFUR",
-    "ward": "MASARI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/17/05/001",
     "pu_name": "YARI BORI I PRI SCHOOL",
     "name": "YARI BORI I PRI SCHOOL",
@@ -30423,12 +29367,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KAFUR",
-    "ward": "YARI BORI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/17/06/001",
     "pu_name": "SABUWAR KASA I PRI.SCHOOL",
     "name": "SABUWAR KASA I PRI.SCHOOL",
@@ -30612,12 +29550,6 @@
     "pu_code": "20/17/06/021",
     "pu_name": "SHEKA HEALTH CLINIC",
     "name": "SHEKA HEALTH CLINIC",
-    "lga": "KAFUR",
-    "ward": "SABUWAR KASA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KAFUR",
     "ward": "SABUWAR KASA",
     "state": "Katsina",
@@ -30816,12 +29748,6 @@
     "pu_code": "20/17/07/022",
     "pu_name": "GOZAKI ASIBITI",
     "name": "GOZAKI ASIBITI",
-    "lga": "KAFUR",
-    "ward": "GOZAKI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KAFUR",
     "ward": "GOZAKI",
     "state": "Katsina",
@@ -31056,12 +29982,6 @@
     "pu_code": "20/17/08/026",
     "pu_name": "DANKANJIBA TV CENTRE",
     "name": "DANKANJIBA TV CENTRE",
-    "lga": "KAFUR",
-    "ward": "DANTUTTURE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KAFUR",
     "ward": "DANTUTTURE",
     "state": "Katsina",
@@ -31329,12 +30249,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KAFUR",
-    "ward": "MAHUTA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/17/10/001",
     "pu_name": "BADAWA PRI.SCHOOL",
     "name": "BADAWA PRI.SCHOOL",
@@ -31569,12 +30483,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KAFUR",
-    "ward": "GAMZAGO",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/18/01/001",
     "pu_name": "YANDAKI FANDE - T.V CENTRE",
     "name": "YANDAKI FANDE - T.V CENTRE",
@@ -31728,12 +30636,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KAITA",
-    "ward": "YANDAKI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/18/02/001",
     "pu_name": "DAWAN ALLAH - K/GIDAN MAI GARI",
     "name": "DAWAN ALLAH - K/GIDAN MAI GARI",
@@ -31869,12 +30771,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KAITA",
-    "ward": "DANKABA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/18/03/001",
     "pu_name": "ABDALLAWA 'A' - T.V CENTRE ABDALLAWA",
     "name": "ABDALLAWA 'A' - T.V CENTRE ABDALLAWA",
@@ -31974,12 +30870,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KAITA",
-    "ward": "ABDALLAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/18/04/001",
     "pu_name": "BA'AWA - BA'AWA DISPENSARY",
     "name": "BA'AWA - BA'AWA DISPENSARY",
@@ -32046,12 +30936,6 @@
     "pu_code": "20/18/04/008",
     "pu_name": "BAKIN ASIBITI DANKUNAMA",
     "name": "BAKIN ASIBITI DANKUNAMA",
-    "lga": "KAITA",
-    "ward": "BAAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KAITA",
     "ward": "BAAWA",
     "state": "Katsina",
@@ -32151,12 +31035,6 @@
     "pu_code": "20/18/05/011",
     "pu_name": "NAHUTA PRI. SCH.",
     "name": "NAHUTA PRI. SCH.",
-    "lga": "KAITA",
-    "ward": "GAFIYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KAITA",
     "ward": "GAFIYA",
     "state": "Katsina",
@@ -32265,12 +31143,6 @@
     "pu_code": "20/18/06/012",
     "pu_name": "GAJABO BAKIN RIJIYA",
     "name": "GAJABO BAKIN RIJIYA",
-    "lga": "KAITA",
-    "ward": "GIRKA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KAITA",
     "ward": "GIRKA",
     "state": "Katsina",
@@ -32511,12 +31383,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KAITA",
-    "ward": "KAITA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/18/08/001",
     "pu_name": "YANHOHO 'A' - K/GIDAN MAI UNG",
     "name": "YANHOHO 'A' - K/GIDAN MAI UNG",
@@ -32628,12 +31494,6 @@
     "pu_code": "20/18/08/013",
     "pu_name": "KAFIN MASHI PRI. SCH.",
     "name": "KAFIN MASHI PRI. SCH.",
-    "lga": "KAITA",
-    "ward": "YANHOHO",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KAITA",
     "ward": "YANHOHO",
     "state": "Katsina",
@@ -32838,12 +31698,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KAITA",
-    "ward": "DANKAMA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/18/10/001",
     "pu_name": "MATSAI K/FADA - K/GIDAN MAGAJI",
     "name": "MATSAI K/FADA - K/GIDAN MAGAJI",
@@ -32955,12 +31809,6 @@
     "pu_code": "20/18/10/013",
     "pu_name": "RADI T.V CENTRE",
     "name": "RADI T.V CENTRE",
-    "lga": "KAITA",
-    "ward": "MATSAI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KAITA",
     "ward": "MATSAI",
     "state": "Katsina",
@@ -33168,12 +32016,6 @@
     "pu_code": "20/19/01/023",
     "pu_name": "TABKIN GUNGUME",
     "name": "TABKIN GUNGUME",
-    "lga": "KANKARA",
-    "ward": "GATAKAWA S/GARI/MABAI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KANKARA",
     "ward": "GATAKAWA S/GARI/MABAI",
     "state": "Katsina",
@@ -33414,12 +32256,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KANKARA",
-    "ward": "ZANGO/ZABARO",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/19/03/001",
     "pu_name": "YARDORAWA - K/G MAI UNG",
     "name": "YARDORAWA - K/G MAI UNG",
@@ -33645,12 +32481,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KANKARA",
-    "ward": "PAUWA A&B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/19/04/001",
     "pu_name": "SABON LAYI I  A&B PRI.SCHOOL",
     "name": "SABON LAYI I  A&B PRI.SCHOOL",
@@ -33822,12 +32652,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KANKARA",
-    "ward": "KUKASHEKA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/19/05/001",
     "pu_name": "KETARE I PRI.SCHOOL",
     "name": "KETARE I PRI.SCHOOL",
@@ -33957,12 +32781,6 @@
     "pu_code": "20/19/05/015",
     "pu_name": "SANTAR BAILU ISLAMIYYA",
     "name": "SANTAR BAILU ISLAMIYYA",
-    "lga": "KANKARA",
-    "ward": "HURYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KANKARA",
     "ward": "HURYA",
     "state": "Katsina",
@@ -34401,12 +33219,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KANKARA",
-    "ward": "KANKARA A&B",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/19/07/001",
     "pu_name": "TSAMIYAR JINO PRI.SCHOOL",
     "name": "TSAMIYAR JINO PRI.SCHOOL",
@@ -34545,12 +33357,6 @@
     "pu_code": "20/19/07/016",
     "pu_name": "TSAMIYAR JINO ISLAMIYYA",
     "name": "TSAMIYAR JINO ISLAMIYYA",
-    "lga": "KANKARA",
-    "ward": "GARAGI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KANKARA",
     "ward": "GARAGI",
     "state": "Katsina",
@@ -34740,12 +33546,6 @@
     "pu_code": "20/19/08/021",
     "pu_name": "MAI KANO DISPENSARY",
     "name": "MAI KANO DISPENSARY",
-    "lga": "KANKARA",
-    "ward": "BURDUGAU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KANKARA",
     "ward": "BURDUGAU",
     "state": "Katsina",
@@ -34959,12 +33759,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KANKARA",
-    "ward": "WAWAR KAZA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/19/10/001",
     "pu_name": "DUTSEN ROKO TASHA",
     "name": "DUTSEN ROKO TASHA",
@@ -35094,12 +33888,6 @@
     "pu_code": "20/19/10/015",
     "pu_name": "UNG TABO",
     "name": "UNG TABO",
-    "lga": "KANKARA",
-    "ward": "DAN MURABU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KANKARA",
     "ward": "DAN MURABU",
     "state": "Katsina",
@@ -35331,12 +34119,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KANKARA",
-    "ward": "DAN'MAIDAKI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/20/01/001",
     "pu_name": "SABON BIRNI A - NUHU P.S",
     "name": "SABON BIRNI A - NUHU P.S",
@@ -35499,12 +34281,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KANKIA",
-    "ward": "GALADIMA 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/20/02/001",
     "pu_name": "KWARAGO- KWARAGO PRI.SCHOOL",
     "name": "KWARAGO- KWARAGO PRI.SCHOOL",
@@ -35616,12 +34392,6 @@
     "pu_code": "20/20/02/013",
     "pu_name": "KANTI WORK DEPERTMENT",
     "name": "KANTI WORK DEPERTMENT",
-    "lga": "KANKIA",
-    "ward": "GALADIMA 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KANKIA",
     "ward": "GALADIMA 'B'",
     "state": "Katsina",
@@ -35763,12 +34533,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KANKIA",
-    "ward": "KAFINSOLI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/20/04/001",
     "pu_name": "SABUWAR DUNIYA PRI.SCHOOL",
     "name": "SABUWAR DUNIYA PRI.SCHOOL",
@@ -35898,12 +34662,6 @@
     "pu_code": "20/20/04/015",
     "pu_name": "SABUWAR DUNIYA",
     "name": "SABUWAR DUNIYA",
-    "lga": "KANKIA",
-    "ward": "TAFASHIYA/NASARAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KANKIA",
     "ward": "TAFASHIYA/NASARAWA",
     "state": "Katsina",
@@ -36063,12 +34821,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KANKIA",
-    "ward": "KUNDURU/GYAZA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/20/06/001",
     "pu_name": "RUGA ALLO - K/G M/UNGUWA",
     "name": "RUGA ALLO - K/G M/UNGUWA",
@@ -36222,12 +34974,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KANKIA",
-    "ward": "KAFIN DANGI/FAKUWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/20/07/001",
     "pu_name": "MAIDANKO I - K/G GALADIMA",
     "name": "MAIDANKO I - K/G GALADIMA",
@@ -36330,12 +35076,6 @@
     "pu_code": "20/20/07/012",
     "pu_name": "WALAWA OPEN SPACE",
     "name": "WALAWA OPEN SPACE",
-    "lga": "KANKIA",
-    "ward": "SUKUNTUNI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KANKIA",
     "ward": "SUKUNTUNI",
     "state": "Katsina",
@@ -36504,12 +35244,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KANKIA",
-    "ward": "RIMAYE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/20/09/001",
     "pu_name": "KAUYEN TOFA K/G M/UNG",
     "name": "KAUYEN TOFA K/G M/UNG",
@@ -36639,12 +35373,6 @@
     "pu_code": "20/20/09/015",
     "pu_name": "SULEMAN MODEL PRI SCH GACHI",
     "name": "SULEMAN MODEL PRI SCH GACHI",
-    "lga": "KANKIA",
-    "ward": "GACHI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KANKIA",
     "ward": "GACHI",
     "state": "Katsina",
@@ -36798,12 +35526,6 @@
     "pu_code": "20/20/10/017",
     "pu_name": "TV CENTER MAGAM",
     "name": "TV CENTER MAGAM",
-    "lga": "KANKIA",
-    "ward": "MAGAM/TSA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KANKIA",
     "ward": "MAGAM/TSA",
     "state": "Katsina",
@@ -37476,12 +36198,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KATSINA",
-    "ward": "WAKILIN GABAS I",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/21/02/001",
     "pu_name": "KOFAR MARUSA KOFAR MARUSA PRI.SCHOOL I",
     "name": "KOFAR MARUSA KOFAR MARUSA PRI.SCHOOL I",
@@ -37968,12 +36684,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KATSINA",
-    "ward": "WAKILIN GABAS II",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/21/03/001",
     "pu_name": "KOFAR SORO - EMIRS PALACE I",
     "name": "KOFAR SORO - EMIRS PALACE I",
@@ -38361,12 +37071,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KATSINA",
-    "ward": "KANGIWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/21/04/001",
     "pu_name": "MAKUDAWA    /  K/G MALLAN MUSA I",
     "name": "MAKUDAWA    /  K/G MALLAN MUSA I",
@@ -38658,12 +37362,6 @@
     "pu_code": "20/21/04/033",
     "pu_name": "SABON GIDA PRI. SCH. II",
     "name": "SABON GIDA PRI. SCH. II",
-    "lga": "KATSINA",
-    "ward": "WAKILIN YAMMA 1",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KATSINA",
     "ward": "WAKILIN YAMMA 1",
     "state": "Katsina",
@@ -39015,12 +37713,6 @@
     "pu_code": "20/21/05/039",
     "pu_name": "MAGANGARIN SALE TV CENTER",
     "name": "MAGANGARIN SALE TV CENTER",
-    "lga": "KATSINA",
-    "ward": "WAKILIN YAMMA 1I",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KATSINA",
     "ward": "WAKILIN YAMMA 1I",
     "state": "Katsina",
@@ -39486,12 +38178,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KATSINA",
-    "ward": "WAKILIN KUDU I",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/21/07/001",
     "pu_name": "SABUWAR KASUWA    /  GARAMA PRI.SCHOOL I",
     "name": "SABUWAR KASUWA    /  GARAMA PRI.SCHOOL I",
@@ -39933,12 +38619,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KATSINA",
-    "ward": "WAKILIN KUDU II",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/21/08/001",
     "pu_name": "UNGUWAR YARI FLIN UNG YARI I",
     "name": "UNGUWAR YARI FLIN UNG YARI I",
@@ -40227,12 +38907,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KATSINA",
-    "ward": "WAKILIN AREWA (A)",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/21/09/001",
     "pu_name": "DUTSIN-SAFE LOW COST  /  D/SAFE PRI.SCHOOL I",
     "name": "DUTSIN-SAFE LOW COST  /  D/SAFE PRI.SCHOOL I",
@@ -40494,12 +39168,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KATSINA",
-    "ward": "WAKILIN AREWA (B)",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/21/10/001",
     "pu_name": "UNGUWAR ANGO - K/G. ABU NA GONA",
     "name": "UNGUWAR ANGO - K/G. ABU NA GONA",
@@ -40629,12 +39297,6 @@
     "pu_code": "20/21/10/015",
     "pu_name": "K/G ALH. BELLO MARAI FARA GIDA",
     "name": "K/G ALH. BELLO MARAI FARA GIDA",
-    "lga": "KATSINA",
-    "ward": "SHINKAFI 'A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KATSINA",
     "ward": "SHINKAFI 'A",
     "state": "Katsina",
@@ -40896,12 +39558,6 @@
     "pu_code": "20/21/11/029",
     "pu_name": "B/KANYAR YAHAN MAGE",
     "name": "B/KANYAR YAHAN MAGE",
-    "lga": "KATSINA",
-    "ward": "SHINKAFI 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KATSINA",
     "ward": "SHINKAFI 'B'",
     "state": "Katsina",
@@ -41385,12 +40041,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KATSINA",
-    "ward": "WAKILI KUDU III",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/22/01/001",
     "pu_name": "TSAURI 'A' PRIMARY SCHOOL",
     "name": "TSAURI 'A' PRIMARY SCHOOL",
@@ -41526,12 +40176,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KURFI",
-    "ward": "TSAURI 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/22/02/001",
     "pu_name": "FADAMA/TAKATSABA - FADAMA PRIMARY SCHOOL",
     "name": "FADAMA/TAKATSABA - FADAMA PRIMARY SCHOOL",
@@ -41643,12 +40287,6 @@
     "pu_code": "20/22/02/013",
     "pu_name": "KAUYEN SONO",
     "name": "KAUYEN SONO",
-    "lga": "KURFI",
-    "ward": "TSAURI 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KURFI",
     "ward": "TSAURI 'B'",
     "state": "Katsina",
@@ -41889,12 +40527,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KURFI",
-    "ward": "KURFI 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/22/04/001",
     "pu_name": "MAGAMA I - MAGAMA PRI.SCHOOL",
     "name": "MAGAMA I - MAGAMA PRI.SCHOOL",
@@ -42030,12 +40662,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KURFI",
-    "ward": "KURFI 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/22/05/001",
     "pu_name": "RAWAYAU NORTH - RAWAYAU NORTH",
     "name": "RAWAYAU NORTH - RAWAYAU NORTH",
@@ -42129,12 +40755,6 @@
     "pu_code": "20/22/05/011",
     "pu_name": "RAWAYAU NORTH - RAWAYAN NORTH",
     "name": "RAWAYAU NORTH - RAWAYAN NORTH",
-    "lga": "KURFI",
-    "ward": "RAWAYAU 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KURFI",
     "ward": "RAWAYAU 'A'",
     "state": "Katsina",
@@ -42243,12 +40863,6 @@
     "pu_code": "20/22/06/012",
     "pu_name": "TELEVISION CENTER",
     "name": "TELEVISION CENTER",
-    "lga": "KURFI",
-    "ward": "RAWAYAU 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KURFI",
     "ward": "RAWAYAU 'B'",
     "state": "Katsina",
@@ -42381,12 +40995,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KURFI",
-    "ward": "BIRCHI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/22/08/001",
     "pu_name": "BARKIYA 'A' PRI.SCHOOL",
     "name": "BARKIYA 'A' PRI.SCHOOL",
@@ -42486,12 +41094,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KURFI",
-    "ward": "BARKIYYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/22/09/001",
     "pu_name": "WURMA A - W/GARI",
     "name": "WURMA A - W/GARI",
@@ -42585,12 +41187,6 @@
     "pu_code": "20/22/09/011",
     "pu_name": "KUDEWA EAST PRI.SCHOOL",
     "name": "KUDEWA EAST PRI.SCHOOL",
-    "lga": "KURFI",
-    "ward": "WURMA 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KURFI",
     "ward": "WURMA 'A'",
     "state": "Katsina",
@@ -42699,12 +41295,6 @@
     "pu_code": "20/22/10/012",
     "pu_name": "TAMU PRIMARY SCHOOL",
     "name": "TAMU PRIMARY SCHOOL",
-    "lga": "KURFI",
-    "ward": "WURMA 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KURFI",
     "ward": "WURMA 'B'",
     "state": "Katsina",
@@ -42864,12 +41454,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KUSADA",
-    "ward": "KUSADA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/23/02/001",
     "pu_name": "DUDUNNI PRI.SCHOOL",
     "name": "DUDUNNI PRI.SCHOOL",
@@ -42954,12 +41538,6 @@
     "pu_code": "20/23/02/010",
     "pu_name": "DUDUNNI PRI. SCHOOL II",
     "name": "DUDUNNI PRI. SCHOOL II",
-    "lga": "KUSADA",
-    "ward": "DUDUNNI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KUSADA",
     "ward": "DUDUNNI",
     "state": "Katsina",
@@ -43083,12 +41661,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KUSADA",
-    "ward": "KAIKAI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/23/04/001",
     "pu_name": "MAWASHI - T.V CENTRE",
     "name": "MAWASHI - T.V CENTRE",
@@ -43164,12 +41736,6 @@
     "pu_code": "20/23/04/009",
     "pu_name": "MAWASHI ISLAMIYYA SCHOOL",
     "name": "MAWASHI ISLAMIYYA SCHOOL",
-    "lga": "KUSADA",
-    "ward": "MAWASHI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KUSADA",
     "ward": "MAWASHI",
     "state": "Katsina",
@@ -43296,12 +41862,6 @@
     "pu_code": "20/23/05/014",
     "pu_name": "BAURAWA PRI. SCHOOL",
     "name": "BAURAWA PRI. SCHOOL",
-    "lga": "KUSADA",
-    "ward": "BOKO",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KUSADA",
     "ward": "BOKO",
     "state": "Katsina",
@@ -43461,12 +42021,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KUSADA",
-    "ward": "KOFA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/23/07/001",
     "pu_name": "BAURANYA (S/KANYA) PPRI.SCHOOL",
     "name": "BAURANYA (S/KANYA) PPRI.SCHOOL",
@@ -43548,12 +42102,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KUSADA",
-    "ward": "BAURANYA 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/23/08/001",
     "pu_name": "KAFARDA PRI.SCHOOL",
     "name": "KAFARDA PRI.SCHOOL",
@@ -43626,12 +42174,6 @@
     "state_code": "20"
   },
   {
-    "lga": "KUSADA",
-    "ward": "BAURANYA 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/23/09/001",
     "pu_name": "YASHE ZANGO - OPEN SPACE",
     "name": "YASHE ZANGO - OPEN SPACE",
@@ -43698,12 +42240,6 @@
     "pu_code": "20/23/09/008",
     "pu_name": "KAWARI PRI. SCHOOL II",
     "name": "KAWARI PRI. SCHOOL II",
-    "lga": "KUSADA",
-    "ward": "YASHE 'A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KUSADA",
     "ward": "YASHE 'A",
     "state": "Katsina",
@@ -43785,12 +42321,6 @@
     "pu_code": "20/23/10/009",
     "pu_name": "GIDAN MUTUM  DAYA III",
     "name": "GIDAN MUTUM  DAYA III",
-    "lga": "KUSADA",
-    "ward": "YASHE 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "KUSADA",
     "ward": "YASHE 'B'",
     "state": "Katsina",
@@ -43950,12 +42480,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MAI'ADUA",
-    "ward": "BUMBUM 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/24/02/001",
     "pu_name": "BUDUMA - BUDUMA PRI.SCHOOL",
     "name": "BUDUMA - BUDUMA PRI.SCHOOL",
@@ -44058,12 +42582,6 @@
     "pu_code": "20/24/02/012",
     "pu_name": "TUGA GYALLE - K/GIDAN MAIUNGUWA",
     "name": "TUGA GYALLE - K/GIDAN MAIUNGUWA",
-    "lga": "MAI'ADUA",
-    "ward": "BUMBUM 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MAI'ADUA",
     "ward": "BUMBUM 'B'",
     "state": "Katsina",
@@ -44241,12 +42759,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MAI'ADUA",
-    "ward": "DANYASHE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/24/04/001",
     "pu_name": "MAI'ADUA GWADABE - PRI.SCHOOL I",
     "name": "MAI'ADUA GWADABE - PRI.SCHOOL I",
@@ -44403,12 +42915,6 @@
     "pu_code": "20/24/04/018",
     "pu_name": "TASHAR TOKA",
     "name": "TASHAR TOKA",
-    "lga": "MAI'ADUA",
-    "ward": "MAI'ADUA 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MAI'ADUA",
     "ward": "MAI'ADUA 'A'",
     "state": "Katsina",
@@ -44586,12 +43092,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MAI'ADUA",
-    "ward": "MAI'ADUA 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/24/06/001",
     "pu_name": "DABA - PRI.SCHOOL",
     "name": "DABA - PRI.SCHOOL",
@@ -44745,12 +43245,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MAI'ADUA",
-    "ward": "MAI'ADUA 'C'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/24/07/001",
     "pu_name": "AGALA /K/MAIUNGUWA",
     "name": "AGALA /K/MAIUNGUWA",
@@ -44895,12 +43389,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MAI'ADUA",
-    "ward": "MAI KONI 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/24/08/001",
     "pu_name": "BAIDA/K/G MAIGARI",
     "name": "BAIDA/K/G MAIGARI",
@@ -45012,12 +43500,6 @@
     "pu_code": "20/24/08/013",
     "pu_name": "MALLAMAWA ASIBITI (DISPENSARY)",
     "name": "MALLAMAWA ASIBITI (DISPENSARY)",
-    "lga": "MAI'ADUA",
-    "ward": "MAI KONI 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MAI'ADUA",
     "ward": "MAI KONI 'B'",
     "state": "Katsina",
@@ -45225,12 +43707,6 @@
     "pu_code": "20/24/09/023",
     "pu_name": "GOJOGOJO SECONDARY SCHOOL",
     "name": "GOJOGOJO SECONDARY SCHOOL",
-    "lga": "MAI'ADUA",
-    "ward": "NATSALLE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MAI'ADUA",
     "ward": "NATSALLE",
     "state": "Katsina",
@@ -45519,12 +43995,6 @@
     "pu_code": "20/24/10/032",
     "pu_name": "KOZA HABE PRIMARY SCHOOL",
     "name": "KOZA HABE PRIMARY SCHOOL",
-    "lga": "MAI'ADUA",
-    "ward": "KOZA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MAI'ADUA",
     "ward": "KOZA",
     "state": "Katsina",
@@ -46125,12 +44595,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MALUFASHI",
-    "ward": "MALUM FASHI 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/25/02/001",
     "pu_name": "UNGUWAR ALIYU - ALIYU PRI.SCHOOL  I",
     "name": "UNGUWAR ALIYU - ALIYU PRI.SCHOOL  I",
@@ -46617,12 +45081,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MALUFASHI",
-    "ward": "MALUM FASHI 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/25/03/001",
     "pu_name": "UNG/SALIHAWA - YABA DISPENSARY I",
     "name": "UNG/SALIHAWA - YABA DISPENSARY I",
@@ -47064,12 +45522,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MALUFASHI",
-    "ward": "YABA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/25/04/001",
     "pu_name": "RUWAN SANYI - RUWAN SANYI PRI.SCHOOL I",
     "name": "RUWAN SANYI - RUWAN SANYI PRI.SCHOOL I",
@@ -47208,12 +45660,6 @@
     "pu_code": "20/25/04/016",
     "pu_name": "YARTSAKIWA OPEN SPACE II",
     "name": "YARTSAKIWA OPEN SPACE II",
-    "lga": "MALUFASHI",
-    "ward": "RAWAN SANYI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MALUFASHI",
     "ward": "RAWAN SANYI",
     "state": "Katsina",
@@ -47454,12 +45900,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MALUFASHI",
-    "ward": "KARFI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/25/06/001",
     "pu_name": "BORIN DAWA - BORIN DAWA PRI.SCHOOL I",
     "name": "BORIN DAWA - BORIN DAWA PRI.SCHOOL I",
@@ -47553,12 +45993,6 @@
     "pu_code": "20/25/06/011",
     "pu_name": "AGAGIWA - AGAGIWA PRI. SCHOOL II",
     "name": "AGAGIWA - AGAGIWA PRI. SCHOOL II",
-    "lga": "MALUFASHI",
-    "ward": "BORIN DAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MALUFASHI",
     "ward": "BORIN DAWA",
     "state": "Katsina",
@@ -47667,12 +46101,6 @@
     "pu_code": "20/25/07/012",
     "pu_name": "UNG. DAUDU/KANKU VILLAGE CENTRE II",
     "name": "UNG. DAUDU/KANKU VILLAGE CENTRE II",
-    "lga": "MALUFASHI",
-    "ward": "YARMAMA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MALUFASHI",
     "ward": "YARMAMA",
     "state": "Katsina",
@@ -47850,12 +46278,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MALUFASHI",
-    "ward": "GORAR DANSAKA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/25/09/001",
     "pu_name": "DANSARAI - PRI.SCHOOL I",
     "name": "DANSARAI - PRI.SCHOOL I",
@@ -47949,12 +46371,6 @@
     "pu_code": "20/25/09/011",
     "pu_name": "TUNKUDA ISLAMIYY DANSARAI",
     "name": "TUNKUDA ISLAMIYY DANSARAI",
-    "lga": "MALUFASHI",
-    "ward": "DANSARAI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MALUFASHI",
     "ward": "DANSARAI",
     "state": "Katsina",
@@ -48108,12 +46524,6 @@
     "pu_code": "20/25/10/017",
     "pu_name": "BADAWA FULANI PRI. SCHOOL II",
     "name": "BADAWA FULANI PRI. SCHOOL II",
-    "lga": "MALUFASHI",
-    "ward": "MAKAURACHI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MALUFASHI",
     "ward": "MAKAURACHI",
     "state": "Katsina",
@@ -48390,12 +46800,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MALUFASHI",
-    "ward": "DAYI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/25/12/001",
     "pu_name": "NA'ALMA - PRI.SCHOOL I",
     "name": "NA'ALMA - PRI.SCHOOL I",
@@ -48516,12 +46920,6 @@
     "pu_code": "20/25/12/014",
     "pu_name": "UNG. YAN GISHIRI ISLAMIYYA",
     "name": "UNG. YAN GISHIRI ISLAMIYYA",
-    "lga": "MALUFASHI",
-    "ward": "NA-ALMA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MALUFASHI",
     "ward": "NA-ALMA",
     "state": "Katsina",
@@ -48744,12 +47142,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MANI",
-    "ward": "BUJAWA/GEWAYAU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/26/02/001",
     "pu_name": "MARKE - MARKE PRI.SCHOOL",
     "name": "MARKE - MARKE PRI.SCHOOL",
@@ -48951,12 +47343,6 @@
     "pu_code": "20/26/02/023",
     "pu_name": "SANTAR GAWOKOFAR GIDAN MAI UNGUWA CLINIC",
     "name": "SANTAR GAWOKOFAR GIDAN MAI UNGUWA CLINIC",
-    "lga": "MANI",
-    "ward": "DUWAN/MAKAU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MANI",
     "ward": "DUWAN/MAKAU",
     "state": "Katsina",
@@ -49251,12 +47637,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MANI",
-    "ward": "MANI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/26/04/001",
     "pu_name": "BAGIWA/TUMURZAWA - BAGIWA PRI.SCHOOL",
     "name": "BAGIWA/TUMURZAWA - BAGIWA PRI.SCHOOL",
@@ -49350,12 +47730,6 @@
     "pu_code": "20/26/04/011",
     "pu_name": "BURJAWA KOFAR GIDAN MAI UNGUWA",
     "name": "BURJAWA KOFAR GIDAN MAI UNGUWA",
-    "lga": "MANI",
-    "ward": "BAGIWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MANI",
     "ward": "BAGIWA",
     "state": "Katsina",
@@ -49569,12 +47943,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MANI",
-    "ward": "TSAGEM/TAKUSHEYI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/26/06/001",
     "pu_name": "HAMCHETA - PRI.SCHOOL I",
     "name": "HAMCHETA - PRI.SCHOOL I",
@@ -49710,12 +48078,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MANI",
-    "ward": "HAMCHETA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/26/07/001",
     "pu_name": "KWATTA - KWATTA PRI.SCHOOL",
     "name": "KWATTA - KWATTA PRI.SCHOOL",
@@ -49818,12 +48180,6 @@
     "pu_code": "20/26/07/012",
     "pu_name": "KWANAR LAKA KOFAR GIDAN MAI UNGUWA",
     "name": "KWANAR LAKA KOFAR GIDAN MAI UNGUWA",
-    "lga": "MANI",
-    "ward": "KWATTA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MANI",
     "ward": "KWATTA",
     "state": "Katsina",
@@ -49941,12 +48297,6 @@
     "pu_code": "20/26/08/013",
     "pu_name": "WADIGAWA KOFAR GIDAN MAI UNGUWA",
     "name": "WADIGAWA KOFAR GIDAN MAI UNGUWA",
-    "lga": "MANI",
-    "ward": "MACHIKA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MANI",
     "ward": "MACHIKA",
     "state": "Katsina",
@@ -50124,12 +48474,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MANI",
-    "ward": "MUDURU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/26/10/001",
     "pu_name": "MAGAMI WEST - MAGAMI PRI.SCHOOL",
     "name": "MAGAMI WEST - MAGAMI PRI.SCHOOL",
@@ -50268,12 +48612,6 @@
     "pu_code": "20/26/10/016",
     "pu_name": "BAKANKARA KOFAR GIDAN MAI UNGUWA",
     "name": "BAKANKARA KOFAR GIDAN MAI UNGUWA",
-    "lga": "MANI",
-    "ward": "MAGAMI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MANI",
     "ward": "MAGAMI",
     "state": "Katsina",
@@ -50445,12 +48783,6 @@
     "pu_code": "20/26/11/019",
     "pu_name": "YAN TAKORI TV CENTRE",
     "name": "YAN TAKORI TV CENTRE",
-    "lga": "MANI",
-    "ward": "JANI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MANI",
     "ward": "JANI",
     "state": "Katsina",
@@ -50808,12 +49140,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MASHI",
-    "ward": "MASHI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/27/02/001",
     "pu_name": "KUKAR GARERE - PRI.SCHOOL",
     "name": "KUKAR GARERE - PRI.SCHOOL",
@@ -50961,12 +49287,6 @@
     "pu_code": "20/27/02/017",
     "pu_name": "KUKAR GARERE PRI. SCHOOL",
     "name": "KUKAR GARERE PRI. SCHOOL",
-    "lga": "MASHI",
-    "ward": "JIGAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MASHI",
     "ward": "JIGAWA",
     "state": "Katsina",
@@ -51135,12 +49455,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MASHI",
-    "ward": "S/RIJIYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/27/04/001",
     "pu_name": "BAMLE I - K/G S.GOSHI",
     "name": "BAMLE I - K/G S.GOSHI",
@@ -51279,12 +49593,6 @@
     "pu_code": "20/27/04/016",
     "pu_name": "BIRNIN KUKA TV CENTRE",
     "name": "BIRNIN KUKA TV CENTRE",
-    "lga": "MASHI",
-    "ward": "BAMBLE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MASHI",
     "ward": "BAMBLE",
     "state": "Katsina",
@@ -51435,12 +49743,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MASHI",
-    "ward": "GALLU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/27/06/001",
     "pu_name": "KAWARE AREWA - PRI.SCHOOL",
     "name": "KAWARE AREWA - PRI.SCHOOL",
@@ -51543,12 +49845,6 @@
     "pu_code": "20/27/06/012",
     "pu_name": "SONKAYA SECONDARY SCHOOL",
     "name": "SONKAYA SECONDARY SCHOOL",
-    "lga": "MASHI",
-    "ward": "SONKAYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MASHI",
     "ward": "SONKAYA",
     "state": "Katsina",
@@ -51699,12 +49995,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MASHI",
-    "ward": "DOGURU 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/27/08/001",
     "pu_name": "KINDIGI - K/G MAI UNGU.",
     "name": "KINDIGI - K/G MAI UNGU.",
@@ -51762,12 +50052,6 @@
     "pu_code": "20/27/08/007",
     "pu_name": "DARKIMA DISPENSARY",
     "name": "DARKIMA DISPENSARY",
-    "lga": "MASHI",
-    "ward": "DOGURU 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MASHI",
     "ward": "DOGURU 'B'",
     "state": "Katsina",
@@ -51999,12 +50283,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MASHI",
-    "ward": "KARAU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/27/10/001",
     "pu_name": "TAMILO GABAS - K/G GALADIMA",
     "name": "TAMILO GABAS - K/G GALADIMA",
@@ -52104,12 +50382,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MASHI",
-    "ward": "TAMILO 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/27/11/001",
     "pu_name": "BUNDI JABE - K/G M/UNG.",
     "name": "BUNDI JABE - K/G M/UNG.",
@@ -52185,12 +50457,6 @@
     "pu_code": "20/27/11/009",
     "pu_name": "DANTANKARI OPEN SPACE",
     "name": "DANTANKARI OPEN SPACE",
-    "lga": "MASHI",
-    "ward": "TAMILO 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MASHI",
     "ward": "TAMILO 'B'",
     "state": "Katsina",
@@ -52326,12 +50592,6 @@
     "pu_code": "20/28/01/015",
     "pu_name": "KUDANCIN JAMMANI",
     "name": "KUDANCIN JAMMANI",
-    "lga": "MATAZU",
-    "ward": "MATAZU 'A",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MATAZU",
     "ward": "MATAZU 'A",
     "state": "Katsina",
@@ -52518,12 +50778,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MATAZU",
-    "ward": "MATAZU 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/28/03/001",
     "pu_name": "SALIHAWA - WARD HEAD HOUSE",
     "name": "SALIHAWA - WARD HEAD HOUSE",
@@ -52641,12 +50895,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MATAZU",
-    "ward": "MAZOJI 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/28/04/001",
     "pu_name": "MAZOJI GARI - MAZOJI PRI.SCHOOL",
     "name": "MAZOJI GARI - MAZOJI PRI.SCHOOL",
@@ -52713,12 +50961,6 @@
     "pu_code": "20/28/04/008",
     "pu_name": "SABON LAYI OPEN SPACE",
     "name": "SABON LAYI OPEN SPACE",
-    "lga": "MATAZU",
-    "ward": "MAZOJI 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MATAZU",
     "ward": "MAZOJI 'B'",
     "state": "Katsina",
@@ -52923,12 +51165,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MATAZU",
-    "ward": "SAYAYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/28/06/001",
     "pu_name": "KOGARI GARI - KOGARI PRI.SCHOOL",
     "name": "KOGARI GARI - KOGARI PRI.SCHOOL",
@@ -53004,12 +51240,6 @@
     "pu_code": "20/28/06/009",
     "pu_name": "KOGARI - GARI",
     "name": "KOGARI - GARI",
-    "lga": "MATAZU",
-    "ward": "KOGARI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MATAZU",
     "ward": "KOGARI",
     "state": "Katsina",
@@ -53142,12 +51372,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MATAZU",
-    "ward": "GWARJO",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/28/08/001",
     "pu_name": "KARADUWA GARI - KARADUWA PRI.SCHOOL",
     "name": "KARADUWA GARI - KARADUWA PRI.SCHOOL",
@@ -53274,12 +51498,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MATAZU",
-    "ward": "KARADUWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/28/09/001",
     "pu_name": "DISSI GARI - DISSI PRI.SCHOOL",
     "name": "DISSI GARI - DISSI PRI.SCHOOL",
@@ -53361,12 +51579,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MATAZU",
-    "ward": "DISSI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/28/10/001",
     "pu_name": "RINJI IDI GARI - PRI.SCHOOL",
     "name": "RINJI IDI GARI - PRI.SCHOOL",
@@ -53433,12 +51645,6 @@
     "pu_code": "20/28/10/008",
     "pu_name": "ASIBITI",
     "name": "ASIBITI",
-    "lga": "MATAZU",
-    "ward": "RINJIN IDI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MATAZU",
     "ward": "RINJIN IDI",
     "state": "Katsina",
@@ -53688,12 +51894,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MUSAWA",
-    "ward": "MUSAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/29/02/001",
     "pu_name": "MARMACHI 'A' - JIKAMSHI PRI.SCHOOL",
     "name": "MARMACHI 'A' - JIKAMSHI PRI.SCHOOL",
@@ -53838,12 +52038,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MUSAWA",
-    "ward": "JIKAMSHI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/29/03/001",
     "pu_name": "TASHAR - NABABA - DISPENSARY",
     "name": "TASHAR - NABABA - DISPENSARY",
@@ -53979,12 +52173,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MUSAWA",
-    "ward": "DANJANKU/KARACHI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/29/04/001",
     "pu_name": "KIRA - KIRA PRI SCHOOL",
     "name": "KIRA - KIRA PRI SCHOOL",
@@ -54111,12 +52299,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MUSAWA",
-    "ward": "KIRA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/29/05/001",
     "pu_name": "TABANNI I - TABANNI PRI.SCHOOL",
     "name": "TABANNI I - TABANNI PRI.SCHOOL",
@@ -54219,12 +52401,6 @@
     "pu_code": "20/29/05/012",
     "pu_name": "GIDAN DARHO -G/DARHO PRI SCH",
     "name": "GIDAN DARHO -G/DARHO PRI SCH",
-    "lga": "MUSAWA",
-    "ward": "YARADAU/TABANNI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MUSAWA",
     "ward": "YARADAU/TABANNI",
     "state": "Katsina",
@@ -54339,12 +52515,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MUSAWA",
-    "ward": "TUGE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/29/07/001",
     "pu_name": "YARSANTA - DANDALI",
     "name": "YARSANTA - DANDALI",
@@ -54453,12 +52623,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MUSAWA",
-    "ward": "GINGIN",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/29/08/001",
     "pu_name": "KURKUJAN GABAS I / KURKUJAN PRI.SCHOOL",
     "name": "KURKUJAN GABAS I / KURKUJAN PRI.SCHOOL",
@@ -54543,12 +52707,6 @@
     "pu_code": "20/29/08/010",
     "pu_name": "KURKUJAN GABAS II -KURKUJAN PRI SCH",
     "name": "KURKUJAN GABAS II -KURKUJAN PRI SCH",
-    "lga": "MUSAWA",
-    "ward": "KURKUJAN 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MUSAWA",
     "ward": "KURKUJAN 'A'",
     "state": "Katsina",
@@ -54726,12 +52884,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MUSAWA",
-    "ward": "DANGANI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/29/10/001",
     "pu_name": "KUNTURYA - KUNTURYA PRI.SCHOOL",
     "name": "KUNTURYA - KUNTURYA PRI.SCHOOL",
@@ -54849,12 +53001,6 @@
     "state_code": "20"
   },
   {
-    "lga": "MUSAWA",
-    "ward": "GARU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/29/11/001",
     "pu_name": "KARACHI -GABAS I /  MARARRABA PRI.SCHOOL",
     "name": "KARACHI -GABAS I /  MARARRABA PRI.SCHOOL",
@@ -54939,12 +53085,6 @@
     "pu_code": "20/29/11/010",
     "pu_name": "KARACHI GABAS II /MARARRABA PRI SCH",
     "name": "KARACHI GABAS II /MARARRABA PRI SCH",
-    "lga": "MUSAWA",
-    "ward": "KURKUJAN 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "MUSAWA",
     "ward": "KURKUJAN 'B'",
     "state": "Katsina",
@@ -55275,12 +53415,6 @@
     "state_code": "20"
   },
   {
-    "lga": "RIMI",
-    "ward": "RIMI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/30/02/001",
     "pu_name": "TAFIDARAWA I PRI.SCHOOL",
     "name": "TAFIDARAWA I PRI.SCHOOL",
@@ -55443,12 +53577,6 @@
     "state_code": "20"
   },
   {
-    "lga": "RIMI",
-    "ward": "ABUKUR",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/30/03/001",
     "pu_name": "MALUMFASHI - RIJIYA MAI SUMINTI",
     "name": "MALUMFASHI - RIJIYA MAI SUMINTI",
@@ -55578,12 +53706,6 @@
     "pu_code": "20/30/03/015",
     "pu_name": "BARDAYYA OPEN SPACE",
     "name": "BARDAYYA OPEN SPACE",
-    "lga": "RIMI",
-    "ward": "MAJENGOBIR",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "RIMI",
     "ward": "MAJENGOBIR",
     "state": "Katsina",
@@ -55770,12 +53892,6 @@
     "state_code": "20"
   },
   {
-    "lga": "RIMI",
-    "ward": "REMAWA/IYATAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/30/05/001",
     "pu_name": "DURUMI - DURUMI GARI",
     "name": "DURUMI - DURUMI GARI",
@@ -55905,12 +54021,6 @@
     "pu_code": "20/30/05/015",
     "pu_name": "MARNA PRIMARY SCHOOL",
     "name": "MARNA PRIMARY SCHOOL",
-    "lga": "RIMI",
-    "ward": "KADANDANI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "RIMI",
     "ward": "KADANDANI",
     "state": "Katsina",
@@ -56070,12 +54180,6 @@
     "state_code": "20"
   },
   {
-    "lga": "RIMI",
-    "ward": "SABON GARIN/ALARAIN",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/30/07/001",
     "pu_name": "TSAGERO EAST PRI.SCHOOL",
     "name": "TSAGERO EAST PRI.SCHOOL",
@@ -56193,12 +54297,6 @@
     "state_code": "20"
   },
   {
-    "lga": "RIMI",
-    "ward": "TSAGERO",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/30/08/001",
     "pu_name": "BAI PRI.SCHOOL",
     "name": "BAI PRI.SCHOOL",
@@ -56292,12 +54390,6 @@
     "pu_code": "20/30/08/011",
     "pu_name": "GABASAWA",
     "name": "GABASAWA",
-    "lga": "RIMI",
-    "ward": "FARDAMI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "RIMI",
     "ward": "FARDAMI",
     "state": "Katsina",
@@ -56424,12 +54516,6 @@
     "pu_code": "20/30/09/014",
     "pu_name": "TUDUN WADA YARA",
     "name": "TUDUN WADA YARA",
-    "lga": "RIMI",
-    "ward": "MAKURDA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "RIMI",
     "ward": "MAKURDA",
     "state": "Katsina",
@@ -56607,12 +54693,6 @@
     "state_code": "20"
   },
   {
-    "lga": "RIMI",
-    "ward": "MASABO/KURABAU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/31/01/001",
     "pu_name": "SABUWA/PRI.SCHOOL I",
     "name": "SABUWA/PRI.SCHOOL I",
@@ -56775,12 +54855,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SABUWA",
-    "ward": "SABUWA 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/31/02/001",
     "pu_name": "UNGUWAR MAIWASA/KG ISA",
     "name": "UNGUWAR MAIWASA/KG ISA",
@@ -56883,12 +54957,6 @@
     "pu_code": "20/31/02/012",
     "pu_name": "UNG. IYA/KG M/U BALA",
     "name": "UNG. IYA/KG M/U BALA",
-    "lga": "SABUWA",
-    "ward": "SABUWA 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "SABUWA",
     "ward": "SABUWA 'B'",
     "state": "Katsina",
@@ -57003,12 +55071,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SABUWA",
-    "ward": "GAZARI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/31/04/001",
     "pu_name": "MAI BAKKO/PRI.SCHOOL",
     "name": "MAI BAKKO/PRI.SCHOOL",
@@ -57117,12 +55179,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SABUWA",
-    "ward": "MAIBAKKO",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/31/05/001",
     "pu_name": "UNGUWAR GARBA/KG GARBA",
     "name": "UNGUWAR GARBA/KG GARBA",
@@ -57225,12 +55281,6 @@
     "pu_code": "20/31/05/012",
     "pu_name": "DAMARI GARI II / OPEN SPACE",
     "name": "DAMARI GARI II / OPEN SPACE",
-    "lga": "SABUWA",
-    "ward": "DAMARI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "SABUWA",
     "ward": "DAMARI",
     "state": "Katsina",
@@ -57381,12 +55431,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SABUWA",
-    "ward": "MACHIKA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/31/07/001",
     "pu_name": "DUNGUN MU'AZU/PRI.SCHOOL",
     "name": "DUNGUN MU'AZU/PRI.SCHOOL",
@@ -57513,12 +55557,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SABUWA",
-    "ward": "DUGUN MU'AZU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/31/08/001",
     "pu_name": "GAMJI/PRI.SCHOOL",
     "name": "GAMJI/PRI.SCHOOL",
@@ -57627,12 +55665,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SABUWA",
-    "ward": "GAMJI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/31/09/001",
     "pu_name": "RAFIN-IWA/KG.WAKILI USMAN",
     "name": "RAFIN-IWA/KG.WAKILI USMAN",
@@ -57699,12 +55731,6 @@
     "pu_code": "20/31/09/008",
     "pu_name": "UNG. LABI/ DISPENSARY",
     "name": "UNG. LABI/ DISPENSARY",
-    "lga": "SABUWA",
-    "ward": "RAFIN IWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "SABUWA",
     "ward": "RAFIN IWA",
     "state": "Katsina",
@@ -57786,12 +55812,6 @@
     "pu_code": "20/31/10/009",
     "pu_name": "UNG NAKABA DISPENSARY",
     "name": "UNG NAKABA DISPENSARY",
-    "lga": "SABUWA",
-    "ward": "SAYAU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "SABUWA",
     "ward": "SAYAU",
     "state": "Katsina",
@@ -58059,12 +56079,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SAFANA",
-    "ward": "SAFANA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/32/02/001",
     "pu_name": "ZABUWA /K.G MAI-UNGUWA",
     "name": "ZABUWA /K.G MAI-UNGUWA",
@@ -58203,12 +56217,6 @@
     "pu_code": "20/32/02/016",
     "pu_name": "TSASKIYA DUTSEN ALFA",
     "name": "TSASKIYA DUTSEN ALFA",
-    "lga": "SAFANA",
-    "ward": "TSASKIYA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "SAFANA",
     "ward": "TSASKIYA",
     "state": "Katsina",
@@ -58413,12 +56421,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SAFANA",
-    "ward": "RUNKA 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/32/04/001",
     "pu_name": "KUKA RABO A/K.G MAI-UNGUWA",
     "name": "KUKA RABO A/K.G MAI-UNGUWA",
@@ -58539,12 +56541,6 @@
     "pu_code": "20/32/04/014",
     "pu_name": "BABBAN DUHU TV CENTRE /T.V CENTRE",
     "name": "BABBAN DUHU TV CENTRE /T.V CENTRE",
-    "lga": "SAFANA",
-    "ward": "BABBAN DUHU 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "SAFANA",
     "ward": "BABBAN DUHU 'A'",
     "state": "Katsina",
@@ -58707,12 +56703,6 @@
     "pu_code": "20/32/05/018",
     "pu_name": "SABON GARI PRI. SCH.",
     "name": "SABON GARI PRI. SCH.",
-    "lga": "SAFANA",
-    "ward": "BABBAN DUHU 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "SAFANA",
     "ward": "BABBAN DUHU 'B'",
     "state": "Katsina",
@@ -58908,12 +56898,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SAFANA",
-    "ward": "RUNKA 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/32/07/001",
     "pu_name": "DOGON-MARKE/K.G MAI DOGON MARKE",
     "name": "DOGON-MARKE/K.G MAI DOGON MARKE",
@@ -59040,12 +57024,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SAFANA",
-    "ward": "ZAKKA 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/32/08/001",
     "pu_name": "KWAYAWA/T.V CENTRE",
     "name": "KWAYAWA/T.V CENTRE",
@@ -59139,12 +57117,6 @@
     "pu_code": "20/32/08/011",
     "pu_name": "UMMADAU PRI. SCHOOL",
     "name": "UMMADAU PRI. SCHOOL",
-    "lga": "SAFANA",
-    "ward": "ZAKKA 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "SAFANA",
     "ward": "ZAKKA 'B'",
     "state": "Katsina",
@@ -59259,12 +57231,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SAFANA",
-    "ward": "BAURE 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/32/10/001",
     "pu_name": "GARIN TAMBARI/GARIN TAMBARI",
     "name": "GARIN TAMBARI/GARIN TAMBARI",
@@ -59358,12 +57324,6 @@
     "pu_code": "20/32/10/011",
     "pu_name": "SABON GARIN YALBI OPEN SPACE",
     "name": "SABON GARIN YALBI OPEN SPACE",
-    "lga": "SAFANA",
-    "ward": "BAURE 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "SAFANA",
     "ward": "BAURE 'B'",
     "state": "Katsina",
@@ -59568,12 +57528,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SANDAMU",
-    "ward": "SANDAMU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/33/02/001",
     "pu_name": "MAYE I/B/RIJIYA",
     "name": "MAYE I/B/RIJIYA",
@@ -59649,12 +57603,6 @@
     "pu_code": "20/33/02/009",
     "pu_name": "KARKARKU IV/OPEN SPACE B",
     "name": "KARKARKU IV/OPEN SPACE B",
-    "lga": "SANDAMU",
-    "ward": "KARKARKU",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "SANDAMU",
     "ward": "KARKARKU",
     "state": "Katsina",
@@ -59778,12 +57726,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SANDAMU",
-    "ward": "KWASARAWA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/33/04/001",
     "pu_name": "RIJIYAR TSAMIYA I/PRI.SCHOOL",
     "name": "RIJIYAR TSAMIYA I/PRI.SCHOOL",
@@ -59901,12 +57843,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SANDAMU",
-    "ward": "DANEJI 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/33/05/001",
     "pu_name": "MAJIYAWA I/K/G.M/UNG",
     "name": "MAJIYAWA I/K/G.M/UNG",
@@ -59982,12 +57918,6 @@
     "pu_code": "20/33/05/009",
     "pu_name": "DANEJI II/ISLAMIYYA",
     "name": "DANEJI II/ISLAMIYYA",
-    "lga": "SANDAMU",
-    "ward": "DANEJI 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "SANDAMU",
     "ward": "DANEJI 'B'",
     "state": "Katsina",
@@ -60114,12 +58044,6 @@
     "pu_code": "20/33/06/014",
     "pu_name": "FAGON FULANI/KANKARE  OPEN SPACE",
     "name": "FAGON FULANI/KANKARE  OPEN SPACE",
-    "lga": "SANDAMU",
-    "ward": "FAGO 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "SANDAMU",
     "ward": "FAGO 'A'",
     "state": "Katsina",
@@ -60270,12 +58194,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SANDAMU",
-    "ward": "FAGO 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/33/08/001",
     "pu_name": "RADE GARI I/PRI.SCHOOL",
     "name": "RADE GARI I/PRI.SCHOOL",
@@ -60378,12 +58296,6 @@
     "pu_code": "20/33/08/012",
     "pu_name": "LEMU II/PRI. SCH. B",
     "name": "LEMU II/PRI. SCH. B",
-    "lga": "SANDAMU",
-    "ward": "RADE 'A'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "SANDAMU",
     "ward": "RADE 'A'",
     "state": "Katsina",
@@ -60507,12 +58419,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SANDAMU",
-    "ward": "RADE 'B'",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/33/10/001",
     "pu_name": "KATSAYAL BAKO I/ KOFAR FADA",
     "name": "KATSAYAL BAKO I/ KOFAR FADA",
@@ -60630,12 +58536,6 @@
     "state_code": "20"
   },
   {
-    "lga": "SANDAMU",
-    "ward": "KATSAYAL",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/33/11/001",
     "pu_name": "KAWARI/MAHADAR HANYA",
     "name": "KAWARI/MAHADAR HANYA",
@@ -60729,12 +58629,6 @@
     "pu_code": "20/33/11/011",
     "pu_name": "KAGARE HABE I/ OPEN SPACE",
     "name": "KAGARE HABE I/ OPEN SPACE",
-    "lga": "SANDAMU",
-    "ward": "KAGARE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "SANDAMU",
     "ward": "KAGARE",
     "state": "Katsina",
@@ -60867,12 +58761,6 @@
     "state_code": "20"
   },
   {
-    "lga": "ZANGO",
-    "ward": "YARDAJE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/34/02/001",
     "pu_name": "KANDA - PRIMARY SCHOOL I",
     "name": "KANDA - PRIMARY SCHOOL I",
@@ -60930,12 +58818,6 @@
     "pu_code": "20/34/02/007",
     "pu_name": "RIJIYAR YAR DARA",
     "name": "RIJIYAR YAR DARA",
-    "lga": "ZANGO",
-    "ward": "KANDA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "ZANGO",
     "ward": "KANDA",
     "state": "Katsina",
@@ -61257,12 +59139,6 @@
     "state_code": "20"
   },
   {
-    "lga": "ZANGO",
-    "ward": "ZANGO",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/34/04/001",
     "pu_name": "YASHI   /  GINDIN ICCE",
     "name": "YASHI   /  GINDIN ICCE",
@@ -61374,12 +59250,6 @@
     "pu_code": "20/34/04/013",
     "pu_name": "RAHAMAWA  PRI SCH",
     "name": "RAHAMAWA  PRI SCH",
-    "lga": "ZANGO",
-    "ward": "SARA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "ZANGO",
     "ward": "SARA",
     "state": "Katsina",
@@ -61512,12 +59382,6 @@
     "state_code": "20"
   },
   {
-    "lga": "ZANGO",
-    "ward": "DARGAGE",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/34/06/001",
     "pu_name": "UNG.GAJE I K/MAIGARI",
     "name": "UNG.GAJE I K/MAIGARI",
@@ -61620,12 +59484,6 @@
     "pu_code": "20/34/06/012",
     "pu_name": "ROGOGO MASABKA",
     "name": "ROGOGO MASABKA",
-    "lga": "ZANGO",
-    "ward": "ROGOGO/CIDARI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "ZANGO",
     "ward": "ROGOGO/CIDARI",
     "state": "Katsina",
@@ -61749,12 +59607,6 @@
     "state_code": "20"
   },
   {
-    "lga": "ZANGO",
-    "ward": "GARNI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/34/08/001",
     "pu_name": "GWAMBA BAGAU B/MASALLACI",
     "name": "GWAMBA BAGAU B/MASALLACI",
@@ -61830,12 +59682,6 @@
     "pu_code": "20/34/08/009",
     "pu_name": "GARBA SANNA K/MAIGARI",
     "name": "GARBA SANNA K/MAIGARI",
-    "lga": "ZANGO",
-    "ward": "GWAMBA",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "ZANGO",
     "ward": "GWAMBA",
     "state": "Katsina",
@@ -61941,12 +59787,6 @@
     "state_code": "20"
   },
   {
-    "lga": "ZANGO",
-    "ward": "KAWARIN KUDI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "pu_code": "20/34/10/001",
     "pu_name": "BIDAWA YANTUBA  /   PRI.SCHOOL",
     "name": "BIDAWA YANTUBA  /   PRI.SCHOOL",
@@ -62004,12 +59844,6 @@
     "pu_code": "20/34/10/007",
     "pu_name": "BEDI TARA",
     "name": "BEDI TARA",
-    "lga": "ZANGO",
-    "ward": "KAWARIN MALAWAMAI",
-    "state": "Katsina",
-    "state_code": "20"
-  },
-  {
     "lga": "ZANGO",
     "ward": "KAWARIN MALAWAMAI",
     "state": "Katsina",

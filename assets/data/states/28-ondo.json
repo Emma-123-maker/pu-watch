@@ -108,12 +108,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO NORTH EAST",
-    "ward": "EDO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/01/02/001",
     "pu_name": "ODIGBO/OLADIGBO,IN FRONT OF LATE CHIEF OLADIGBOS HOUSE",
     "name": "ODIGBO/OLADIGBO,IN FRONT OF LATE CHIEF OLADIGBOS HOUSE",
@@ -171,12 +165,6 @@
     "pu_code": "28/01/02/007",
     "pu_name": "BASIC HEALTH CENTRE EKAN ILE",
     "name": "BASIC HEALTH CENTRE EKAN ILE",
-    "lga": "AKOKO NORTH EAST",
-    "ward": "EKAN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO NORTH EAST",
     "ward": "EKAN",
     "state": "Ondo",
@@ -294,12 +282,6 @@
     "pu_code": "28/01/03/013",
     "pu_name": "OGBOHUNEKUN/OLAITAN COMP, IN FRONT OF OGBOHUNEKUNS HOUSE",
     "name": "OGBOHUNEKUN/OLAITAN COMP, IN FRONT OF OGBOHUNEKUNS HOUSE",
-    "lga": "AKOKO NORTH EAST",
-    "ward": "IKADO I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO NORTH EAST",
     "ward": "IKADO I",
     "state": "Ondo",
@@ -477,12 +459,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO NORTH EAST",
-    "ward": "IKADO II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/01/05/001",
     "pu_name": "OKEDADUN, IN FRONT OF BABAKOLES HOUSE",
     "name": "OKEDADUN, IN FRONT OF BABAKOLES HOUSE",
@@ -576,12 +552,6 @@
     "pu_code": "28/01/05/011",
     "pu_name": "ILEPA BASIC HEALTH CENTRE/1SO ONISU CLOSED.",
     "name": "ILEPA BASIC HEALTH CENTRE/1SO ONISU CLOSED.",
-    "lga": "AKOKO NORTH EAST",
-    "ward": "ILEPA I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO NORTH EAST",
     "ward": "ILEPA I",
     "state": "Ondo",
@@ -708,12 +678,6 @@
     "pu_code": "28/01/06/014",
     "pu_name": "OKEGIRI/OLD ENVIRONMENTAL OFFICE, ILEPA",
     "name": "OKEGIRI/OLD ENVIRONMENTAL OFFICE, ILEPA",
-    "lga": "AKOKO NORTH EAST",
-    "ward": "ILEPA II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO NORTH EAST",
     "ward": "ILEPA II",
     "state": "Ondo",
@@ -909,12 +873,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO NORTH EAST",
-    "ward": "ISOWOPO I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/01/08/001",
     "pu_name": "OSESE 1 & 11/INUMBA, AT LATE AKINLOFAS HOUSE",
     "name": "OSESE 1 & 11/INUMBA, AT LATE AKINLOFAS HOUSE",
@@ -1059,12 +1017,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO NORTH EAST",
-    "ward": "ISOWOPO II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/01/09/001",
     "pu_name": "ONIKU/IKU MOSQUE AREA/CHIEF IMAMIKU/OLOGBE, AT MOHAMMED SANNIS HOUSE",
     "name": "ONIKU/IKU MOSQUE AREA/CHIEF IMAMIKU/OLOGBE, AT MOHAMMED SANNIS HOUSE",
@@ -1131,12 +1083,6 @@
     "pu_code": "28/01/09/008",
     "pu_name": "AGBAODE ORIMOLADE GRAMM SCHOOL, IKU",
     "name": "AGBAODE ORIMOLADE GRAMM SCHOOL, IKU",
-    "lga": "AKOKO NORTH EAST",
-    "ward": "IYOMETA I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO NORTH EAST",
     "ward": "IYOMETA I",
     "state": "Ondo",
@@ -1251,12 +1197,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO NORTH EAST",
-    "ward": "IYOMETA II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/01/11/001",
     "pu_name": "AOFIN COMP, AT MR A.B OGUNMOLAS HOUSE",
     "name": "AOFIN COMP, AT MR A.B OGUNMOLAS HOUSE",
@@ -1323,12 +1263,6 @@
     "pu_code": "28/01/11/008",
     "pu_name": "ARUGBO/APONODA OPEN SPACE",
     "name": "ARUGBO/APONODA OPEN SPACE",
-    "lga": "AKOKO NORTH EAST",
-    "ward": "OORUN I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO NORTH EAST",
     "ward": "OORUN I",
     "state": "Ondo",
@@ -1416,12 +1350,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO NORTH EAST",
-    "ward": "OORUN II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/01/13/001",
     "pu_name": "KOWODE MARKET/SUBERU/ODENIYANS HOUSE, AT CHIEF ADUNLUS HOUSE",
     "name": "KOWODE MARKET/SUBERU/ODENIYANS HOUSE, AT CHIEF ADUNLUS HOUSE",
@@ -1497,12 +1425,6 @@
     "pu_code": "28/01/13/009",
     "pu_name": "OMOTUNWASE/MR GIWAS HOUSE NEAR LATE PA ALIU BAKARES HOUSE",
     "name": "OMOTUNWASE/MR GIWAS HOUSE NEAR LATE PA ALIU BAKARES HOUSE",
-    "lga": "AKOKO NORTH EAST",
-    "ward": "OYINMO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO NORTH EAST",
     "ward": "OYINMO",
     "state": "Ondo",
@@ -1725,12 +1647,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO NORTH WEST",
-    "ward": "ARIGIDI/IYE I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/02/02/001",
     "pu_name": "AGBALUKU/MINISTRY, IFESOWAPO COMM PRY SCH AGBALUKU",
     "name": "AGBALUKU/MINISTRY, IFESOWAPO COMM PRY SCH AGBALUKU",
@@ -1842,12 +1758,6 @@
     "pu_code": "28/02/02/013",
     "pu_name": "UNDER IGI ODAN INFRONT OF OGEDENGBE'S HOUSE, IMO ARIGIDI AKOKO",
     "name": "UNDER IGI ODAN INFRONT OF OGEDENGBE'S HOUSE, IMO ARIGIDI AKOKO",
-    "lga": "AKOKO NORTH WEST",
-    "ward": "ARIGIDI  II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO NORTH WEST",
     "ward": "ARIGIDI  II",
     "state": "Ondo",
@@ -2016,12 +1926,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO NORTH WEST",
-    "ward": "OKEAGBE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/02/04/001",
     "pu_name": "ST JOHNS SCH OYIN/AKOKO, ST JOHNS SCH OYIN AKOKO",
     "name": "ST JOHNS SCH OYIN/AKOKO, ST JOHNS SCH OYIN AKOKO",
@@ -2115,12 +2019,6 @@
     "pu_code": "28/02/04/011",
     "pu_name": "AYEGUNLE CAMP, ITA AGBO CAMP, OGE",
     "name": "AYEGUNLE CAMP, ITA AGBO CAMP, OGE",
-    "lga": "AKOKO NORTH WEST",
-    "ward": "OYIN/OGE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO NORTH WEST",
     "ward": "OYIN/OGE",
     "state": "Ondo",
@@ -2292,12 +2190,6 @@
     "pu_code": "28/02/05/019",
     "pu_name": "ACCOMORAN BUS STOP IGASI",
     "name": "ACCOMORAN BUS STOP IGASI",
-    "lga": "AKOKO NORTH WEST",
-    "ward": "AJOWA/IGASI/ERITI/GEDEGEDE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO NORTH WEST",
     "ward": "AJOWA/IGASI/ERITI/GEDEGEDE",
     "state": "Ondo",
@@ -2529,12 +2421,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO NORTH WEST",
-    "ward": "OGBAGI",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/02/07/001",
     "pu_name": "OKE IRUN 1, ST LUKES PRY SCH OKEGUN",
     "name": "OKE IRUN 1, ST LUKES PRY SCH OKEGUN",
@@ -2688,12 +2574,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO NORTH WEST",
-    "ward": "OKE-IRUN/SURULERE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/02/08/001",
     "pu_name": "OKEANA/ABILOGBO/ODO IRUN, COURT HALL ODO IRUN",
     "name": "OKEANA/ABILOGBO/ODO IRUN, COURT HALL ODO IRUN",
@@ -2811,12 +2691,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO NORTH WEST",
-    "ward": "ODO-IRUN/OYINMO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/02/09/001",
     "pu_name": "MODOWA AFIN, A.U.D SCH, AFIN",
     "name": "MODOWA AFIN, A.U.D SCH, AFIN",
@@ -2910,12 +2784,6 @@
     "pu_code": "28/02/09/011",
     "pu_name": "ESUGA/EGUO/EKURO, OPPOSITE ARUWAJOYE",
     "name": "ESUGA/EGUO/EKURO, OPPOSITE ARUWAJOYE",
-    "lga": "AKOKO NORTH WEST",
-    "ward": "ESE/AFIN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO NORTH WEST",
     "ward": "ESE/AFIN",
     "state": "Ondo",
@@ -3093,12 +2961,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO NORTH WEST",
-    "ward": "ERUSU/KARAMU/IBARAMU",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/03/01/001",
     "pu_name": "EVER ROCK : EVER ROCK PRY SCH",
     "name": "EVER ROCK : EVER ROCK PRY SCH",
@@ -3165,12 +3027,6 @@
     "pu_code": "28/03/01/008",
     "pu_name": "ISALU,  ISALU MARKET",
     "name": "ISALU,  ISALU MARKET",
-    "lga": "AKOKO SOUTH EAST",
-    "ward": "EPINMI I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO SOUTH EAST",
     "ward": "EPINMI I",
     "state": "Ondo",
@@ -3258,12 +3114,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO SOUTH EAST",
-    "ward": "EPINMI II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/03/03/001",
     "pu_name": "Z.I/C.A.C SCH,  C.A.C SCH",
     "name": "Z.I/C.A.C SCH,  C.A.C SCH",
@@ -3336,12 +3186,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO SOUTH EAST",
-    "ward": "IFIRA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/03/04/001",
     "pu_name": "ST JAMES SCH., ST JAMES SCH",
     "name": "ST JAMES SCH., ST JAMES SCH",
@@ -3399,12 +3243,6 @@
     "pu_code": "28/03/04/007",
     "pu_name": "OKUAN TOWN HALL,  OKUAN TOWN HALL",
     "name": "OKUAN TOWN HALL,  OKUAN TOWN HALL",
-    "lga": "AKOKO SOUTH EAST",
-    "ward": "IPE I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO SOUTH EAST",
     "ward": "IPE I",
     "state": "Ondo",
@@ -3501,12 +3339,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO SOUTH EAST",
-    "ward": "IPE II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/03/06/001",
     "pu_name": "ST JOHNS SCHOOL, ST JOHNS SCHOOL,",
     "name": "ST JOHNS SCHOOL, ST JOHNS SCHOOL,",
@@ -3537,12 +3369,6 @@
     "pu_code": "28/03/06/004",
     "pu_name": "OGBOYE COMP, OGBOYE COMP",
     "name": "OGBOYE COMP, OGBOYE COMP",
-    "lga": "AKOKO SOUTH EAST",
-    "ward": "IPESI",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO SOUTH EAST",
     "ward": "IPESI",
     "state": "Ondo",
@@ -3603,12 +3429,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO SOUTH EAST",
-    "ward": "ISUA I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/03/08/001",
     "pu_name": "OZOGORO QUARTERS, OZOGORO QUARTERS",
     "name": "OZOGORO QUARTERS, OZOGORO QUARTERS",
@@ -3663,12 +3483,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO SOUTH EAST",
-    "ward": "ISUA II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/03/09/001",
     "pu_name": "AGUNBIADE STREET, AGUNBIADE STREET",
     "name": "AGUNBIADE STREET, AGUNBIADE STREET",
@@ -3717,12 +3531,6 @@
     "pu_code": "28/03/09/006",
     "pu_name": "IZO QUARTERS, IZO QUARTERS",
     "name": "IZO QUARTERS, IZO QUARTERS",
-    "lga": "AKOKO SOUTH EAST",
-    "ward": "ISUA III",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO SOUTH EAST",
     "ward": "ISUA III",
     "state": "Ondo",
@@ -3837,12 +3645,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO SOUTH EAST",
-    "ward": "ISUA IV",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/03/11/001",
     "pu_name": "ST ANDREWS SCHOOL, ST ANDREWS SCHOOL",
     "name": "ST ANDREWS SCHOOL, ST ANDREWS SCHOOL",
@@ -3873,12 +3675,6 @@
     "pu_code": "28/03/11/004",
     "pu_name": "ST PETERS SCHOOL, ST PETERS SCHOOL",
     "name": "ST PETERS SCHOOL, ST PETERS SCHOOL",
-    "lga": "AKOKO SOUTH EAST",
-    "ward": "SOSAN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO SOUTH EAST",
     "ward": "SOSAN",
     "state": "Ondo",
@@ -4011,12 +3807,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "OKA I IBAKA / SABO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/04/02/001",
     "pu_name": "IKANMU I, ST SAVIOURS PRY SCH",
     "name": "IKANMU I, ST SAVIOURS PRY SCH",
@@ -4110,12 +3900,6 @@
     "pu_code": "28/04/02/011",
     "pu_name": "OJA OBA IKANMU MARKET SQUARE",
     "name": "OJA OBA IKANMU MARKET SQUARE",
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "OKA II A IKANMU",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO SOUTH WEST",
     "ward": "OKA II A IKANMU",
     "state": "Ondo",
@@ -4257,12 +4041,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "OKA II B OKIA/KOROWA/SIMERIN/UBA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/04/04/001",
     "pu_name": "AGBA I, ST MATHEWS PRY SCH",
     "name": "AGBA I, ST MATHEWS PRY SCH",
@@ -4356,12 +4134,6 @@
     "pu_code": "28/04/04/011",
     "pu_name": "OWALAGBA COMMUNITY TOWN HALL",
     "name": "OWALAGBA COMMUNITY TOWN HALL",
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "OKA III A  AGBA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO SOUTH WEST",
     "ward": "OKA III A  AGBA",
     "state": "Ondo",
@@ -4530,12 +4302,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "OKA III B OWASE /IKESE/IWONRIN/EBINRIN/IDORIN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/04/06/001",
     "pu_name": "OWAKE I, OWAKE QTRS",
     "name": "OWAKE I, OWAKE QTRS",
@@ -4620,12 +4386,6 @@
     "pu_code": "28/04/06/010",
     "pu_name": "OPEN SPACE IN AJAYI OKORO COMPOUND",
     "name": "OPEN SPACE IN AJAYI OKORO COMPOUND",
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "OKA IV/OWAKE/EBO/AYEGUNLE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO SOUTH WEST",
     "ward": "OKA IV/OWAKE/EBO/AYEGUNLE",
     "state": "Ondo",
@@ -4821,12 +4581,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "OKA V A OWALUSIN/AYEPE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/04/08/001",
     "pu_name": "OKAODO I, OLOGBESE COMPOUND",
     "name": "OKAODO I, OLOGBESE COMPOUND",
@@ -4926,12 +4680,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "OKA V B OKA ODO/OKELA/BOLORUNDURO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/04/09/001",
     "pu_name": "IKUN I, ST PETERS PRY SCH",
     "name": "IKUN I, ST PETERS PRY SCH",
@@ -4998,12 +4746,6 @@
     "pu_code": "28/04/09/008",
     "pu_name": "IKUN VIII, ST. PETERS PRY. SCH.",
     "name": "IKUN VIII, ST. PETERS PRY. SCH.",
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "IKUN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO SOUTH WEST",
     "ward": "IKUN",
     "state": "Ondo",
@@ -5163,12 +4905,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "SUPARE I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/04/11/001",
     "pu_name": "OBAGURE I, OBAGURE QTRS",
     "name": "OBAGURE I, OBAGURE QTRS",
@@ -5289,12 +5025,6 @@
     "pu_code": "28/04/11/014",
     "pu_name": "OPEN SPACE IN FRONT OF OLOWOLADE COMPOUND",
     "name": "OPEN SPACE IN FRONT OF OLOWOLADE COMPOUND",
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "SUPARE II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO SOUTH WEST",
     "ward": "SUPARE II",
     "state": "Ondo",
@@ -5445,12 +5175,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "AKUNGBA I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/04/13/001",
     "pu_name": "AKUNGBA I, AC/CAC UNITED PRY SCHOOL",
     "name": "AKUNGBA I, AC/CAC UNITED PRY SCHOOL",
@@ -5553,12 +5277,6 @@
     "pu_code": "28/04/13/012",
     "pu_name": "OPEN SPACE IN FRONT OF AJAYI OSANYIN HSE",
     "name": "OPEN SPACE IN FRONT OF AJAYI OSANYIN HSE",
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "AKUNGBA II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO SOUTH WEST",
     "ward": "AKUNGBA II",
     "state": "Ondo",
@@ -5691,12 +5409,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "OBA I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/04/15/001",
     "pu_name": "IREFUN I, ST PETERS PRY OBA",
     "name": "IREFUN I, ST PETERS PRY OBA",
@@ -5754,12 +5466,6 @@
     "pu_code": "28/04/15/007",
     "pu_name": "OWA-ODO II, ONITEKUN COMPOUND",
     "name": "OWA-ODO II, ONITEKUN COMPOUND",
-    "lga": "AKOKO SOUTH WEST",
-    "ward": "OBA II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKOKO SOUTH WEST",
     "ward": "OBA II",
     "state": "Ondo",
@@ -5841,12 +5547,6 @@
     "pu_code": "28/05/01/009",
     "pu_name": "IREBAMI POLLING UNIT",
     "name": "IREBAMI POLLING UNIT",
-    "lga": "AKURE NORTH",
-    "ward": "AGAMO/OKE-OORE/AKOMOWA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKURE NORTH",
     "ward": "AGAMO/OKE-OORE/AKOMOWA",
     "state": "Ondo",
@@ -5988,12 +5688,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKURE NORTH",
-    "ward": "AYEDE/OGBESE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/05/03/001",
     "pu_name": "MOTOR PARK I & II, NEAR MOTOR  PARK",
     "name": "MOTOR PARK I & II, NEAR MOTOR  PARK",
@@ -6060,12 +5754,6 @@
     "pu_code": "28/05/03/008",
     "pu_name": "AYETORO II",
     "name": "AYETORO II",
-    "lga": "AKURE NORTH",
-    "ward": "AYETORO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKURE NORTH",
     "ward": "AYETORO",
     "state": "Ondo",
@@ -6279,12 +5967,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKURE NORTH",
-    "ward": "IGBATORO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/05/05/001",
     "pu_name": "AKINREMI ESTATE, AKINREMI HOUSE",
     "name": "AKINREMI ESTATE, AKINREMI HOUSE",
@@ -6492,12 +6174,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKURE NORTH",
-    "ward": "IGOBA/ISINIGBO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/05/06/001",
     "pu_name": "ILUABO I & II, L.A PRY SCH",
     "name": "ILUABO I & II, L.A PRY SCH",
@@ -6615,12 +6291,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKURE NORTH",
-    "ward": "ILUABO/ELEYEWO/BOLORUNDURO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/05/07/001",
     "pu_name": "AFOLABI OLOGUN/PETER OJADUA/IRADO/MISSION RD, AT AFOLABI OLOGUNS HOUSE",
     "name": "AFOLABI OLOGUN/PETER OJADUA/IRADO/MISSION RD, AT AFOLABI OLOGUNS HOUSE",
@@ -6702,12 +6372,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKURE NORTH",
-    "ward": "ISIMIJA/IRADO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/05/08/001",
     "pu_name": "IKERE RD. 1 & 11, AT OLOTAS HOUSE",
     "name": "IKERE RD. 1 & 11, AT OLOTAS HOUSE",
@@ -6765,12 +6429,6 @@
     "pu_code": "28/05/08/007",
     "pu_name": "ADAMOLEKUN I & II/WEMA BANK I & II, AT CHIEF ADAMOLEKUNS HOUSE",
     "name": "ADAMOLEKUN I & II/WEMA BANK I & II, AT CHIEF ADAMOLEKUNS HOUSE",
-    "lga": "AKURE NORTH",
-    "ward": "MOFERERE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKURE NORTH",
     "ward": "MOFERERE",
     "state": "Ondo",
@@ -6993,12 +6651,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKURE NORTH",
-    "ward": "OBA-ILE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/05/10/001",
     "pu_name": "ODO-OJA, AT OGBOLUS MARKET",
     "name": "ODO-OJA, AT OGBOLUS MARKET",
@@ -7071,12 +6723,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKURE NORTH",
-    "ward": "ODO-OJA/IJIGBO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/05/11/001",
     "pu_name": "L.A. PRY. SCH. I & II, L.A PRY SCH",
     "name": "L.A. PRY. SCH. I & II, L.A PRY SCH",
@@ -7143,12 +6789,6 @@
     "pu_code": "28/05/11/008",
     "pu_name": "NEW TOWN",
     "name": "NEW TOWN",
-    "lga": "AKURE NORTH",
-    "ward": "OKE-AFA/OWODE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKURE NORTH",
     "ward": "OKE-AFA/OWODE",
     "state": "Ondo",
@@ -7239,12 +6879,6 @@
     "pu_code": "28/05/12/010",
     "pu_name": "OLOUNTA/ OMOLOJU CAMP, AT OLOUNTA/ OMOLOJU CAMP",
     "name": "OLOUNTA/ OMOLOJU CAMP, AT OLOUNTA/ OMOLOJU CAMP",
-    "lga": "AKURE NORTH",
-    "ward": "OKE IJU",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKURE NORTH",
     "ward": "OKE IJU",
     "state": "Ondo",
@@ -7416,12 +7050,6 @@
     "pu_code": "28/06/01/019",
     "pu_name": "ADUN COMMUNITY HIGH SCHOOL",
     "name": "ADUN COMMUNITY HIGH SCHOOL",
-    "lga": "AKURE SOUTH",
-    "ward": "APONMU",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKURE SOUTH",
     "ward": "APONMU",
     "state": "Ondo",
@@ -8040,12 +7668,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKURE SOUTH",
-    "ward": "GBOGI/ISIKAN I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/06/03/001",
     "pu_name": "AYETUTU, 2 ILUYOS HOUSE AYETUTU",
     "name": "AYETUTU, 2 ILUYOS HOUSE AYETUTU",
@@ -8586,12 +8208,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKURE SOUTH",
-    "ward": "GBOGI/ISIKAN II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/06/04/001",
     "pu_name": "OBANLA-C.S.S BOOKSHOP",
     "name": "OBANLA-C.S.S BOOKSHOP",
@@ -9036,12 +8652,6 @@
     "pu_code": "28/06/04/050",
     "pu_name": "T JUNCTION ON ILAJE STREET,IJAPO",
     "name": "T JUNCTION ON ILAJE STREET,IJAPO",
-    "lga": "AKURE SOUTH",
-    "ward": "IJOMU/OBANLA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKURE SOUTH",
     "ward": "IJOMU/OBANLA",
     "state": "Ondo",
@@ -9741,12 +9351,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKURE SOUTH",
-    "ward": "LISA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/06/06/001",
     "pu_name": "ILEKUN CAMP - ILEKUN MOTOR PARK AREA",
     "name": "ILEKUN CAMP - ILEKUN MOTOR PARK AREA",
@@ -10002,12 +9606,6 @@
     "pu_code": "28/06/06/029",
     "pu_name": "OPEN SPACE  AT EMILORO",
     "name": "OPEN SPACE  AT EMILORO",
-    "lga": "AKURE SOUTH",
-    "ward": "ODA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKURE SOUTH",
     "ward": "ODA",
     "state": "Ondo",
@@ -10368,12 +9966,6 @@
     "pu_code": "28/06/07/040",
     "pu_name": "OLORUNSOGO STREET",
     "name": "OLORUNSOGO STREET",
-    "lga": "AKURE SOUTH",
-    "ward": "ODOPETU",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKURE SOUTH",
     "ward": "ODOPETU",
     "state": "Ondo",
@@ -10914,12 +10506,6 @@
     "pu_code": "28/06/08/060",
     "pu_name": "OPEN SPACE AT ODO SAE COMPOUND",
     "name": "OPEN SPACE AT ODO SAE COMPOUND",
-    "lga": "AKURE SOUTH",
-    "ward": "OKE ARO/URO I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "AKURE SOUTH",
     "ward": "OKE ARO/URO I",
     "state": "Ondo",
@@ -11529,12 +11115,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKURE SOUTH",
-    "ward": "OKE ARO/URO II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/06/10/001",
     "pu_name": "TOWN HALL - TOWN HALL",
     "name": "TOWN HALL - TOWN HALL",
@@ -12129,12 +11709,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKURE SOUTH",
-    "ward": "OSHODI/ISOLO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/06/11/001",
     "pu_name": "OBA ODESIDA ROAD - 105 OBA ADESIDA ROAD",
     "name": "OBA ODESIDA ROAD - 105 OBA ADESIDA ROAD",
@@ -12666,12 +12240,6 @@
     "state_code": "28"
   },
   {
-    "lga": "AKURE SOUTH",
-    "ward": "OWODE/IMUAGUN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/07/01/001",
     "pu_name": "L.A SCH IGBEKEBO",
     "name": "L.A SCH IGBEKEBO",
@@ -12810,12 +12378,6 @@
     "pu_code": "28/07/01/016",
     "pu_name": "OPEN SPACE AT OJUALA IN FRONT OF OKADA PARK",
     "name": "OPEN SPACE AT OJUALA IN FRONT OF OKADA PARK",
-    "lga": "ESE-ODO",
-    "ward": "APOI I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ESE-ODO",
     "ward": "APOI I",
     "state": "Ondo",
@@ -12969,12 +12531,6 @@
     "pu_code": "28/07/02/017",
     "pu_name": "COMMUNITY HIGH SCHOOL, KIRIBO",
     "name": "COMMUNITY HIGH SCHOOL, KIRIBO",
-    "lga": "ESE-ODO",
-    "ward": "APOI II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ESE-ODO",
     "ward": "APOI II",
     "state": "Ondo",
@@ -13143,12 +12699,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ESE-ODO",
-    "ward": "APOI III",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/07/04/001",
     "pu_name": "OPEN SPACE NEAR AYENIS HOUSE IGBOBINI",
     "name": "OPEN SPACE NEAR AYENIS HOUSE IGBOBINI",
@@ -13206,12 +12756,6 @@
     "pu_code": "28/07/04/007",
     "pu_name": "METHODIST SCH MOBI CAMP",
     "name": "METHODIST SCH MOBI CAMP",
-    "lga": "ESE-ODO",
-    "ward": "APOI IV",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ESE-ODO",
     "ward": "APOI IV",
     "state": "Ondo",
@@ -13284,12 +12828,6 @@
     "pu_code": "28/07/05/008",
     "pu_name": "OPEN SPACE AT LAKEREKES",
     "name": "OPEN SPACE AT LAKEREKES",
-    "lga": "ESE-ODO",
-    "ward": "APOI V",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ESE-ODO",
     "ward": "APOI V",
     "state": "Ondo",
@@ -13476,12 +13014,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ESE-ODO",
-    "ward": "AROGBO I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/07/07/001",
     "pu_name": "R.C.M SCHOOL ORI-ERAN",
     "name": "R.C.M SCHOOL ORI-ERAN",
@@ -13602,12 +13134,6 @@
     "pu_code": "28/07/07/014",
     "pu_name": "OPEN SPACE IN FRONT OF BAPTIST CHURCH AWODU KORA",
     "name": "OPEN SPACE IN FRONT OF BAPTIST CHURCH AWODU KORA",
-    "lga": "ESE-ODO",
-    "ward": "AROGBO II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ESE-ODO",
     "ward": "AROGBO II",
     "state": "Ondo",
@@ -13740,12 +13266,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ESE-ODO",
-    "ward": "AROGBO III",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/07/09/001",
     "pu_name": "U.G.S BOLOWOGHO",
     "name": "U.G.S BOLOWOGHO",
@@ -13857,12 +13377,6 @@
     "pu_code": "28/07/09/013",
     "pu_name": "OPEN SPACE  IN FRONT OF C/S CHURCH PINA-AMA",
     "name": "OPEN SPACE  IN FRONT OF C/S CHURCH PINA-AMA",
-    "lga": "ESE-ODO",
-    "ward": "UKPARAMA I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ESE-ODO",
     "ward": "UKPARAMA I",
     "state": "Ondo",
@@ -14013,12 +13527,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ESE-ODO",
-    "ward": "UKPARAMA II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/08/01/001",
     "pu_name": "ST PATRICK AREA, ST PATRICK SCH, ODEJA",
     "name": "ST PATRICK AREA, ST PATRICK SCH, ODEJA",
@@ -14148,12 +13656,6 @@
     "pu_code": "28/08/01/015",
     "pu_name": "ST JOSEPH PRY SCHL 2",
     "name": "ST JOSEPH PRY SCHL 2",
-    "lga": "IDANRE",
-    "ward": "ALA-ELEFOSAN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IDANRE",
     "ward": "ALA-ELEFOSAN",
     "state": "Ondo",
@@ -14376,12 +13878,6 @@
     "state_code": "28"
   },
   {
-    "lga": "IDANRE",
-    "ward": "ALADE/ATOSIN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/08/03/001",
     "pu_name": "IDALE LEMIKAN, L.A SCH, OTAPETE",
     "name": "IDALE LEMIKAN, L.A SCH, OTAPETE",
@@ -14520,12 +14016,6 @@
     "pu_code": "28/08/03/016",
     "pu_name": "FEDERAL HEALTH CENTRE BAJARE ROAD OPASORUN",
     "name": "FEDERAL HEALTH CENTRE BAJARE ROAD OPASORUN",
-    "lga": "IDANRE",
-    "ward": "IDALE-LEMIKAN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IDANRE",
     "ward": "IDALE-LEMIKAN",
     "state": "Ondo",
@@ -14694,12 +14184,6 @@
     "state_code": "28"
   },
   {
-    "lga": "IDANRE",
-    "ward": "IDALE-LOGBOSERE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/08/05/001",
     "pu_name": "IJOMU/BAT AREA, YOUTH CENTRE, ODODE",
     "name": "IJOMU/BAT AREA, YOUTH CENTRE, ODODE",
@@ -14799,12 +14283,6 @@
     "state_code": "28"
   },
   {
-    "lga": "IDANRE",
-    "ward": "IJOMU/ISURIN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/08/06/001",
     "pu_name": "IROWO OSHINLE/ OLD READING ROOM, OLD READING ROOM",
     "name": "IROWO OSHINLE/ OLD READING ROOM, OLD READING ROOM",
@@ -14898,12 +14376,6 @@
     "pu_code": "28/08/06/011",
     "pu_name": "OPEN SPACE BESIDE ILUYOMADE COMP AYEYEMI STREET OJIMABA",
     "name": "OPEN SPACE BESIDE ILUYOMADE COMP AYEYEMI STREET OJIMABA",
-    "lga": "IDANRE",
-    "ward": "IROWO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IDANRE",
     "ward": "IROWO",
     "state": "Ondo",
@@ -15048,12 +14520,6 @@
     "pu_code": "28/08/07/016",
     "pu_name": "OPEN SPACE INFRONT OF  DUYILE'S COMPOUND EHINPETI",
     "name": "OPEN SPACE INFRONT OF  DUYILE'S COMPOUND EHINPETI",
-    "lga": "IDANRE",
-    "ward": "ISALU EHINPETI",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IDANRE",
     "ward": "ISALU EHINPETI",
     "state": "Ondo",
@@ -15225,12 +14691,6 @@
     "pu_code": "28/08/08/019",
     "pu_name": "OPEN SPACE INFRONT  OF AKINROTOHUN COMP OKESAWO JIGBOKIN",
     "name": "OPEN SPACE INFRONT  OF AKINROTOHUN COMP OKESAWO JIGBOKIN",
-    "lga": "IDANRE",
-    "ward": "ISALU JIGBOKIN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IDANRE",
     "ward": "ISALU JIGBOKIN",
     "state": "Ondo",
@@ -15435,12 +14895,6 @@
     "state_code": "28"
   },
   {
-    "lga": "IDANRE",
-    "ward": "OFOSU/ONISERE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/08/10/001",
     "pu_name": "AIYETORO / OWENA I",
     "name": "AIYETORO / OWENA I",
@@ -15567,12 +15021,6 @@
     "state_code": "28"
   },
   {
-    "lga": "IDANRE",
-    "ward": "OWENA/APONMULONA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/09/01/001",
     "pu_name": "ST. MICHAEL SCH. ERO, ST. MICHAEL PRY. SCH. ERO",
     "name": "ST. MICHAEL SCH. ERO, ST. MICHAEL PRY. SCH. ERO",
@@ -15666,12 +15114,6 @@
     "pu_code": "28/09/01/011",
     "pu_name": "COMMUNITY PRY SCHL ERO",
     "name": "COMMUNITY PRY SCHL ERO",
-    "lga": "IFEDORE",
-    "ward": "ERO/IBUJI/MARIWO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IFEDORE",
     "ward": "ERO/IBUJI/MARIWO",
     "state": "Ondo",
@@ -15921,12 +15363,6 @@
     "state_code": "28"
   },
   {
-    "lga": "IFEDORE",
-    "ward": "IGBAKA-OKE I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/09/03/001",
     "pu_name": "ST JOSEPHS PRY SCH, ST JOSEPHS PRY SCH IGBARA-OKE",
     "name": "ST JOSEPHS PRY SCH, ST JOSEPHS PRY SCH IGBARA-OKE",
@@ -16020,12 +15456,6 @@
     "pu_code": "28/09/03/011",
     "pu_name": "ODODE ORIMOGAGUN: IN FRONT OF ORIMOGAGUNS HOUSE",
     "name": "ODODE ORIMOGAGUN: IN FRONT OF ORIMOGAGUNS HOUSE",
-    "lga": "IFEDORE",
-    "ward": "IGBAKA-OKE II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IFEDORE",
     "ward": "IGBAKA-OKE II",
     "state": "Ondo",
@@ -16167,12 +15597,6 @@
     "state_code": "28"
   },
   {
-    "lga": "IFEDORE",
-    "ward": "IJARE 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/09/05/001",
     "pu_name": "OLUWAJANA/OLAUYI COMP, ODO OJA OLO-GBOSERE JUNCTION",
     "name": "OLUWAJANA/OLAUYI COMP, ODO OJA OLO-GBOSERE JUNCTION",
@@ -16272,12 +15696,6 @@
     "state_code": "28"
   },
   {
-    "lga": "IFEDORE",
-    "ward": "IJARE 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/09/06/001",
     "pu_name": "IKOTA, OPEN SPACE AT IKOTA",
     "name": "IKOTA, OPEN SPACE AT IKOTA",
@@ -16371,12 +15789,6 @@
     "pu_code": "28/09/06/011",
     "pu_name": "ST. EMMANUEL PR SCHL",
     "name": "ST. EMMANUEL PR SCHL",
-    "lga": "IFEDORE",
-    "ward": "OBO/IKOTA/OLO-GBO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IFEDORE",
     "ward": "OBO/IKOTA/OLO-GBO",
     "state": "Ondo",
@@ -16530,12 +15942,6 @@
     "pu_code": "28/09/07/017",
     "pu_name": "SARUKUS COMP, COMPREHENSIVE HIGH SCH, ILARA",
     "name": "SARUKUS COMP, COMPREHENSIVE HIGH SCH, ILARA",
-    "lga": "IFEDORE",
-    "ward": "ILARA 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IFEDORE",
     "ward": "ILARA 1",
     "state": "Ondo",
@@ -16731,12 +16137,6 @@
     "state_code": "28"
   },
   {
-    "lga": "IFEDORE",
-    "ward": "ILARA 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/09/09/001",
     "pu_name": "ST JUDES PRY SCH, IPOGUN, ST JUDES PRY SCH, IPOGUN,",
     "name": "ST JUDES PRY SCH, IPOGUN, ST JUDES PRY SCH, IPOGUN,",
@@ -16911,12 +16311,6 @@
     "pu_code": "28/09/09/020",
     "pu_name": "ATIBIOKE ST",
     "name": "ATIBIOKE ST",
-    "lga": "IFEDORE",
-    "ward": "IPOGUN/IBULE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IFEDORE",
     "ward": "IPOGUN/IBULE",
     "state": "Ondo",
@@ -17142,12 +16536,6 @@
     "pu_code": "28/09/10/025",
     "pu_name": "HEALTH CENTRE ABIYE ROAD",
     "name": "HEALTH CENTRE ABIYE ROAD",
-    "lga": "IFEDORE",
-    "ward": "ISARUN/ ERIGI",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IFEDORE",
     "ward": "ISARUN/ ERIGI",
     "state": "Ondo",
@@ -17424,12 +16812,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ILAJE",
-    "ward": "AHERI",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/10/02/001",
     "pu_name": "ODE ETIKAN 1, ANG PRY SCH ODE ETIKAN",
     "name": "ODE ETIKAN 1, ANG PRY SCH ODE ETIKAN",
@@ -17541,12 +16923,6 @@
     "pu_code": "28/10/02/013",
     "pu_name": "COMMUNITY PRIMARY SCHOOL, ELUMALERO",
     "name": "COMMUNITY PRIMARY SCHOOL, ELUMALERO",
-    "lga": "ILAJE",
-    "ward": "ETIKAN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ILAJE",
     "ward": "ETIKAN",
     "state": "Ondo",
@@ -17877,12 +17253,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ILAJE",
-    "ward": "MAHIN 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/10/04/001",
     "pu_name": "ORIOKE IWAMIMO I:  COMM GRAM SCH, ORIOKE IWAMIMO",
     "name": "ORIOKE IWAMIMO I:  COMM GRAM SCH, ORIOKE IWAMIMO",
@@ -18207,12 +17577,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ILAJE",
-    "ward": "MAHIN 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/10/05/001",
     "pu_name": "OMINIRA STREET NEAR NO. 21 OMONIRA ST. IGBOKODO",
     "name": "OMINIRA STREET NEAR NO. 21 OMONIRA ST. IGBOKODO",
@@ -18519,12 +17883,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ILAJE",
-    "ward": "MAHIN 111",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/10/06/001",
     "pu_name": "IGBOEGUNRIN 1, R.C.M IGBOEGUNRIN",
     "name": "IGBOEGUNRIN 1, R.C.M IGBOEGUNRIN",
@@ -18750,12 +18108,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ILAJE",
-    "ward": "MAHIN 1V",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/10/07/001",
     "pu_name": "ERUNNA IKORIGHO, L.A SCH ERUNNA",
     "name": "ERUNNA IKORIGHO, L.A SCH ERUNNA",
@@ -18903,12 +18255,6 @@
     "pu_code": "28/10/07/017",
     "pu_name": "OPEN SPACE AT ZION EHINMORE NEAR LURO'S HOUSE",
     "name": "OPEN SPACE AT ZION EHINMORE NEAR LURO'S HOUSE",
-    "lga": "ILAJE",
-    "ward": "UGBO 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ILAJE",
     "ward": "UGBO 1",
     "state": "Ondo",
@@ -19122,12 +18468,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ILAJE",
-    "ward": "UGBO 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/10/09/001",
     "pu_name": "OROTO 1, L.A SCH OROTO",
     "name": "OROTO 1, L.A SCH OROTO",
@@ -19275,12 +18615,6 @@
     "pu_code": "28/10/09/017",
     "pu_name": "OPEN SPACE  NEAR MOUNT ZION'S CHURCH ZION ILOWO",
     "name": "OPEN SPACE  NEAR MOUNT ZION'S CHURCH ZION ILOWO",
-    "lga": "ILAJE",
-    "ward": "UGBO 111",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ILAJE",
     "ward": "UGBO 111",
     "state": "Ondo",
@@ -19485,12 +18819,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ILAJE",
-    "ward": "UGBO 1V",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/10/11/001",
     "pu_name": "OJUMOLE 1, F.A.C OJUMOLE",
     "name": "OJUMOLE 1, F.A.C OJUMOLE",
@@ -19656,12 +18984,6 @@
     "pu_code": "28/10/11/019",
     "pu_name": "OPEN SPACE NEAR HOLY CENTER, ODO FADO",
     "name": "OPEN SPACE NEAR HOLY CENTER, ODO FADO",
-    "lga": "ILAJE",
-    "ward": "UGBO V",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ILAJE",
     "ward": "UGBO V",
     "state": "Ondo",
@@ -19848,12 +19170,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ILAJE",
-    "ward": "UGBO V1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/11/01/001",
     "pu_name": "AJIFERERE, COCOA INDUSTRY",
     "name": "AJIFERERE, COCOA INDUSTRY",
@@ -19947,12 +19263,6 @@
     "pu_code": "28/11/01/011",
     "pu_name": "OPEN SPACE AT OKE OTUNBA JUNCTION",
     "name": "OPEN SPACE AT OKE OTUNBA JUNCTION",
-    "lga": "ILEOLUJI/OKEIGBO",
-    "ward": "ILEOLUJI 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ILEOLUJI/OKEIGBO",
     "ward": "ILEOLUJI 1",
     "state": "Ondo",
@@ -20112,12 +19422,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ILEOLUJI/OKEIGBO",
-    "ward": "ILEOLUJI 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/11/03/001",
     "pu_name": "AJIFERERE NORTH, SKY WAY CONFIDENCE PRY SCH",
     "name": "AJIFERERE NORTH, SKY WAY CONFIDENCE PRY SCH",
@@ -20238,12 +19542,6 @@
     "pu_code": "28/11/03/014",
     "pu_name": "OPEN SPACE BESIDE WORD OF TRUTH EVANGELICAL MINISTRY, KAJOLA ROAD",
     "name": "OPEN SPACE BESIDE WORD OF TRUTH EVANGELICAL MINISTRY, KAJOLA ROAD",
-    "lga": "ILEOLUJI/OKEIGBO",
-    "ward": "ILEOLUJI III",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ILEOLUJI/OKEIGBO",
     "ward": "ILEOLUJI III",
     "state": "Ondo",
@@ -20388,12 +19686,6 @@
     "pu_code": "28/11/04/016",
     "pu_name": "OPEN SPACE AT EDEN HOTEL JUNCTION FAGBOLA",
     "name": "OPEN SPACE AT EDEN HOTEL JUNCTION FAGBOLA",
-    "lga": "ILEOLUJI/OKEIGBO",
-    "ward": "ILEOLUJI 1V",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ILEOLUJI/OKEIGBO",
     "ward": "ILEOLUJI 1V",
     "state": "Ondo",
@@ -20697,12 +19989,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ILEOLUJI/OKEIGBO",
-    "ward": "ILEOLUJI V",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/11/06/001",
     "pu_name": "ADELOGBE, ORISUNMIBARE",
     "name": "ADELOGBE, ORISUNMIBARE",
@@ -20973,12 +20259,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ILEOLUJI/OKEIGBO",
-    "ward": "ILEOLUJI VI",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/11/07/001",
     "pu_name": "ARE ADEGBITE, ARE SOKPO",
     "name": "ARE ADEGBITE, ARE SOKPO",
@@ -21132,12 +20412,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ILEOLUJI/OKEIGBO",
-    "ward": "OKE-IGBO 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/11/08/001",
     "pu_name": "OKE OJEGE, OKE OJEGE",
     "name": "OKE OJEGE, OKE OJEGE",
@@ -21240,12 +20514,6 @@
     "pu_code": "28/11/08/012",
     "pu_name": "OPEN SPACE OPPOSITE BOVAS FILLING STATION, ALONG ONDO-IFE ROAD",
     "name": "OPEN SPACE OPPOSITE BOVAS FILLING STATION, ALONG ONDO-IFE ROAD",
-    "lga": "ILEOLUJI/OKEIGBO",
-    "ward": "OKE-IGBO 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ILEOLUJI/OKEIGBO",
     "ward": "OKE-IGBO 11",
     "state": "Ondo",
@@ -21408,12 +20676,6 @@
     "pu_code": "28/11/09/018",
     "pu_name": "ADIGBOLU, ADIGBOLU",
     "name": "ADIGBOLU, ADIGBOLU",
-    "lga": "ILEOLUJI/OKEIGBO",
-    "ward": "OKE-IGBO 111",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ILEOLUJI/OKEIGBO",
     "ward": "OKE-IGBO 111",
     "state": "Ondo",
@@ -21627,12 +20889,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ILEOLUJI/OKEIGBO",
-    "ward": "OKE-IGBO 1V",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/12/01/001",
     "pu_name": "MEMUREN 1 & 11, AT MEMUREN",
     "name": "MEMUREN 1 & 11, AT MEMUREN",
@@ -21759,12 +21015,6 @@
     "state_code": "28"
   },
   {
-    "lga": "IRELE",
-    "ward": "AJAGBA 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/12/02/001",
     "pu_name": "BAALE 1 & 11, AT BAALES COMP",
     "name": "BAALE 1 & 11, AT BAALES COMP",
@@ -21873,12 +21123,6 @@
     "state_code": "28"
   },
   {
-    "lga": "IRELE",
-    "ward": "AJAGBA 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/12/03/001",
     "pu_name": "HENDORO/OJUMU/AWO AT HENDORO VILLAGE",
     "name": "HENDORO/OJUMU/AWO AT HENDORO VILLAGE",
@@ -21954,12 +21198,6 @@
     "pu_code": "28/12/03/009",
     "pu_name": "YOPIARA VILLAGE, AT YOPIARA",
     "name": "YOPIARA VILLAGE, AT YOPIARA",
-    "lga": "IRELE",
-    "ward": "AKOTOGBO 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IRELE",
     "ward": "AKOTOGBO 1",
     "state": "Ondo",
@@ -22092,12 +21330,6 @@
     "state_code": "28"
   },
   {
-    "lga": "IRELE",
-    "ward": "AKOTOGBO 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/12/05/001",
     "pu_name": "SEGBEMI/IWALERE, AT SEGBEMI",
     "name": "SEGBEMI/IWALERE, AT SEGBEMI",
@@ -22200,12 +21432,6 @@
     "pu_code": "28/12/05/012",
     "pu_name": "OMI MARKET PLACE",
     "name": "OMI MARKET PLACE",
-    "lga": "IRELE",
-    "ward": "IYANSAN/OMI",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IRELE",
     "ward": "IYANSAN/OMI",
     "state": "Ondo",
@@ -22359,12 +21585,6 @@
     "pu_code": "28/12/06/017",
     "pu_name": "OPEN SPACE OKE AGUNLA, GBELEGU, OLORUNSOGO STREET",
     "name": "OPEN SPACE OKE AGUNLA, GBELEGU, OLORUNSOGO STREET",
-    "lga": "IRELE",
-    "ward": "IRELE 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IRELE",
     "ward": "IRELE 1",
     "state": "Ondo",
@@ -22560,12 +21780,6 @@
     "state_code": "28"
   },
   {
-    "lga": "IRELE",
-    "ward": "IRELE 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/12/08/001",
     "pu_name": "LEGUNMARE/RUWAHE/LAABALE, AT LABALE QTRS",
     "name": "LEGUNMARE/RUWAHE/LAABALE, AT LABALE QTRS",
@@ -22731,12 +21945,6 @@
     "pu_code": "28/12/08/019",
     "pu_name": "ANGLICAN PRIMARY SCHOOL",
     "name": "ANGLICAN PRIMARY SCHOOL",
-    "lga": "IRELE",
-    "ward": "IRELE III",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IRELE",
     "ward": "IRELE III",
     "state": "Ondo",
@@ -22914,12 +22122,6 @@
     "state_code": "28"
   },
   {
-    "lga": "IRELE",
-    "ward": "IRELE 1V",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/12/10/001",
     "pu_name": "GBOGUNRUN 1 & 11 AT GBOGUNRUNS HOUSE",
     "name": "GBOGUNRUN 1 & 11 AT GBOGUNRUNS HOUSE",
@@ -23076,12 +22278,6 @@
     "pu_code": "28/12/10/018",
     "pu_name": "OPEN SPACE AT JOLAOLU/OBOLO",
     "name": "OPEN SPACE AT JOLAOLU/OBOLO",
-    "lga": "IRELE",
-    "ward": "IRELE V",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "IRELE",
     "ward": "IRELE V",
     "state": "Ondo",
@@ -23286,12 +22482,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ODIGBO",
-    "ward": "AGBABU",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/13/02/001",
     "pu_name": "AGO ALAYE VILLAGE, COMM HIGH SCH AGO ALAYE VILLAGE",
     "name": "AGO ALAYE VILLAGE, COMM HIGH SCH AGO ALAYE VILLAGE",
@@ -23439,12 +22629,6 @@
     "pu_code": "28/13/02/017",
     "pu_name": "BOLORUNDURO VILLAGE, CENTRE OF BOLORUNDURO VILLAGE",
     "name": "BOLORUNDURO VILLAGE, CENTRE OF BOLORUNDURO VILLAGE",
-    "lga": "ODIGBO",
-    "ward": "AGO-ALAYE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ODIGBO",
     "ward": "AGO-ALAYE",
     "state": "Ondo",
@@ -23694,12 +22878,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ODIGBO",
-    "ward": "AJUE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/13/04/001",
     "pu_name": "L.A PRY SCH AREA ARAROMI OBU, L.A PRY SCH AREA ARAROMI OBU NORTH",
     "name": "L.A PRY SCH AREA ARAROMI OBU, L.A PRY SCH AREA ARAROMI OBU NORTH",
@@ -23853,12 +23031,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ODIGBO",
-    "ward": "ARAROMI OBU",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/13/05/001",
     "pu_name": "AYESAN HIGH SCH AREA/AYESAN COMM PRY SCH AREA , AYESAN HIGH SCH AYESAN I",
     "name": "AYESAN HIGH SCH AREA/AYESAN COMM PRY SCH AREA , AYESAN HIGH SCH AYESAN I",
@@ -23961,12 +23133,6 @@
     "pu_code": "28/13/05/012",
     "pu_name": "ONIMARIWO, FOLA & TOLA OIL PALM, PLANTATION CENTRE OF ONIMARIWO CAMP AYESAN",
     "name": "ONIMARIWO, FOLA & TOLA OIL PALM, PLANTATION CENTRE OF ONIMARIWO CAMP AYESAN",
-    "lga": "ODIGBO",
-    "ward": "AYESAN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ODIGBO",
     "ward": "AYESAN",
     "state": "Ondo",
@@ -24090,12 +23256,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ODIGBO",
-    "ward": "EBIJAN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/13/07/001",
     "pu_name": "KOSERU AREA, INFRONT OF MATERNITY KOSERU",
     "name": "KOSERU AREA, INFRONT OF MATERNITY KOSERU",
@@ -24189,12 +23349,6 @@
     "pu_code": "28/13/07/011",
     "pu_name": "IFARAWAJOBA AND TIAMIYU VILLAGE, CENTRE OF IFARAWAJOBA VILLAGE",
     "name": "IFARAWAJOBA AND TIAMIYU VILLAGE, CENTRE OF IFARAWAJOBA VILLAGE",
-    "lga": "ODIGBO",
-    "ward": "KOSERU",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ODIGBO",
     "ward": "KOSERU",
     "state": "Ondo",
@@ -24651,12 +23805,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ODIGBO",
-    "ward": "ODIGBO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/13/09/001",
     "pu_name": "ST PHILIPS PRY SCH, ONIPARAGA, ST PHILIPS PRY SCH, ONIPARAGA I",
     "name": "ST PHILIPS PRY SCH, ONIPARAGA, ST PHILIPS PRY SCH, ONIPARAGA I",
@@ -24984,12 +24132,6 @@
     "pu_code": "28/13/09/037",
     "pu_name": "IMORUN COMPREHENSIVE HIGH SCHL, LEEGE",
     "name": "IMORUN COMPREHENSIVE HIGH SCHL, LEEGE",
-    "lga": "ODIGBO",
-    "ward": "ONIPARAGA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ODIGBO",
     "ward": "ONIPARAGA",
     "state": "Ondo",
@@ -25716,12 +24858,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ODIGBO",
-    "ward": "ORE 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/13/11/001",
     "pu_name": "ASEJIRE VILLAGE, ST MATHEWS PRY SCH ASEJIRE",
     "name": "ASEJIRE VILLAGE, ST MATHEWS PRY SCH ASEJIRE",
@@ -25878,12 +25014,6 @@
     "pu_code": "28/13/11/018",
     "pu_name": "BASIC HEALTH CENTRE MILE 13, KAJOLA",
     "name": "BASIC HEALTH CENTRE MILE 13, KAJOLA",
-    "lga": "ODIGBO",
-    "ward": "ORE 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ODIGBO",
     "ward": "ORE 11",
     "state": "Ondo",
@@ -26088,12 +25218,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OKITIPUPA",
-    "ward": "AYEKA/IGBODIGO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/14/02/001",
     "pu_name": "AYADI VILLAGE, AYADI  VILLAGE I",
     "name": "AYADI VILLAGE, AYADI  VILLAGE I",
@@ -26259,12 +25383,6 @@
     "pu_code": "28/14/02/019",
     "pu_name": "OKERUGBO 1 QTRS, AT OKERUGBO QTRS",
     "name": "OKERUGBO 1 QTRS, AT OKERUGBO QTRS",
-    "lga": "OKITIPUPA",
-    "ward": "ERINJE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OKITIPUPA",
     "ward": "ERINJE",
     "state": "Ondo",
@@ -26496,12 +25614,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OKITIPUPA",
-    "ward": "IGBOTAKO 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/14/04/001",
     "pu_name": "MAJOKOLASAN ST/IDOGUN, OPEN SPACE NEAR MOSQUE",
     "name": "MAJOKOLASAN ST/IDOGUN, OPEN SPACE NEAR MOSQUE",
@@ -26622,12 +25734,6 @@
     "pu_code": "28/14/04/014",
     "pu_name": "OPEN SPACE ALONG CHIEF FALEYES HOUSE",
     "name": "OPEN SPACE ALONG CHIEF FALEYES HOUSE",
-    "lga": "OKITIPUPA",
-    "ward": "IGBOTAKO 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OKITIPUPA",
     "ward": "IGBOTAKO 11",
     "state": "Ondo",
@@ -26772,12 +25878,6 @@
     "pu_code": "28/14/05/016",
     "pu_name": "SURULERE/LIKINYO, OPEN SPACE AT SURULERE",
     "name": "SURULERE/LIKINYO, OPEN SPACE AT SURULERE",
-    "lga": "OKITIPUPA",
-    "ward": "IJU-ODO/EREKITI",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OKITIPUPA",
     "ward": "IJU-ODO/EREKITI",
     "state": "Ondo",
@@ -26964,12 +26064,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OKITIPUPA",
-    "ward": "IKOYA/OLOTO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/14/07/001",
     "pu_name": "IKUYINMINU QTRS, NEAR 2, IJOSE ST ILUTITUN",
     "name": "IKUYINMINU QTRS, NEAR 2, IJOSE ST ILUTITUN",
@@ -27132,12 +26226,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OKITIPUPA",
-    "ward": "ILUTITUN 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/14/08/001",
     "pu_name": "LILIKEN OGUNBAMERUN, ST PETER ANG SCH ILUTITUN I",
     "name": "LILIKEN OGUNBAMERUN, ST PETER ANG SCH ILUTITUN I",
@@ -27294,12 +26382,6 @@
     "pu_code": "28/14/08/018",
     "pu_name": "IJU-OKE MARKET, PRY SCH IJU-OKE MARKET",
     "name": "IJU-OKE MARKET, PRY SCH IJU-OKE MARKET",
-    "lga": "OKITIPUPA",
-    "ward": "ILUTITUN II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OKITIPUPA",
     "ward": "ILUTITUN II",
     "state": "Ondo",
@@ -27522,12 +26604,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OKITIPUPA",
-    "ward": "ILUTITUN 111",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/14/10/001",
     "pu_name": "OKERISA/AYILA, 22 OKERISA AT ODE-AYE",
     "name": "OKERISA/AYILA, 22 OKERISA AT ODE-AYE",
@@ -27699,12 +26775,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OKITIPUPA",
-    "ward": "ODE AYE 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/14/11/001",
     "pu_name": "IDOKIN/IDOGUN/ODOFIN, 8 ODOFIN ST ODO-AYE",
     "name": "IDOKIN/IDOGUN/ODOFIN, 8 ODOFIN ST ODO-AYE",
@@ -27825,12 +26895,6 @@
     "pu_code": "28/14/11/014",
     "pu_name": "ZION, 1 ZION COMPD ODE AYE",
     "name": "ZION, 1 ZION COMPD ODE AYE",
-    "lga": "OKITIPUPA",
-    "ward": "AYE 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OKITIPUPA",
     "ward": "AYE 11",
     "state": "Ondo",
@@ -28056,12 +27120,6 @@
     "pu_code": "28/14/12/025",
     "pu_name": "METHODIST HIGH SCHOOL",
     "name": "METHODIST HIGH SCHOOL",
-    "lga": "OKITIPUPA",
-    "ward": "OKITIPUPA 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OKITIPUPA",
     "ward": "OKITIPUPA 1",
     "state": "Ondo",
@@ -28383,12 +27441,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OKITIPUPA",
-    "ward": "OKITIPUPA 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/15/01/001",
     "pu_name": "IGBODUDU/ATERU, ST MATHEW PRY SCH, ATERU I",
     "name": "IGBODUDU/ATERU, ST MATHEW PRY SCH, ATERU I",
@@ -28533,12 +27585,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ONDO EAST",
-    "ward": "ATERU/OTASAN/IGBA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/15/02/001",
     "pu_name": "ASANTAN OJA/ASANTAN VILLAGE MOFERERE, ST DAVID PRY SCH ASANTAN, OJA",
     "name": "ASANTAN OJA/ASANTAN VILLAGE MOFERERE, ST DAVID PRY SCH ASANTAN, OJA",
@@ -28578,12 +27624,6 @@
     "pu_code": "28/15/02/005",
     "pu_name": "OPEN SPACE AT OKE OJA ROAD, ASATAN OJA",
     "name": "OPEN SPACE AT OKE OJA ROAD, ASATAN OJA",
-    "lga": "ONDO EAST",
-    "ward": "ASANTAN OJA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ONDO EAST",
     "ward": "ASANTAN OJA",
     "state": "Ondo",
@@ -28692,12 +27732,6 @@
     "pu_code": "28/15/03/012",
     "pu_name": "OBUN-ONDO II",
     "name": "OBUN-ONDO II",
-    "lga": "ONDO EAST",
-    "ward": "BOLORUNDURO 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ONDO EAST",
     "ward": "BOLORUNDURO 1",
     "state": "Ondo",
@@ -28848,12 +27882,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ONDO EAST",
-    "ward": "EPE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/15/05/001",
     "pu_name": "AWODUYI/LIKOKOJIA/ARON/OMINITU/BALOGUN, ST GERALD PRY SCH AWODUYI",
     "name": "AWODUYI/LIKOKOJIA/ARON/OMINITU/BALOGUN, ST GERALD PRY SCH AWODUYI",
@@ -28953,12 +27981,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ONDO EAST",
-    "ward": "FAGBO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/15/06/001",
     "pu_name": "KOLAWOLE/GBEDU/OWODE, HOLY TRINITY SCH KOLAWOLE",
     "name": "KOLAWOLE/GBEDU/OWODE, HOLY TRINITY SCH KOLAWOLE",
@@ -29007,12 +28029,6 @@
     "pu_code": "28/15/06/006",
     "pu_name": "MOBOLADE/OKE ALAFIA/LIJOKA/DAUDA/DEMILE/KASUNMU, OPEN SPACE AT DEMILE",
     "name": "MOBOLADE/OKE ALAFIA/LIJOKA/DAUDA/DEMILE/KASUNMU, OPEN SPACE AT DEMILE",
-    "lga": "ONDO EAST",
-    "ward": "OBADA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ONDO EAST",
     "ward": "OBADA",
     "state": "Ondo",
@@ -29112,12 +28128,6 @@
     "pu_code": "28/15/07/011",
     "pu_name": "OLOMITOOTO OLORUNSEFUNMI",
     "name": "OLOMITOOTO OLORUNSEFUNMI",
-    "lga": "ONDO EAST",
-    "ward": "OBOTO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ONDO EAST",
     "ward": "OBOTO",
     "state": "Ondo",
@@ -29241,12 +28251,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ONDO EAST",
-    "ward": "ORISUNMIBARE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/15/09/001",
     "pu_name": "OWENA ELESIN, ST MATHEW PRY SCH, OWENA ELESIN",
     "name": "OWENA ELESIN, ST MATHEW PRY SCH, OWENA ELESIN",
@@ -29319,12 +28323,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ONDO EAST",
-    "ward": "OWENA BRIDGE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/15/10/001",
     "pu_name": "TEKUNLE/ST PHILLOMENA, ST PHILLOMENA PRY SCH TEKUNLE",
     "name": "TEKUNLE/ST PHILLOMENA, ST PHILLOMENA PRY SCH TEKUNLE",
@@ -29391,12 +28389,6 @@
     "pu_code": "28/15/10/008",
     "pu_name": "OPEN SPACE AT TEMIDIRE STREET, OWENA TEPO II",
     "name": "OPEN SPACE AT TEMIDIRE STREET, OWENA TEPO II",
-    "lga": "ONDO EAST",
-    "ward": "TEPO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ONDO EAST",
     "ward": "TEPO",
     "state": "Ondo",
@@ -29676,12 +28668,6 @@
     "pu_code": "28/16/01/031",
     "pu_name": "UNDER FRUIT TREE BESIDE TOPLINE FILLING STATION LAJE RD",
     "name": "UNDER FRUIT TREE BESIDE TOPLINE FILLING STATION LAJE RD",
-    "lga": "ONDO WEST",
-    "ward": "ENUOWA/OBALALU",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ONDO WEST",
     "ward": "ENUOWA/OBALALU",
     "state": "Ondo",
@@ -29994,12 +28980,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ONDO WEST",
-    "ward": "GBAGHENGHA/GBONGBO/AJAGBA ALAFIA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/16/03/001",
     "pu_name": "ST STEPHENS GRAM SCH/EHINPETU-IDIROKO-OBA AREA",
     "name": "ST STEPHENS GRAM SCH/EHINPETU-IDIROKO-OBA AREA",
@@ -30216,12 +29196,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ONDO WEST",
-    "ward": "IFORE/ODOSIDA/LORO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/16/04/001",
     "pu_name": "COMM PRY SCH OSU",
     "name": "COMM PRY SCH OSU",
@@ -30429,12 +29403,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ONDO WEST",
-    "ward": "ILUNLA/BAGBE/ODOWO I",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/16/05/001",
     "pu_name": "OPEN SPACE AT OMILOSUN",
     "name": "OPEN SPACE AT OMILOSUN",
@@ -30555,12 +29523,6 @@
     "pu_code": "28/16/05/014",
     "pu_name": "L.A PRY SCH, OKE-ALAFIA",
     "name": "L.A PRY SCH, OKE-ALAFIA",
-    "lga": "ONDO WEST",
-    "ward": "ILUNLA/BAGBE/ODOWO II",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ONDO WEST",
     "ward": "ILUNLA/BAGBE/ODOWO II",
     "state": "Ondo",
@@ -30732,12 +29694,6 @@
     "pu_code": "28/16/06/019",
     "pu_name": "COMM PRY SCHOOL LAOSHO",
     "name": "COMM PRY SCHOOL LAOSHO",
-    "lga": "ONDO WEST",
-    "ward": "LITAYE/OBUNKEKERE/IGBINDO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ONDO WEST",
     "ward": "LITAYE/OBUNKEKERE/IGBINDO",
     "state": "Ondo",
@@ -31365,12 +30321,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ONDO WEST",
-    "ward": "LODASA/IPARUKU/LIJOKA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/16/08/001",
     "pu_name": "FRONT OF OJOMUS PLACE, OJOJOMU 1 &11",
     "name": "FRONT OF OJOMUS PLACE, OJOJOMU 1 &11",
@@ -31695,12 +30645,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ONDO WEST",
-    "ward": "ODOJOMU/ERINKETA/LEGIRI",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/16/09/001",
     "pu_name": "OPEN SPACE AT MARKET JUNCTION, OKE AYADI I",
     "name": "OPEN SPACE AT MARKET JUNCTION, OKE AYADI I",
@@ -31947,12 +30891,6 @@
     "pu_code": "28/16/09/028",
     "pu_name": "METHODIST PRY SCHL OKE AGUNLA II",
     "name": "METHODIST PRY SCHL OKE AGUNLA II",
-    "lga": "ONDO WEST",
-    "ward": "OKEAGUNLA OKEROWO/OKEKUTA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "ONDO WEST",
     "ward": "OKEAGUNLA OKEROWO/OKEKUTA",
     "state": "Ondo",
@@ -32274,12 +31212,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ONDO WEST",
-    "ward": "OKE-OTUNBA/OKE-DIBA/SOKOTI",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/16/11/001",
     "pu_name": "IN FRONT OF POLICE POST, FAGUN/IFE RD I",
     "name": "IN FRONT OF POLICE POST, FAGUN/IFE RD I",
@@ -32586,12 +31518,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ONDO WEST",
-    "ward": "OKELISA OKEDOKO/OGBODU",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/16/12/001",
     "pu_name": "ST PHILIPS, IKONJA",
     "name": "ST PHILIPS, IKONJA",
@@ -32709,12 +31635,6 @@
     "state_code": "28"
   },
   {
-    "lga": "ONDO WEST",
-    "ward": "ORISUNMIBARE/ARAROMI",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/17/01/001",
     "pu_name": "IFINRIN/ST DAVIDS PRY SCH",
     "name": "IFINRIN/ST DAVIDS PRY SCH",
@@ -32799,12 +31719,6 @@
     "pu_code": "28/17/01/010",
     "pu_name": "OPEN SPACE AT AKOMOGBE'S HOUSE",
     "name": "OPEN SPACE AT AKOMOGBE'S HOUSE",
-    "lga": "OSE",
-    "ward": "AFO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OSE",
     "ward": "AFO",
     "state": "Ondo",
@@ -32937,12 +31851,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OSE",
-    "ward": "IDOANI 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/17/03/001",
     "pu_name": "OKEPOJA/ILEMO AKE/A.C/C.A.C UNITED LEFT",
     "name": "OKEPOJA/ILEMO AKE/A.C/C.A.C UNITED LEFT",
@@ -33027,12 +31935,6 @@
     "pu_code": "28/17/03/010",
     "pu_name": "OPEN SPACE INFRONT OF OBA -ODO'S HOUSE",
     "name": "OPEN SPACE INFRONT OF OBA -ODO'S HOUSE",
-    "lga": "OSE",
-    "ward": "IDOANI 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OSE",
     "ward": "IDOANI 11",
     "state": "Ondo",
@@ -33141,12 +32043,6 @@
     "pu_code": "28/17/04/012",
     "pu_name": "APOSTOLIC PRY SCH. EJULUGBO",
     "name": "APOSTOLIC PRY SCH. EJULUGBO",
-    "lga": "OSE",
-    "ward": "IDOGUN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OSE",
     "ward": "IDOGUN",
     "state": "Ondo",
@@ -33288,12 +32184,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OSE",
-    "ward": "IFON 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/17/06/001",
     "pu_name": "GBAJA ST BY LEFT, ST PAULS PRY SCH",
     "name": "GBAJA ST BY LEFT, ST PAULS PRY SCH",
@@ -33411,12 +32301,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OSE",
-    "ward": "IFON 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/17/07/001",
     "pu_name": "OSAKA/ARAROMI, ST PAULS PRY SCH",
     "name": "OSAKA/ARAROMI, ST PAULS PRY SCH",
@@ -33465,12 +32349,6 @@
     "pu_code": "28/17/07/006",
     "pu_name": "IVIOGBENE, OPEN SPACE AT IVIOGBENE",
     "name": "IVIOGBENE, OPEN SPACE AT IVIOGBENE",
-    "lga": "OSE",
-    "ward": "IJAGBA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OSE",
     "ward": "IJAGBA",
     "state": "Ondo",
@@ -33612,12 +32490,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OSE",
-    "ward": "IKARO/ELEGBEKA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/17/09/001",
     "pu_name": "ARAROMI I, NEAR POLICE STATION",
     "name": "ARAROMI I, NEAR POLICE STATION",
@@ -33684,12 +32556,6 @@
     "pu_code": "28/17/09/008",
     "pu_name": "OKE OSE, NEAR OWAYOWA CAMP",
     "name": "OKE OSE, NEAR OWAYOWA CAMP",
-    "lga": "OSE",
-    "ward": "IMERI",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OSE",
     "ward": "IMERI",
     "state": "Ondo",
@@ -33795,12 +32661,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OSE",
-    "ward": "IMORU/ARIMOGIJA",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/17/11/001",
     "pu_name": "POST OFFICE/ODOGBO, POST OFFICE",
     "name": "POST OFFICE/ODOGBO, POST OFFICE",
@@ -33894,12 +32754,6 @@
     "pu_code": "28/17/11/011",
     "pu_name": "WASIMI CAMP, AT WASIMI CAMP",
     "name": "WASIMI CAMP, AT WASIMI CAMP",
-    "lga": "OSE",
-    "ward": "OKELUSE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OSE",
     "ward": "OKELUSE",
     "state": "Ondo",
@@ -34050,12 +32904,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OSE",
-    "ward": "UTE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/18/01/001",
     "pu_name": "OKEBOLA/BADEJO/ILORO RD JUNCTION, NEAR AYO ILEBE HOUSE ILORO JUNCTION",
     "name": "OKEBOLA/BADEJO/ILORO RD JUNCTION, NEAR AYO ILEBE HOUSE ILORO JUNCTION",
@@ -34191,12 +33039,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OWO",
-    "ward": "EHINOGBE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/18/02/001",
     "pu_name": "NEAR GRADE C COURT, AFIN SASERE",
     "name": "NEAR GRADE C COURT, AFIN SASERE",
@@ -34299,12 +33141,6 @@
     "pu_code": "28/18/02/012",
     "pu_name": "OPEN SPACE INFRONT OF 13, OSATAYI STREET",
     "name": "OPEN SPACE INFRONT OF 13, OSATAYI STREET",
-    "lga": "OWO",
-    "ward": "IGBOROKO 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OWO",
     "ward": "IGBOROKO 1",
     "state": "Ondo",
@@ -34476,12 +33312,6 @@
     "pu_code": "28/18/03/019",
     "pu_name": "UNDER A TREE AT ROYAL JUNCTION, ISELU",
     "name": "UNDER A TREE AT ROYAL JUNCTION, ISELU",
-    "lga": "OWO",
-    "ward": "IGBOROKO 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OWO",
     "ward": "IGBOROKO 11",
     "state": "Ondo",
@@ -34731,12 +33561,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OWO",
-    "ward": "IJEBU 1",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/18/05/001",
     "pu_name": "NEAR ADE OLOGAN STORE, OLAGBEGI/WASIMI/AMAKA",
     "name": "NEAR ADE OLOGAN STORE, OLAGBEGI/WASIMI/AMAKA",
@@ -34935,12 +33759,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OWO",
-    "ward": "IJEBU 11",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/18/06/001",
     "pu_name": "ST ANDREWS PRY SCH, ALAJA/OGUNMOLAWA",
     "name": "ST ANDREWS PRY SCH, ALAJA/OGUNMOLAWA",
@@ -35034,12 +33852,6 @@
     "pu_code": "28/18/06/012",
     "pu_name": "IN FRONT OF OLUYASO'S HOUSE EHINODI ST, ILORO",
     "name": "IN FRONT OF OLUYASO'S HOUSE EHINODI ST, ILORO",
-    "lga": "OWO",
-    "ward": "ILORO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OWO",
     "ward": "ILORO",
     "state": "Ondo",
@@ -35382,12 +34194,6 @@
     "pu_code": "28/18/07/038",
     "pu_name": "OPEN SPACE MARKET SQUARE AT ITA-IPELE",
     "name": "OPEN SPACE MARKET SQUARE AT ITA-IPELE",
-    "lga": "OWO",
-    "ward": "IPELE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OWO",
     "ward": "IPELE",
     "state": "Ondo",
@@ -35754,12 +34560,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OWO",
-    "ward": "ISAIPEN",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/18/09/001",
     "pu_name": "AMUYE GRAM SCH, ILALE-ILE I",
     "name": "AMUYE GRAM SCH, ILALE-ILE I",
@@ -36093,12 +34893,6 @@
     "state_code": "28"
   },
   {
-    "lga": "OWO",
-    "ward": "ISUADA/IPENMEN/IDASAN/OBASOOTO",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "pu_code": "28/18/10/001",
     "pu_name": "A.U.D PRY SCH, OLIYERE OLOKUNTOYE",
     "name": "A.U.D PRY SCH, OLIYERE OLOKUNTOYE",
@@ -36282,12 +35076,6 @@
     "pu_code": "28/18/10/021",
     "pu_name": "ALAWAYE HOUSE IYERE",
     "name": "ALAWAYE HOUSE IYERE",
-    "lga": "OWO",
-    "ward": "IYARE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OWO",
     "ward": "IYARE",
     "state": "Ondo",
@@ -36576,12 +35364,6 @@
     "pu_code": "28/18/11/032",
     "pu_name": "ELEBUTE HOUSE ZONE A BOLORUNDURO",
     "name": "ELEBUTE HOUSE ZONE A BOLORUNDURO",
-    "lga": "OWO",
-    "ward": "USO/EMURE ILE",
-    "state": "Ondo",
-    "state_code": "28"
-  },
-  {
     "lga": "OWO",
     "ward": "USO/EMURE ILE",
     "state": "Ondo",

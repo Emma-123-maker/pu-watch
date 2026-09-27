@@ -63,12 +63,6 @@
     "state_code": "34"
   },
   {
-    "lga": "ARDO - KOLA",
-    "ward": "ALIM GORA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/01/02/001",
     "pu_name": "AUDU GIWA, NEAR MARKET SQUARE",
     "name": "AUDU GIWA, NEAR MARKET SQUARE",
@@ -171,12 +165,6 @@
     "pu_code": "34/01/02/012",
     "pu_name": "JAURO MASHI I MARKET SQUARE",
     "name": "JAURO MASHI I MARKET SQUARE",
-    "lga": "ARDO - KOLA",
-    "ward": "ARDO KOLA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "ARDO - KOLA",
     "ward": "ARDO KOLA",
     "state": "Taraba",
@@ -321,12 +309,6 @@
     "pu_code": "34/01/03/016",
     "pu_name": "IWARE NEAR JAURO PALACE",
     "name": "IWARE NEAR JAURO PALACE",
-    "lga": "ARDO - KOLA",
-    "ward": "IWARE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "ARDO - KOLA",
     "ward": "IWARE",
     "state": "Taraba",
@@ -576,12 +558,6 @@
     "state_code": "34"
   },
   {
-    "lga": "ARDO - KOLA",
-    "ward": "JAURO YINU",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/01/05/001",
     "pu_name": "BADAWAIRE, NEAR JAURO'S PALACE",
     "name": "BADAWAIRE, NEAR JAURO'S PALACE",
@@ -711,12 +687,6 @@
     "pu_code": "34/01/05/015",
     "pu_name": "KPANTI YALI PRIMARY SCHOOL",
     "name": "KPANTI YALI PRIMARY SCHOOL",
-    "lga": "ARDO - KOLA",
-    "ward": "LAMIDO BORNO",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "ARDO - KOLA",
     "ward": "LAMIDO BORNO",
     "state": "Taraba",
@@ -903,12 +873,6 @@
     "state_code": "34"
   },
   {
-    "lga": "ARDO - KOLA",
-    "ward": "MAYO RANEWO",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/01/07/001",
     "pu_name": "ANGUWAN KIRBI, NEAR JAURO'S PALACE",
     "name": "ANGUWAN KIRBI, NEAR JAURO'S PALACE",
@@ -993,12 +957,6 @@
     "pu_code": "34/01/07/010",
     "pu_name": "MALLUM PRIMARY HEALTH CARE CENTRE",
     "name": "MALLUM PRIMARY HEALTH CARE CENTRE",
-    "lga": "ARDO - KOLA",
-    "ward": "SARKIN DUTSE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "ARDO - KOLA",
     "ward": "SARKIN DUTSE",
     "state": "Taraba",
@@ -1302,12 +1260,6 @@
     "state_code": "34"
   },
   {
-    "lga": "ARDO - KOLA",
-    "ward": "SUNKANI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/01/09/001",
     "pu_name": "KARIM LAZAI, NEAR JAURO PALACE",
     "name": "KARIM LAZAI, NEAR JAURO PALACE",
@@ -1401,12 +1353,6 @@
     "pu_code": "34/01/09/011",
     "pu_name": "PANSUWEPRIMARY SCHOOL",
     "name": "PANSUWEPRIMARY SCHOOL",
-    "lga": "ARDO - KOLA",
-    "ward": "TAU",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "ARDO - KOLA",
     "ward": "TAU",
     "state": "Taraba",
@@ -1614,12 +1560,6 @@
     "pu_code": "34/01/10/023",
     "pu_name": "GARIN AYUBA, BADA KOSHI PRIMARY SCHOOL",
     "name": "GARIN AYUBA, BADA KOSHI PRIMARY SCHOOL",
-    "lga": "ARDO - KOLA",
-    "ward": "ZONGON KOMBI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "ARDO - KOLA",
     "ward": "ZONGON KOMBI",
     "state": "Taraba",
@@ -1836,12 +1776,6 @@
     "pu_code": "34/02/01/024",
     "pu_name": "KWANAN DABA PRIMARY SCH",
     "name": "KWANAN DABA PRIMARY SCH",
-    "lga": "BALI",
-    "ward": "BADAKOSHI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "BALI",
     "ward": "BADAKOSHI",
     "state": "Taraba",
@@ -2100,12 +2034,6 @@
     "state_code": "34"
   },
   {
-    "lga": "BALI",
-    "ward": "BALI  A",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/02/03/001",
     "pu_name": "ASINAI, ASINAI",
     "name": "ASINAI, ASINAI",
@@ -2340,12 +2268,6 @@
     "state_code": "34"
   },
   {
-    "lga": "BALI",
-    "ward": "BALI B",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/02/04/001",
     "pu_name": "G/BAKEN, G/BAKEN",
     "name": "G/BAKEN, G/BAKEN",
@@ -2454,12 +2376,6 @@
     "state_code": "34"
   },
   {
-    "lga": "BALI",
-    "ward": "GANG DOLE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/02/05/001",
     "pu_name": "GANGLARI, GANGLARI",
     "name": "GANGLARI, GANGLARI",
@@ -2541,12 +2457,6 @@
     "state_code": "34"
   },
   {
-    "lga": "BALI",
-    "ward": "GANGLARI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/02/06/001",
     "pu_name": "DEUKUSUM  I, DEUKUSUM",
     "name": "DEUKUSUM  I, DEUKUSUM",
@@ -2604,12 +2514,6 @@
     "pu_code": "34/02/06/007",
     "pu_name": "SARKIN MATA, SARKIN MATA",
     "name": "SARKIN MATA, SARKIN MATA",
-    "lga": "BALI",
-    "ward": "GANGTIBA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "BALI",
     "ward": "GANGTIBA",
     "state": "Taraba",
@@ -2772,12 +2676,6 @@
     "pu_code": "34/02/07/018",
     "pu_name": "GDSS PAMANGA",
     "name": "GDSS PAMANGA",
-    "lga": "BALI",
-    "ward": "GANG MATA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "BALI",
     "ward": "GANG MATA",
     "state": "Taraba",
@@ -3108,12 +3006,6 @@
     "state_code": "34"
   },
   {
-    "lga": "BALI",
-    "ward": "KAIGAMA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/02/09/001",
     "pu_name": "B/JALO, B/JALO",
     "name": "B/JALO, B/JALO",
@@ -3360,12 +3252,6 @@
     "pu_code": "34/02/09/028",
     "pu_name": "KUNDIPRIMARY SCHOOL",
     "name": "KUNDIPRIMARY SCHOOL",
-    "lga": "BALI",
-    "ward": "MAIHULA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "BALI",
     "ward": "MAIHULA",
     "state": "Taraba",
@@ -3723,12 +3609,6 @@
     "state_code": "34"
   },
   {
-    "lga": "BALI",
-    "ward": "SUNTAI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/02/11/001",
     "pu_name": "AUYUKAWA, TAKALAFIYA",
     "name": "AUYUKAWA, TAKALAFIYA",
@@ -3966,12 +3846,6 @@
     "pu_code": "34/02/11/027",
     "pu_name": "YELWA DISPENSARY",
     "name": "YELWA DISPENSARY",
-    "lga": "BALI",
-    "ward": "TAKALAFIYA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "BALI",
     "ward": "TAKALAFIYA",
     "state": "Taraba",
@@ -4233,12 +4107,6 @@
     "pu_code": "34/03/01/029",
     "pu_name": "ANCHOUGH  ANCHOUGH -SHAGU MARKET SQUARE",
     "name": "ANCHOUGH  ANCHOUGH -SHAGU MARKET SQUARE",
-    "lga": "DONGA",
-    "ward": "AKATE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "DONGA",
     "ward": "AKATE",
     "state": "Taraba",
@@ -4551,12 +4419,6 @@
     "state_code": "34"
   },
   {
-    "lga": "DONGA",
-    "ward": "ASIBITI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/03/03/001",
     "pu_name": "FADA I, DISTRICT OFFICE DONGA",
     "name": "FADA I, DISTRICT OFFICE DONGA",
@@ -4650,12 +4512,6 @@
     "pu_code": "34/03/03/011",
     "pu_name": "OPEN SPACE RICE MILL",
     "name": "OPEN SPACE RICE MILL",
-    "lga": "DONGA",
-    "ward": "FADA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "DONGA",
     "ward": "FADA",
     "state": "Taraba",
@@ -4863,12 +4719,6 @@
     "pu_code": "34/03/04/023",
     "pu_name": "MU GBAWANA/MU GBAWANAPRIMARY SCHOOL GAYAMA",
     "name": "MU GBAWANA/MU GBAWANAPRIMARY SCHOOL GAYAMA",
-    "lga": "DONGA",
-    "ward": "GAYAMA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "DONGA",
     "ward": "GAYAMA",
     "state": "Taraba",
@@ -5145,12 +4995,6 @@
     "state_code": "34"
   },
   {
-    "lga": "DONGA",
-    "ward": "GINDIN DUTSE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/03/06/001",
     "pu_name": "CHURCH I, DAUDA KWANCHA PRIMARY SCHOOL",
     "name": "CHURCH I, DAUDA KWANCHA PRIMARY SCHOOL",
@@ -5226,12 +5070,6 @@
     "pu_code": "34/03/06/009",
     "pu_name": "NOMADIC  PRIMARY SCH",
     "name": "NOMADIC  PRIMARY SCH",
-    "lga": "DONGA",
-    "ward": "GYATTA AURE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "DONGA",
     "ward": "GYATTA AURE",
     "state": "Taraba",
@@ -5349,12 +5187,6 @@
     "pu_code": "34/03/07/013",
     "pu_name": "ANDODTSEA MARKET SQUARE",
     "name": "ANDODTSEA MARKET SQUARE",
-    "lga": "DONGA",
-    "ward": "BIKADARKO",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "DONGA",
     "ward": "BIKADARKO",
     "state": "Taraba",
@@ -5613,12 +5445,6 @@
     "state_code": "34"
   },
   {
-    "lga": "DONGA",
-    "ward": "MARARRABA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/03/09/001",
     "pu_name": "MADAKI, KOFAR MADAKI",
     "name": "MADAKI, KOFAR MADAKI",
@@ -5745,12 +5571,6 @@
     "state_code": "34"
   },
   {
-    "lga": "DONGA",
-    "ward": "NYITA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/03/10/001",
     "pu_name": "GARGEA, KOFAR SARKIN GARGEA",
     "name": "GARGEA, KOFAR SARKIN GARGEA",
@@ -5841,12 +5661,6 @@
     "state_code": "34"
   },
   {
-    "lga": "DONGA",
-    "ward": "SUNTAI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/04/01/001",
     "pu_name": "ABBA DOGO, ABBA DOGO",
     "name": "ABBA DOGO, ABBA DOGO",
@@ -5913,12 +5727,6 @@
     "pu_code": "34/04/01/008",
     "pu_name": "SAUKAN OPEN SPACE",
     "name": "SAUKAN OPEN SPACE",
-    "lga": "GASHAKA",
-    "ward": "GALUMJINA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "GASHAKA",
     "ward": "GALUMJINA",
     "state": "Taraba",
@@ -6063,12 +5871,6 @@
     "pu_code": "34/04/02/016",
     "pu_name": "NASAMU KOBAJE OPEN SPACE",
     "name": "NASAMU KOBAJE OPEN SPACE",
-    "lga": "GASHAKA",
-    "ward": "GANGUMI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "GASHAKA",
     "ward": "GANGUMI",
     "state": "Taraba",
@@ -6246,12 +6048,6 @@
     "state_code": "34"
   },
   {
-    "lga": "GASHAKA",
-    "ward": "GARBABI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/04/04/001",
     "pu_name": "CHABBAL DALANG, CHABBAL DALANG",
     "name": "CHABBAL DALANG, CHABBAL DALANG",
@@ -6300,12 +6096,6 @@
     "pu_code": "34/04/04/006",
     "pu_name": "SELBE, SELBE",
     "name": "SELBE, SELBE",
-    "lga": "GASHAKA",
-    "ward": "GASHAKA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "GASHAKA",
     "ward": "GASHAKA",
     "state": "Taraba",
@@ -6396,12 +6186,6 @@
     "pu_code": "34/04/05/010",
     "pu_name": "KUMBO TAN,OPEN SPACE",
     "name": "KUMBO TAN,OPEN SPACE",
-    "lga": "GASHAKA",
-    "ward": "GAYAM",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "GASHAKA",
     "ward": "GAYAM",
     "state": "Taraba",
@@ -6552,12 +6336,6 @@
     "state_code": "34"
   },
   {
-    "lga": "GASHAKA",
-    "ward": "JAMTARI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/04/07/001",
     "pu_name": "BAM I, BAM",
     "name": "BAM I, BAM",
@@ -6606,12 +6384,6 @@
     "pu_code": "34/04/07/006",
     "pu_name": "MAYO SABERE, MAYO SABERE",
     "name": "MAYO SABERE, MAYO SABERE",
-    "lga": "GASHAKA",
-    "ward": "MAI-IDANU",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "GASHAKA",
     "ward": "MAI-IDANU",
     "state": "Taraba",
@@ -6729,12 +6501,6 @@
     "pu_code": "34/04/08/013",
     "pu_name": "NYINA MARKET SQUARE",
     "name": "NYINA MARKET SQUARE",
-    "lga": "GASHAKA",
-    "ward": "MAYO SELBE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "GASHAKA",
     "ward": "MAYO SELBE",
     "state": "Taraba",
@@ -6870,12 +6636,6 @@
     "pu_code": "34/04/09/015",
     "pu_name": "MOHAMMED SAMBO SECONDRY SCHOOL",
     "name": "MOHAMMED SAMBO SECONDRY SCHOOL",
-    "lga": "GASHAKA",
-    "ward": "SERTI 'A'",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "GASHAKA",
     "ward": "SERTI 'A'",
     "state": "Taraba",
@@ -7134,12 +6894,6 @@
     "state_code": "34"
   },
   {
-    "lga": "GASHAKA",
-    "ward": "SERTI 'B'",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/05/01/001",
     "pu_name": "ANGUWAN ARDO, ANG. ARDO",
     "name": "ANGUWAN ARDO, ANG. ARDO",
@@ -7332,12 +7086,6 @@
     "pu_code": "34/05/01/022",
     "pu_name": "UMARU IV",
     "name": "UMARU IV",
-    "lga": "GASSOL",
-    "ward": "GASSOL",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "GASSOL",
     "ward": "GASSOL",
     "state": "Taraba",
@@ -7686,12 +7434,6 @@
     "state_code": "34"
   },
   {
-    "lga": "GASSOL",
-    "ward": "GUNDUMA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/05/03/001",
     "pu_name": "ACHI ARAGE, ACHI ARAGE",
     "name": "ACHI ARAGE, ACHI ARAGE",
@@ -7944,12 +7686,6 @@
     "state_code": "34"
   },
   {
-    "lga": "GASSOL",
-    "ward": "MUTUM BIYU I",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/05/04/001",
     "pu_name": "ALHASSAN I, K/MALAM BARDE",
     "name": "ALHASSAN I, K/MALAM BARDE",
@@ -8187,12 +7923,6 @@
     "pu_code": "34/05/04/027",
     "pu_name": "JIBRIN III,",
     "name": "JIBRIN III,",
-    "lga": "GASSOL",
-    "ward": "MUTUM BIYU II",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "GASSOL",
     "ward": "MUTUM BIYU II",
     "state": "Taraba",
@@ -8544,12 +8274,6 @@
     "pu_code": "34/05/05/039",
     "pu_name": "GARIN MAL.ABBA IV",
     "name": "GARIN MAL.ABBA IV",
-    "lga": "GASSOL",
-    "ward": "NAM NAI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "GASSOL",
     "ward": "NAM NAI",
     "state": "Taraba",
@@ -8970,12 +8694,6 @@
     "state_code": "34"
   },
   {
-    "lga": "GASSOL",
-    "ward": "SABON GIDA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/05/07/001",
     "pu_name": "BAKIN KASUWA, BAKIN KASUWA",
     "name": "BAKIN KASUWA, BAKIN KASUWA",
@@ -9201,12 +8919,6 @@
     "state_code": "34"
   },
   {
-    "lga": "GASSOL",
-    "ward": "SARKIN SHIRA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/05/08/001",
     "pu_name": "BAKIN KASUWA, DOMAYO BABBA",
     "name": "BAKIN KASUWA, DOMAYO BABBA",
@@ -9345,12 +9057,6 @@
     "pu_code": "34/05/08/016",
     "pu_name": "SENDIRDE IV",
     "name": "SENDIRDE IV",
-    "lga": "GASSOL",
-    "ward": "SENDIRDE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "GASSOL",
     "ward": "SENDIRDE",
     "state": "Taraba",
@@ -9522,12 +9228,6 @@
     "pu_code": "34/05/09/019",
     "pu_name": "SHEKA III",
     "name": "SHEKA III",
-    "lga": "GASSOL",
-    "ward": "TUTARE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "GASSOL",
     "ward": "TUTARE",
     "state": "Taraba",
@@ -9726,12 +9426,6 @@
     "pu_code": "34/05/10/022",
     "pu_name": "SAN SANI III",
     "name": "SAN SANI III",
-    "lga": "GASSOL",
-    "ward": "WUROJAM",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "GASSOL",
     "ward": "WUROJAM",
     "state": "Taraba",
@@ -10071,12 +9765,6 @@
     "state_code": "34"
   },
   {
-    "lga": "GASSOL",
-    "ward": "WURYO",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/05/12/001",
     "pu_name": "ANEMA,  KOFAN JAURO MUHAMMADU",
     "name": "ANEMA,  KOFAN JAURO MUHAMMADU",
@@ -10284,12 +9972,6 @@
     "state_code": "34"
   },
   {
-    "lga": "GASSOL",
-    "ward": "YARIMA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/06/01/001",
     "pu_name": "GALADIMA, KOFAR GALADIMA",
     "name": "GALADIMA, KOFAR GALADIMA",
@@ -10389,12 +10071,6 @@
     "state_code": "34"
   },
   {
-    "lga": "IBI",
-    "ward": "DAMPAR I",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/06/02/001",
     "pu_name": "DALI/MAVO, MAVO",
     "name": "DALI/MAVO, MAVO",
@@ -10461,12 +10137,6 @@
     "pu_code": "34/06/02/008",
     "pu_name": "KURMI I PRIMARY SCHOOL  DAMPAR II",
     "name": "KURMI I PRIMARY SCHOOL  DAMPAR II",
-    "lga": "IBI",
-    "ward": "DAMPAR II",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "IBI",
     "ward": "DAMPAR II",
     "state": "Taraba",
@@ -10575,12 +10245,6 @@
     "pu_code": "34/06/03/012",
     "pu_name": "TAPGA PHC CLINIC   DAMPAR III",
     "name": "TAPGA PHC CLINIC   DAMPAR III",
-    "lga": "IBI",
-    "ward": "DAMPAR III",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "IBI",
     "ward": "DAMPAR III",
     "state": "Taraba",
@@ -10752,12 +10416,6 @@
     "pu_code": "34/06/04/019",
     "pu_name": "KOFAR BABA BELLO OPEN SPACE  NWONYO",
     "name": "KOFAR BABA BELLO OPEN SPACE  NWONYO",
-    "lga": "IBI",
-    "ward": "IBI NWONYO I",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "IBI",
     "ward": "IBI NWONYO I",
     "state": "Taraba",
@@ -11016,12 +10674,6 @@
     "state_code": "34"
   },
   {
-    "lga": "IBI",
-    "ward": "IBI NWONYO II",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/06/06/001",
     "pu_name": "ABDU AFTO I, KOFAR ABDU AFTO",
     "name": "ABDU AFTO I, KOFAR ABDU AFTO",
@@ -11220,12 +10872,6 @@
     "state_code": "34"
   },
   {
-    "lga": "IBI",
-    "ward": "IBI RIMI UKU I",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/06/07/001",
     "pu_name": "BAKYU, BAKYU PRIMARY SCHOOL",
     "name": "BAKYU, BAKYU PRIMARY SCHOOL",
@@ -11265,12 +10911,6 @@
     "pu_code": "34/06/07/005",
     "pu_name": "ANDO MANU PRIMARY SCHOOL RIMI UKU II",
     "name": "ANDO MANU PRIMARY SCHOOL RIMI UKU II",
-    "lga": "IBI",
-    "ward": "IBI RIMI UKU II",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "IBI",
     "ward": "IBI RIMI UKU II",
     "state": "Taraba",
@@ -11361,12 +11001,6 @@
     "pu_code": "34/06/08/010",
     "pu_name": "GIDAN ADA BOSUWA OPEN SPACE  SARKIN KUDU I, IBI",
     "name": "GIDAN ADA BOSUWA OPEN SPACE  SARKIN KUDU I, IBI",
-    "lga": "IBI",
-    "ward": "SARKIN KUDU I",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "IBI",
     "ward": "SARKIN KUDU I",
     "state": "Taraba",
@@ -11484,12 +11118,6 @@
     "pu_code": "34/06/09/013",
     "pu_name": "TOR NENGERPRIMARY SCHOOL.  SARKIN KUDU II",
     "name": "TOR NENGERPRIMARY SCHOOL.  SARKIN KUDU II",
-    "lga": "IBI",
-    "ward": "SARKIN KUDU II",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "IBI",
     "ward": "SARKIN KUDU II",
     "state": "Taraba",
@@ -11622,12 +11250,6 @@
     "state_code": "34"
   },
   {
-    "lga": "IBI",
-    "ward": "SARKIN KUDU III",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/07/01/001",
     "pu_name": "ABBARE, ABBARE PRIMARY SCHOOL",
     "name": "ABBARE, ABBARE PRIMARY SCHOOL",
@@ -11712,12 +11334,6 @@
     "pu_code": "34/07/01/010",
     "pu_name": "SABON LAYI",
     "name": "SABON LAYI",
-    "lga": "JALINGO",
-    "ward": "ABBARE YELWA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "JALINGO",
     "ward": "ABBARE YELWA",
     "state": "Taraba",
@@ -12282,12 +11898,6 @@
     "state_code": "34"
   },
   {
-    "lga": "JALINGO",
-    "ward": "BARADE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/07/03/001",
     "pu_name": "ANGUWAN SHONFO, ANGUWAN SHONFO",
     "name": "ANGUWAN SHONFO, ANGUWAN SHONFO",
@@ -12624,12 +12234,6 @@
     "pu_code": "34/07/03/038",
     "pu_name": "WURO SEMBE, ANGUWAN KACHALLA",
     "name": "WURO SEMBE, ANGUWAN KACHALLA",
-    "lga": "JALINGO",
-    "ward": "KACHALLA SEMBE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "JALINGO",
     "ward": "KACHALLA SEMBE",
     "state": "Taraba",
@@ -13293,12 +12897,6 @@
     "state_code": "34"
   },
   {
-    "lga": "JALINGO",
-    "ward": "KONA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/07/05/001",
     "pu_name": "ANGUWAN MUSA, KOFAN MAI ANGUWA MUSA",
     "name": "ANGUWAN MUSA, KOFAN MAI ANGUWA MUSA",
@@ -13680,12 +13278,6 @@
     "pu_code": "34/07/05/043",
     "pu_name": "ADUMGULA, WURO HAMMAJO PRIMARY SCHOOL",
     "name": "ADUMGULA, WURO HAMMAJO PRIMARY SCHOOL",
-    "lga": "JALINGO",
-    "ward": "MAJIDADI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "JALINGO",
     "ward": "MAJIDADI",
     "state": "Taraba",
@@ -14223,12 +13815,6 @@
     "state_code": "34"
   },
   {
-    "lga": "JALINGO",
-    "ward": "MAYO GOI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/07/07/001",
     "pu_name": "BLIND WORKSHOP, BLIND WORKSHOP",
     "name": "BLIND WORKSHOP, BLIND WORKSHOP",
@@ -14409,12 +13995,6 @@
     "state_code": "34"
   },
   {
-    "lga": "JALINGO",
-    "ward": "SARKIN DAWAKI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/07/08/001",
     "pu_name": "BAYAN GIDAN M. ABI, BAYAN GIDAN M. ABI",
     "name": "BAYAN GIDAN M. ABI, BAYAN GIDAN M. ABI",
@@ -14544,12 +14124,6 @@
     "pu_code": "34/07/08/015",
     "pu_name": "ALH. SABO GASSOL, BARDE WAY",
     "name": "ALH. SABO GASSOL, BARDE WAY",
-    "lga": "JALINGO",
-    "ward": "SINTALI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "JALINGO",
     "ward": "SINTALI",
     "state": "Taraba",
@@ -14871,12 +14445,6 @@
     "state_code": "34"
   },
   {
-    "lga": "JALINGO",
-    "ward": "TURAKI 'A'",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/07/10/001",
     "pu_name": "BASHIN LAYI, BASHIN A. GAJAWA",
     "name": "BASHIN LAYI, BASHIN A. GAJAWA",
@@ -15129,12 +14697,6 @@
     "state_code": "34"
   },
   {
-    "lga": "JALINGO",
-    "ward": "TURAKI 'B'",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/08/01/001",
     "pu_name": "ANG. BABA TATU, ANG. BABA TATU",
     "name": "ANG. BABA TATU, ANG. BABA TATU",
@@ -15336,12 +14898,6 @@
     "pu_code": "34/08/01/023",
     "pu_name": "PHC AMAR",
     "name": "PHC AMAR",
-    "lga": "KARIM-LAMIDO",
-    "ward": "AMAR",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "KARIM-LAMIDO",
     "ward": "AMAR",
     "state": "Taraba",
@@ -15564,12 +15120,6 @@
     "state_code": "34"
   },
   {
-    "lga": "KARIM-LAMIDO",
-    "ward": "ANDAMIN",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/08/03/001",
     "pu_name": "ANG. ANGULE, ANG. ANGULE",
     "name": "ANG. ANGULE, ANG. ANGULE",
@@ -15726,12 +15276,6 @@
     "pu_code": "34/08/03/018",
     "pu_name": "KUMUYEL PRIMARY SCHOOLKUMUYEL",
     "name": "KUMUYEL PRIMARY SCHOOLKUMUYEL",
-    "lga": "KARIM-LAMIDO",
-    "ward": "BACHAMA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "KARIM-LAMIDO",
     "ward": "BACHAMA",
     "state": "Taraba",
@@ -16002,12 +15546,6 @@
     "pu_code": "34/08/04/030",
     "pu_name": "DESHI PRIMARY SCHOOL DESHI",
     "name": "DESHI PRIMARY SCHOOL DESHI",
-    "lga": "KARIM-LAMIDO",
-    "ward": "BIKWIN",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "KARIM-LAMIDO",
     "ward": "BIKWIN",
     "state": "Taraba",
@@ -16293,12 +15831,6 @@
     "state_code": "34"
   },
   {
-    "lga": "KARIM-LAMIDO",
-    "ward": "DAROFAI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/08/06/001",
     "pu_name": "ANG. BADAKOSHI, ANG. BADAKOSHI",
     "name": "ANG. BADAKOSHI, ANG. BADAKOSHI",
@@ -16506,12 +16038,6 @@
     "state_code": "34"
   },
   {
-    "lga": "KARIM-LAMIDO",
-    "ward": "DIDANGO",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/08/07/001",
     "pu_name": "UNG. ADI HAMAN, ADI HAMAN",
     "name": "UNG. ADI HAMAN, ADI HAMAN",
@@ -16677,12 +16203,6 @@
     "pu_code": "34/08/07/019",
     "pu_name": "GARIN KULA PRIMARY SCHOOL",
     "name": "GARIN KULA PRIMARY SCHOOL",
-    "lga": "KARIM-LAMIDO",
-    "ward": "JEN ARDIDO",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "KARIM-LAMIDO",
     "ward": "JEN ARDIDO",
     "state": "Taraba",
@@ -16908,12 +16428,6 @@
     "pu_code": "34/08/08/025",
     "pu_name": "NWASU KABIYAN",
     "name": "NWASU KABIYAN",
-    "lga": "KARIM-LAMIDO",
-    "ward": "JEN KAIGAMA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "KARIM-LAMIDO",
     "ward": "JEN KAIGAMA",
     "state": "Taraba",
@@ -17226,12 +16740,6 @@
     "state_code": "34"
   },
   {
-    "lga": "KARIM-LAMIDO",
-    "ward": "KARIM 'A'",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/08/10/001",
     "pu_name": "UNG. BARDE HAMIDU, UNG. BARDE HAMIDU",
     "name": "UNG. BARDE HAMIDU, UNG. BARDE HAMIDU",
@@ -17433,12 +16941,6 @@
     "pu_code": "34/08/10/023",
     "pu_name": "ANG. CANTWOL GIDIN DURUMI",
     "name": "ANG. CANTWOL GIDIN DURUMI",
-    "lga": "KARIM-LAMIDO",
-    "ward": "KARIM 'B'",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "KARIM-LAMIDO",
     "ward": "KARIM 'B'",
     "state": "Taraba",
@@ -17661,12 +17163,6 @@
     "state_code": "34"
   },
   {
-    "lga": "KARIM-LAMIDO",
-    "ward": "KWANCHI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/09/01/001",
     "pu_name": "ABONG I, PRIMARY SCHOOL",
     "name": "ABONG I, PRIMARY SCHOOL",
@@ -17760,12 +17256,6 @@
     "pu_code": "34/09/01/011",
     "pu_name": "GOVT. DAY SEC. SCHOOLTUDUN WADA",
     "name": "GOVT. DAY SEC. SCHOOLTUDUN WADA",
-    "lga": "KURMI",
-    "ward": "ABONG",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "KURMI",
     "ward": "ABONG",
     "state": "Taraba",
@@ -17952,12 +17442,6 @@
     "state_code": "34"
   },
   {
-    "lga": "KURMI",
-    "ward": "AKWENTO/BOKO",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/09/03/001",
     "pu_name": "ADOBE, ADOBE TOWN HALL",
     "name": "ADOBE, ADOBE TOWN HALL",
@@ -18069,12 +17553,6 @@
     "pu_code": "34/09/03/013",
     "pu_name": "GOVERNMENT DAY SECONDARY SCHOOL ENEME",
     "name": "GOVERNMENT DAY SECONDARY SCHOOL ENEME",
-    "lga": "KURMI",
-    "ward": "ASHUKU/ENEME",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "KURMI",
     "ward": "ASHUKU/ENEME",
     "state": "Taraba",
@@ -18315,12 +17793,6 @@
     "state_code": "34"
   },
   {
-    "lga": "KURMI",
-    "ward": "BAISSA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/09/05/001",
     "pu_name": "BADA KOSHI, KOFAR MAI UNGUWA",
     "name": "BADA KOSHI, KOFAR MAI UNGUWA",
@@ -18411,12 +17883,6 @@
     "state_code": "34"
   },
   {
-    "lga": "KURMI",
-    "ward": "BENTE/GALEA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/09/06/001",
     "pu_name": "AKPO, AKPO PRIMARY SCHOOL",
     "name": "AKPO, AKPO PRIMARY SCHOOL",
@@ -18501,12 +17967,6 @@
     "pu_code": "34/09/06/010",
     "pu_name": "GATARI DISPENSARY",
     "name": "GATARI DISPENSARY",
-    "lga": "KURMI",
-    "ward": "BISSAULA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "KURMI",
     "ward": "BISSAULA",
     "state": "Taraba",
@@ -18648,12 +18108,6 @@
     "state_code": "34"
   },
   {
-    "lga": "KURMI",
-    "ward": "DIDAN",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/09/08/001",
     "pu_name": "AKUTUKWE, KOFAR MAIANGUWA",
     "name": "AKUTUKWE, KOFAR MAIANGUWA",
@@ -18771,12 +18225,6 @@
     "state_code": "34"
   },
   {
-    "lga": "KURMI",
-    "ward": "NDAFORO/GEANDA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/09/09/001",
     "pu_name": "AKIYA I, KOFAR MAIANGWA",
     "name": "AKIYA I, KOFAR MAIANGWA",
@@ -18870,12 +18318,6 @@
     "pu_code": "34/09/09/011",
     "pu_name": "ASHA TOWN HALL",
     "name": "ASHA TOWN HALL",
-    "lga": "KURMI",
-    "ward": "NJUWANDE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "KURMI",
     "ward": "NJUWANDE",
     "state": "Taraba",
@@ -18999,12 +18441,6 @@
     "state_code": "34"
   },
   {
-    "lga": "KURMI",
-    "ward": "NYIDO/TOSSO",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/10/01/001",
     "pu_name": "AHMADU I / ABBARE PRIMARY SCHOOL",
     "name": "AHMADU I / ABBARE PRIMARY SCHOOL",
@@ -19089,12 +18525,6 @@
     "pu_code": "34/10/01/010",
     "pu_name": "PALIYA II,ABBARE MOTOR PARK",
     "name": "PALIYA II,ABBARE MOTOR PARK",
-    "lga": "LAU",
-    "ward": "ABBARE I",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "LAU",
     "ward": "ABBARE I",
     "state": "Taraba",
@@ -19194,12 +18624,6 @@
     "pu_code": "34/10/02/011",
     "pu_name": "YITTI II, YITTI PRIMARY HEALTH CARE",
     "name": "YITTI II, YITTI PRIMARY HEALTH CARE",
-    "lga": "LAU",
-    "ward": "ABBERE II",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "LAU",
     "ward": "ABBERE II",
     "state": "Taraba",
@@ -19326,12 +18750,6 @@
     "pu_code": "34/10/03/014",
     "pu_name": "HAMMAN BURA II, HAMMAN BURA PRIMARY SCHOOL",
     "name": "HAMMAN BURA II, HAMMAN BURA PRIMARY SCHOOL",
-    "lga": "LAU",
-    "ward": "DONADDA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "LAU",
     "ward": "DONADDA",
     "state": "Taraba",
@@ -19509,12 +18927,6 @@
     "state_code": "34"
   },
   {
-    "lga": "LAU",
-    "ward": "GARIN DOGO",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/10/05/001",
     "pu_name": "ARDIDO YUSA, KOFAR ARDIDO YUSA",
     "name": "ARDIDO YUSA, KOFAR ARDIDO YUSA",
@@ -19599,12 +19011,6 @@
     "pu_code": "34/10/05/010",
     "pu_name": "JONGORE I, JONGORE PRIMARY SCHOOL",
     "name": "JONGORE I, JONGORE PRIMARY SCHOOL",
-    "lga": "LAU",
-    "ward": "GARIN MAGAJI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "LAU",
     "ward": "GARIN MAGAJI",
     "state": "Taraba",
@@ -19749,12 +19155,6 @@
     "pu_code": "34/10/06/016",
     "pu_name": "JIMLARI II, JIMLARI PRIMARY SCHOOL",
     "name": "JIMLARI II, JIMLARI PRIMARY SCHOOL",
-    "lga": "LAU",
-    "ward": "JIMLARI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "LAU",
     "ward": "JIMLARI",
     "state": "Taraba",
@@ -19914,12 +19314,6 @@
     "state_code": "34"
   },
   {
-    "lga": "LAU",
-    "ward": "KUNINI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/10/08/001",
     "pu_name": "GWAWI, LAU MOTOR PARK",
     "name": "GWAWI, LAU MOTOR PARK",
@@ -20064,12 +19458,6 @@
     "state_code": "34"
   },
   {
-    "lga": "LAU",
-    "ward": "LAU I",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/10/09/001",
     "pu_name": "BUBA BACHAMA, KOFAR BUBA BACHAMA",
     "name": "BUBA BACHAMA, KOFAR BUBA BACHAMA",
@@ -20163,12 +19551,6 @@
     "pu_code": "34/10/09/011",
     "pu_name": "SHOMO SARKI III,SHOMO SARKI MATERNITY CLINIC",
     "name": "SHOMO SARKI III,SHOMO SARKI MATERNITY CLINIC",
-    "lga": "LAU",
-    "ward": "LAU II",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "LAU",
     "ward": "LAU II",
     "state": "Taraba",
@@ -20286,12 +19668,6 @@
     "pu_code": "34/10/10/013",
     "pu_name": "SAYONTI II, GDSS SAYONTI",
     "name": "SAYONTI II, GDSS SAYONTI",
-    "lga": "LAU",
-    "ward": "MAYO LOPE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "LAU",
     "ward": "MAYO LOPE",
     "state": "Taraba",
@@ -20544,12 +19920,6 @@
     "pu_code": "34/11/01/028",
     "pu_name": "TEM,  JONG PRIMARY SCHOOL",
     "name": "TEM,  JONG PRIMARY SCHOOL",
-    "lga": "SARDAUNA",
-    "ward": "GEMBU 'A'",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "SARDAUNA",
     "ward": "GEMBU 'A'",
     "state": "Taraba",
@@ -20970,12 +20340,6 @@
     "state_code": "34"
   },
   {
-    "lga": "SARDAUNA",
-    "ward": "GEMBU 'B'",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/11/03/001",
     "pu_name": "BANG D. KOWA, DADIN KOWA PRIMARY SCHOOL",
     "name": "BANG D. KOWA, DADIN KOWA PRIMARY SCHOOL",
@@ -21372,12 +20736,6 @@
     "state_code": "34"
   },
   {
-    "lga": "SARDAUNA",
-    "ward": "KABRI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/11/04/001",
     "pu_name": "ANTERE, ANTERE PRIMARY SCHOOL",
     "name": "ANTERE, ANTERE PRIMARY SCHOOL",
@@ -21648,12 +21006,6 @@
     "state_code": "34"
   },
   {
-    "lga": "SARDAUNA",
-    "ward": "KAKARA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/11/05/001",
     "pu_name": "FURMI I, FURMI PRIMARY SCHOOL",
     "name": "FURMI I, FURMI PRIMARY SCHOOL",
@@ -21819,12 +21171,6 @@
     "pu_code": "34/11/05/019",
     "pu_name": "ZOGON AJIYA MARKET SQUARE",
     "name": "ZOGON AJIYA MARKET SQUARE",
-    "lga": "SARDAUNA",
-    "ward": "MAGU",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "SARDAUNA",
     "ward": "MAGU",
     "state": "Taraba",
@@ -22164,12 +21510,6 @@
     "state_code": "34"
   },
   {
-    "lga": "SARDAUNA",
-    "ward": "MAYO-NDAGA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/11/07/001",
     "pu_name": "ARDO ADAMU, WURU ARDO ADAMU BANG",
     "name": "ARDO ADAMU, WURU ARDO ADAMU BANG",
@@ -22440,12 +21780,6 @@
     "state_code": "34"
   },
   {
-    "lga": "SARDAUNA",
-    "ward": "MBAMNGA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/11/08/001",
     "pu_name": "GAM, GAM VILLAGE",
     "name": "GAM, GAM VILLAGE",
@@ -22530,12 +21864,6 @@
     "pu_code": "34/11/08/010",
     "pu_name": "MAGAM DISPENSARY",
     "name": "MAGAM DISPENSARY",
-    "lga": "SARDAUNA",
-    "ward": "NDUM-YAJI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "SARDAUNA",
     "ward": "NDUM-YAJI",
     "state": "Taraba",
@@ -22965,12 +22293,6 @@
     "state_code": "34"
   },
   {
-    "lga": "SARDAUNA",
-    "ward": "NGUROJE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/11/10/001",
     "pu_name": "CHABBAL GUDALI - CHABBAL G. PRIMARY SCHOOL",
     "name": "CHABBAL GUDALI - CHABBAL G. PRIMARY SCHOOL",
@@ -23235,12 +22557,6 @@
     "pu_code": "34/11/10/030",
     "pu_name": "CHABBAL GUDALI  MARKET",
     "name": "CHABBAL GUDALI  MARKET",
-    "lga": "SARDAUNA",
-    "ward": "TITONG",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "SARDAUNA",
     "ward": "TITONG",
     "state": "Taraba",
@@ -23580,12 +22896,6 @@
     "state_code": "34"
   },
   {
-    "lga": "SARDAUNA",
-    "ward": "WARWAR",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/12/01/001",
     "pu_name": "ANGWAN LUFUM, K/SARKIN LUFUM",
     "name": "ANGWAN LUFUM, K/SARKIN LUFUM",
@@ -23706,12 +23016,6 @@
     "pu_code": "34/12/01/014",
     "pu_name": "WOROBO II OPEN SPACE",
     "name": "WOROBO II OPEN SPACE",
-    "lga": "TAKUM",
-    "ward": "BETE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "TAKUM",
     "ward": "BETE",
     "state": "Taraba",
@@ -24267,12 +23571,6 @@
     "state_code": "34"
   },
   {
-    "lga": "TAKUM",
-    "ward": "CHANCHANJI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/12/03/001",
     "pu_name": "BASANG, BASANG OPEN SPACE",
     "name": "BASANG, BASANG OPEN SPACE",
@@ -24561,12 +23859,6 @@
     "state_code": "34"
   },
   {
-    "lga": "TAKUM",
-    "ward": "DUTSE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/12/04/001",
     "pu_name": "GALUMJE, GALUMJE PRIMARY SCHOOL",
     "name": "GALUMJE, GALUMJE PRIMARY SCHOOL",
@@ -24705,12 +23997,6 @@
     "pu_code": "34/12/04/016",
     "pu_name": "SUFA MAMMAN OPEN SPACE",
     "name": "SUFA MAMMAN OPEN SPACE",
-    "lga": "TAKUM",
-    "ward": "FETE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "TAKUM",
     "ward": "FETE",
     "state": "Taraba",
@@ -24915,12 +24201,6 @@
     "state_code": "34"
   },
   {
-    "lga": "TAKUM",
-    "ward": "GAHWETON",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/12/06/001",
     "pu_name": "ANG. MADAKI, ANG. MADAKI",
     "name": "ANG. MADAKI, ANG. MADAKI",
@@ -25005,12 +24285,6 @@
     "pu_code": "34/12/06/010",
     "pu_name": "MGBE, MGBE PRIMARY SCHOOL",
     "name": "MGBE, MGBE PRIMARY SCHOOL",
-    "lga": "TAKUM",
-    "ward": "BIKASHIBILA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "TAKUM",
     "ward": "BIKASHIBILA",
     "state": "Taraba",
@@ -25137,12 +24411,6 @@
     "pu_code": "34/12/07/014",
     "pu_name": "UCHAPRIMARY SCHOOL",
     "name": "UCHAPRIMARY SCHOOL",
-    "lga": "TAKUM",
-    "ward": "MANYA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "TAKUM",
     "ward": "MANYA",
     "state": "Taraba",
@@ -25428,12 +24696,6 @@
     "state_code": "34"
   },
   {
-    "lga": "TAKUM",
-    "ward": "ROGO",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/12/09/001",
     "pu_name": "BARKI LISSAN I, BARKI LISSAN I",
     "name": "BARKI LISSAN I, BARKI LISSAN I",
@@ -25509,12 +24771,6 @@
     "pu_code": "34/12/09/009",
     "pu_name": "TAKPA LISSA OPEN SPACE",
     "name": "TAKPA LISSA OPEN SPACE",
-    "lga": "TAKUM",
-    "ward": "SHIBONG",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "TAKUM",
     "ward": "SHIBONG",
     "state": "Taraba",
@@ -25728,12 +24984,6 @@
     "state_code": "34"
   },
   {
-    "lga": "TAKUM",
-    "ward": "TIKARI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/12/11/001",
     "pu_name": "ACHA NYIM, ACHA NYIM",
     "name": "ACHA NYIM, ACHA NYIM",
@@ -25851,12 +25101,6 @@
     "state_code": "34"
   },
   {
-    "lga": "TAKUM",
-    "ward": "YUKUBEN",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/13/01/001",
     "pu_name": "KOFAR ANDETUR, KOFAR ANDETUR",
     "name": "KOFAR ANDETUR, KOFAR ANDETUR",
@@ -25932,12 +25176,6 @@
     "pu_code": "34/13/01/009",
     "pu_name": "(UBE PRIMARY SCHOOL,BIKA GABA)",
     "name": "(UBE PRIMARY SCHOOL,BIKA GABA)",
-    "lga": "USSA",
-    "ward": "BIKA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "USSA",
     "ward": "BIKA",
     "state": "Taraba",
@@ -26055,12 +25293,6 @@
     "pu_code": "34/13/02/014",
     "pu_name": "YANTXU MDGS MATERNITY CLINIC",
     "name": "YANTXU MDGS MATERNITY CLINIC",
-    "lga": "USSA",
-    "ward": "FIKYU",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "USSA",
     "ward": "FIKYU",
     "state": "Taraba",
@@ -26223,12 +25455,6 @@
     "pu_code": "34/13/03/018",
     "pu_name": "BESIDE OLD LEPROSY CLINIC",
     "name": "BESIDE OLD LEPROSY CLINIC",
-    "lga": "USSA",
-    "ward": "JENUWA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "USSA",
     "ward": "JENUWA",
     "state": "Taraba",
@@ -26415,12 +25641,6 @@
     "state_code": "34"
   },
   {
-    "lga": "USSA",
-    "ward": "KPAMBO",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/13/05/001",
     "pu_name": "KPAMBO PURI I, KPAMBO PURI PRIMARY SCHOOL",
     "name": "KPAMBO PURI I, KPAMBO PURI PRIMARY SCHOOL",
@@ -26541,12 +25761,6 @@
     "pu_code": "34/13/05/014",
     "pu_name": "(GDSS KPAMBO YASHE",
     "name": "(GDSS KPAMBO YASHE",
-    "lga": "USSA",
-    "ward": "KPAMBO PURI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "USSA",
     "ward": "KPAMBO PURI",
     "state": "Taraba",
@@ -26682,12 +25896,6 @@
     "pu_code": "34/13/06/015",
     "pu_name": "(KWAMBAI PRIMARY SCHOOL",
     "name": "(KWAMBAI PRIMARY SCHOOL",
-    "lga": "USSA",
-    "ward": "KWAMBAI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "USSA",
     "ward": "KWAMBAI",
     "state": "Taraba",
@@ -26847,12 +26055,6 @@
     "state_code": "34"
   },
   {
-    "lga": "USSA",
-    "ward": "KWESATI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/13/08/001",
     "pu_name": "KOFAR KWEZAKARIAH, KOFAR KWE ZAKARIAH",
     "name": "KOFAR KWEZAKARIAH, KOFAR KWE ZAKARIAH",
@@ -26979,12 +26181,6 @@
     "state_code": "34"
   },
   {
-    "lga": "USSA",
-    "ward": "LISSAM I",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/13/09/001",
     "pu_name": "K/KWE DANJUMA SINDE I, KOFAR KWE DANJUMA RIKI",
     "name": "K/KWE DANJUMA SINDE I, KOFAR KWE DANJUMA RIKI",
@@ -27102,12 +26298,6 @@
     "state_code": "34"
   },
   {
-    "lga": "USSA",
-    "ward": "LISSAM II",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/13/10/001",
     "pu_name": "KPAKYA, KPAKYA PRIMARY SCHOOL",
     "name": "KPAKYA, KPAKYA PRIMARY SCHOOL",
@@ -27183,12 +26373,6 @@
     "pu_code": "34/13/10/009",
     "pu_name": "(RIKWEN-CHARPAEN PRIMARY SCHOOL LUMBU)",
     "name": "(RIKWEN-CHARPAEN PRIMARY SCHOOL LUMBU)",
-    "lga": "USSA",
-    "ward": "LUMBU",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "USSA",
     "ward": "LUMBU",
     "state": "Taraba",
@@ -27315,12 +26499,6 @@
     "pu_code": "34/13/11/014",
     "pu_name": "(RIPWETA PRIMARY SCHOOL,RUFU)",
     "name": "(RIPWETA PRIMARY SCHOOL,RUFU)",
-    "lga": "USSA",
-    "ward": "RUFU",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "USSA",
     "ward": "RUFU",
     "state": "Taraba",
@@ -27483,12 +26661,6 @@
     "pu_code": "34/14/01/018",
     "pu_name": "TOR SAAI II",
     "name": "TOR SAAI II",
-    "lga": "WUKARI",
-    "ward": "AKWANA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "WUKARI",
     "ward": "AKWANA",
     "state": "Taraba",
@@ -27768,12 +26940,6 @@
     "pu_code": "34/14/02/031",
     "pu_name": "GSS STAFF QTRS",
     "name": "GSS STAFF QTRS",
-    "lga": "WUKARI",
-    "ward": "AVYI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "WUKARI",
     "ward": "AVYI",
     "state": "Taraba",
@@ -28410,12 +27576,6 @@
     "state_code": "34"
   },
   {
-    "lga": "WUKARI",
-    "ward": "BANTAJE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/14/04/001",
     "pu_name": "AKA AKAH, JANDEKYULA",
     "name": "AKA AKAH, JANDEKYULA",
@@ -28779,12 +27939,6 @@
     "pu_code": "34/14/04/041",
     "pu_name": "JABWAJE PR SCH",
     "name": "JABWAJE PR SCH",
-    "lga": "WUKARI",
-    "ward": "CHONKU",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "WUKARI",
     "ward": "CHONKU",
     "state": "Taraba",
@@ -29187,12 +28341,6 @@
     "state_code": "34"
   },
   {
-    "lga": "WUKARI",
-    "ward": "HOSPITAL",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/14/06/001",
     "pu_name": "ALAMINI, ALAMINI PRIMARY SCHOOL",
     "name": "ALAMINI, ALAMINI PRIMARY SCHOOL",
@@ -29493,12 +28641,6 @@
     "pu_code": "34/14/06/034",
     "pu_name": "BANYO MARKET",
     "name": "BANYO MARKET",
-    "lga": "WUKARI",
-    "ward": "JIBU",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "WUKARI",
     "ward": "JIBU",
     "state": "Taraba",
@@ -29832,12 +28974,6 @@
     "pu_code": "34/14/07/037",
     "pu_name": "GDSS SONDI",
     "name": "GDSS SONDI",
-    "lga": "WUKARI",
-    "ward": "KENTE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "WUKARI",
     "ward": "KENTE",
     "state": "Taraba",
@@ -30294,12 +29430,6 @@
     "state_code": "34"
   },
   {
-    "lga": "WUKARI",
-    "ward": "PUJE",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/14/09/001",
     "pu_name": "ABAKO/MBASHAGBA, MBASHAGBA",
     "name": "ABAKO/MBASHAGBA, MBASHAGBA",
@@ -30561,12 +29691,6 @@
     "state_code": "34"
   },
   {
-    "lga": "WUKARI",
-    "ward": "RAFIN KADA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/14/10/001",
     "pu_name": "AJUJI, AJUJI",
     "name": "AJUJI, AJUJI",
@@ -30774,12 +29898,6 @@
     "state_code": "34"
   },
   {
-    "lga": "WUKARI",
-    "ward": "TSOKUNDI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/15/01/001",
     "pu_name": "DINYA, A MINI MARKET PLACE",
     "name": "DINYA, A MINI MARKET PLACE",
@@ -30906,12 +30024,6 @@
     "state_code": "34"
   },
   {
-    "lga": "YORRO",
-    "ward": "BIKASSA I",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/15/02/001",
     "pu_name": "BARIKI DANKUM, A MINI MARKET PLACE",
     "name": "BARIKI DANKUM, A MINI MARKET PLACE",
@@ -31005,12 +30117,6 @@
     "pu_code": "34/15/02/011",
     "pu_name": "PUGON YAWO PRIMARY SCHOOL",
     "name": "PUGON YAWO PRIMARY SCHOOL",
-    "lga": "YORRO",
-    "ward": "BIKASSA II",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "YORRO",
     "ward": "BIKASSA II",
     "state": "Taraba",
@@ -31134,12 +30240,6 @@
     "state_code": "34"
   },
   {
-    "lga": "YORRO",
-    "ward": "NYAJA I",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/15/04/001",
     "pu_name": "PANTI BUBUTU, PANTI BUBUTU'S PALACE",
     "name": "PANTI BUBUTU, PANTI BUBUTU'S PALACE",
@@ -31179,12 +30279,6 @@
     "pu_code": "34/15/04/005",
     "pu_name": "PANTI SANYA PRIMARY SCHOOL",
     "name": "PANTI SANYA PRIMARY SCHOOL",
-    "lga": "YORRO",
-    "ward": "NYAJA II",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "YORRO",
     "ward": "NYAJA II",
     "state": "Taraba",
@@ -31335,12 +30429,6 @@
     "state_code": "34"
   },
   {
-    "lga": "YORRO",
-    "ward": "PANTISAWA I",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/15/06/001",
     "pu_name": "JAURO VOROBI, UNG. MISSION DIZA",
     "name": "JAURO VOROBI, UNG. MISSION DIZA",
@@ -31398,12 +30486,6 @@
     "pu_code": "34/15/06/007",
     "pu_name": "WAKILI PUGON MARKET SQUARE",
     "name": "WAKILI PUGON MARKET SQUARE",
-    "lga": "YORRO",
-    "ward": "PANTISAWA II",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "YORRO",
     "ward": "PANTISAWA II",
     "state": "Taraba",
@@ -31491,12 +30573,6 @@
     "state_code": "34"
   },
   {
-    "lga": "YORRO",
-    "ward": "PUPULE I",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/15/08/001",
     "pu_name": "BOLI MIKA, BOLI MIKA PRIMARY SCHOOL",
     "name": "BOLI MIKA, BOLI MIKA PRIMARY SCHOOL",
@@ -31563,12 +30639,6 @@
     "pu_code": "34/15/08/008",
     "pu_name": "PAKULUNG PRIMARY SCHOOL",
     "name": "PAKULUNG PRIMARY SCHOOL",
-    "lga": "YORRO",
-    "ward": "PUPULE II",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "YORRO",
     "ward": "PUPULE II",
     "state": "Taraba",
@@ -31668,12 +30738,6 @@
     "pu_code": "34/15/09/011",
     "pu_name": "MANANG DISPENSARY",
     "name": "MANANG DISPENSARY",
-    "lga": "YORRO",
-    "ward": "PUPULE III",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "YORRO",
     "ward": "PUPULE III",
     "state": "Taraba",
@@ -31842,12 +30906,6 @@
     "state_code": "34"
   },
   {
-    "lga": "YORRO",
-    "ward": "SUMBU I",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/15/11/001",
     "pu_name": "GARIN MAL. AUDU, GARIN MAL. AUDU PRIMARY SCHOOL",
     "name": "GARIN MAL. AUDU, GARIN MAL. AUDU PRIMARY SCHOOL",
@@ -31923,12 +30981,6 @@
     "pu_code": "34/15/11/009",
     "pu_name": "DANYAJA MARKET",
     "name": "DANYAJA MARKET",
-    "lga": "YORRO",
-    "ward": "SUMBU II",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "YORRO",
     "ward": "SUMBU II",
     "state": "Taraba",
@@ -32061,12 +31113,6 @@
     "state_code": "34"
   },
   {
-    "lga": "ZING",
-    "ward": "BITAKO",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/16/02/001",
     "pu_name": "BOMEH, BOMEH",
     "name": "BOMEH, BOMEH",
@@ -32160,12 +31206,6 @@
     "pu_code": "34/16/02/011",
     "pu_name": "YONKO, GDSS,YONKO",
     "name": "YONKO, GDSS,YONKO",
-    "lga": "ZING",
-    "ward": "BUBONG",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "ZING",
     "ward": "BUBONG",
     "state": "Taraba",
@@ -32274,12 +31314,6 @@
     "pu_code": "34/16/03/012",
     "pu_name": "YUKWAPRIMARY SCHOOL, DISPENSARY",
     "name": "YUKWAPRIMARY SCHOOL, DISPENSARY",
-    "lga": "ZING",
-    "ward": "DINDING",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "ZING",
     "ward": "DINDING",
     "state": "Taraba",
@@ -32412,12 +31446,6 @@
     "state_code": "34"
   },
   {
-    "lga": "ZING",
-    "ward": "LAMMA",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/16/05/001",
     "pu_name": "G.D.S.S. MONKIN, G.D.S.S. MONKIN",
     "name": "G.D.S.S. MONKIN, G.D.S.S. MONKIN",
@@ -32511,12 +31539,6 @@
     "pu_code": "34/16/05/011",
     "pu_name": "BELLA HEALTH CENTRE",
     "name": "BELLA HEALTH CENTRE",
-    "lga": "ZING",
-    "ward": "MONKIN A",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "ZING",
     "ward": "MONKIN A",
     "state": "Taraba",
@@ -32634,12 +31656,6 @@
     "pu_code": "34/16/06/013",
     "pu_name": "ZUM, ZUM PRIMARY SCHOOL",
     "name": "ZUM, ZUM PRIMARY SCHOOL",
-    "lga": "ZING",
-    "ward": "MONKIN B",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "ZING",
     "ward": "MONKIN B",
     "state": "Taraba",
@@ -32865,12 +31881,6 @@
     "pu_code": "34/16/07/025",
     "pu_name": "YAKOKO, GJSS YAKOKO",
     "name": "YAKOKO, GJSS YAKOKO",
-    "lga": "ZING",
-    "ward": "YAKOKO",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "ZING",
     "ward": "YAKOKO",
     "state": "Taraba",
@@ -33138,12 +32148,6 @@
     "state_code": "34"
   },
   {
-    "lga": "ZING",
-    "ward": "ZING AI",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "pu_code": "34/16/09/001",
     "pu_name": "KAGONG, KAGONG PRIMARY SCHOOL",
     "name": "KAGONG, KAGONG PRIMARY SCHOOL",
@@ -33219,12 +32223,6 @@
     "pu_code": "34/16/09/009",
     "pu_name": "LABIMANG DISPENSARY.OLD VTC.",
     "name": "LABIMANG DISPENSARY.OLD VTC.",
-    "lga": "ZING",
-    "ward": "ZING AII",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "ZING",
     "ward": "ZING AII",
     "state": "Taraba",
@@ -33369,12 +32367,6 @@
     "pu_code": "34/16/10/016",
     "pu_name": "EXTENSIONPRIMARY SCHOOL, ZANDI GIDA",
     "name": "EXTENSIONPRIMARY SCHOOL, ZANDI GIDA",
-    "lga": "ZING",
-    "ward": "ZING B",
-    "state": "Taraba",
-    "state_code": "34"
-  },
-  {
     "lga": "ZING",
     "ward": "ZING B",
     "state": "Taraba",

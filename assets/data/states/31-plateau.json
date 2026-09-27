@@ -297,12 +297,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BARIKIN LADI",
-    "ward": "BARAKIN LADI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/01/02/001",
     "pu_name": "GASSA EKAN SCHOOL",
     "name": "GASSA EKAN SCHOOL",
@@ -450,12 +444,6 @@
     "pu_code": "31/01/02/017",
     "pu_name": "OLD MARKET SQUARE",
     "name": "OLD MARKET SQUARE",
-    "lga": "BARIKIN LADI",
-    "ward": "GASSA/SHO",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BARIKIN LADI",
     "ward": "GASSA/SHO",
     "state": "Plateau",
@@ -627,12 +615,6 @@
     "pu_code": "31/01/03/019",
     "pu_name": "TANTI BABA III",
     "name": "TANTI BABA III",
-    "lga": "BARIKIN LADI",
-    "ward": "GINDIN AKWATI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BARIKIN LADI",
     "ward": "GINDIN AKWATI",
     "state": "Plateau",
@@ -822,12 +804,6 @@
     "pu_code": "31/01/04/021",
     "pu_name": "CHIT VILLAGE II",
     "name": "CHIT VILLAGE II",
-    "lga": "BARIKIN LADI",
-    "ward": "HEIPANG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BARIKIN LADI",
     "ward": "HEIPANG",
     "state": "Plateau",
@@ -1104,12 +1080,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BARIKIN LADI",
-    "ward": "KAPWIS",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/01/06/001",
     "pu_name": "ST. MATTHEWS KURRA FALLS",
     "name": "ST. MATTHEWS KURRA FALLS",
@@ -1221,12 +1191,6 @@
     "pu_code": "31/01/06/013",
     "pu_name": "GSS GASHISH",
     "name": "GSS GASHISH",
-    "lga": "BARIKIN LADI",
-    "ward": "KURRA FALLS",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BARIKIN LADI",
     "ward": "KURRA FALLS",
     "state": "Plateau",
@@ -1380,12 +1344,6 @@
     "pu_code": "31/01/07/017",
     "pu_name": "GENERAL HOSPITAL B/LADI",
     "name": "GENERAL HOSPITAL B/LADI",
-    "lga": "BARIKIN LADI",
-    "ward": "LOBIRING",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BARIKIN LADI",
     "ward": "LOBIRING",
     "state": "Plateau",
@@ -1554,12 +1512,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BARIKIN LADI",
-    "ward": "MARIT/MAZAT",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/01/09/001",
     "pu_name": "RITE RAZEK",
     "name": "RITE RAZEK",
@@ -1698,12 +1650,6 @@
     "pu_code": "31/01/09/016",
     "pu_name": "LEA PRI. SCH. LOSUS",
     "name": "LEA PRI. SCH. LOSUS",
-    "lga": "BARIKIN LADI",
-    "ward": "RAFAN",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BARIKIN LADI",
     "ward": "RAFAN",
     "state": "Plateau",
@@ -1929,12 +1875,6 @@
     "pu_code": "31/01/10/025",
     "pu_name": "LEA PRI. SCH. NTADUK",
     "name": "LEA PRI. SCH. NTADUK",
-    "lga": "BARIKIN LADI",
-    "ward": "TAFAN",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BARIKIN LADI",
     "ward": "TAFAN",
     "state": "Plateau",
@@ -2178,12 +2118,6 @@
     "pu_code": "31/01/11/027",
     "pu_name": "LEA PRI SCH RASAT",
     "name": "LEA PRI SCH RASAT",
-    "lga": "BARIKIN LADI",
-    "ward": "ZABOT",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BARIKIN LADI",
     "ward": "ZABOT",
     "state": "Plateau",
@@ -2487,12 +2421,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BOKKOS",
-    "ward": "BOKKOS",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/03/02/001",
     "pu_name": "PRIM. SCHOOL. BUTURA GIDA",
     "name": "PRIM. SCHOOL. BUTURA GIDA",
@@ -2727,12 +2655,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BOKKOS",
-    "ward": "BUTURA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/03/03/001",
     "pu_name": "PRIM. SCHOOL, DAFFO",
     "name": "PRIM. SCHOOL, DAFFO",
@@ -2886,12 +2808,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BOKKOS",
-    "ward": "DAFFO",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/03/04/001",
     "pu_name": "PRIM. SCHOOL, KAMWAI",
     "name": "PRIM. SCHOOL, KAMWAI",
@@ -2958,12 +2874,6 @@
     "pu_code": "31/03/04/008",
     "pu_name": "DURUK",
     "name": "DURUK",
-    "lga": "BOKKOS",
-    "ward": "KAMWAI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BOKKOS",
     "ward": "KAMWAI",
     "state": "Plateau",
@@ -3177,12 +3087,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BOKKOS",
-    "ward": "KWATAS",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/03/06/001",
     "pu_name": "PRIM. SCHOOL, GAWARZA",
     "name": "PRIM. SCHOOL, GAWARZA",
@@ -3294,12 +3198,6 @@
     "pu_code": "31/03/06/013",
     "pu_name": "MAKUNDAN",
     "name": "MAKUNDAN",
-    "lga": "BOKKOS",
-    "ward": "MANGOR",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BOKKOS",
     "ward": "MANGOR",
     "state": "Plateau",
@@ -3477,12 +3375,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BOKKOS",
-    "ward": "MBAR/MANGAR",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/03/08/001",
     "pu_name": "PRIM. SCHOOL, MANGUNA",
     "name": "PRIM. SCHOOL, MANGUNA",
@@ -3639,12 +3531,6 @@
     "pu_code": "31/03/08/018",
     "pu_name": "PRI.SCH.LAKKA",
     "name": "PRI.SCH.LAKKA",
-    "lga": "BOKKOS",
-    "ward": "MANGUNA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BOKKOS",
     "ward": "MANGUNA",
     "state": "Plateau",
@@ -3813,12 +3699,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BOKKOS",
-    "ward": "MUSHERE CENTRAL",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/03/10/001",
     "pu_name": "PRIM. SCHOOL, HOROP",
     "name": "PRIM. SCHOOL, HOROP",
@@ -3963,12 +3843,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BOKKOS",
-    "ward": "MUSHERE  WEST",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/03/11/001",
     "pu_name": "PRIM. SCHOOL, RICHA",
     "name": "PRIM. SCHOOL, RICHA",
@@ -4050,12 +3924,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BOKKOS",
-    "ward": "RICHA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/03/12/001",
     "pu_name": "PRIM. SCHOOL, SHA",
     "name": "PRIM. SCHOOL, SHA",
@@ -4113,12 +3981,6 @@
     "pu_code": "31/03/12/007",
     "pu_name": "PRI. SCH. WULLAM II",
     "name": "PRI. SCH. WULLAM II",
-    "lga": "BOKKOS",
-    "ward": "SHA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BOKKOS",
     "ward": "SHA",
     "state": "Plateau",
@@ -4287,12 +4149,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BOKKOS",
-    "ward": "TANGUR",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/03/14/001",
     "pu_name": "TOFF TABUI",
     "name": "TOFF TABUI",
@@ -4392,12 +4248,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BOKKOS",
-    "ward": "TOFF",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/04/01/001",
     "pu_name": "FEDERE/CLINIC",
     "name": "FEDERE/CLINIC",
@@ -4482,12 +4332,6 @@
     "pu_code": "31/04/01/010",
     "pu_name": "UNG MADAKI",
     "name": "UNG MADAKI",
-    "lga": "JOS EAST",
-    "ward": "FEDERE",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS EAST",
     "ward": "FEDERE",
     "state": "Plateau",
@@ -4647,12 +4491,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS EAST",
-    "ward": "FOBUR 'A'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/04/03/001",
     "pu_name": "KWANGA",
     "name": "KWANGA",
@@ -4797,12 +4635,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS EAST",
-    "ward": "FOBUR    'B'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/04/04/001",
     "pu_name": "NATON FUSA",
     "name": "NATON FUSA",
@@ -4938,12 +4770,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS EAST",
-    "ward": "FURSUM",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/04/05/001",
     "pu_name": "GURGU VILLAGE",
     "name": "GURGU VILLAGE",
@@ -5070,12 +4896,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS EAST",
-    "ward": "JARAWAN KOGI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/04/06/001",
     "pu_name": "GADA VILLAGE",
     "name": "GADA VILLAGE",
@@ -5193,12 +5013,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS EAST",
-    "ward": "MAI GEMU",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/04/07/001",
     "pu_name": "NITSENG",
     "name": "NITSENG",
@@ -5301,12 +5115,6 @@
     "pu_code": "31/04/07/012",
     "pu_name": "NITSENG  II",
     "name": "NITSENG  II",
-    "lga": "JOS EAST",
-    "ward": "MAIJUJU",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS EAST",
     "ward": "MAIJUJU",
     "state": "Plateau",
@@ -5439,12 +5247,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS EAST",
-    "ward": "SHERE EAST",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/04/09/001",
     "pu_name": "DURBI",
     "name": "DURBI",
@@ -5502,12 +5304,6 @@
     "pu_code": "31/04/09/007",
     "pu_name": "ZUBEN/DURBI",
     "name": "ZUBEN/DURBI",
-    "lga": "JOS EAST",
-    "ward": "SHERE WEST",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS EAST",
     "ward": "SHERE WEST",
     "state": "Plateau",
@@ -5643,12 +5439,6 @@
     "pu_code": "31/04/10/015",
     "pu_name": "GANDI SHOM",
     "name": "GANDI SHOM",
-    "lga": "JOS EAST",
-    "ward": "ZANDI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS EAST",
     "ward": "ZANDI",
     "state": "Plateau",
@@ -6126,12 +5916,6 @@
     "pu_code": "31/05/01/053",
     "pu_name": "FIRE SERVICE",
     "name": "FIRE SERVICE",
-    "lga": "JOS NORTH",
-    "ward": "ABBA NA SHEHU",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS NORTH",
     "ward": "ABBA NA SHEHU",
     "state": "Plateau",
@@ -6678,12 +6462,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS NORTH",
-    "ward": "ALI KAZAURE",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/05/03/001",
     "pu_name": "SARKI STREET",
     "name": "SARKI STREET",
@@ -7038,12 +6816,6 @@
     "pu_code": "31/05/03/040",
     "pu_name": "YAN KATIFA II",
     "name": "YAN KATIFA II",
-    "lga": "JOS NORTH",
-    "ward": "GARBA DAHO",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS NORTH",
     "ward": "GARBA DAHO",
     "state": "Plateau",
@@ -7419,12 +7191,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS NORTH",
-    "ward": "GANGARE",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/05/05/001",
     "pu_name": "ADEBAYO STREET",
     "name": "ADEBAYO STREET",
@@ -7752,12 +7518,6 @@
     "pu_code": "31/05/05/037",
     "pu_name": "LABOUR OFFICE JUNC. II",
     "name": "LABOUR OFFICE JUNC. II",
-    "lga": "JOS NORTH",
-    "ward": "IBRAHIM KATSINA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS NORTH",
     "ward": "IBRAHIM KATSINA",
     "state": "Plateau",
@@ -8172,12 +7932,6 @@
     "pu_code": "31/05/06/046",
     "pu_name": "WASE CLOSE ROUND ABOUT",
     "name": "WASE CLOSE ROUND ABOUT",
-    "lga": "JOS NORTH",
-    "ward": "JENTA ADAMU",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS NORTH",
     "ward": "JENTA ADAMU",
     "state": "Plateau",
@@ -8718,12 +8472,6 @@
     "pu_code": "31/05/07/060",
     "pu_name": "LOMAK STREET",
     "name": "LOMAK STREET",
-    "lga": "JOS NORTH",
-    "ward": "JENTA APATA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS NORTH",
     "ward": "JENTA APATA",
     "state": "Plateau",
@@ -9414,12 +9162,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS NORTH",
-    "ward": "JOS JARAWA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/05/09/001",
     "pu_name": "GADAN BAKO",
     "name": "GADAN BAKO",
@@ -9846,12 +9588,6 @@
     "pu_code": "31/05/09/048",
     "pu_name": "UNG AZI II",
     "name": "UNG AZI II",
-    "lga": "JOS NORTH",
-    "ward": "NARAGUTA 'A'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS NORTH",
     "ward": "NARAGUTA 'A'",
     "state": "Plateau",
@@ -11802,12 +11538,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS NORTH",
-    "ward": "NARAGUTA 'B'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/05/11/001",
     "pu_name": "MOHAMMED WADA STREET",
     "name": "MOHAMMED WADA STREET",
@@ -11988,12 +11718,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS NORTH",
-    "ward": "SARKIN ARAB",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/05/12/001",
     "pu_name": "KASHIM IBRAHIM",
     "name": "KASHIM IBRAHIM",
@@ -12132,12 +11856,6 @@
     "pu_code": "31/05/12/016",
     "pu_name": "THE GREEN BELT GARDEN",
     "name": "THE GREEN BELT GARDEN",
-    "lga": "JOS NORTH",
-    "ward": "TAFAWA BALEWA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS NORTH",
     "ward": "TAFAWA BALEWA",
     "state": "Plateau",
@@ -13827,12 +13545,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS NORTH",
-    "ward": "TUDUN WADA - KABONG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/05/14/001",
     "pu_name": "PANYAM STREET I",
     "name": "PANYAM STREET I",
@@ -13944,12 +13656,6 @@
     "pu_code": "31/05/14/013",
     "pu_name": "RWANG PAM STREET II",
     "name": "RWANG PAM STREET II",
-    "lga": "JOS NORTH",
-    "ward": "VANDERPUYE",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS NORTH",
     "ward": "VANDERPUYE",
     "state": "Plateau",
@@ -14649,12 +14355,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS SOUTH",
-    "ward": "BUKURU",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/06/02/001",
     "pu_name": "DU EKAN PRY. SCHOOL",
     "name": "DU EKAN PRY. SCHOOL",
@@ -15162,12 +14862,6 @@
     "pu_code": "31/06/02/057",
     "pu_name": "LOHWOL CHOM II",
     "name": "LOHWOL CHOM II",
-    "lga": "JOS SOUTH",
-    "ward": "DU",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS SOUTH",
     "ward": "DU",
     "state": "Plateau",
@@ -15894,12 +15588,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS SOUTH",
-    "ward": "GIRING",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/06/04/001",
     "pu_name": "SABON G/KANAR",
     "name": "SABON G/KANAR",
@@ -16227,12 +15915,6 @@
     "pu_code": "31/06/04/037",
     "pu_name": "LOHDA MANJEI",
     "name": "LOHDA MANJEI",
-    "lga": "JOS SOUTH",
-    "ward": "GYEL 'A'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS SOUTH",
     "ward": "GYEL 'A'",
     "state": "Plateau",
@@ -16644,12 +16326,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS SOUTH",
-    "ward": "GYEL 'B'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/06/06/001",
     "pu_name": "DAKAN",
     "name": "DAKAN",
@@ -16815,12 +16491,6 @@
     "pu_code": "31/06/06/019",
     "pu_name": "SHEZAM",
     "name": "SHEZAM",
-    "lga": "JOS SOUTH",
-    "ward": "KURU 'A'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS SOUTH",
     "ward": "KURU 'A'",
     "state": "Plateau",
@@ -17097,12 +16767,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS SOUTH",
-    "ward": "KURU 'B'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/06/08/001",
     "pu_name": "KAZONG SHEN I",
     "name": "KAZONG SHEN I",
@@ -17196,12 +16860,6 @@
     "pu_code": "31/06/08/011",
     "pu_name": "WADURUK",
     "name": "WADURUK",
-    "lga": "JOS SOUTH",
-    "ward": "SHEN",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS SOUTH",
     "ward": "SHEN",
     "state": "Plateau",
@@ -17508,12 +17166,6 @@
     "pu_code": "31/06/09/034",
     "pu_name": "BANGREL",
     "name": "BANGREL",
-    "lga": "JOS SOUTH",
-    "ward": "TURU",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS SOUTH",
     "ward": "TURU",
     "state": "Plateau",
@@ -17871,12 +17523,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS SOUTH",
-    "ward": "VWANG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/06/11/001",
     "pu_name": "ANGULDI",
     "name": "ANGULDI",
@@ -18195,12 +17841,6 @@
     "pu_code": "31/06/11/036",
     "pu_name": "KUKUN DAHWOL",
     "name": "KUKUN DAHWOL",
-    "lga": "JOS SOUTH",
-    "ward": "ZAWAN 'A'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "JOS SOUTH",
     "ward": "ZAWAN 'A'",
     "state": "Plateau",
@@ -18900,12 +18540,6 @@
     "state_code": "31"
   },
   {
-    "lga": "JOS SOUTH",
-    "ward": "ZAWAN 'B'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/07/01/001",
     "pu_name": "BIRBYANG PRY.SCHOOL",
     "name": "BIRBYANG PRY.SCHOOL",
@@ -18990,12 +18624,6 @@
     "pu_code": "31/07/01/010",
     "pu_name": "KUTKUT",
     "name": "KUTKUT",
-    "lga": "KANAM",
-    "ward": "BIRBYANG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "KANAM",
     "ward": "BIRBYANG",
     "state": "Plateau",
@@ -19461,12 +19089,6 @@
     "state_code": "31"
   },
   {
-    "lga": "KANAM",
-    "ward": "DENGI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/07/03/001",
     "pu_name": "DUGUB PRY. SCHOOL I",
     "name": "DUGUB PRY. SCHOOL I",
@@ -19551,12 +19173,6 @@
     "pu_code": "31/07/03/010",
     "pu_name": "KULLIKIT BWADAK",
     "name": "KULLIKIT BWADAK",
-    "lga": "KANAM",
-    "ward": "DUGUB",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "KANAM",
     "ward": "DUGUB",
     "state": "Plateau",
@@ -19869,12 +19485,6 @@
     "state_code": "31"
   },
   {
-    "lga": "KANAM",
-    "ward": "GAGDI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/07/05/001",
     "pu_name": "GARGA CENTRAL PRY. SCHOOL",
     "name": "GARGA CENTRAL PRY. SCHOOL",
@@ -20082,12 +19692,6 @@
     "state_code": "31"
   },
   {
-    "lga": "KANAM",
-    "ward": "GARGA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/07/06/001",
     "pu_name": "GUMSHER PRY. SCHOOL",
     "name": "GUMSHER PRY. SCHOOL",
@@ -20262,12 +19866,6 @@
     "pu_code": "31/07/06/020",
     "pu_name": "BANKAI PRY. SCHOOL",
     "name": "BANKAI PRY. SCHOOL",
-    "lga": "KANAM",
-    "ward": "GUMSHER",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "KANAM",
     "ward": "GUMSHER",
     "state": "Plateau",
@@ -20481,12 +20079,6 @@
     "state_code": "31"
   },
   {
-    "lga": "KANAM",
-    "ward": "GWAMLAR",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/07/08/001",
     "pu_name": "JARMAI CENTRAL PRY. SCHOOL",
     "name": "JARMAI CENTRAL PRY. SCHOOL",
@@ -20586,12 +20178,6 @@
     "state_code": "31"
   },
   {
-    "lga": "KANAM",
-    "ward": "JARMAI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/07/09/001",
     "pu_name": "JOM PRY. SCHOOL",
     "name": "JOM PRY. SCHOOL",
@@ -20667,12 +20253,6 @@
     "pu_code": "31/07/09/009",
     "pu_name": "BAKAMANU",
     "name": "BAKAMANU",
-    "lga": "KANAM",
-    "ward": "JOM",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "KANAM",
     "ward": "JOM",
     "state": "Plateau",
@@ -20868,12 +20448,6 @@
     "state_code": "31"
   },
   {
-    "lga": "KANAM",
-    "ward": "KANAM",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/07/11/001",
     "pu_name": "KANTANA PRY. SCHOOL",
     "name": "KANTANA PRY. SCHOOL",
@@ -21054,12 +20628,6 @@
     "state_code": "31"
   },
   {
-    "lga": "KANAM",
-    "ward": "KANTANA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/07/12/001",
     "pu_name": "TUTUNG PRY. SCHOOL",
     "name": "TUTUNG PRY. SCHOOL",
@@ -21231,12 +20799,6 @@
     "state_code": "31"
   },
   {
-    "lga": "KANAM",
-    "ward": "KUNKYAM",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/07/13/001",
     "pu_name": "MUNBUTBO PRY. SCHOOL",
     "name": "MUNBUTBO PRY. SCHOOL",
@@ -21375,12 +20937,6 @@
     "pu_code": "31/07/13/016",
     "pu_name": "SUGWAN",
     "name": "SUGWAN",
-    "lga": "KANAM",
-    "ward": "MUNBUTBO",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "KANAM",
     "ward": "MUNBUTBO",
     "state": "Plateau",
@@ -21543,12 +21099,6 @@
     "pu_code": "31/07/14/018",
     "pu_name": "MAHAUTA",
     "name": "MAHAUTA",
-    "lga": "KANAM",
-    "ward": "NAMARAN",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "KANAM",
     "ward": "NAMARAN",
     "state": "Plateau",
@@ -21726,12 +21276,6 @@
     "state_code": "31"
   },
   {
-    "lga": "KANKE",
-    "ward": "AMPANG-EAST",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/08/02/001",
     "pu_name": "LUWARANG I",
     "name": "LUWARANG I",
@@ -21879,12 +21423,6 @@
     "pu_code": "31/08/02/017",
     "pu_name": "GANTANG/KAPKAL",
     "name": "GANTANG/KAPKAL",
-    "lga": "KANKE",
-    "ward": "AMPER CHIKA 'A'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "KANKE",
     "ward": "AMPER CHIKA 'A'",
     "state": "Plateau",
@@ -22056,12 +21594,6 @@
     "pu_code": "31/08/03/019",
     "pu_name": "KANG",
     "name": "KANG",
-    "lga": "KANKE",
-    "ward": "AMPER CHIKA 'B'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "KANKE",
     "ward": "AMPER CHIKA 'B'",
     "state": "Plateau",
@@ -22284,12 +21816,6 @@
     "state_code": "31"
   },
   {
-    "lga": "KANKE",
-    "ward": "AMPER SERI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/08/05/001",
     "pu_name": "DAWAKI",
     "name": "DAWAKI",
@@ -22506,12 +22032,6 @@
     "state_code": "31"
   },
   {
-    "lga": "KANKE",
-    "ward": "DAWAKI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/08/06/001",
     "pu_name": "TOLLONG",
     "name": "TOLLONG",
@@ -22659,12 +22179,6 @@
     "pu_code": "31/08/06/017",
     "pu_name": "PIRI",
     "name": "PIRI",
-    "lga": "KANKE",
-    "ward": "GARRAM",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "KANKE",
     "ward": "GARRAM",
     "state": "Plateau",
@@ -22905,12 +22419,6 @@
     "state_code": "31"
   },
   {
-    "lga": "KANKE",
-    "ward": "KABWIR PADA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/08/08/001",
     "pu_name": "GYANGYANG I",
     "name": "GYANGYANG I",
@@ -23037,12 +22545,6 @@
     "state_code": "31"
   },
   {
-    "lga": "KANKE",
-    "ward": "KABWIR/GYANGYANG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/08/09/001",
     "pu_name": "LANGSHI I",
     "name": "LANGSHI I",
@@ -23127,12 +22629,6 @@
     "pu_code": "31/08/09/010",
     "pu_name": "MUNOK I",
     "name": "MUNOK I",
-    "lga": "KANKE",
-    "ward": "LANGSHI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "KANKE",
     "ward": "LANGSHI",
     "state": "Plateau",
@@ -23274,12 +22770,6 @@
     "state_code": "31"
   },
   {
-    "lga": "KANKE",
-    "ward": "NEMEL",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/09/01/001",
     "pu_name": "FUNYALANG (PRIMARY SCHOOL)",
     "name": "FUNYALANG (PRIMARY SCHOOL)",
@@ -23319,12 +22809,6 @@
     "pu_code": "31/09/01/005",
     "pu_name": "PANG LEA",
     "name": "PANG LEA",
-    "lga": "LANGTANG NORTH",
-    "ward": "FUNYALANG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "LANGTANG NORTH",
     "ward": "FUNYALANG",
     "state": "Plateau",
@@ -23442,12 +22926,6 @@
     "pu_code": "31/09/02/013",
     "pu_name": "BILLER PHC",
     "name": "BILLER PHC",
-    "lga": "LANGTANG NORTH",
-    "ward": "JAT",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "LANGTANG NORTH",
     "ward": "JAT",
     "state": "Plateau",
@@ -23646,12 +23124,6 @@
     "pu_code": "31/09/03/022",
     "pu_name": "DERKEN",
     "name": "DERKEN",
-    "lga": "LANGTANG NORTH",
-    "ward": "KELLER",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "LANGTANG NORTH",
     "ward": "KELLER",
     "state": "Plateau",
@@ -23982,12 +23454,6 @@
     "state_code": "31"
   },
   {
-    "lga": "LANGTANG NORTH",
-    "ward": "KUFFEN",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/09/05/001",
     "pu_name": "KWALLAK PRY. SCHOOL",
     "name": "KWALLAK PRY. SCHOOL",
@@ -24036,12 +23502,6 @@
     "pu_code": "31/09/05/006",
     "pu_name": "PHC LONGBAP",
     "name": "PHC LONGBAP",
-    "lga": "LANGTANG NORTH",
-    "ward": "KWALLAK",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "LANGTANG NORTH",
     "ward": "KWALLAK",
     "state": "Plateau",
@@ -24174,12 +23634,6 @@
     "state_code": "31"
   },
   {
-    "lga": "LANGTANG NORTH",
-    "ward": "KWANPE",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/09/07/001",
     "pu_name": "DINJOR",
     "name": "DINJOR",
@@ -24246,12 +23700,6 @@
     "pu_code": "31/09/07/008",
     "pu_name": "ZAMKUMKUM",
     "name": "ZAMKUMKUM",
-    "lga": "LANGTANG NORTH",
-    "ward": "LIPCHOK",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "LANGTANG NORTH",
     "ward": "LIPCHOK",
     "state": "Plateau",
@@ -24438,12 +23886,6 @@
     "state_code": "31"
   },
   {
-    "lga": "LANGTANG NORTH",
-    "ward": "MBAN/ZAMKO",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/09/09/001",
     "pu_name": "JIDADI NORTH",
     "name": "JIDADI NORTH",
@@ -24564,12 +24006,6 @@
     "pu_code": "31/09/09/014",
     "pu_name": "SHIKO",
     "name": "SHIKO",
-    "lga": "LANGTANG NORTH",
-    "ward": "NYER",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "LANGTANG NORTH",
     "ward": "NYER",
     "state": "Plateau",
@@ -24810,12 +24246,6 @@
     "state_code": "31"
   },
   {
-    "lga": "LANGTANG NORTH",
-    "ward": "PAJAT",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/09/11/001",
     "pu_name": "PIL-GANI",
     "name": "PIL-GANI",
@@ -24942,12 +24372,6 @@
     "state_code": "31"
   },
   {
-    "lga": "LANGTANG NORTH",
-    "ward": "PIL GANI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/09/12/001",
     "pu_name": "GANGLANG",
     "name": "GANGLANG",
@@ -25032,12 +24456,6 @@
     "pu_code": "31/09/12/010",
     "pu_name": "LEA ZAM - AIRPORT",
     "name": "LEA ZAM - AIRPORT",
-    "lga": "LANGTANG NORTH",
-    "ward": "PISHE/YASHI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "LANGTANG NORTH",
     "ward": "PISHE/YASHI",
     "state": "Plateau",
@@ -25242,12 +24660,6 @@
     "state_code": "31"
   },
   {
-    "lga": "LANGTANG NORTH",
-    "ward": "REAK",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/09/14/001",
     "pu_name": "WAROK/KONGLEB",
     "name": "WAROK/KONGLEB",
@@ -25383,12 +24795,6 @@
     "state_code": "31"
   },
   {
-    "lga": "LANGTANG NORTH",
-    "ward": "WAROH",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/10/01/001",
     "pu_name": "DADIN KOWA VIEWING CENTRE",
     "name": "DADIN KOWA VIEWING CENTRE",
@@ -25473,12 +24879,6 @@
     "pu_code": "31/10/01/010",
     "pu_name": "NORMADIC PRIMARY SCHOOL",
     "name": "NORMADIC PRIMARY SCHOOL",
-    "lga": "LANGTANG SOUTH",
-    "ward": "DADIN KOWA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "LANGTANG SOUTH",
     "ward": "DADIN KOWA",
     "state": "Plateau",
@@ -25602,12 +25002,6 @@
     "state_code": "31"
   },
   {
-    "lga": "LANGTANG SOUTH",
-    "ward": "FAJUL",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/10/03/001",
     "pu_name": "GAMAKAI VIEWING CENTRE",
     "name": "GAMAKAI VIEWING CENTRE",
@@ -25716,12 +25110,6 @@
     "state_code": "31"
   },
   {
-    "lga": "LANGTANG SOUTH",
-    "ward": "GAMAKAI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/10/04/001",
     "pu_name": "LASHEL VIEWING CENTRE",
     "name": "LASHEL VIEWING CENTRE",
@@ -25797,12 +25185,6 @@
     "pu_code": "31/10/04/009",
     "pu_name": "TONGTONG PRIMARY SCHOOL",
     "name": "TONGTONG PRIMARY SCHOOL",
-    "lga": "LANGTANG SOUTH",
-    "ward": "LASHEL",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "LANGTANG SOUTH",
     "ward": "LASHEL",
     "state": "Plateau",
@@ -26007,12 +25389,6 @@
     "state_code": "31"
   },
   {
-    "lga": "LANGTANG SOUTH",
-    "ward": "MABUDI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/10/06/001",
     "pu_name": "MAGAMA CENTRAL VIEWING CENTRE",
     "name": "MAGAMA CENTRAL VIEWING CENTRE",
@@ -26115,12 +25491,6 @@
     "pu_code": "31/10/06/012",
     "pu_name": "KARKASHI VIEWING CENTRE",
     "name": "KARKASHI VIEWING CENTRE",
-    "lga": "LANGTANG SOUTH",
-    "ward": "MAGAMA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "LANGTANG SOUTH",
     "ward": "MAGAMA",
     "state": "Plateau",
@@ -26244,12 +25614,6 @@
     "state_code": "31"
   },
   {
-    "lga": "LANGTANG SOUTH",
-    "ward": "SABON GIDA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/10/08/001",
     "pu_name": "TALGWANG VIEWING CENTRE",
     "name": "TALGWANG VIEWING CENTRE",
@@ -26352,12 +25716,6 @@
     "pu_code": "31/10/08/012",
     "pu_name": "TABULA PRIMARY SCHOOL",
     "name": "TABULA PRIMARY SCHOOL",
-    "lga": "LANGTANG SOUTH",
-    "ward": "TALGWANG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "LANGTANG SOUTH",
     "ward": "TALGWANG",
     "state": "Plateau",
@@ -26481,12 +25839,6 @@
     "state_code": "31"
   },
   {
-    "lga": "LANGTANG SOUTH",
-    "ward": "TIMBOL",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/10/10/001",
     "pu_name": "TURAKI CENTRAL MARKET SQUARE",
     "name": "TURAKI CENTRAL MARKET SQUARE",
@@ -26580,12 +25932,6 @@
     "pu_code": "31/10/10/011",
     "pu_name": "MILE FOUR MARKET SQUARE",
     "name": "MILE FOUR MARKET SQUARE",
-    "lga": "LANGTANG SOUTH",
-    "ward": "TURAKI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "LANGTANG SOUTH",
     "ward": "TURAKI",
     "state": "Plateau",
@@ -26880,12 +26226,6 @@
     "state_code": "31"
   },
   {
-    "lga": "MANGU",
-    "ward": "AMPANG WEST",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/11/02/001",
     "pu_name": "ANG. SARKI I",
     "name": "ANG. SARKI I",
@@ -26997,12 +26337,6 @@
     "pu_code": "31/11/02/013",
     "pu_name": "CHENGERKA",
     "name": "CHENGERKA",
-    "lga": "MANGU",
-    "ward": "CHANSO",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "MANGU",
     "ward": "CHANSO",
     "state": "Plateau",
@@ -27174,12 +26508,6 @@
     "pu_code": "31/11/03/019",
     "pu_name": "DICHANJAI",
     "name": "DICHANJAI",
-    "lga": "MANGU",
-    "ward": "GINDIRI  1",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "MANGU",
     "ward": "GINDIRI  1",
     "state": "Plateau",
@@ -27366,12 +26694,6 @@
     "state_code": "31"
   },
   {
-    "lga": "MANGU",
-    "ward": "GINDIRI  11",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/11/05/001",
     "pu_name": "JANNARET",
     "name": "JANNARET",
@@ -27447,12 +26769,6 @@
     "pu_code": "31/11/05/009",
     "pu_name": "KONDIGOHOR",
     "name": "KONDIGOHOR",
-    "lga": "MANGU",
-    "ward": "JANNARET",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "MANGU",
     "ward": "JANNARET",
     "state": "Plateau",
@@ -27648,12 +26964,6 @@
     "state_code": "31"
   },
   {
-    "lga": "MANGU",
-    "ward": "JIPAL/CHAKFEM",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/11/07/001",
     "pu_name": "KASUWA",
     "name": "KASUWA",
@@ -27783,12 +27093,6 @@
     "pu_code": "31/11/07/015",
     "pu_name": "JUNGA",
     "name": "JUNGA",
-    "lga": "MANGU",
-    "ward": "KADUNU",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "MANGU",
     "ward": "KADUNU",
     "state": "Plateau",
@@ -28032,12 +27336,6 @@
     "pu_code": "31/11/08/027",
     "pu_name": "DUNGBIN",
     "name": "DUNGBIN",
-    "lga": "MANGU",
-    "ward": "KERANG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "MANGU",
     "ward": "KERANG",
     "state": "Plateau",
@@ -28359,12 +27657,6 @@
     "state_code": "31"
   },
   {
-    "lga": "MANGU",
-    "ward": "KOMBUN",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/11/10/001",
     "pu_name": "LANGAI  1",
     "name": "LANGAI  1",
@@ -28476,12 +27768,6 @@
     "pu_code": "31/11/10/013",
     "pu_name": "GINDIN DUTSE",
     "name": "GINDIN DUTSE",
-    "lga": "MANGU",
-    "ward": "LANGAI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "MANGU",
     "ward": "LANGAI",
     "state": "Plateau",
@@ -28938,12 +28224,6 @@
     "state_code": "31"
   },
   {
-    "lga": "MANGU",
-    "ward": "MANGU  1",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/11/12/001",
     "pu_name": "GATE I MANGU TOWNSHIP STADIUM SABON LAYI ROAD  (ANG. SARKI I( MRM ISLAMIC NURS. & PRY SCH JIBWIS MANGU))",
     "name": "GATE I MANGU TOWNSHIP STADIUM SABON LAYI ROAD  (ANG. SARKI I( MRM ISLAMIC NURS. & PRY SCH JIBWIS MANGU))",
@@ -29214,12 +28494,6 @@
     "state_code": "31"
   },
   {
-    "lga": "MANGU",
-    "ward": "MANGU  11",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/11/13/001",
     "pu_name": "ANG. MADAKI/GIDAN MAI",
     "name": "ANG. MADAKI/GIDAN MAI",
@@ -29457,12 +28731,6 @@
     "pu_code": "31/11/13/027",
     "pu_name": "KONGDEP",
     "name": "KONGDEP",
-    "lga": "MANGU",
-    "ward": "MANGUN",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "MANGU",
     "ward": "MANGUN",
     "state": "Plateau",
@@ -29742,12 +29010,6 @@
     "pu_code": "31/11/14/031",
     "pu_name": "TUWAN",
     "name": "TUWAN",
-    "lga": "MANGU",
-    "ward": "MANGU HALLE",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "MANGU",
     "ward": "MANGU HALLE",
     "state": "Plateau",
@@ -30105,12 +29367,6 @@
     "state_code": "31"
   },
   {
-    "lga": "MANGU",
-    "ward": "PAN YAM",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/11/16/001",
     "pu_name": "ANG. SARKI  1",
     "name": "ANG. SARKI  1",
@@ -30363,12 +29619,6 @@
     "state_code": "31"
   },
   {
-    "lga": "MANGU",
-    "ward": "PUSHIT",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/12/01/001",
     "pu_name": "KONGWAN",
     "name": "KONGWAN",
@@ -30486,12 +29736,6 @@
     "state_code": "31"
   },
   {
-    "lga": "MIKANG",
-    "ward": "BALTEP",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/12/02/001",
     "pu_name": "LONGKROM",
     "name": "LONGKROM",
@@ -30564,12 +29808,6 @@
     "state_code": "31"
   },
   {
-    "lga": "MIKANG",
-    "ward": "GARKAWA CENTRAL",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/12/03/001",
     "pu_name": "PITOP N. R.C.M. SCHOOL",
     "name": "PITOP N. R.C.M. SCHOOL",
@@ -30618,12 +29856,6 @@
     "pu_code": "31/12/03/006",
     "pu_name": "GHAKBAP",
     "name": "GHAKBAP",
-    "lga": "MIKANG",
-    "ward": "GARKAWA NORTH",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "MIKANG",
     "ward": "GARKAWA NORTH",
     "state": "Plateau",
@@ -30711,12 +29943,6 @@
     "state_code": "31"
   },
   {
-    "lga": "MIKANG",
-    "ward": "GARKAWA NORTH EAST",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/12/05/001",
     "pu_name": "LIIFIDI  CLINIC",
     "name": "LIIFIDI  CLINIC",
@@ -30789,12 +30015,6 @@
     "state_code": "31"
   },
   {
-    "lga": "MIKANG",
-    "ward": "KOENOEM 'A'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/12/06/001",
     "pu_name": "PANGSHOT",
     "name": "PANGSHOT",
@@ -30834,12 +30054,6 @@
     "pu_code": "31/12/06/005",
     "pu_name": "LAMER MARKET SQUARE",
     "name": "LAMER MARKET SQUARE",
-    "lga": "MIKANG",
-    "ward": "KOENOEM 'B'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "MIKANG",
     "ward": "KOENOEM 'B'",
     "state": "Plateau",
@@ -31017,12 +30231,6 @@
     "state_code": "31"
   },
   {
-    "lga": "MIKANG",
-    "ward": "LALIN",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/12/08/001",
     "pu_name": "GWOTKAT",
     "name": "GWOTKAT",
@@ -31107,12 +30315,6 @@
     "pu_code": "31/12/08/010",
     "pu_name": "GWEIDET MARKET SQUARE",
     "name": "GWEIDET MARKET SQUARE",
-    "lga": "MIKANG",
-    "ward": "PIAPUNG 'A'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "MIKANG",
     "ward": "PIAPUNG 'A'",
     "state": "Plateau",
@@ -31239,12 +30441,6 @@
     "pu_code": "31/12/09/014",
     "pu_name": "PHC CLINIC LUA",
     "name": "PHC CLINIC LUA",
-    "lga": "MIKANG",
-    "ward": "PIAPUNG 'B'",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "MIKANG",
     "ward": "PIAPUNG 'B'",
     "state": "Plateau",
@@ -31416,12 +30612,6 @@
     "pu_code": "31/12/10/019",
     "pu_name": "PANDAL",
     "name": "PANDAL",
-    "lga": "MIKANG",
-    "ward": "TUNKUS",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "MIKANG",
     "ward": "TUNKUS",
     "state": "Plateau",
@@ -31743,12 +30933,6 @@
     "state_code": "31"
   },
   {
-    "lga": "PANKSHIN",
-    "ward": "CHIP",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/13/02/001",
     "pu_name": "NGOLONG DOK",
     "name": "NGOLONG DOK",
@@ -31833,12 +31017,6 @@
     "pu_code": "31/13/02/010",
     "pu_name": "LASSIM",
     "name": "LASSIM",
-    "lga": "PANKSHIN",
-    "ward": "DOK-PAI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "PANKSHIN",
     "ward": "DOK-PAI",
     "state": "Plateau",
@@ -32064,12 +31242,6 @@
     "pu_code": "31/13/03/025",
     "pu_name": "PHC MUDEL",
     "name": "PHC MUDEL",
-    "lga": "PANKSHIN",
-    "ward": "FIER",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "PANKSHIN",
     "ward": "FIER",
     "state": "Plateau",
@@ -32328,12 +31500,6 @@
     "state_code": "31"
   },
   {
-    "lga": "PANKSHIN",
-    "ward": "JIBLIK",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/13/05/001",
     "pu_name": "KUMBUL  I",
     "name": "KUMBUL  I",
@@ -32451,12 +31617,6 @@
     "state_code": "31"
   },
   {
-    "lga": "PANKSHIN",
-    "ward": "KADUNG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/13/06/001",
     "pu_name": "JANNARET",
     "name": "JANNARET",
@@ -32559,12 +31719,6 @@
     "pu_code": "31/13/06/012",
     "pu_name": "JANNARET II",
     "name": "JANNARET II",
-    "lga": "PANKSHIN",
-    "ward": "KANGSHU",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "PANKSHIN",
     "ward": "KANGSHU",
     "state": "Plateau",
@@ -32790,12 +31944,6 @@
     "pu_code": "31/13/07/025",
     "pu_name": "EKAN PRI. SCH",
     "name": "EKAN PRI. SCH",
-    "lga": "PANKSHIN",
-    "ward": "LANKAN",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "PANKSHIN",
     "ward": "LANKAN",
     "state": "Plateau",
@@ -33279,12 +32427,6 @@
     "state_code": "31"
   },
   {
-    "lga": "PANKSHIN",
-    "ward": "PANKSHIN CENTRAL",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/13/09/001",
     "pu_name": "CHIGWONG",
     "name": "CHIGWONG",
@@ -33447,12 +32589,6 @@
     "state_code": "31"
   },
   {
-    "lga": "PANKSHIN",
-    "ward": "PANKSHIN  CHIGWONG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/13/10/001",
     "pu_name": "KOR",
     "name": "KOR",
@@ -33579,12 +32715,6 @@
     "state_code": "31"
   },
   {
-    "lga": "PANKSHIN",
-    "ward": "PANKSHIN  SOUTH (BELNING)",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/13/11/001",
     "pu_name": "BALONG",
     "name": "BALONG",
@@ -33678,12 +32808,6 @@
     "pu_code": "31/13/11/011",
     "pu_name": "MUDONG",
     "name": "MUDONG",
-    "lga": "PANKSHIN",
-    "ward": "TAL",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "PANKSHIN",
     "ward": "TAL",
     "state": "Plateau",
@@ -33828,12 +32952,6 @@
     "pu_code": "31/13/12/016",
     "pu_name": "TUWALK SEPO",
     "name": "TUWALK SEPO",
-    "lga": "PANKSHIN",
-    "ward": "WOKKOS",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "PANKSHIN",
     "ward": "WOKKOS",
     "state": "Plateau",
@@ -34011,12 +33129,6 @@
     "state_code": "31"
   },
   {
-    "lga": "QUA'AN PAN",
-    "ward": "BWALL",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/14/02/001",
     "pu_name": "KOPDANGLOE",
     "name": "KOPDANGLOE",
@@ -34161,12 +33273,6 @@
     "state_code": "31"
   },
   {
-    "lga": "QUA'AN PAN",
-    "ward": "DOEMAK-GOECHIM",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/14/03/001",
     "pu_name": "GARES ANG. DASHE ALONG KWA ROAD",
     "name": "GARES ANG. DASHE ALONG KWA ROAD",
@@ -34293,12 +33399,6 @@
     "state_code": "31"
   },
   {
-    "lga": "QUA'AN PAN",
-    "ward": "DOEMAK-KOPLONG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/14/04/001",
     "pu_name": "SC., PRI. SCH., DOKAN KASUWA (UNG.HAUSAWA  I",
     "name": "SC., PRI. SCH., DOKAN KASUWA (UNG.HAUSAWA  I",
@@ -34374,12 +33474,6 @@
     "pu_code": "31/14/04/009",
     "pu_name": "KWANOENG TASHA",
     "name": "KWANOENG TASHA",
-    "lga": "QUA'AN PAN",
-    "ward": "DOKAN KASUWA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "QUA'AN PAN",
     "ward": "DOKAN KASUWA",
     "state": "Plateau",
@@ -34629,12 +33723,6 @@
     "state_code": "31"
   },
   {
-    "lga": "QUA'AN PAN",
-    "ward": "KURGWI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/14/06/001",
     "pu_name": "DUNG/ MEER/ CHIMWAR",
     "name": "DUNG/ MEER/ CHIMWAR",
@@ -34800,12 +33888,6 @@
     "pu_code": "31/14/06/019",
     "pu_name": "LARDANG GOETOENG",
     "name": "LARDANG GOETOENG",
-    "lga": "QUA'AN PAN",
-    "ward": "KWA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "QUA'AN PAN",
     "ward": "KWA",
     "state": "Plateau",
@@ -35064,12 +34146,6 @@
     "state_code": "31"
   },
   {
-    "lga": "QUA'AN PAN",
-    "ward": "KWALLA MOEDA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/14/08/001",
     "pu_name": "PRY. SCHOOL CHIM KOPLONG",
     "name": "PRY. SCHOOL CHIM KOPLONG",
@@ -35199,12 +34275,6 @@
     "pu_code": "31/14/08/015",
     "pu_name": "KOPJONG/ KOPGOESHI",
     "name": "KOPJONG/ KOPGOESHI",
-    "lga": "QUA'AN PAN",
-    "ward": "KWALLA YITLA'AR",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "QUA'AN PAN",
     "ward": "KWALLA YITLA'AR",
     "state": "Plateau",
@@ -35616,12 +34686,6 @@
     "state_code": "31"
   },
   {
-    "lga": "QUA'AN PAN",
-    "ward": "KWANDE",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/14/10/001",
     "pu_name": "KOPLONG",
     "name": "KOPLONG",
@@ -35715,12 +34779,6 @@
     "pu_code": "31/14/10/011",
     "pu_name": "PHC GOE'ES/ GOEYANG",
     "name": "PHC GOE'ES/ GOEYANG",
-    "lga": "QUA'AN PAN",
-    "ward": "KWANG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "QUA'AN PAN",
     "ward": "KWANG",
     "state": "Plateau",
@@ -36411,12 +35469,6 @@
     "state_code": "31"
   },
   {
-    "lga": "QUA'AN PAN",
-    "ward": "NAMU",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/15/01/001",
     "pu_name": "ATTAKAR PRY. SCHOOL",
     "name": "ATTAKAR PRY. SCHOOL",
@@ -36474,12 +35526,6 @@
     "pu_code": "31/15/01/007",
     "pu_name": "HYES COMMUNITY PRY SCH",
     "name": "HYES COMMUNITY PRY SCH",
-    "lga": "RIYOM",
-    "ward": "ATTAKAR",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "RIYOM",
     "ward": "ATTAKAR",
     "state": "Plateau",
@@ -36633,12 +35679,6 @@
     "pu_code": "31/15/02/017",
     "pu_name": "PHC DANWAL",
     "name": "PHC DANWAL",
-    "lga": "RIYOM",
-    "ward": "BUM",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "RIYOM",
     "ward": "BUM",
     "state": "Plateau",
@@ -36825,12 +35865,6 @@
     "state_code": "31"
   },
   {
-    "lga": "RIYOM",
-    "ward": "DANTO",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/15/04/001",
     "pu_name": "JOL PRIMARY SCHOOL",
     "name": "JOL PRIMARY SCHOOL",
@@ -36984,12 +36018,6 @@
     "state_code": "31"
   },
   {
-    "lga": "RIYOM",
-    "ward": "JOL/KWI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/15/05/001",
     "pu_name": "RA-HOSS PRY. SCHOOL",
     "name": "RA-HOSS PRY. SCHOOL",
@@ -37116,12 +36144,6 @@
     "state_code": "31"
   },
   {
-    "lga": "RIYOM",
-    "ward": "RA-HOSS",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/15/06/001",
     "pu_name": "EKAN PRY. SCHOOL, RIM",
     "name": "EKAN PRY. SCHOOL, RIM",
@@ -37224,12 +36246,6 @@
     "pu_code": "31/15/06/012",
     "pu_name": "GAKO PHC",
     "name": "GAKO PHC",
-    "lga": "RIYOM",
-    "ward": "RIM",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "RIYOM",
     "ward": "RIM",
     "state": "Plateau",
@@ -37401,12 +36417,6 @@
     "pu_code": "31/15/07/019",
     "pu_name": "LEA PRY SCHOOL HWOT",
     "name": "LEA PRY SCHOOL HWOT",
-    "lga": "RIYOM",
-    "ward": "RIYOM",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "RIYOM",
     "ward": "RIYOM",
     "state": "Plateau",
@@ -37593,12 +36603,6 @@
     "state_code": "31"
   },
   {
-    "lga": "RIYOM",
-    "ward": "SHARUBUTU",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/15/09/001",
     "pu_name": "EKAN PRY. SCH. SOPP  I",
     "name": "EKAN PRY. SCH. SOPP  I",
@@ -37674,12 +36678,6 @@
     "pu_code": "31/15/09/009",
     "pu_name": "LEA PRY SCHOOL TOM TIGI",
     "name": "LEA PRY SCHOOL TOM TIGI",
-    "lga": "RIYOM",
-    "ward": "SOPP",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "RIYOM",
     "ward": "SOPP",
     "state": "Plateau",
@@ -37779,12 +36777,6 @@
     "pu_code": "31/15/10/011",
     "pu_name": "RANTERE COMMUNITY SQUARE",
     "name": "RANTERE COMMUNITY SQUARE",
-    "lga": "RIYOM",
-    "ward": "TA-HOSS",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "RIYOM",
     "ward": "TA-HOSS",
     "state": "Plateau",
@@ -37929,12 +36921,6 @@
     "pu_code": "31/16/01/016",
     "pu_name": "LEA PRIM. SCH. DUNGGOESHING",
     "name": "LEA PRIM. SCH. DUNGGOESHING",
-    "lga": "SHENDAM",
-    "ward": "DERTENG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "SHENDAM",
     "ward": "DERTENG",
     "state": "Plateau",
@@ -38229,12 +37215,6 @@
     "state_code": "31"
   },
   {
-    "lga": "SHENDAM",
-    "ward": "KALONG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/16/03/001",
     "pu_name": "KWAPJUR I",
     "name": "KWAPJUR I",
@@ -38409,12 +37389,6 @@
     "pu_code": "31/16/03/020",
     "pu_name": "NGWANGLONG",
     "name": "NGWANGLONG",
-    "lga": "SHENDAM",
-    "ward": "KURUNGBAU (A)",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "SHENDAM",
     "ward": "KURUNGBAU (A)",
     "state": "Plateau",
@@ -38691,12 +37665,6 @@
     "state_code": "31"
   },
   {
-    "lga": "SHENDAM",
-    "ward": "KURUNGBAU (B)",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/16/05/001",
     "pu_name": "COMPANY UNIT",
     "name": "COMPANY UNIT",
@@ -38943,12 +37911,6 @@
     "pu_code": "31/16/05/028",
     "pu_name": "TONGILEI (OPEN SPACE)",
     "name": "TONGILEI (OPEN SPACE)",
-    "lga": "SHENDAM",
-    "ward": "MOEKAT",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "SHENDAM",
     "ward": "MOEKAT",
     "state": "Plateau",
@@ -39243,12 +38205,6 @@
     "state_code": "31"
   },
   {
-    "lga": "SHENDAM",
-    "ward": "PANGSHOM",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/16/07/001",
     "pu_name": "NTUER I",
     "name": "NTUER I",
@@ -39459,12 +38415,6 @@
     "pu_code": "31/16/07/024",
     "pu_name": "UNG. SARKI MARKET",
     "name": "UNG. SARKI MARKET",
-    "lga": "SHENDAM",
-    "ward": "POESHIP",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "SHENDAM",
     "ward": "POESHIP",
     "state": "Plateau",
@@ -39840,12 +38790,6 @@
     "state_code": "31"
   },
   {
-    "lga": "SHENDAM",
-    "ward": "SHENDAM CENTRAL (A)",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/16/09/001",
     "pu_name": "LUWOKUR SOUTH I",
     "name": "LUWOKUR SOUTH I",
@@ -40152,12 +39096,6 @@
     "state_code": "31"
   },
   {
-    "lga": "SHENDAM",
-    "ward": "SHENDAM CENTRAL (B)",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/16/10/001",
     "pu_name": "BIEMBIEM I",
     "name": "BIEMBIEM I",
@@ -40449,12 +39387,6 @@
     "pu_code": "31/16/10/033",
     "pu_name": "BALNUWAR",
     "name": "BALNUWAR",
-    "lga": "SHENDAM",
-    "ward": "SHIMANKAR",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "SHENDAM",
     "ward": "SHIMANKAR",
     "state": "Plateau",
@@ -40812,12 +39744,6 @@
     "state_code": "31"
   },
   {
-    "lga": "SHENDAM",
-    "ward": "YELWA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/17/01/001",
     "pu_name": "AREA COURT",
     "name": "AREA COURT",
@@ -41115,12 +40041,6 @@
     "state_code": "31"
   },
   {
-    "lga": "WASE",
-    "ward": "BASHAR",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/17/02/001",
     "pu_name": "CENTRAL PRY. SCH. WASE I",
     "name": "CENTRAL PRY. SCH. WASE I",
@@ -41382,12 +40302,6 @@
     "state_code": "31"
   },
   {
-    "lga": "WASE",
-    "ward": "DANBIRAM",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/17/03/001",
     "pu_name": "UNG. CHIROMA",
     "name": "UNG. CHIROMA",
@@ -41544,12 +40458,6 @@
     "pu_code": "31/17/03/018",
     "pu_name": "PHC YULLI",
     "name": "PHC YULLI",
-    "lga": "WASE",
-    "ward": "GUDUS",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "WASE",
     "ward": "GUDUS",
     "state": "Plateau",
@@ -41880,12 +40788,6 @@
     "state_code": "31"
   },
   {
-    "lga": "WASE",
-    "ward": "KADARKO",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/17/05/001",
     "pu_name": "UNG. BALA",
     "name": "UNG. BALA",
@@ -41952,12 +40854,6 @@
     "pu_code": "31/17/05/008",
     "pu_name": "MAMPYEM PRI SCH",
     "name": "MAMPYEM PRI SCH",
-    "lga": "WASE",
-    "ward": "KUMBONG",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "WASE",
     "ward": "KUMBONG",
     "state": "Plateau",
@@ -42360,12 +41256,6 @@
     "state_code": "31"
   },
   {
-    "lga": "WASE",
-    "ward": "KUMBUR",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/17/07/001",
     "pu_name": "UNG. GOBIRAWA",
     "name": "UNG. GOBIRAWA",
@@ -42555,12 +41445,6 @@
     "state_code": "31"
   },
   {
-    "lga": "WASE",
-    "ward": "KUYAMBANA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/17/08/001",
     "pu_name": "UNG. SARKIN YAKI",
     "name": "UNG. SARKIN YAKI",
@@ -42735,12 +41619,6 @@
     "pu_code": "31/17/08/020",
     "pu_name": "UNG. MAKONGIJI",
     "name": "UNG. MAKONGIJI",
-    "lga": "WASE",
-    "ward": "MAVO",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "WASE",
     "ward": "MAVO",
     "state": "Plateau",
@@ -42927,12 +41805,6 @@
     "state_code": "31"
   },
   {
-    "lga": "WASE",
-    "ward": "NYALUM/KAMPANI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/17/10/001",
     "pu_name": "UNG. GALADIMA(TURAKI)",
     "name": "UNG. GALADIMA(TURAKI)",
@@ -43017,12 +41889,6 @@
     "pu_code": "31/17/10/011",
     "pu_name": "SHILUR MARKET",
     "name": "SHILUR MARKET",
-    "lga": "WASE",
-    "ward": "SALUWE",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "WASE",
     "ward": "SALUWE",
     "state": "Plateau",
@@ -43149,12 +42015,6 @@
     "pu_code": "31/17/11/014",
     "pu_name": "NUNGTI",
     "name": "NUNGTI",
-    "lga": "WASE",
-    "ward": "WASE TOFA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "WASE",
     "ward": "WASE TOFA",
     "state": "Plateau",
@@ -43362,12 +42222,6 @@
     "pu_code": "31/17/12/023",
     "pu_name": "PRI SCH DEM 15",
     "name": "PRI SCH DEM 15",
-    "lga": "WASE",
-    "ward": "YOLA WAKAT",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "WASE",
     "ward": "YOLA WAKAT",
     "state": "Plateau",
@@ -43815,12 +42669,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BASSA",
-    "ward": "BUHIT",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/02/02/001",
     "pu_name": "BINTIRI",
     "name": "BINTIRI",
@@ -43920,12 +42768,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BASSA",
-    "ward": "BUJI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/02/03/001",
     "pu_name": "GABIA  I",
     "name": "GABIA  I",
@@ -43974,12 +42816,6 @@
     "pu_code": "31/02/03/006",
     "pu_name": "KPERIE",
     "name": "KPERIE",
-    "lga": "BASSA",
-    "ward": "GABIA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BASSA",
     "ward": "GABIA",
     "state": "Plateau",
@@ -44223,12 +43059,6 @@
     "pu_code": "31/02/04/027",
     "pu_name": "MAGISTRATE COURT",
     "name": "MAGISTRATE COURT",
-    "lga": "BASSA",
-    "ward": "GURUM",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BASSA",
     "ward": "GURUM",
     "state": "Plateau",
@@ -44541,12 +43371,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BASSA",
-    "ward": "JENGRE",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/02/06/001",
     "pu_name": "KATAKO  I",
     "name": "KATAKO  I",
@@ -44658,12 +43482,6 @@
     "pu_code": "31/02/06/013",
     "pu_name": "KAHNABIR",
     "name": "KAHNABIR",
-    "lga": "BASSA",
-    "ward": "KADAMO",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BASSA",
     "ward": "KADAMO",
     "state": "Plateau",
@@ -44940,12 +43758,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BASSA",
-    "ward": "KAKKEK",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/02/08/001",
     "pu_name": "FICHIZA I",
     "name": "FICHIZA I",
@@ -45057,12 +43869,6 @@
     "pu_code": "31/02/08/013",
     "pu_name": "LUWARAM",
     "name": "LUWARAM",
-    "lga": "BASSA",
-    "ward": "KASURU",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BASSA",
     "ward": "KASURU",
     "state": "Plateau",
@@ -45189,12 +43995,6 @@
     "pu_code": "31/02/09/014",
     "pu_name": "ANGWAN DAUDA",
     "name": "ANGWAN DAUDA",
-    "lga": "BASSA",
-    "ward": "KIMAKPA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BASSA",
     "ward": "KIMAKPA",
     "state": "Plateau",
@@ -45345,12 +44145,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BASSA",
-    "ward": "KISHIKA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/02/11/001",
     "pu_name": "MAFARA",
     "name": "MAFARA",
@@ -45453,12 +44247,6 @@
     "pu_code": "31/02/11/012",
     "pu_name": "BOMON DAJI",
     "name": "BOMON DAJI",
-    "lga": "BASSA",
-    "ward": "MAFARA",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BASSA",
     "ward": "MAFARA",
     "state": "Plateau",
@@ -45627,12 +44415,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BASSA",
-    "ward": "RIMI",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/02/13/001",
     "pu_name": "KITAGO I",
     "name": "KITAGO I",
@@ -45735,12 +44517,6 @@
     "pu_code": "31/02/13/012",
     "pu_name": "KITAGO II B",
     "name": "KITAGO II B",
-    "lga": "BASSA",
-    "ward": "TA'AGBE",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BASSA",
     "ward": "TA'AGBE",
     "state": "Plateau",
@@ -45858,12 +44634,6 @@
     "pu_code": "31/02/14/013",
     "pu_name": "MOUDI JEBBU MIANGO",
     "name": "MOUDI JEBBU MIANGO",
-    "lga": "BASSA",
-    "ward": "TAHU",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BASSA",
     "ward": "TAHU",
     "state": "Plateau",
@@ -46041,12 +44811,6 @@
     "state_code": "31"
   },
   {
-    "lga": "BASSA",
-    "ward": "ZABOLO",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "pu_code": "31/02/16/001",
     "pu_name": "MARKET",
     "name": "MARKET",
@@ -46113,12 +44877,6 @@
     "pu_code": "31/02/16/008",
     "pu_name": "MARKET IIA",
     "name": "MARKET IIA",
-    "lga": "BASSA",
-    "ward": "ZOBWO",
-    "state": "Plateau",
-    "state_code": "31"
-  },
-  {
     "lga": "BASSA",
     "ward": "ZOBWO",
     "state": "Plateau",

@@ -297,12 +297,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ABOH MBAISE",
-    "ward": "ENYIOGUGU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/01/02/001",
     "pu_name": "COMMUNITY SCHOOL UMUEZII I",
     "name": "COMMUNITY SCHOOL UMUEZII I",
@@ -459,12 +453,6 @@
     "pu_code": "16/01/02/018",
     "pu_name": "NDUHU HALL",
     "name": "NDUHU HALL",
-    "lga": "ABOH MBAISE",
-    "ward": "NGURU-AHIATO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ABOH MBAISE",
     "ward": "NGURU-AHIATO",
     "state": "Imo",
@@ -672,12 +660,6 @@
     "pu_code": "16/01/03/023",
     "pu_name": "EZENA AJA HALL",
     "name": "EZENA AJA HALL",
-    "lga": "ABOH MBAISE",
-    "ward": "NGURU-NWENKWO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ABOH MBAISE",
     "ward": "NGURU-NWENKWO",
     "state": "Imo",
@@ -936,12 +918,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ABOH MBAISE",
-    "ward": "NGURU-NWEKE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/01/05/001",
     "pu_name": "ISIALA HALL",
     "name": "ISIALA HALL",
@@ -1140,12 +1116,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ABOH MBAISE",
-    "ward": "MBUTU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/01/06/001",
     "pu_name": "AKPOTU HALL",
     "name": "AKPOTU HALL",
@@ -1272,12 +1242,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ABOH MBAISE",
-    "ward": "UVURU 1",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/01/07/001",
     "pu_name": "UMUOKEHIE HALL",
     "name": "UMUOKEHIE HALL",
@@ -1386,12 +1350,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ABOH MBAISE",
-    "ward": "UVURU II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/01/08/001",
     "pu_name": "COMMUNITY SCHOOL LORJI I",
     "name": "COMMUNITY SCHOOL LORJI I",
@@ -1458,12 +1416,6 @@
     "pu_code": "16/01/08/008",
     "pu_name": "UMUAGBEDE HALL-NDIOKWU",
     "name": "UMUAGBEDE HALL-NDIOKWU",
-    "lga": "ABOH MBAISE",
-    "ward": "LORJI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ABOH MBAISE",
     "ward": "LORJI",
     "state": "Imo",
@@ -1614,12 +1566,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ABOH MBAISE",
-    "ward": "AMUZU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/01/10/001",
     "pu_name": "TOWN SCHOOL UMUHU",
     "name": "TOWN SCHOOL UMUHU",
@@ -1728,12 +1674,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ABOH MBAISE",
-    "ward": "UMUHU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/01/11/001",
     "pu_name": "GROUP SCHOOL LAGWA",
     "name": "GROUP SCHOOL LAGWA",
@@ -1836,12 +1776,6 @@
     "pu_code": "16/01/11/012",
     "pu_name": "NKWO LAGWA MARKET-SQUARE",
     "name": "NKWO LAGWA MARKET-SQUARE",
-    "lga": "ABOH MBAISE",
-    "ward": "LAGWA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ABOH MBAISE",
     "ward": "LAGWA",
     "state": "Imo",
@@ -1968,12 +1902,6 @@
     "pu_code": "16/01/12/014",
     "pu_name": "UGWU UGBA NA EBI SQ.",
     "name": "UGWU UGBA NA EBI SQ.",
-    "lga": "ABOH MBAISE",
-    "ward": "IBEKU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ABOH MBAISE",
     "ward": "IBEKU",
     "state": "Imo",
@@ -2169,12 +2097,6 @@
     "state_code": "16"
   },
   {
-    "lga": "AHIAZU MBAISE",
-    "ward": "OGBE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/02/02/001",
     "pu_name": "UMUAGU HALL OTULU",
     "name": "UMUAGU HALL OTULU",
@@ -2337,12 +2259,6 @@
     "state_code": "16"
   },
   {
-    "lga": "AHIAZU MBAISE",
-    "ward": "OTULU/AGUNEZE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/02/03/001",
     "pu_name": "COMMUNITY SCHOOL ORU I",
     "name": "COMMUNITY SCHOOL ORU I",
@@ -2487,12 +2403,6 @@
     "state_code": "16"
   },
   {
-    "lga": "AHIAZU MBAISE",
-    "ward": "ORU-NA-LUDE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/02/04/001",
     "pu_name": "COMMUNITY SCHOOL NNARAMBIA I",
     "name": "COMMUNITY SCHOOL NNARAMBIA I",
@@ -2595,12 +2505,6 @@
     "pu_code": "16/02/04/012",
     "pu_name": "UMUOKORIE HALL",
     "name": "UMUOKORIE HALL",
-    "lga": "AHIAZU MBAISE",
-    "ward": "NNARAMBIA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "AHIAZU MBAISE",
     "ward": "NNARAMBIA",
     "state": "Imo",
@@ -2754,12 +2658,6 @@
     "pu_code": "16/02/05/017",
     "pu_name": "NDINWAKWU HALL",
     "name": "NDINWAKWU HALL",
-    "lga": "AHIAZU MBAISE",
-    "ward": "OKIRIKA NWENKWO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "AHIAZU MBAISE",
     "ward": "OKIRIKA NWENKWO",
     "state": "Imo",
@@ -3018,12 +2916,6 @@
     "state_code": "16"
   },
   {
-    "lga": "AHIAZU MBAISE",
-    "ward": "AMUZI/IHENWORIE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/02/07/001",
     "pu_name": "UMUDURUEZE HALL",
     "name": "UMUDURUEZE HALL",
@@ -3117,12 +3009,6 @@
     "pu_code": "16/02/07/011",
     "pu_name": "IKENGA HALL",
     "name": "IKENGA HALL",
-    "lga": "AHIAZU MBAISE",
-    "ward": "OKIRIKA NWEKE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "AHIAZU MBAISE",
     "ward": "OKIRIKA NWEKE",
     "state": "Imo",
@@ -3264,12 +3150,6 @@
     "state_code": "16"
   },
   {
-    "lga": "AHIAZU MBAISE",
-    "ward": "OBOHIA/EKWEREAZU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/02/09/001",
     "pu_name": "COMMUNITY SCHOOL NWAMERE",
     "name": "COMMUNITY SCHOOL NWAMERE",
@@ -3405,12 +3285,6 @@
     "state_code": "16"
   },
   {
-    "lga": "AHIAZU MBAISE",
-    "ward": "MPAM",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/02/10/001",
     "pu_name": "COMM. SCH. OPARANADIM NWEAFOR",
     "name": "COMM. SCH. OPARANADIM NWEAFOR",
@@ -3528,12 +3402,6 @@
     "state_code": "16"
   },
   {
-    "lga": "AHIAZU MBAISE",
-    "ward": "OPARANADIM",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/02/11/001",
     "pu_name": "UMUNUMO HALL I",
     "name": "UMUNUMO HALL I",
@@ -3600,12 +3468,6 @@
     "pu_code": "16/02/11/008",
     "pu_name": "UMUOBI HALL",
     "name": "UMUOBI HALL",
-    "lga": "AHIAZU MBAISE",
-    "ward": "UMUNUMO/UMUCHIEZE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "AHIAZU MBAISE",
     "ward": "UMUNUMO/UMUCHIEZE",
     "state": "Imo",
@@ -3705,12 +3567,6 @@
     "pu_code": "16/02/12/011",
     "pu_name": "UMUEZEARIAM HALL",
     "name": "UMUEZEARIAM HALL",
-    "lga": "AHIAZU MBAISE",
-    "ward": "OGBOR/UMUEZE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "AHIAZU MBAISE",
     "ward": "OGBOR/UMUEZE",
     "state": "Imo",
@@ -3834,12 +3690,6 @@
     "state_code": "16"
   },
   {
-    "lga": "EHIME MBANO",
-    "ward": "AGBAJA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/03/02/001",
     "pu_name": "UMUODE CIVIC HALL",
     "name": "UMUODE CIVIC HALL",
@@ -3924,12 +3774,6 @@
     "pu_code": "16/03/02/010",
     "pu_name": "ODENAEZEALA UMUKABIA TOWN HALL",
     "name": "ODENAEZEALA UMUKABIA TOWN HALL",
-    "lga": "EHIME MBANO",
-    "ward": "UMUKABIA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "EHIME MBANO",
     "ward": "UMUKABIA",
     "state": "Imo",
@@ -4080,12 +3924,6 @@
     "state_code": "16"
   },
   {
-    "lga": "EHIME MBANO",
-    "ward": "NSU 'A' IKPE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/03/04/001",
     "pu_name": "COMPREHENSIVE SEC. SCH. AGBAGHARA",
     "name": "COMPREHENSIVE SEC. SCH. AGBAGHARA",
@@ -4194,12 +4032,6 @@
     "state_code": "16"
   },
   {
-    "lga": "EHIME MBANO",
-    "ward": "NSU 'B' IHITTE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/03/05/001",
     "pu_name": "OBOLLO PRIMARY SCHOOL DIOKA NZEREM",
     "name": "OBOLLO PRIMARY SCHOOL DIOKA NZEREM",
@@ -4275,12 +4107,6 @@
     "pu_code": "16/03/05/009",
     "pu_name": "ARIRINAOBAHA HALL DIOKA",
     "name": "ARIRINAOBAHA HALL DIOKA",
-    "lga": "EHIME MBANO",
-    "ward": "NZEREM/IKPEM",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "EHIME MBANO",
     "ward": "NZEREM/IKPEM",
     "state": "Imo",
@@ -4371,12 +4197,6 @@
     "pu_code": "16/03/06/010",
     "pu_name": "UMUDURUEHIZE HALL UMUDIMOKORO",
     "name": "UMUDURUEHIZE HALL UMUDIMOKORO",
-    "lga": "EHIME MBANO",
-    "ward": "UMUALUMAKU/UMUIHIM",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "EHIME MBANO",
     "ward": "UMUALUMAKU/UMUIHIM",
     "state": "Imo",
@@ -4494,12 +4314,6 @@
     "pu_code": "16/03/07/013",
     "pu_name": "UMUWERIM OWERRE HALL UMUNAKANU",
     "name": "UMUWERIM OWERRE HALL UMUNAKANU",
-    "lga": "EHIME MBANO",
-    "ward": "UMUNAKANU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "EHIME MBANO",
     "ward": "UMUNAKANU",
     "state": "Imo",
@@ -4689,12 +4503,6 @@
     "pu_code": "16/03/08/021",
     "pu_name": "UMUMGBO HALL UMUARO",
     "name": "UMUMGBO HALL UMUARO",
-    "lga": "EHIME MBANO",
-    "ward": "UMUNUMO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "EHIME MBANO",
     "ward": "UMUNUMO",
     "state": "Imo",
@@ -4908,12 +4716,6 @@
     "state_code": "16"
   },
   {
-    "lga": "EHIME MBANO",
-    "ward": "UMUEZEALA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/03/10/001",
     "pu_name": "CENTRAL SCHOOL UMUEZE I",
     "name": "CENTRAL SCHOOL UMUEZE I",
@@ -5025,12 +4827,6 @@
     "pu_code": "16/03/10/013",
     "pu_name": "UMUAWUCHI OWERRE HALL",
     "name": "UMUAWUCHI OWERRE HALL",
-    "lga": "EHIME MBANO",
-    "ward": "UMUEZE I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "EHIME MBANO",
     "ward": "UMUEZE I",
     "state": "Imo",
@@ -5163,12 +4959,6 @@
     "state_code": "16"
   },
   {
-    "lga": "EHIME MBANO",
-    "ward": "UMUEZE II/UMUELEKE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/04/01/001",
     "pu_name": "OTULU HALL",
     "name": "OTULU HALL",
@@ -5286,12 +5076,6 @@
     "state_code": "16"
   },
   {
-    "lga": "EZINIHITTE MBAISE",
-    "ward": "AMUMARA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/04/02/001",
     "pu_name": "TOWN SCHOOL ITU",
     "name": "TOWN SCHOOL ITU",
@@ -5394,12 +5178,6 @@
     "pu_code": "16/04/02/012",
     "pu_name": "UMUOCHAM VILLAGE HALL",
     "name": "UMUOCHAM VILLAGE HALL",
-    "lga": "EZINIHITTE MBAISE",
-    "ward": "ITU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "EZINIHITTE MBAISE",
     "ward": "ITU",
     "state": "Imo",
@@ -5595,12 +5373,6 @@
     "state_code": "16"
   },
   {
-    "lga": "EZINIHITTE MBAISE",
-    "ward": "OKPOFE / EZEAGBOGU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/04/04/001",
     "pu_name": "COMM. SCHOOL. UMUEKWENE I",
     "name": "COMM. SCHOOL. UMUEKWENE I",
@@ -5667,12 +5439,6 @@
     "pu_code": "16/04/04/008",
     "pu_name": "UMUORJI VILLAGE HALL",
     "name": "UMUORJI VILLAGE HALL",
-    "lga": "EZINIHITTE MBAISE",
-    "ward": "ONICHA I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "EZINIHITTE MBAISE",
     "ward": "ONICHA I",
     "state": "Imo",
@@ -5778,12 +5544,6 @@
     "state_code": "16"
   },
   {
-    "lga": "EZINIHITTE MBAISE",
-    "ward": "ONICHA II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/04/06/001",
     "pu_name": "UMUHU HALL I",
     "name": "UMUHU HALL I",
@@ -5865,12 +5625,6 @@
     "state_code": "16"
   },
   {
-    "lga": "EZINIHITTE MBAISE",
-    "ward": "ONICHA III",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/04/07/001",
     "pu_name": "EZIAMA HALL",
     "name": "EZIAMA HALL",
@@ -5928,12 +5682,6 @@
     "pu_code": "16/04/07/007",
     "pu_name": "TOWN SCH. OMUKWU",
     "name": "TOWN SCH. OMUKWU",
-    "lga": "EZINIHITTE MBAISE",
-    "ward": "ONICHA IV",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "EZINIHITTE MBAISE",
     "ward": "ONICHA IV",
     "state": "Imo",
@@ -6102,12 +5850,6 @@
     "state_code": "16"
   },
   {
-    "lga": "EZINIHITTE MBAISE",
-    "ward": "EZIUDO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/04/09/001",
     "pu_name": "COMM. SCHOOL UDO",
     "name": "COMM. SCHOOL UDO",
@@ -6255,12 +5997,6 @@
     "pu_code": "16/04/09/017",
     "pu_name": "UMUEZE HALL OBIZI",
     "name": "UMUEZE HALL OBIZI",
-    "lga": "EZINIHITTE MBAISE",
-    "ward": "UDO-NA-OBIZI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "EZINIHITTE MBAISE",
     "ward": "UDO-NA-OBIZI",
     "state": "Imo",
@@ -6429,12 +6165,6 @@
     "state_code": "16"
   },
   {
-    "lga": "EZINIHITTE MBAISE",
-    "ward": "IHITTE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/04/11/001",
     "pu_name": "COMM. SCHOOL OBOAMA",
     "name": "COMM. SCHOOL OBOAMA",
@@ -6573,12 +6303,6 @@
     "pu_code": "16/04/11/016",
     "pu_name": "OKWU NA UGA HALL",
     "name": "OKWU NA UGA HALL",
-    "lga": "EZINIHITTE MBAISE",
-    "ward": "OBOAMA/UMUNAMA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "EZINIHITTE MBAISE",
     "ward": "OBOAMA/UMUNAMA",
     "state": "Imo",
@@ -6810,12 +6534,6 @@
     "state_code": "16"
   },
   {
-    "lga": "EZINIHITTE MBAISE",
-    "ward": "CHOKONEZE/AKPODIM/IFE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/05/01/001",
     "pu_name": "CENTRAL SCHOOL III AKPULU I",
     "name": "CENTRAL SCHOOL III AKPULU I",
@@ -6909,12 +6627,6 @@
     "pu_code": "16/05/01/011",
     "pu_name": "UMUISIM VILLAGE HALL",
     "name": "UMUISIM VILLAGE HALL",
-    "lga": "IDEATO NORTH",
-    "ward": "AKPULU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IDEATO NORTH",
     "ward": "AKPULU",
     "state": "Imo",
@@ -7032,12 +6744,6 @@
     "pu_code": "16/05/02/013",
     "pu_name": "OLD PEOPLE CARE UNIT UMUOKWARA",
     "name": "OLD PEOPLE CARE UNIT UMUOKWARA",
-    "lga": "IDEATO NORTH",
-    "ward": "ISIOKPO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IDEATO NORTH",
     "ward": "ISIOKPO",
     "state": "Imo",
@@ -7197,12 +6903,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IDEATO NORTH",
-    "ward": "UMUOKWARA/UMUEZEAGA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/05/04/001",
     "pu_name": "AMUHU SQUARE",
     "name": "AMUHU SQUARE",
@@ -7323,12 +7023,6 @@
     "pu_code": "16/05/04/014",
     "pu_name": "UMUEZE VILLAGE SQUARE",
     "name": "UMUEZE VILLAGE SQUARE",
-    "lga": "IDEATO NORTH",
-    "ward": "AKWU OWERRE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IDEATO NORTH",
     "ward": "AKWU OWERRE",
     "state": "Imo",
@@ -7482,12 +7176,6 @@
     "pu_code": "16/05/05/017",
     "pu_name": "ST. DAMIANS SECONDARY TECH. SCH. UMUKEGWU",
     "name": "ST. DAMIANS SECONDARY TECH. SCH. UMUKEGWU",
-    "lga": "IDEATO NORTH",
-    "ward": "UMUOPIA/UMUKEGWU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IDEATO NORTH",
     "ward": "UMUOPIA/UMUKEGWU",
     "state": "Imo",
@@ -7710,12 +7398,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IDEATO NORTH",
-    "ward": "NDI IHEME ARONDIZUOGU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/05/07/001",
     "pu_name": "COMMUNITY SCHOOL V. NDIAWA",
     "name": "COMMUNITY SCHOOL V. NDIAWA",
@@ -7788,12 +7470,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IDEATO NORTH",
-    "ward": "IZUOGU I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/05/08/001",
     "pu_name": "COMMUNITY SCH. NDIMOKO",
     "name": "COMMUNITY SCH. NDIMOKO",
@@ -7851,12 +7527,6 @@
     "pu_code": "16/05/08/007",
     "pu_name": "OKPORENYI VILLAGE HALL II",
     "name": "OKPORENYI VILLAGE HALL II",
-    "lga": "IDEATO NORTH",
-    "ward": "NDIMOKO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IDEATO NORTH",
     "ward": "NDIMOKO",
     "state": "Imo",
@@ -8025,12 +7695,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IDEATO NORTH",
-    "ward": "OBODOUKWU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/05/10/001",
     "pu_name": "ST. JOSEPH'S VOCATIONAL COMM. SCH., OSINA",
     "name": "ST. JOSEPH'S VOCATIONAL COMM. SCH., OSINA",
@@ -8148,12 +7812,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IDEATO NORTH",
-    "ward": "OSINA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/05/11/001",
     "pu_name": "UZU TOWN HALL",
     "name": "UZU TOWN HALL",
@@ -8238,12 +7896,6 @@
     "pu_code": "16/05/11/010",
     "pu_name": "ABIAKA NA NWAEGBO SQUARE",
     "name": "ABIAKA NA NWAEGBO SQUARE",
-    "lga": "IDEATO NORTH",
-    "ward": "UZII/UMUALOMA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IDEATO NORTH",
     "ward": "UZII/UMUALOMA",
     "state": "Imo",
@@ -8361,12 +8013,6 @@
     "pu_code": "16/05/12/013",
     "pu_name": "MODEL PRIM. SCH. URUALLA",
     "name": "MODEL PRIM. SCH. URUALLA",
-    "lga": "IDEATO NORTH",
-    "ward": "EZEMAZU/OZU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IDEATO NORTH",
     "ward": "EZEMAZU/OZU",
     "state": "Imo",
@@ -8571,12 +8217,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IDEATO NORTH",
-    "ward": "OZUAKOKI/UMUAGO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/05/14/001",
     "pu_name": "COMMUNITY SCHOOL NDIEJEZIE I",
     "name": "COMMUNITY SCHOOL NDIEJEZIE I",
@@ -8643,12 +8283,6 @@
     "pu_code": "16/05/14/008",
     "pu_name": "ORIE MARKET SQUARE NDIEJEZIE I",
     "name": "ORIE MARKET SQUARE NDIEJEZIE I",
-    "lga": "IDEATO NORTH",
-    "ward": "IZUOGU II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IDEATO NORTH",
     "ward": "IZUOGU II",
     "state": "Imo",
@@ -8808,12 +8442,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IDEATO SOUTH",
-    "ward": "AMANATOR/UMUESHI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/06/02/001",
     "pu_name": "UMUDIKE HALL",
     "name": "UMUDIKE HALL",
@@ -8916,12 +8544,6 @@
     "pu_code": "16/06/02/012",
     "pu_name": "COMMUNITY SCH. 4 DIKENAFAI",
     "name": "COMMUNITY SCH. 4 DIKENAFAI",
-    "lga": "IDEATO SOUTH",
-    "ward": "DIKENAFAI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IDEATO SOUTH",
     "ward": "DIKENAFAI",
     "state": "Imo",
@@ -9036,12 +8658,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IDEATO SOUTH",
-    "ward": "ISIEKENESI I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/06/04/001",
     "pu_name": "UMUOJISI VILLAGE HALL",
     "name": "UMUOJISI VILLAGE HALL",
@@ -9141,12 +8757,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IDEATO SOUTH",
-    "ward": "ISIEKENESI II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/06/05/001",
     "pu_name": "UHUALLA VILLAGE SQUARE",
     "name": "UHUALLA VILLAGE SQUARE",
@@ -9228,12 +8838,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IDEATO SOUTH",
-    "ward": "NTUEKE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/06/06/001",
     "pu_name": "ELUAMA HALL I",
     "name": "ELUAMA HALL I",
@@ -9291,12 +8895,6 @@
     "pu_code": "16/06/06/007",
     "pu_name": "COMPREHENSIVE SEC. SCH. UGBELLE",
     "name": "COMPREHENSIVE SEC. SCH. UGBELLE",
-    "lga": "IDEATO SOUTH",
-    "ward": "UGBELLE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IDEATO SOUTH",
     "ward": "UGBELLE",
     "state": "Imo",
@@ -9369,12 +8967,6 @@
     "pu_code": "16/06/07/008",
     "pu_name": "UMUDURUANYANWU VILLAGE SQ.(OPEN SPACE) (003B)",
     "name": "UMUDURUANYANWU VILLAGE SQ.(OPEN SPACE) (003B)",
-    "lga": "IDEATO SOUTH",
-    "ward": "OBIOHIA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IDEATO SOUTH",
     "ward": "OBIOHIA",
     "state": "Imo",
@@ -9462,12 +9054,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IDEATO SOUTH",
-    "ward": "OGBOKO I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/06/09/001",
     "pu_name": "UMUEZEALA HALL",
     "name": "UMUEZEALA HALL",
@@ -9525,12 +9111,6 @@
     "pu_code": "16/06/09/007",
     "pu_name": "UMUCHINEKWU SQ.",
     "name": "UMUCHINEKWU SQ.",
-    "lga": "IDEATO SOUTH",
-    "ward": "OGBOKO II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IDEATO SOUTH",
     "ward": "OGBOKO II",
     "state": "Imo",
@@ -9609,12 +9189,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IDEATO SOUTH",
-    "ward": "UMUAKAM/UMUAGO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/06/11/001",
     "pu_name": "OKORODURUAKU VILLAGE SQUARE",
     "name": "OKORODURUAKU VILLAGE SQUARE",
@@ -9663,12 +9237,6 @@
     "pu_code": "16/06/11/006",
     "pu_name": "ST. KIZITO SEC. SCHOOL",
     "name": "ST. KIZITO SEC. SCHOOL",
-    "lga": "IDEATO SOUTH",
-    "ward": "UMUCHIMA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IDEATO SOUTH",
     "ward": "UMUCHIMA",
     "state": "Imo",
@@ -9831,12 +9399,6 @@
     "pu_code": "16/06/12/018",
     "pu_name": "UMUEZEALA OHA VILLAGE HALL",
     "name": "UMUEZEALA OHA VILLAGE HALL",
-    "lga": "IDEATO SOUTH",
-    "ward": "UMUMA ISIAKU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IDEATO SOUTH",
     "ward": "UMUMA ISIAKU",
     "state": "Imo",
@@ -10095,12 +9657,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IDEATO SOUTH",
-    "ward": "UMUOBOM",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/07/01/001",
     "pu_name": "UMUEZEALA TOWN HALL I",
     "name": "UMUEZEALA TOWN HALL I",
@@ -10185,12 +9741,6 @@
     "pu_code": "16/07/01/010",
     "pu_name": "IBI HALL",
     "name": "IBI HALL",
-    "lga": "IHITTE/UBOMA (ISINWEKE)",
-    "ward": "ABUEKE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IHITTE/UBOMA (ISINWEKE)",
     "ward": "ABUEKE",
     "state": "Imo",
@@ -10299,12 +9849,6 @@
     "pu_code": "16/07/02/012",
     "pu_name": "ISINWEKE MOTOR PARK II",
     "name": "ISINWEKE MOTOR PARK II",
-    "lga": "IHITTE/UBOMA (ISINWEKE)",
-    "ward": "AMAKOHIA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IHITTE/UBOMA (ISINWEKE)",
     "ward": "AMAKOHIA",
     "state": "Imo",
@@ -10428,12 +9972,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IHITTE/UBOMA (ISINWEKE)",
-    "ward": "AMAINYI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/07/04/001",
     "pu_name": "UMUEMEE VILLAGE HALL I",
     "name": "UMUEMEE VILLAGE HALL I",
@@ -10518,12 +10056,6 @@
     "pu_code": "16/07/04/010",
     "pu_name": "UMUOKOROAFOR HALL",
     "name": "UMUOKOROAFOR HALL",
-    "lga": "IHITTE/UBOMA (ISINWEKE)",
-    "ward": "ATONERIM",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IHITTE/UBOMA (ISINWEKE)",
     "ward": "ATONERIM",
     "state": "Imo",
@@ -10638,12 +10170,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IHITTE/UBOMA (ISINWEKE)",
-    "ward": "AWUCHINUMO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/07/06/001",
     "pu_name": "ULO IKORO UMUEZEKE HALL",
     "name": "ULO IKORO UMUEZEKE HALL",
@@ -10737,12 +10263,6 @@
     "pu_code": "16/07/06/011",
     "pu_name": "UMUAKPA VILLAGE HALL",
     "name": "UMUAKPA VILLAGE HALL",
-    "lga": "IHITTE/UBOMA (ISINWEKE)",
-    "ward": "DIMNEZE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IHITTE/UBOMA (ISINWEKE)",
     "ward": "DIMNEZE",
     "state": "Imo",
@@ -10875,12 +10395,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IHITTE/UBOMA (ISINWEKE)",
-    "ward": "IKPEREJERE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/07/08/001",
     "pu_name": "COMM. SCHOOL II, LOWA",
     "name": "COMM. SCHOOL II, LOWA",
@@ -10989,12 +10503,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IHITTE/UBOMA (ISINWEKE)",
-    "ward": "OKATA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/07/09/001",
     "pu_name": "COMM. SCHOOL, UMUEZEGWU",
     "name": "COMM. SCHOOL, UMUEZEGWU",
@@ -11070,12 +10578,6 @@
     "pu_code": "16/07/09/009",
     "pu_name": "UMUDIBIA HALL",
     "name": "UMUDIBIA HALL",
-    "lga": "IHITTE/UBOMA (ISINWEKE)",
-    "ward": "UMUEZEGWU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IHITTE/UBOMA (ISINWEKE)",
     "ward": "UMUEZEGWU",
     "state": "Imo",
@@ -11202,12 +10704,6 @@
     "pu_code": "16/07/10/014",
     "pu_name": "CENTRAL SCHOOL ORIE UMUIHI",
     "name": "CENTRAL SCHOOL ORIE UMUIHI",
-    "lga": "IHITTE/UBOMA (ISINWEKE)",
-    "ward": "UMUIHI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IHITTE/UBOMA (ISINWEKE)",
     "ward": "UMUIHI",
     "state": "Imo",
@@ -11412,12 +10908,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IKEDURU (IHO)",
-    "ward": "AKABO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/08/02/001",
     "pu_name": "AMATTA PRI. SCHOOL",
     "name": "AMATTA PRI. SCHOOL",
@@ -11484,12 +10974,6 @@
     "pu_code": "16/08/02/008",
     "pu_name": "UMUNDE OMA VILLAGE HALL",
     "name": "UMUNDE OMA VILLAGE HALL",
-    "lga": "IKEDURU (IHO)",
-    "ward": "AMATTA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IKEDURU (IHO)",
     "ward": "AMATTA",
     "state": "Imo",
@@ -11679,12 +11163,6 @@
     "pu_code": "16/08/03/021",
     "pu_name": "OBIUMUORI/UMUSHIOKE VILLAGE SQUARE",
     "name": "OBIUMUORI/UMUSHIOKE VILLAGE SQUARE",
-    "lga": "IKEDURU (IHO)",
-    "ward": "IHO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IKEDURU (IHO)",
     "ward": "IHO",
     "state": "Imo",
@@ -11901,12 +11379,6 @@
     "pu_code": "16/08/04/024",
     "pu_name": "OBI-DIM TOWN HALL",
     "name": "OBI-DIM TOWN HALL",
-    "lga": "IKEDURU (IHO)",
-    "ward": "INYISHI/UMUDIM",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IKEDURU (IHO)",
     "ward": "INYISHI/UMUDIM",
     "state": "Imo",
@@ -12147,12 +11619,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IKEDURU (IHO)",
-    "ward": "AMAIMO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/08/06/001",
     "pu_name": "PRI. SCHOOL OWU AMAKOHIA",
     "name": "PRI. SCHOOL OWU AMAKOHIA",
@@ -12279,12 +11745,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IKEDURU (IHO)",
-    "ward": "AMAKOHIA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/08/07/001",
     "pu_name": "COMMUNITY SCHOOL AMAUDARA",
     "name": "COMMUNITY SCHOOL AMAUDARA",
@@ -12402,12 +11862,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IKEDURU (IHO)",
-    "ward": "AVUVU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/08/08/001",
     "pu_name": "ATTA BOY'S SEC. SCHOOL",
     "name": "ATTA BOY'S SEC. SCHOOL",
@@ -12519,12 +11973,6 @@
     "pu_code": "16/08/08/013",
     "pu_name": "AWO OHIDIM COMM. SQUARE",
     "name": "AWO OHIDIM COMM. SQUARE",
-    "lga": "IKEDURU (IHO)",
-    "ward": "ATTA I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IKEDURU (IHO)",
     "ward": "ATTA I",
     "state": "Imo",
@@ -12660,12 +12108,6 @@
     "pu_code": "16/08/09/015",
     "pu_name": "ATTA UKWU VILLAGE HALL",
     "name": "ATTA UKWU VILLAGE HALL",
-    "lga": "IKEDURU (IHO)",
-    "ward": "ATTA II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IKEDURU (IHO)",
     "ward": "ATTA II",
     "state": "Imo",
@@ -12861,12 +12303,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IKEDURU (IHO)",
-    "ward": "UGIRIKE / OKWU / EZIAMA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/08/11/001",
     "pu_name": "AMACHARA VILL. HALL",
     "name": "AMACHARA VILL. HALL",
@@ -13041,12 +12477,6 @@
     "pu_code": "16/08/11/020",
     "pu_name": "PRIM. SCH. IKEMBARA",
     "name": "PRIM. SCH. IKEMBARA",
-    "lga": "IKEDURU (IHO)",
-    "ward": "NGUGO/IKEMBARA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "IKEDURU (IHO)",
     "ward": "NGUGO/IKEMBARA",
     "state": "Imo",
@@ -13323,12 +12753,6 @@
     "state_code": "16"
   },
   {
-    "lga": "IKEDURU (IHO)",
-    "ward": "UZOAGBA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/09/01/001",
     "pu_name": "CUSTOMARY COURT AMARAKU",
     "name": "CUSTOMARY COURT AMARAKU",
@@ -13491,12 +12915,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISIALA MBANO (UMUELEMAI)",
-    "ward": "AMARAKU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/09/02/001",
     "pu_name": "NATIONAL PRIMARY SCHOOL",
     "name": "NATIONAL PRIMARY SCHOOL",
@@ -13581,12 +12999,6 @@
     "pu_code": "16/09/02/010",
     "pu_name": "EZI UMUENYI VILLAGE HALL",
     "name": "EZI UMUENYI VILLAGE HALL",
-    "lga": "ISIALA MBANO (UMUELEMAI)",
-    "ward": "UMUNKWO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ISIALA MBANO (UMUELEMAI)",
     "ward": "UMUNKWO",
     "state": "Imo",
@@ -13692,12 +13104,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISIALA MBANO (UMUELEMAI)",
-    "ward": "OGBOR",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/09/04/001",
     "pu_name": "AGWU-NA-EZE VILL. SQUARE",
     "name": "AGWU-NA-EZE VILL. SQUARE",
@@ -13791,12 +13197,6 @@
     "pu_code": "16/09/04/011",
     "pu_name": "UMUOKIE NNEABUO HALL",
     "name": "UMUOKIE NNEABUO HALL",
-    "lga": "ISIALA MBANO (UMUELEMAI)",
-    "ward": "IBEME",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ISIALA MBANO (UMUELEMAI)",
     "ward": "IBEME",
     "state": "Imo",
@@ -14001,12 +13401,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISIALA MBANO (UMUELEMAI)",
-    "ward": "OSU-OWERRE I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/09/06/001",
     "pu_name": "CENTRAL SCH. EZIHIE",
     "name": "CENTRAL SCH. EZIHIE",
@@ -14136,12 +13530,6 @@
     "pu_code": "16/09/06/015",
     "pu_name": "UMUNGUME CIVIL HALL",
     "name": "UMUNGUME CIVIL HALL",
-    "lga": "ISIALA MBANO (UMUELEMAI)",
-    "ward": "OSU-OWERRE II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ISIALA MBANO (UMUELEMAI)",
     "ward": "OSU-OWERRE II",
     "state": "Imo",
@@ -14418,12 +13806,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISIALA MBANO (UMUELEMAI)",
-    "ward": "OSUAMA/ANARA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/09/08/001",
     "pu_name": "UMUDIMEKA VILL SQUARE",
     "name": "UMUDIMEKA VILL SQUARE",
@@ -14613,12 +13995,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISIALA MBANO (UMUELEMAI)",
-    "ward": "UGIRI/OKA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/09/09/001",
     "pu_name": "OKWOSU HALL AMAUZARI",
     "name": "OKWOSU HALL AMAUZARI",
@@ -14772,12 +14148,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISIALA MBANO (UMUELEMAI)",
-    "ward": "AMAUZARI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/09/10/001",
     "pu_name": "OBOLLO SEC. TECH. SCH.",
     "name": "OBOLLO SEC. TECH. SCH.",
@@ -14886,12 +14256,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISIALA MBANO (UMUELEMAI)",
-    "ward": "OBOLLO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/09/11/001",
     "pu_name": "OFOAZIRI PRI. SCH.",
     "name": "OFOAZIRI PRI. SCH.",
@@ -14949,12 +14313,6 @@
     "pu_code": "16/09/11/007",
     "pu_name": "UMUDURUOLUWE VILLAGE HALL",
     "name": "UMUDURUOLUWE VILLAGE HALL",
-    "lga": "ISIALA MBANO (UMUELEMAI)",
-    "ward": "UMUOZU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ISIALA MBANO (UMUELEMAI)",
     "ward": "UMUOZU",
     "state": "Imo",
@@ -15159,12 +14517,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISIALA MBANO (UMUELEMAI)",
-    "ward": "OSU-ACHARA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/10/01/001",
     "pu_name": "UMUNUMO HALL",
     "name": "UMUNUMO HALL",
@@ -15273,12 +14625,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISU (UMUNDUGBA)",
-    "ward": "AMANDUGBA I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/10/02/001",
     "pu_name": "UMUDURU HALL",
     "name": "UMUDURU HALL",
@@ -15378,12 +14724,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISU (UMUNDUGBA)",
-    "ward": "AMANDUGBA II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/10/03/001",
     "pu_name": "UMUEZEALA HALL",
     "name": "UMUEZEALA HALL",
@@ -15459,12 +14799,6 @@
     "pu_code": "16/10/03/009",
     "pu_name": "UMUOKWARA HALL",
     "name": "UMUOKWARA HALL",
-    "lga": "ISU (UMUNDUGBA)",
-    "ward": "UMUNDUGBA I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ISU (UMUNDUGBA)",
     "ward": "UMUNDUGBA I",
     "state": "Imo",
@@ -15570,12 +14904,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISU (UMUNDUGBA)",
-    "ward": "UMUNDUGBA II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/10/05/001",
     "pu_name": "DIOLOKA VILL. SQUARE",
     "name": "DIOLOKA VILL. SQUARE",
@@ -15657,12 +14985,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISU (UMUNDUGBA)",
-    "ward": "AMURIE OMANZE  I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/10/06/001",
     "pu_name": "AMAENYIKWASARA SQUARE",
     "name": "AMAENYIKWASARA SQUARE",
@@ -15720,12 +15042,6 @@
     "pu_code": "16/10/06/007",
     "pu_name": "DURUANORUO  VILLAGE SQUARE",
     "name": "DURUANORUO  VILLAGE SQUARE",
-    "lga": "ISU (UMUNDUGBA)",
-    "ward": "AMURIE OMANZE II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ISU (UMUNDUGBA)",
     "ward": "AMURIE OMANZE II",
     "state": "Imo",
@@ -15885,12 +15201,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISU (UMUNDUGBA)",
-    "ward": "EKWE I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/10/08/001",
     "pu_name": "UNION SCHOOL EKWE",
     "name": "UNION SCHOOL EKWE",
@@ -16026,12 +15336,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISU (UMUNDUGBA)",
-    "ward": "EKWE II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/10/09/001",
     "pu_name": "OKWARA VILLAGE SQUARE",
     "name": "OKWARA VILLAGE SQUARE",
@@ -16116,12 +15420,6 @@
     "pu_code": "16/10/09/010",
     "pu_name": "UMUOKWARAKU VILLAGE SQUARE",
     "name": "UMUOKWARAKU VILLAGE SQUARE",
-    "lga": "ISU (UMUNDUGBA)",
-    "ward": "ISU-NJABA I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ISU (UMUNDUGBA)",
     "ward": "ISU-NJABA I",
     "state": "Imo",
@@ -16254,12 +15552,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ISU (UMUNDUGBA)",
-    "ward": "ISU-NJABA II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/10/11/001",
     "pu_name": "COMM. SCHOOL ISUNJABA",
     "name": "COMM. SCHOOL ISUNJABA",
@@ -16326,12 +15618,6 @@
     "pu_code": "16/10/11/008",
     "pu_name": "UMUDURUOFOR SQUARE",
     "name": "UMUDURUOFOR SQUARE",
-    "lga": "ISU (UMUNDUGBA)",
-    "ward": "ISU NJABA III",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ISU (UMUNDUGBA)",
     "ward": "ISU NJABA III",
     "state": "Imo",
@@ -16485,12 +15771,6 @@
     "pu_code": "16/11/01/017",
     "pu_name": "IHITTE UMUAKANNE CENTER",
     "name": "IHITTE UMUAKANNE CENTER",
-    "lga": "MBAITOLI (NWAORIEUBI)",
-    "ward": "AFARA/EZIAMA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "MBAITOLI (NWAORIEUBI)",
     "ward": "AFARA/EZIAMA",
     "state": "Imo",
@@ -16731,12 +16011,6 @@
     "state_code": "16"
   },
   {
-    "lga": "MBAITOLI (NWAORIEUBI)",
-    "ward": "OGBAKU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/11/03/001",
     "pu_name": "UMUDURU PRI. SCH. UMUNOHA I",
     "name": "UMUDURU PRI. SCH. UMUNOHA I",
@@ -16875,12 +16149,6 @@
     "pu_code": "16/11/03/016",
     "pu_name": "EJIMADU HALL II",
     "name": "EJIMADU HALL II",
-    "lga": "MBAITOLI (NWAORIEUBI)",
-    "ward": "UMUNOHA/AZARA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "MBAITOLI (NWAORIEUBI)",
     "ward": "UMUNOHA/AZARA",
     "state": "Imo",
@@ -17247,12 +16515,6 @@
     "state_code": "16"
   },
   {
-    "lga": "MBAITOLI (NWAORIEUBI)",
-    "ward": "UBOMIRI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/11/05/001",
     "pu_name": "CENTRAL SCH. IFAKALA",
     "name": "CENTRAL SCH. IFAKALA",
@@ -17442,12 +16704,6 @@
     "state_code": "16"
   },
   {
-    "lga": "MBAITOLI (NWAORIEUBI)",
-    "ward": "IFAKALA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/11/06/001",
     "pu_name": "IDEM UKWU CIVIC CENTRE",
     "name": "IDEM UKWU CIVIC CENTRE",
@@ -17604,12 +16860,6 @@
     "pu_code": "16/11/06/018",
     "pu_name": "UMUOMAEKE VILLAGE HALL",
     "name": "UMUOMAEKE VILLAGE HALL",
-    "lga": "MBAITOLI (NWAORIEUBI)",
-    "ward": "OGWA I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "MBAITOLI (NWAORIEUBI)",
     "ward": "OGWA I",
     "state": "Imo",
@@ -17835,12 +17085,6 @@
     "pu_code": "16/11/07/025",
     "pu_name": "OMARUGO VILLLAGE HALL",
     "name": "OMARUGO VILLLAGE HALL",
-    "lga": "MBAITOLI (NWAORIEUBI)",
-    "ward": "OGWA II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "MBAITOLI (NWAORIEUBI)",
     "ward": "OGWA II",
     "state": "Imo",
@@ -18117,12 +17361,6 @@
     "state_code": "16"
   },
   {
-    "lga": "MBAITOLI (NWAORIEUBI)",
-    "ward": "ORODO 'A'",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/11/09/001",
     "pu_name": "UMUOKPARADURU VILLAGE SQUARE",
     "name": "UMUOKPARADURU VILLAGE SQUARE",
@@ -18261,12 +17499,6 @@
     "pu_code": "16/11/09/016",
     "pu_name": "UMUAGWU/AMAOJI HALL",
     "name": "UMUAGWU/AMAOJI HALL",
-    "lga": "MBAITOLI (NWAORIEUBI)",
-    "ward": "ORODO 'B'",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "MBAITOLI (NWAORIEUBI)",
     "ward": "ORODO 'B'",
     "state": "Imo",
@@ -18420,12 +17652,6 @@
     "pu_code": "16/11/10/017",
     "pu_name": "AGWUNAFOR VILLAGE HALL",
     "name": "AGWUNAFOR VILLAGE HALL",
-    "lga": "MBAITOLI (NWAORIEUBI)",
-    "ward": "UMUNWOHA/MBIERI/UMUAWU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "MBAITOLI (NWAORIEUBI)",
     "ward": "UMUNWOHA/MBIERI/UMUAWU",
     "state": "Imo",
@@ -18597,12 +17823,6 @@
     "pu_code": "16/11/11/019",
     "pu_name": "OBUZI HALL",
     "name": "OBUZI HALL",
-    "lga": "MBAITOLI (NWAORIEUBI)",
-    "ward": "AMAIKE MBIERI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "MBAITOLI (NWAORIEUBI)",
     "ward": "AMAIKE MBIERI",
     "state": "Imo",
@@ -18987,12 +18207,6 @@
     "state_code": "16"
   },
   {
-    "lga": "MBAITOLI (NWAORIEUBI)",
-    "ward": "EZINIHITIE MBIERI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/12/01/001",
     "pu_name": "UMUOCHAM PRI. SCH. NTU",
     "name": "UMUOCHAM PRI. SCH. NTU",
@@ -19227,12 +18441,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NGOR OKPALA (UMUNEKE)",
-    "ward": "AMALA/ALULU/OBURU/OBOKWE/NTU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/12/02/001",
     "pu_name": "COMM. SCHOOL OBIKE",
     "name": "COMM. SCHOOL OBIKE",
@@ -19371,12 +18579,6 @@
     "pu_code": "16/12/02/016",
     "pu_name": "HEALTH CENTRE, UMUOFOR OBIKE",
     "name": "HEALTH CENTRE, UMUOFOR OBIKE",
-    "lga": "NGOR OKPALA (UMUNEKE)",
-    "ward": "ELELEM/OBIKE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NGOR OKPALA (UMUNEKE)",
     "ward": "ELELEM/OBIKE",
     "state": "Imo",
@@ -19548,12 +18750,6 @@
     "pu_code": "16/12/03/019",
     "pu_name": "OKWEKETA TOWN HALL",
     "name": "OKWEKETA TOWN HALL",
-    "lga": "NGOR OKPALA (UMUNEKE)",
-    "ward": "OZUZU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NGOR OKPALA (UMUNEKE)",
     "ward": "OZUZU",
     "state": "Imo",
@@ -19767,12 +18963,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NGOR OKPALA (UMUNEKE)",
-    "ward": "EZIAMA/OKPALA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/12/05/001",
     "pu_name": "COMM. SCH. UPE",
     "name": "COMM. SCH. UPE",
@@ -19944,12 +19134,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NGOR OKPALA (UMUNEKE)",
-    "ward": "IMERIENWE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/12/06/001",
     "pu_name": "EZIALA NGURU VILL. NGURU",
     "name": "EZIALA NGURU VILL. NGURU",
@@ -20079,12 +19263,6 @@
     "pu_code": "16/12/06/015",
     "pu_name": "AMAIBO CIVIC HALL",
     "name": "AMAIBO CIVIC HALL",
-    "lga": "NGOR OKPALA (UMUNEKE)",
-    "ward": "NGURU/UMUOWA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NGOR OKPALA (UMUNEKE)",
     "ward": "NGURU/UMUOWA",
     "state": "Imo",
@@ -20271,12 +19449,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NGOR OKPALA (UMUNEKE)",
-    "ward": "NGOR/IHITTE/UMUKABIA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/12/08/001",
     "pu_name": "UMUAHIA VILL. HALL OHEKELEM",
     "name": "UMUAHIA VILL. HALL OHEKELEM",
@@ -20385,12 +19557,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NGOR OKPALA (UMUNEKE)",
-    "ward": "OHEKELEM NNORIE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/12/09/001",
     "pu_name": "UNION PRI. SCH. EGBELU",
     "name": "UNION PRI. SCH. EGBELU",
@@ -20475,12 +19641,6 @@
     "pu_code": "16/12/09/010",
     "pu_name": "UMUGARAGU HALL EGBELU UMUHU",
     "name": "UMUGARAGU HALL EGBELU UMUHU",
-    "lga": "NGOR OKPALA (UMUNEKE)",
-    "ward": "UMUHU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NGOR OKPALA (UMUNEKE)",
     "ward": "UMUHU",
     "state": "Imo",
@@ -20640,12 +19800,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NGOR OKPALA (UMUNEKE)",
-    "ward": "OBIANGWU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/12/11/001",
     "pu_name": "AHIAJOKU SQ. UMUOHIAGU",
     "name": "AHIAJOKU SQ. UMUOHIAGU",
@@ -20790,12 +19944,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NGOR OKPALA (UMUNEKE)",
-    "ward": "LOGARA/UMUOHIAGU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/13/01/001",
     "pu_name": "UMUNAM OWERRE/UMUNAM OWERRE VILL. HALL",
     "name": "UMUNAM OWERRE/UMUNAM OWERRE VILL. HALL",
@@ -20853,12 +20001,6 @@
     "pu_code": "16/13/01/007",
     "pu_name": "UMUNAMTA/VILLAGE HALL UMUNAMTA",
     "name": "UMUNAMTA/VILLAGE HALL UMUNAMTA",
-    "lga": "NJABA (NNENASA)",
-    "ward": "ATTA I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NJABA (NNENASA)",
     "ward": "ATTA I",
     "state": "Imo",
@@ -20931,12 +20073,6 @@
     "pu_code": "16/13/02/008",
     "pu_name": "UMUANU VILL. HALL, UBUDOM",
     "name": "UMUANU VILL. HALL, UBUDOM",
-    "lga": "NJABA (NNENASA)",
-    "ward": "ATTA II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NJABA (NNENASA)",
     "ward": "ATTA II",
     "state": "Imo",
@@ -21024,12 +20160,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NJABA (NNENASA)",
-    "ward": "ATTA III",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/13/04/001",
     "pu_name": "DURUOBIAKU/NATIONAL SCH. AMUCHA",
     "name": "DURUOBIAKU/NATIONAL SCH. AMUCHA",
@@ -21102,12 +20232,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NJABA (NNENASA)",
-    "ward": "AMUCHA I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/13/05/001",
     "pu_name": "UMUOKWARA/CENT. SCHOOL AMUCHA",
     "name": "UMUOKWARA/CENT. SCHOOL AMUCHA",
@@ -21174,12 +20298,6 @@
     "pu_code": "16/13/05/008",
     "pu_name": "OKWUAMA VILLAGE HALL",
     "name": "OKWUAMA VILLAGE HALL",
-    "lga": "NJABA (NNENASA)",
-    "ward": "AMUCHA II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NJABA (NNENASA)",
     "ward": "AMUCHA II",
     "state": "Imo",
@@ -21333,12 +20451,6 @@
     "pu_code": "16/13/06/017",
     "pu_name": "TIMBER MKT UMUEZEALAKU",
     "name": "TIMBER MKT UMUEZEALAKU",
-    "lga": "NJABA (NNENASA)",
-    "ward": "NKUME",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NJABA (NNENASA)",
     "ward": "NKUME",
     "state": "Imo",
@@ -21543,12 +20655,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NJABA (NNENASA)",
-    "ward": "OKWUDOR",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/13/08/001",
     "pu_name": "HILL-TOP PRI. SCH.",
     "name": "HILL-TOP PRI. SCH.",
@@ -21684,12 +20790,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NJABA (NNENASA)",
-    "ward": "UMUAKA I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/13/09/001",
     "pu_name": "HIGH SCHOOL UMUAKA",
     "name": "HIGH SCHOOL UMUAKA",
@@ -21810,12 +20910,6 @@
     "pu_code": "16/13/09/014",
     "pu_name": "AMAOCHA/DURUAKU VILL. SQ. UGBELE",
     "name": "AMAOCHA/DURUAKU VILL. SQ. UGBELE",
-    "lga": "NJABA (NNENASA)",
-    "ward": "UMUAKA II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NJABA (NNENASA)",
     "ward": "UMUAKA II",
     "state": "Imo",
@@ -21948,12 +21042,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NJABA (NNENASA)",
-    "ward": "UMUAKA III",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/13/11/001",
     "pu_name": "AMAIYI/TOWN SCH. AMAIYI",
     "name": "AMAIYI/TOWN SCH. AMAIYI",
@@ -22056,12 +21144,6 @@
     "pu_code": "16/13/11/012",
     "pu_name": "NDIKPA IBELE VILL. SQ., IBELE",
     "name": "NDIKPA IBELE VILL. SQ., IBELE",
-    "lga": "NJABA (NNENASA)",
-    "ward": "UMUAKA IV",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NJABA (NNENASA)",
     "ward": "UMUAKA IV",
     "state": "Imo",
@@ -22194,12 +21276,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NKWERRE",
-    "ward": "ONUSA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/14/02/001",
     "pu_name": "UKWUBE HALL I",
     "name": "UKWUBE HALL I",
@@ -22326,12 +21402,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NKWERRE",
-    "ward": "NNANANO (NKWERRE II)",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/14/03/001",
     "pu_name": "UMUDURUMBA HALL I",
     "name": "UMUDURUMBA HALL I",
@@ -22398,12 +21468,6 @@
     "pu_code": "16/14/03/008",
     "pu_name": "COMMUNITY SCH. NKWERRE",
     "name": "COMMUNITY SCH. NKWERRE",
-    "lga": "NKWERRE",
-    "ward": "UMUKOR (NKWERRE III)",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NKWERRE",
     "ward": "UMUKOR (NKWERRE III)",
     "state": "Imo",
@@ -22572,12 +21636,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NKWERRE",
-    "ward": "NKWERRE IV (UMUNUBO/UMUNACHI)",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/14/05/001",
     "pu_name": "OKWU HALL I",
     "name": "OKWU HALL I",
@@ -22635,12 +21693,6 @@
     "pu_code": "16/14/05/007",
     "pu_name": "NDIMBRA SQUARE",
     "name": "NDIMBRA SQUARE",
-    "lga": "NKWERRE",
-    "ward": "NKWERRE V",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NKWERRE",
     "ward": "NKWERRE V",
     "state": "Imo",
@@ -22755,12 +21807,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NKWERRE",
-    "ward": "OWERRE NKWORJI I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/14/07/001",
     "pu_name": "GIRLS' SEC. SCH. OWERRE NKWORJI",
     "name": "GIRLS' SEC. SCH. OWERRE NKWORJI",
@@ -22863,12 +21909,6 @@
     "pu_code": "16/14/07/012",
     "pu_name": "CIVIC CENTRE, ISHIOWERRE",
     "name": "CIVIC CENTRE, ISHIOWERRE",
-    "lga": "NKWERRE",
-    "ward": "OWERRE NKWORJI II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NKWERRE",
     "ward": "OWERRE NKWORJI II",
     "state": "Imo",
@@ -23019,12 +22059,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NKWERRE",
-    "ward": "UMUDI/UMUWALA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/14/09/001",
     "pu_name": "UMULO HALL",
     "name": "UMULO HALL",
@@ -23136,12 +22170,6 @@
     "pu_code": "16/14/09/013",
     "pu_name": "OBI OHATA",
     "name": "OBI OHATA",
-    "lga": "NKWERRE",
-    "ward": "AMAOKPARA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NKWERRE",
     "ward": "AMAOKPARA",
     "state": "Imo",
@@ -23301,12 +22329,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NKWERRE",
-    "ward": "EZIAMA OBAIRE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/15/01/001",
     "pu_name": "UMUOKPARA HALL",
     "name": "UMUOKPARA HALL",
@@ -23364,12 +22386,6 @@
     "pu_code": "16/15/01/007",
     "pu_name": "NATIONAL PRI. SCHOOL",
     "name": "NATIONAL PRI. SCHOOL",
-    "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
-    "ward": "AMANO/UMUDURUMBA WARD (AMAIGBO I)",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
     "ward": "AMANO/UMUDURUMBA WARD (AMAIGBO I)",
     "state": "Imo",
@@ -23451,12 +22467,6 @@
     "pu_code": "16/15/02/009",
     "pu_name": "COMM. SCH. UMUANU",
     "name": "COMM. SCH. UMUANU",
-    "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
-    "ward": "UMUANU COMMUNITY WARD (AMAIGBO II)",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
     "ward": "UMUANU COMMUNITY WARD (AMAIGBO II)",
     "state": "Imo",
@@ -23553,12 +22563,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
-    "ward": "AMAJU COMMUNITY WARD (AMAIGBO III)",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/15/04/001",
     "pu_name": "UMUDURUAGIRISI HALL",
     "name": "UMUDURUAGIRISI HALL",
@@ -23649,12 +22653,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
-    "ward": "AMAMNAISI (AMAIGBO IV)",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/15/05/001",
     "pu_name": "EZEOBOLO HALL",
     "name": "EZEOBOLO HALL",
@@ -23712,12 +22710,6 @@
     "pu_code": "16/15/05/007",
     "pu_name": "UMUDURUOHA HALL II",
     "name": "UMUDURUOHA HALL II",
-    "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
-    "ward": "EZEOBOLO/OFEAHIA/DURUOHA/UMUKABIA (AMAIGBO WARD V)",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
     "ward": "EZEOBOLO/OFEAHIA/DURUOHA/UMUKABIA (AMAIGBO WARD V)",
     "state": "Imo",
@@ -23859,12 +22851,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
-    "ward": "ABBA WARD",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/15/07/001",
     "pu_name": "CENTRAL SCHOOL UMUOZU",
     "name": "CENTRAL SCHOOL UMUOZU",
@@ -23973,12 +22959,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
-    "ward": "UMUOZU WARD",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/15/08/001",
     "pu_name": "UMUEZEALAORIOHA HALL I",
     "name": "UMUEZEALAORIOHA HALL I",
@@ -24054,12 +23034,6 @@
     "pu_code": "16/15/08/009",
     "pu_name": "ODUKWU HALL",
     "name": "ODUKWU HALL",
-    "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
-    "ward": "KARA-NA-ORLU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
     "ward": "KARA-NA-ORLU",
     "state": "Imo",
@@ -24150,12 +23124,6 @@
     "pu_code": "16/15/09/010",
     "pu_name": "AMUZI HALL",
     "name": "AMUZI HALL",
-    "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
-    "ward": "DIM-NA NUME",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
     "ward": "DIM-NA NUME",
     "state": "Imo",
@@ -24297,12 +23265,6 @@
     "state_code": "16"
   },
   {
-    "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
-    "ward": "ABAJAH WARD I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/15/11/001",
     "pu_name": "ADDI PRIMARY SCHOOL",
     "name": "ADDI PRIMARY SCHOOL",
@@ -24378,12 +23340,6 @@
     "pu_code": "16/15/11/009",
     "pu_name": "UMUEZEALA HALL",
     "name": "UMUEZEALA HALL",
-    "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
-    "ward": "ABAJAH WARD II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "NWANGELE (ONU-NWANGELE AMAIGBO)",
     "ward": "ABAJAH WARD II",
     "state": "Imo",
@@ -24579,12 +23535,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OBOWO (OTOKO)",
-    "ward": "ALIKE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/16/02/001",
     "pu_name": "UMUAKIRIKA/OFEMBARA HALL I",
     "name": "UMUAKIRIKA/OFEMBARA HALL I",
@@ -24651,12 +23601,6 @@
     "pu_code": "16/16/02/008",
     "pu_name": "COMMUNITY SCHOOL UMUNGWA",
     "name": "COMMUNITY SCHOOL UMUNGWA",
-    "lga": "OBOWO (OTOKO)",
-    "ward": "AMANZE/UMUNGWA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OBOWO (OTOKO)",
     "ward": "AMANZE/UMUNGWA",
     "state": "Imo",
@@ -24825,12 +23769,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OBOWO (OTOKO)",
-    "ward": "AMUZI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/16/04/001",
     "pu_name": "MBARA UMUIFEM HALL",
     "name": "MBARA UMUIFEM HALL",
@@ -24975,12 +23913,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OBOWO (OTOKO)",
-    "ward": "AVUTU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/16/05/001",
     "pu_name": "MBARA IHIE VILLAGE SQUARE",
     "name": "MBARA IHIE VILLAGE SQUARE",
@@ -25071,12 +24003,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OBOWO (OTOKO)",
-    "ward": "EHUME",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/16/06/001",
     "pu_name": "PRI. SCH. ODENKUME",
     "name": "PRI. SCH. ODENKUME",
@@ -25152,12 +24078,6 @@
     "pu_code": "16/16/06/009",
     "pu_name": "UMUOKEREKE VILL. SQUARE",
     "name": "UMUOKEREKE VILL. SQUARE",
-    "lga": "OBOWO (OTOKO)",
-    "ward": "ODENKUME/UMUOSOCHIE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OBOWO (OTOKO)",
     "ward": "ODENKUME/UMUOSOCHIE",
     "state": "Imo",
@@ -25299,12 +24219,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OBOWO (OTOKO)",
-    "ward": "OKENALOGHO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/16/08/001",
     "pu_name": "UMUCHIME HALL",
     "name": "UMUCHIME HALL",
@@ -25380,12 +24294,6 @@
     "pu_code": "16/16/08/009",
     "pu_name": "UMUOSI HALL",
     "name": "UMUOSI HALL",
-    "lga": "OBOWO (OTOKO)",
-    "ward": "OKWUOHIA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OBOWO (OTOKO)",
     "ward": "OKWUOHIA",
     "state": "Imo",
@@ -25518,12 +24426,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OBOWO (OTOKO)",
-    "ward": "UMUARIAM/ACHARA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/16/10/001",
     "pu_name": "MBARA IKORO VILL. SQ. I",
     "name": "MBARA IKORO VILL. SQ. I",
@@ -25590,12 +24492,6 @@
     "pu_code": "16/16/10/008",
     "pu_name": "MBARA UGIRI VILLAGE SQUARE II",
     "name": "MBARA UGIRI VILLAGE SQUARE II",
-    "lga": "OBOWO (OTOKO)",
-    "ward": "UMUNACHI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OBOWO (OTOKO)",
     "ward": "UMUNACHI",
     "state": "Imo",
@@ -25800,12 +24696,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OGUTA (OGUTA)",
-    "ward": "AWA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/17/02/001",
     "pu_name": "PRI. SCH. EGBUOMA",
     "name": "PRI. SCH. EGBUOMA",
@@ -25980,12 +24870,6 @@
     "pu_code": "16/17/02/020",
     "pu_name": "AMAMANWU/OBOMUMUZU",
     "name": "AMAMANWU/OBOMUMUZU",
-    "lga": "OGUTA (OGUTA)",
-    "ward": "EGWE/EGBUOMA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OGUTA (OGUTA)",
     "ward": "EGWE/EGBUOMA",
     "state": "Imo",
@@ -26172,12 +25056,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OGUTA (OGUTA)",
-    "ward": "IZOMBE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/17/04/001",
     "pu_name": "ALAOMA PRI. SCH. MGBALA I",
     "name": "ALAOMA PRI. SCH. MGBALA I",
@@ -26286,12 +25164,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OGUTA (OGUTA)",
-    "ward": "MBALA/UBA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/17/05/001",
     "pu_name": "UMUOWERRE SQUARE",
     "name": "UMUOWERRE SQUARE",
@@ -26349,12 +25221,6 @@
     "pu_code": "16/17/05/015",
     "pu_name": "NDIULOKWU ROUND ABOUT SQ",
     "name": "NDIULOKWU ROUND ABOUT SQ",
-    "lga": "OGUTA (OGUTA)",
-    "ward": "NDEULOUKWU/UMUOWERE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OGUTA (OGUTA)",
     "ward": "NDEULOUKWU/UMUOWERE",
     "state": "Imo",
@@ -26499,12 +25365,6 @@
     "pu_code": "16/17/06/016",
     "pu_name": "OGBUAGU SQ OBUDI",
     "name": "OGBUAGU SQ OBUDI",
-    "lga": "OGUTA (OGUTA)",
-    "ward": "OBUDI/ARO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OGUTA (OGUTA)",
     "ward": "OBUDI/ARO",
     "state": "Imo",
@@ -26700,12 +25560,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OGUTA (OGUTA)",
-    "ward": "OGUTA 'A'",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/17/08/001",
     "pu_name": "TOWN SCHOOL OGUTA I",
     "name": "TOWN SCHOOL OGUTA I",
@@ -26817,12 +25671,6 @@
     "pu_code": "16/17/08/013",
     "pu_name": "INDOOR FISH HATCHERY OGUTA",
     "name": "INDOOR FISH HATCHERY OGUTA",
-    "lga": "OGUTA (OGUTA)",
-    "ward": "OGUTA 'B'",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OGUTA (OGUTA)",
     "ward": "OGUTA 'B'",
     "state": "Imo",
@@ -27054,12 +25902,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OGUTA (OGUTA)",
-    "ward": "ORU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/17/10/001",
     "pu_name": "ODEKPU HALL I",
     "name": "ODEKPU HALL I",
@@ -27135,12 +25977,6 @@
     "pu_code": "16/17/10/009",
     "pu_name": "ETITI VIL. SQ OPP. RIVER PORT OSEMOTOR",
     "name": "ETITI VIL. SQ OPP. RIVER PORT OSEMOTOR",
-    "lga": "OGUTA (OGUTA)",
-    "ward": "OSSEMOTOR/ENUIGBO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OGUTA (OGUTA)",
     "ward": "OSSEMOTOR/ENUIGBO",
     "state": "Imo",
@@ -27318,12 +26154,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OGUTA (OGUTA)",
-    "ward": "UWAORIE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/18/01/001",
     "pu_name": "TOWN SCH. ASAA I",
     "name": "TOWN SCH. ASAA I",
@@ -27462,12 +26292,6 @@
     "pu_code": "16/18/01/016",
     "pu_name": "UMUODUKWU SQUARE",
     "name": "UMUODUKWU SQUARE",
-    "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
-    "ward": "ASSA/OBILE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
     "ward": "ASSA/OBILE",
     "state": "Imo",
@@ -27648,12 +26472,6 @@
     "pu_code": "16/18/02/020",
     "pu_name": "UMUOBI TOWN HALL",
     "name": "UMUOBI TOWN HALL",
-    "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
-    "ward": "AWARA/IKWEREDE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
     "ward": "AWARA/IKWEREDE",
     "state": "Imo",
@@ -27903,12 +26721,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
-    "ward": "EGBEMA 'A'",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/18/04/001",
     "pu_name": "PRI. SCH. OBIAKPU/OBIAKPU I",
     "name": "PRI. SCH. OBIAKPU/OBIAKPU I",
@@ -28011,12 +26823,6 @@
     "pu_code": "16/18/04/012",
     "pu_name": "UKWUGBA VILLAGE SQUARE",
     "name": "UKWUGBA VILLAGE SQUARE",
-    "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
-    "ward": "EGBEMA 'B'",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
     "ward": "EGBEMA 'B'",
     "state": "Imo",
@@ -28131,12 +26937,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
-    "ward": "EGBEMA 'C'",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/18/06/001",
     "pu_name": "ST. PETERS SCH. OPUOMA/OPUOMA",
     "name": "ST. PETERS SCH. OPUOMA/OPUOMA",
@@ -28203,12 +27003,6 @@
     "pu_code": "16/18/06/008",
     "pu_name": "COMM. PRI. SCH. OPUOMA",
     "name": "COMM. PRI. SCH. OPUOMA",
-    "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
-    "ward": "EGBEMA 'D'",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
     "ward": "EGBEMA 'D'",
     "state": "Imo",
@@ -28308,12 +27102,6 @@
     "pu_code": "16/18/07/011",
     "pu_name": "NWAOZUDA SQUARE ETEKWURU",
     "name": "NWAOZUDA SQUARE ETEKWURU",
-    "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
-    "ward": "EGBEMA 'E'",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
     "ward": "EGBEMA 'E'",
     "state": "Imo",
@@ -28518,12 +27306,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
-    "ward": "EKWUATO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/18/09/001",
     "pu_name": "TOWN SCH. OBITTI I",
     "name": "TOWN SCH. OBITTI I",
@@ -28680,12 +27462,6 @@
     "pu_code": "16/18/09/018",
     "pu_name": "CHURCH ROAD SQUARE OBITTI",
     "name": "CHURCH ROAD SQUARE OBITTI",
-    "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
-    "ward": "OBITTI/MGBISHI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
     "ward": "OBITTI/MGBISHI",
     "state": "Imo",
@@ -28935,12 +27711,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
-    "ward": "OHOBA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/18/11/001",
     "pu_name": "COMMUNITY PRI. SCH. ETIOHA",
     "name": "COMMUNITY PRI. SCH. ETIOHA",
@@ -29157,12 +27927,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
-    "ward": "UMUAGWO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/18/12/001",
     "pu_name": "COMMUNITY PRIMARY SCHOOL UMUAPU I",
     "name": "COMMUNITY PRIMARY SCHOOL UMUAPU I",
@@ -29274,12 +28038,6 @@
     "pu_code": "16/18/12/013",
     "pu_name": "HEALTH CENTER AKANU",
     "name": "HEALTH CENTER AKANU",
-    "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
-    "ward": "UMUAPU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OHAJI/EGBEMA (MMAHU-EGBEMA)",
     "ward": "UMUAPU",
     "state": "Imo",
@@ -29496,12 +28254,6 @@
     "pu_code": "16/19/01/024",
     "pu_name": "OKIGWE MED. CENTRE LOMARA LANE",
     "name": "OKIGWE MED. CENTRE LOMARA LANE",
-    "lga": "OKIGWE  (OKIGWE)",
-    "ward": "OKIGWE I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OKIGWE  (OKIGWE)",
     "ward": "OKIGWE I",
     "state": "Imo",
@@ -29778,12 +28530,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OKIGWE  (OKIGWE)",
-    "ward": "OKIGWE II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/19/03/001",
     "pu_name": "IHUBE PRI. SCH., OGUBE",
     "name": "IHUBE PRI. SCH., OGUBE",
@@ -29955,12 +28701,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OKIGWE  (OKIGWE)",
-    "ward": "IHUBE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/19/04/001",
     "pu_name": "UMUANU/UGWU UMUANU",
     "name": "UMUANU/UGWU UMUANU",
@@ -30024,12 +28764,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OKIGWE  (OKIGWE)",
-    "ward": "AKU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/19/05/001",
     "pu_name": "OGII  CENTRAL SCHOOL",
     "name": "OGII  CENTRAL SCHOOL",
@@ -30087,12 +28821,6 @@
     "pu_code": "16/19/05/007",
     "pu_name": "OFEIYI VILL. SQUARE",
     "name": "OFEIYI VILL. SQUARE",
-    "lga": "OKIGWE  (OKIGWE)",
-    "ward": "OGII",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OKIGWE  (OKIGWE)",
     "ward": "OGII",
     "state": "Imo",
@@ -30198,12 +28926,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OKIGWE  (OKIGWE)",
-    "ward": "EZINACHI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/19/07/001",
     "pu_name": "UMUALUMOKE COMM. SCHOOL",
     "name": "UMUALUMOKE COMM. SCHOOL",
@@ -30288,12 +29010,6 @@
     "pu_code": "16/19/07/010",
     "pu_name": "ALAOHU NDIUCHE VILL. SQUARE",
     "name": "ALAOHU NDIUCHE VILL. SQUARE",
-    "lga": "OKIGWE  (OKIGWE)",
-    "ward": "UMUALUMUOKE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OKIGWE  (OKIGWE)",
     "ward": "UMUALUMUOKE",
     "state": "Imo",
@@ -30399,12 +29115,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OKIGWE  (OKIGWE)",
-    "ward": "AMURO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/19/09/001",
     "pu_name": "UMUOWA IBU CENTRAL SCHOOL",
     "name": "UMUOWA IBU CENTRAL SCHOOL",
@@ -30489,12 +29199,6 @@
     "pu_code": "16/19/09/010",
     "pu_name": "EKE MKT SQUARE NDIAMAZU-IKPOCHA",
     "name": "EKE MKT SQUARE NDIAMAZU-IKPOCHA",
-    "lga": "OKIGWE  (OKIGWE)",
-    "ward": "NDIMOKO OFEIMO/IBINTA/OKANACHI/UMUOWA IBU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OKIGWE  (OKIGWE)",
     "ward": "NDIMOKO OFEIMO/IBINTA/OKANACHI/UMUOWA IBU",
     "state": "Imo",
@@ -30636,12 +29340,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OKIGWE  (OKIGWE)",
-    "ward": "UMULOLO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/19/11/001",
     "pu_name": "ARO AGBOBU PRIMARY SCHOOL",
     "name": "ARO AGBOBU PRIMARY SCHOOL",
@@ -30726,12 +29424,6 @@
     "pu_code": "16/19/11/010",
     "pu_name": "NDIOGBUONYEOMA/IKPAEZE COMM. SCH",
     "name": "NDIOGBUONYEOMA/IKPAEZE COMM. SCH",
-    "lga": "OKIGWE  (OKIGWE)",
-    "ward": "AGBOBU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OKIGWE  (OKIGWE)",
     "ward": "AGBOBU",
     "state": "Imo",
@@ -30828,12 +29520,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ONUIMO (OKWE)",
-    "ward": "EZIAMA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/20/02/001",
     "pu_name": "EZIHIE VILL. HALL",
     "name": "EZIHIE VILL. HALL",
@@ -30924,12 +29610,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ONUIMO (OKWE)",
-    "ward": "UMUCHEKE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/20/03/001",
     "pu_name": "UMUDIKE HALL",
     "name": "UMUDIKE HALL",
@@ -31011,12 +29691,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ONUIMO (OKWE)",
-    "ward": "OWERRE-OKWE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/20/04/001",
     "pu_name": "EZELU PRI. SCHOOL",
     "name": "EZELU PRI. SCHOOL",
@@ -31080,12 +29754,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ONUIMO (OKWE)",
-    "ward": "EZELU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/20/05/001",
     "pu_name": "UMUEZEALA HALL",
     "name": "UMUEZEALA HALL",
@@ -31143,12 +29811,6 @@
     "pu_code": "16/20/05/007",
     "pu_name": "AMAKANU SQUARE",
     "name": "AMAKANU SQUARE",
-    "lga": "ONUIMO (OKWE)",
-    "ward": "OFEAHIA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ONUIMO (OKWE)",
     "ward": "OFEAHIA",
     "state": "Imo",
@@ -31239,12 +29901,6 @@
     "pu_code": "16/20/06/010",
     "pu_name": "COMM. CIVIC CENTRE",
     "name": "COMM. CIVIC CENTRE",
-    "lga": "ONUIMO (OKWE)",
-    "ward": "ABOH/OKOHIA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ONUIMO (OKWE)",
     "ward": "ABOH/OKOHIA",
     "state": "Imo",
@@ -31362,12 +30018,6 @@
     "pu_code": "16/20/07/013",
     "pu_name": "EGEREGE SQUARE",
     "name": "EGEREGE SQUARE",
-    "lga": "ONUIMO (OKWE)",
-    "ward": "OZIMO / UMUANUMEZE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ONUIMO (OKWE)",
     "ward": "OZIMO / UMUANUMEZE",
     "state": "Imo",
@@ -31500,12 +30150,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ONUIMO (OKWE)",
-    "ward": "UMUNA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/20/09/001",
     "pu_name": "DISPENSARY CENTRE OKWELLE",
     "name": "DISPENSARY CENTRE OKWELLE",
@@ -31587,12 +30231,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ONUIMO (OKWE)",
-    "ward": "OKWELLE I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/20/10/001",
     "pu_name": "STATE PRIMARY SCHOOL",
     "name": "STATE PRIMARY SCHOOL",
@@ -31659,12 +30297,6 @@
     "pu_code": "16/20/10/008",
     "pu_name": "ALAIKE HALL II",
     "name": "ALAIKE HALL II",
-    "lga": "ONUIMO (OKWE)",
-    "ward": "OKWELLE II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ONUIMO (OKWE)",
     "ward": "OKWELLE II",
     "state": "Imo",
@@ -31842,12 +30474,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORLU",
-    "ward": "OHAFOR/OKPORO/UMUTANZE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/21/02/001",
     "pu_name": "EKE ABARA SQ.",
     "name": "EKE ABARA SQ.",
@@ -32001,12 +30627,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORLU",
-    "ward": "OHAEKE/OKPORO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/21/03/001",
     "pu_name": "C.P.S. OKWUEKPE  I",
     "name": "C.P.S. OKWUEKPE  I",
@@ -32109,12 +30729,6 @@
     "pu_code": "16/21/03/012",
     "pu_name": "C.P.S. OKWUEKPE  II",
     "name": "C.P.S. OKWUEKPE  II",
-    "lga": "ORLU",
-    "ward": "EBENESE/UMUEZE/NNACHI IHIOMA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORLU",
     "ward": "EBENESE/UMUEZE/NNACHI IHIOMA",
     "state": "Imo",
@@ -32241,12 +30855,6 @@
     "pu_code": "16/21/04/014",
     "pu_name": "ISIOKWU PRIMARY SCH., IHIOMA",
     "name": "ISIOKWU PRIMARY SCH., IHIOMA",
-    "lga": "ORLU",
-    "ward": "OKWUA BALA/IHIOMA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORLU",
     "ward": "OKWUA BALA/IHIOMA",
     "state": "Imo",
@@ -32388,12 +30996,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORLU",
-    "ward": "UMUNA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/21/06/001",
     "pu_name": "DIMAMOKE SQ.",
     "name": "DIMAMOKE SQ.",
@@ -32487,12 +31089,6 @@
     "pu_code": "16/21/06/011",
     "pu_name": "UMUAWAKA SQUARE",
     "name": "UMUAWAKA SQUARE",
-    "lga": "ORLU",
-    "ward": "UMUDIOKA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORLU",
     "ward": "UMUDIOKA",
     "state": "Imo",
@@ -32619,12 +31215,6 @@
     "pu_code": "16/21/07/014",
     "pu_name": "NWAFOR MARKET SQUARE",
     "name": "NWAFOR MARKET SQUARE",
-    "lga": "ORLU",
-    "ward": "IHITE OWERRE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORLU",
     "ward": "IHITE OWERRE",
     "state": "Imo",
@@ -32856,12 +31446,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORLU",
-    "ward": "AMAIFEKE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/21/09/001",
     "pu_name": "UMUOKWE HALL",
     "name": "UMUOKWE HALL",
@@ -33006,12 +31590,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORLU",
-    "ward": "UMUZIKE/UMUOWA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/21/10/001",
     "pu_name": "PREMIER PRIM. SCH. OWERRI EBEIRI I",
     "name": "PREMIER PRIM. SCH. OWERRI EBEIRI I",
@@ -33114,12 +31692,6 @@
     "pu_code": "16/21/10/012",
     "pu_name": "DURUEMESARA SQUARE",
     "name": "DURUEMESARA SQUARE",
-    "lga": "ORLU",
-    "ward": "OWERRI EBEIRI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORLU",
     "ward": "OWERRI EBEIRI",
     "state": "Imo",
@@ -33246,12 +31818,6 @@
     "pu_code": "16/21/11/014",
     "pu_name": "UMUDIMODU VILLAGE SQ.",
     "name": "UMUDIMODU VILLAGE SQ.",
-    "lga": "ORLU",
-    "ward": "EZIACHI/AMIKE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORLU",
     "ward": "EZIACHI/AMIKE",
     "state": "Imo",
@@ -33396,12 +31962,6 @@
     "pu_code": "16/21/12/016",
     "pu_name": "UZOULO PRIMARY SCHOOL",
     "name": "UZOULO PRIMARY SCHOOL",
-    "lga": "ORLU",
-    "ward": "OGBERURU/OBIBI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORLU",
     "ward": "OGBERURU/OBIBI",
     "state": "Imo",
@@ -33624,12 +32184,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORLU",
-    "ward": "ORLU/MGBEE/ORLU GOVT.  STATION",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/22/01/001",
     "pu_name": "OFEKE HALL",
     "name": "OFEKE HALL",
@@ -33750,12 +32304,6 @@
     "pu_code": "16/22/01/014",
     "pu_name": "OFEKE OKABIA PRY SCH. AMANWUKWA",
     "name": "OFEKE OKABIA PRY SCH. AMANWUKWA",
-    "lga": "ORSU (AWO IDEMILI)",
-    "ward": "UMUHU OKABIA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORSU (AWO IDEMILI)",
     "ward": "UMUHU OKABIA",
     "state": "Imo",
@@ -33933,12 +32481,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORSU (AWO IDEMILI)",
-    "ward": "EBENATOR",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/22/03/001",
     "pu_name": "POLICE STATION",
     "name": "POLICE STATION",
@@ -34038,12 +32580,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORSU (AWO IDEMILI)",
-    "ward": "OKWUFURUAKU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/22/04/001",
     "pu_name": "AMARAIHIE PRI. SCHOOL EZEOGWU",
     "name": "AMARAIHIE PRI. SCHOOL EZEOGWU",
@@ -34083,12 +32619,6 @@
     "pu_code": "16/22/04/005",
     "pu_name": "COMM. PRY. SCH. OBIBI",
     "name": "COMM. PRY. SCH. OBIBI",
-    "lga": "ORSU (AWO IDEMILI)",
-    "ward": "OKWUAMARAIHIE  I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORSU (AWO IDEMILI)",
     "ward": "OKWUAMARAIHIE  I",
     "state": "Imo",
@@ -34143,12 +32673,6 @@
     "pu_code": "16/22/05/006",
     "pu_name": "OGBORO TOWN UNION HALL UBAHAEZE",
     "name": "OGBORO TOWN UNION HALL UBAHAEZE",
-    "lga": "ORSU (AWO IDEMILI)",
-    "ward": "OKWUAMARAIHIE  II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORSU (AWO IDEMILI)",
     "ward": "OKWUAMARAIHIE  II",
     "state": "Imo",
@@ -34275,12 +32799,6 @@
     "pu_code": "16/22/06/014",
     "pu_name": "ISIEKE  HALL II",
     "name": "ISIEKE  HALL II",
-    "lga": "ORSU (AWO IDEMILI)",
-    "ward": "OKWUETITI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORSU (AWO IDEMILI)",
     "ward": "OKWUETITI",
     "state": "Imo",
@@ -34416,12 +32934,6 @@
     "pu_code": "16/22/07/015",
     "pu_name": "OBOM-UDA HALL",
     "name": "OBOM-UDA HALL",
-    "lga": "ORSU (AWO IDEMILI)",
-    "ward": "ORSU IHITEUKWA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORSU (AWO IDEMILI)",
     "ward": "ORSU IHITEUKWA",
     "state": "Imo",
@@ -34635,12 +33147,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORSU (AWO IDEMILI)",
-    "ward": "IHITENANSA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/22/09/001",
     "pu_name": "AMA LAZ OKAFOR SQ.",
     "name": "AMA LAZ OKAFOR SQ.",
@@ -34731,12 +33237,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORSU (AWO IDEMILI)",
-    "ward": "ASSAH UBIRI ELEM",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/22/10/001",
     "pu_name": "COMP. SEC. SCHOOL EZIAWA",
     "name": "COMP. SEC. SCHOOL EZIAWA",
@@ -34803,12 +33303,6 @@
     "pu_code": "16/22/10/008",
     "pu_name": "UVDC HALL AMAIKPO URUALA EZIAWA",
     "name": "UVDC HALL AMAIKPO URUALA EZIAWA",
-    "lga": "ORSU (AWO IDEMILI)",
-    "ward": "EZIAWA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORSU (AWO IDEMILI)",
     "ward": "EZIAWA",
     "state": "Imo",
@@ -34917,12 +33411,6 @@
     "pu_code": "16/22/11/012",
     "pu_name": "AMA AJAGWU VILL. HALL",
     "name": "AMA AJAGWU VILL. HALL",
-    "lga": "ORSU (AWO IDEMILI)",
-    "ward": "AMARURU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORSU (AWO IDEMILI)",
     "ward": "AMARURU",
     "state": "Imo",
@@ -35076,12 +33564,6 @@
     "pu_code": "16/23/01/017",
     "pu_name": "UBAHEZE MARKET SQUARE",
     "name": "UBAHEZE MARKET SQUARE",
-    "lga": "ORU-EAST",
-    "ward": "AWO-OMAMMA I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORU-EAST",
     "ward": "AWO-OMAMMA I",
     "state": "Imo",
@@ -35250,12 +33732,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORU-EAST",
-    "ward": "AWO-OMAMMA II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/23/03/001",
     "pu_name": "UMUOKWE PRIMARY SCHOOL I",
     "name": "UMUOKWE PRIMARY SCHOOL I",
@@ -35349,12 +33825,6 @@
     "pu_code": "16/23/03/011",
     "pu_name": "UMUOKWE HEALTH CENTRE",
     "name": "UMUOKWE HEALTH CENTRE",
-    "lga": "ORU-EAST",
-    "ward": "AWO-OMAMMA III",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORU-EAST",
     "ward": "AWO-OMAMMA III",
     "state": "Imo",
@@ -35487,12 +33957,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORU-EAST",
-    "ward": "AWO-OMAMMA IV",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/23/05/001",
     "pu_name": "CENTRAL SCHOOL UKWUEGBU UMUOCHETA",
     "name": "CENTRAL SCHOOL UKWUEGBU UMUOCHETA",
@@ -35604,12 +34068,6 @@
     "pu_code": "16/23/05/013",
     "pu_name": "AMIRI PRIMARY SCHOOL AMUKA II",
     "name": "AMIRI PRIMARY SCHOOL AMUKA II",
-    "lga": "ORU-EAST",
-    "ward": "AMIRI I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORU-EAST",
     "ward": "AMIRI I",
     "state": "Imo",
@@ -35751,12 +34209,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORU-EAST",
-    "ward": "AMIRI II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/23/07/001",
     "pu_name": "AKUMA SCHOOL AKUMA I",
     "name": "AKUMA SCHOOL AKUMA I",
@@ -35838,12 +34290,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORU-EAST",
-    "ward": "AKUMA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/23/08/001",
     "pu_name": "ONYEAGHALA HALL",
     "name": "ONYEAGHALA HALL",
@@ -35892,12 +34338,6 @@
     "pu_code": "16/23/08/006",
     "pu_name": "HEALTH CENTRE, AMAGU II",
     "name": "HEALTH CENTRE, AMAGU II",
-    "lga": "ORU-EAST",
-    "ward": "AMAGU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORU-EAST",
     "ward": "AMAGU",
     "state": "Imo",
@@ -36096,12 +34536,6 @@
     "pu_code": "16/23/09/022",
     "pu_name": "OKPORO AKATA TWON HALL",
     "name": "OKPORO AKATA TWON HALL",
-    "lga": "ORU-EAST",
-    "ward": "AKATA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORU-EAST",
     "ward": "AKATA",
     "state": "Imo",
@@ -36522,12 +34956,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORU-EAST",
-    "ward": "OMUMA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/24/01/001",
     "pu_name": "NEMPI PRIMARY SCHOOL",
     "name": "NEMPI PRIMARY SCHOOL",
@@ -36699,12 +35127,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORU WEST (MGBIDI)",
-    "ward": "NEMPI/ELEM",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/24/02/001",
     "pu_name": "PROGRESSIVE CENT. SCHOOL",
     "name": "PROGRESSIVE CENT. SCHOOL",
@@ -36822,12 +35244,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORU WEST (MGBIDI)",
-    "ward": "OTULU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/24/03/001",
     "pu_name": "COMMUNITY PRIMARY SCHOOL I",
     "name": "COMMUNITY PRIMARY SCHOOL I",
@@ -36885,12 +35301,6 @@
     "pu_code": "16/24/03/007",
     "pu_name": "UBAHA-NLERE AJI SQAURE",
     "name": "UBAHA-NLERE AJI SQAURE",
-    "lga": "ORU WEST (MGBIDI)",
-    "ward": "AJI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORU WEST (MGBIDI)",
     "ward": "AJI",
     "state": "Imo",
@@ -37005,12 +35415,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORU WEST (MGBIDI)",
-    "ward": "IBIASO EGBE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/24/05/001",
     "pu_name": "UBAHA CIVIC CENTRE",
     "name": "UBAHA CIVIC CENTRE",
@@ -37050,12 +35454,6 @@
     "pu_code": "16/24/05/005",
     "pu_name": "EBIRI PRIMARY SCHOOL",
     "name": "EBIRI PRIMARY SCHOOL",
-    "lga": "ORU WEST (MGBIDI)",
-    "ward": "AMAFUO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORU WEST (MGBIDI)",
     "ward": "AMAFUO",
     "state": "Imo",
@@ -37119,12 +35517,6 @@
     "pu_code": "16/24/06/007",
     "pu_name": "AYA OHAKPU SQUARE",
     "name": "AYA OHAKPU SQUARE",
-    "lga": "ORU WEST (MGBIDI)",
-    "ward": "OHAKPU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORU WEST (MGBIDI)",
     "ward": "OHAKPU",
     "state": "Imo",
@@ -37206,12 +35598,6 @@
     "pu_code": "16/24/07/009",
     "pu_name": "UMUOMEREM AMAAPUTAZIE SQ. UBAHALANANWAM",
     "name": "UMUOMEREM AMAAPUTAZIE SQ. UBAHALANANWAM",
-    "lga": "ORU WEST (MGBIDI)",
-    "ward": "OZARA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORU WEST (MGBIDI)",
     "ward": "OZARA",
     "state": "Imo",
@@ -37434,12 +35820,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORU WEST (MGBIDI)",
-    "ward": "UBULU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/24/09/001",
     "pu_name": "UMUORJI GIRLS' SECONDARY SCHOOL I",
     "name": "UMUORJI GIRLS' SECONDARY SCHOOL I",
@@ -37623,12 +36003,6 @@
     "pu_code": "16/24/09/021",
     "pu_name": "AMAIKWU OBODO SQUARE",
     "name": "AMAIKWU OBODO SQUARE",
-    "lga": "ORU WEST (MGBIDI)",
-    "ward": "MGBIDI I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "ORU WEST (MGBIDI)",
     "ward": "MGBIDI I",
     "state": "Imo",
@@ -37905,12 +36279,6 @@
     "state_code": "16"
   },
   {
-    "lga": "ORU WEST (MGBIDI)",
-    "ward": "MGBIDI II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/25/01/001",
     "pu_name": "HOUSING ESTATE PRIMARY SCHOOL I",
     "name": "HOUSING ESTATE PRIMARY SCHOOL I",
@@ -38109,12 +36477,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI MUNICIPAL",
-    "ward": "ALADINMA I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/25/02/001",
     "pu_name": "UNITY PRIMARY SCHOOL I",
     "name": "UNITY PRIMARY SCHOOL I",
@@ -38199,12 +36561,6 @@
     "pu_code": "16/25/02/010",
     "pu_name": "IN FRONT OF BROADOAK SCHOOLS",
     "name": "IN FRONT OF BROADOAK SCHOOLS",
-    "lga": "OWERRI MUNICIPAL",
-    "ward": "ALADINMA II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI MUNICIPAL",
     "ward": "ALADINMA II",
     "state": "Imo",
@@ -38436,12 +36792,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI MUNICIPAL",
-    "ward": "IKENEGBU I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/25/04/001",
     "pu_name": "IKENEGBU SECONDARY SCHOOL I",
     "name": "IKENEGBU SECONDARY SCHOOL I",
@@ -38643,12 +36993,6 @@
     "pu_code": "16/25/04/023",
     "pu_name": "NEW MBAISE PARK (EGBU ROAD)",
     "name": "NEW MBAISE PARK (EGBU ROAD)",
-    "lga": "OWERRI MUNICIPAL",
-    "ward": "IKENEGBU II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI MUNICIPAL",
     "ward": "IKENEGBU II",
     "state": "Imo",
@@ -38880,12 +37224,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI MUNICIPAL",
-    "ward": "AZUZI I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/25/06/001",
     "pu_name": "EMMANUEL COLLEGE I",
     "name": "EMMANUEL COLLEGE I",
@@ -39093,12 +37431,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI MUNICIPAL",
-    "ward": "AZUZI II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/25/07/001",
     "pu_name": "NEKEDE MECH. VILLAGE HALL I",
     "name": "NEKEDE MECH. VILLAGE HALL I",
@@ -39261,12 +37593,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI MUNICIPAL",
-    "ward": "AZUZI III",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/25/08/001",
     "pu_name": "UZII PRIMARY SCHOOL I",
     "name": "UZII PRIMARY SCHOOL I",
@@ -39423,12 +37749,6 @@
     "pu_code": "16/25/08/018",
     "pu_name": "ST. LUKE'S REFERRAL HOSP. (NO. 38 MBAISE RD.)",
     "name": "ST. LUKE'S REFERRAL HOSP. (NO. 38 MBAISE RD.)",
-    "lga": "OWERRI MUNICIPAL",
-    "ward": "AZUZI IV",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI MUNICIPAL",
     "ward": "AZUZI IV",
     "state": "Imo",
@@ -39687,12 +38007,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI MUNICIPAL",
-    "ward": "GRA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/25/10/001",
     "pu_name": "MODEL PRIMARY SCHOOL I",
     "name": "MODEL PRIMARY SCHOOL I",
@@ -39885,12 +38199,6 @@
     "pu_code": "16/25/10/022",
     "pu_name": "IN FRONT OF WINNERS CHAPEL OLD D",
     "name": "IN FRONT OF WINNERS CHAPEL OLD D",
-    "lga": "OWERRI MUNICIPAL",
-    "ward": "NEW OWERRI I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI MUNICIPAL",
     "ward": "NEW OWERRI I",
     "state": "Imo",
@@ -40122,12 +38430,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI MUNICIPAL",
-    "ward": "NEW OWERRI II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/26/01/001",
     "pu_name": "EKEAMA PRIMARY SCHOOL AWAKA I",
     "name": "EKEAMA PRIMARY SCHOOL AWAKA I",
@@ -40230,12 +38532,6 @@
     "pu_code": "16/26/01/012",
     "pu_name": "FRONT OF BLESSED VIRGIN MARY ANGLICIAN CHURCH",
     "name": "FRONT OF BLESSED VIRGIN MARY ANGLICIAN CHURCH",
-    "lga": "OWERRI NORTH (ORIE URATTA)",
-    "ward": "AWAKA/IHITTE-OGADA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI NORTH (ORIE URATTA)",
     "ward": "AWAKA/IHITTE-OGADA",
     "state": "Imo",
@@ -40380,12 +38676,6 @@
     "pu_code": "16/26/02/016",
     "pu_name": "AKACHI ESTATE",
     "name": "AKACHI ESTATE",
-    "lga": "OWERRI NORTH (ORIE URATTA)",
-    "ward": "NAZE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI NORTH (ORIE URATTA)",
     "ward": "NAZE",
     "state": "Imo",
@@ -40548,12 +38838,6 @@
     "pu_code": "16/26/03/018",
     "pu_name": "FRONT OF EMMANUEL ANGLICAN CHURCH",
     "name": "FRONT OF EMMANUEL ANGLICAN CHURCH",
-    "lga": "OWERRI NORTH (ORIE URATTA)",
-    "ward": "EGBU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI NORTH (ORIE URATTA)",
     "ward": "EGBU",
     "state": "Imo",
@@ -40731,12 +39015,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI NORTH (ORIE URATTA)",
-    "ward": "EMII",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/26/05/001",
     "pu_name": "EMEKUKU HIGH SCHOOL I",
     "name": "EMEKUKU HIGH SCHOOL I",
@@ -40890,12 +39168,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI NORTH (ORIE URATTA)",
-    "ward": "EMEKUKU I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/26/06/001",
     "pu_name": "T.T. PRACTICING SCHOOL AZARAEGBELU I",
     "name": "T.T. PRACTICING SCHOOL AZARAEGBELU I",
@@ -41007,12 +39279,6 @@
     "pu_code": "16/26/06/013",
     "pu_name": "AZARA-OWALA WOMEN HALL",
     "name": "AZARA-OWALA WOMEN HALL",
-    "lga": "OWERRI NORTH (ORIE URATTA)",
-    "ward": "EMEKUKU II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI NORTH (ORIE URATTA)",
     "ward": "EMEKUKU II",
     "state": "Imo",
@@ -41334,12 +39600,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI NORTH (ORIE URATTA)",
-    "ward": "ORJI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/26/08/001",
     "pu_name": "GIRLS' SEC. SCHOOL, AKWAKUMA I",
     "name": "GIRLS' SEC. SCHOOL, AKWAKUMA I",
@@ -41601,12 +39861,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI NORTH (ORIE URATTA)",
-    "ward": "IHITTA-OHA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/26/09/001",
     "pu_name": "COMMUNITY PRIMARY SCHOOL UMUALUM",
     "name": "COMMUNITY PRIMARY SCHOOL UMUALUM",
@@ -41841,12 +40095,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI NORTH (ORIE URATTA)",
-    "ward": "OBIBI-URATTA I",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/26/10/001",
     "pu_name": "COMMUNITY SCHOOL IHITTE OHA",
     "name": "COMMUNITY SCHOOL IHITTE OHA",
@@ -41985,12 +40233,6 @@
     "pu_code": "16/26/10/016",
     "pu_name": "IZUZU UWAELUNA UWALA",
     "name": "IZUZU UWAELUNA UWALA",
-    "lga": "OWERRI NORTH (ORIE URATTA)",
-    "ward": "OBIBI-URATTA II",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI NORTH (ORIE URATTA)",
     "ward": "OBIBI-URATTA II",
     "state": "Imo",
@@ -42168,12 +40410,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI NORTH (ORIE URATTA)",
-    "ward": "AGBALA/OBUBE/ULAKWO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/26/12/001",
     "pu_name": "COMM. PRIMARY SCHOOL, AMAORIE",
     "name": "COMM. PRIMARY SCHOOL, AMAORIE",
@@ -42312,12 +40548,6 @@
     "pu_code": "16/26/12/020",
     "pu_name": "UMUOGUDUGU SQ",
     "name": "UMUOGUDUGU SQ",
-    "lga": "OWERRI NORTH (ORIE URATTA)",
-    "ward": "OBIBIEZENA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI NORTH (ORIE URATTA)",
     "ward": "OBIBIEZENA",
     "state": "Imo",
@@ -42498,12 +40728,6 @@
     "pu_code": "16/27/01/020",
     "pu_name": "MANGERO TABLE WATER JUNCTION AVU",
     "name": "MANGERO TABLE WATER JUNCTION AVU",
-    "lga": "OWERRI WEST (UMUGUMA)",
-    "ward": "AVU/OFOROLA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI WEST (UMUGUMA)",
     "ward": "AVU/OFOROLA",
     "state": "Imo",
@@ -42717,12 +40941,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI WEST (UMUGUMA)",
-    "ward": "UMUGUMA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/27/03/001",
     "pu_name": "L.A. SCHOOL AMAPU",
     "name": "L.A. SCHOOL AMAPU",
@@ -42834,12 +41052,6 @@
     "pu_code": "16/27/03/013",
     "pu_name": "IBARI OBIEZE UMUNGORI UMUOKIRE",
     "name": "IBARI OBIEZE UMUNGORI UMUOKIRE",
-    "lga": "OWERRI WEST (UMUGUMA)",
-    "ward": "OKUKU",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI WEST (UMUGUMA)",
     "ward": "OKUKU",
     "state": "Imo",
@@ -43080,12 +41292,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI WEST (UMUGUMA)",
-    "ward": "EMEABIAM/OKOLOCHI",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/27/05/001",
     "pu_name": "CENTRAL SCHOOL EZIOBODO I",
     "name": "CENTRAL SCHOOL EZIOBODO I",
@@ -43242,12 +41448,6 @@
     "pu_code": "16/27/05/018",
     "pu_name": "UMUDAGU SQ. EZIOBODO",
     "name": "UMUDAGU SQ. EZIOBODO",
-    "lga": "OWERRI WEST (UMUGUMA)",
-    "ward": "EZIOBODO",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI WEST (UMUGUMA)",
     "ward": "EZIOBODO",
     "state": "Imo",
@@ -43464,12 +41664,6 @@
     "pu_code": "16/27/06/024",
     "pu_name": "MAGISTRATE COURT IHIAGWA",
     "name": "MAGISTRATE COURT IHIAGWA",
-    "lga": "OWERRI WEST (UMUGUMA)",
-    "ward": "IHIAGWA",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI WEST (UMUGUMA)",
     "ward": "IHIAGWA",
     "state": "Imo",
@@ -43962,12 +42156,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI WEST (UMUGUMA)",
-    "ward": "NEKEDE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/27/08/001",
     "pu_name": "PRIMARY SCHOOL AZUDO I",
     "name": "PRIMARY SCHOOL AZUDO I",
@@ -44157,12 +42345,6 @@
     "state_code": "16"
   },
   {
-    "lga": "OWERRI WEST (UMUGUMA)",
-    "ward": "OBINZE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "pu_code": "16/27/09/001",
     "pu_name": "PRIMARY SCHOOL AMAKOHIA UBI I",
     "name": "PRIMARY SCHOOL AMAKOHIA UBI I",
@@ -44328,12 +42510,6 @@
     "pu_code": "16/27/09/019",
     "pu_name": "MILITARY ZONE ESHIMESHI OHII",
     "name": "MILITARY ZONE ESHIMESHI OHII",
-    "lga": "OWERRI WEST (UMUGUMA)",
-    "ward": "AMAKOHIA-UBI/NDEGWU OHII",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI WEST (UMUGUMA)",
     "ward": "AMAKOHIA-UBI/NDEGWU OHII",
     "state": "Imo",
@@ -44631,12 +42807,6 @@
     "pu_code": "16/27/10/033",
     "pu_name": "AMA UMUNBE SQ. IRETE",
     "name": "AMA UMUNBE SQ. IRETE",
-    "lga": "OWERRI WEST (UMUGUMA)",
-    "ward": "IRETE/OROGWE",
-    "state": "Imo",
-    "state_code": "16"
-  },
-  {
     "lga": "OWERRI WEST (UMUGUMA)",
     "ward": "IRETE/OROGWE",
     "state": "Imo",

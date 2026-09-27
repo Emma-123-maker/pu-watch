@@ -198,12 +198,6 @@
     "state_code": "36"
   },
   {
-    "lga": "ANKA",
-    "ward": "BAGEGA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/01/02/001",
     "pu_name": "BARAYAR-ZAKI/KANWURI",
     "name": "BARAYAR-ZAKI/KANWURI",
@@ -357,12 +351,6 @@
     "state_code": "36"
   },
   {
-    "lga": "ANKA",
-    "ward": "BARAYAR-ZAKI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/01/03/001",
     "pu_name": "J.N.I./PRIMARY SCHOOL",
     "name": "J.N.I./PRIMARY SCHOOL",
@@ -465,12 +453,6 @@
     "pu_code": "36/01/03/012",
     "pu_name": "MODEL PRI SCH",
     "name": "MODEL PRI SCH",
-    "lga": "ANKA",
-    "ward": "DAN GALADIMA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "ANKA",
     "ward": "DAN GALADIMA",
     "state": "Zamfara",
@@ -597,12 +579,6 @@
     "pu_code": "36/01/04/014",
     "pu_name": "KHADI BALARABE ISL.SCH",
     "name": "KHADI BALARABE ISL.SCH",
-    "lga": "ANKA",
-    "ward": "GALADIMA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "ANKA",
     "ward": "GALADIMA",
     "state": "Zamfara",
@@ -765,12 +741,6 @@
     "pu_code": "36/01/05/018",
     "pu_name": "ABARE ASIBITI",
     "name": "ABARE ASIBITI",
-    "lga": "ANKA",
-    "ward": "MAGAJI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "ANKA",
     "ward": "MAGAJI",
     "state": "Zamfara",
@@ -957,12 +927,6 @@
     "state_code": "36"
   },
   {
-    "lga": "ANKA",
-    "ward": "MATSERI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/01/07/001",
     "pu_name": "SHIYAR MAGAJI - GIDAN HAKIMI",
     "name": "SHIYAR MAGAJI - GIDAN HAKIMI",
@@ -1107,12 +1071,6 @@
     "state_code": "36"
   },
   {
-    "lga": "ANKA",
-    "ward": "SABON BIRINI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/01/08/001",
     "pu_name": "WARAMU/PRI. SCH.",
     "name": "WARAMU/PRI. SCH.",
@@ -1242,12 +1200,6 @@
     "pu_code": "36/01/08/015",
     "pu_name": "BIRNIN TUDU GARKA",
     "name": "BIRNIN TUDU GARKA",
-    "lga": "ANKA",
-    "ward": "WARAMU",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "ANKA",
     "ward": "WARAMU",
     "state": "Zamfara",
@@ -1407,12 +1359,6 @@
     "state_code": "36"
   },
   {
-    "lga": "ANKA",
-    "ward": "WUYA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/01/10/001",
     "pu_name": "BARDOKI/DANBEDI",
     "name": "BARDOKI/DANBEDI",
@@ -1524,12 +1470,6 @@
     "pu_code": "36/01/10/013",
     "pu_name": "HIYA HIYA WATER BOARD",
     "name": "HIYA HIYA WATER BOARD",
-    "lga": "ANKA",
-    "ward": "YAR'SABAYA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "ANKA",
     "ward": "YAR'SABAYA",
     "state": "Zamfara",
@@ -1869,12 +1809,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BAKURA",
-    "ward": "BAKURA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/02/02/001",
     "pu_name": "SHIYAR TUDU/PRIMARY SCHOOL",
     "name": "SHIYAR TUDU/PRIMARY SCHOOL",
@@ -2037,12 +1971,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BAKURA",
-    "ward": "BIRNIN TUDU",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/02/03/001",
     "pu_name": "DAMRI   I/MODEL PRIMARY SCHOOL",
     "name": "DAMRI   I/MODEL PRIMARY SCHOOL",
@@ -2172,12 +2100,6 @@
     "pu_code": "36/02/03/015",
     "pu_name": "SHIYAR KOFA YAR RIJIYA DAMRI",
     "name": "SHIYAR KOFA YAR RIJIYA DAMRI",
-    "lga": "BAKURA",
-    "ward": "DAMRI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BAKURA",
     "ward": "DAMRI",
     "state": "Zamfara",
@@ -2385,12 +2307,6 @@
     "pu_code": "36/02/04/023",
     "pu_name": "KUHU",
     "name": "KUHU",
-    "lga": "BAKURA",
-    "ward": "DANKADU",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BAKURA",
     "ward": "DANKADU",
     "state": "Zamfara",
@@ -2631,12 +2547,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BAKURA",
-    "ward": "DAN MANAU",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/02/06/001",
     "pu_name": "TITI MODEL PRIMARY SCHOOL",
     "name": "TITI MODEL PRIMARY SCHOOL",
@@ -2835,12 +2745,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BAKURA",
-    "ward": "YAR KUFOJI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/02/07/001",
     "pu_name": "DAKKO I    /  MODEL PRI. SCH.",
     "name": "DAKKO I    /  MODEL PRI. SCH.",
@@ -2949,12 +2853,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BAKURA",
-    "ward": "DAKKO",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/02/08/001",
     "pu_name": "S / MAGAJI   /    VILLAGE HEAD OFFICE",
     "name": "S / MAGAJI   /    VILLAGE HEAD OFFICE",
@@ -3057,12 +2955,6 @@
     "pu_code": "36/02/08/012",
     "pu_name": "HILIN DAMO TUMBA",
     "name": "HILIN DAMO TUMBA",
-    "lga": "BAKURA",
-    "ward": "NASARAWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BAKURA",
     "ward": "NASARAWA",
     "state": "Zamfara",
@@ -3195,12 +3087,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BAKURA",
-    "ward": "RINI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/02/10/001",
     "pu_name": "YARGEDA   /  PRIMARY SCHOOL",
     "name": "YARGEDA   /  PRIMARY SCHOOL",
@@ -3285,12 +3171,6 @@
     "pu_code": "36/02/10/010",
     "pu_name": "GIDAN KALGO KASUWA BEDI",
     "name": "GIDAN KALGO KASUWA BEDI",
-    "lga": "BAKURA",
-    "ward": "YAR GEDA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BAKURA",
     "ward": "YAR GEDA",
     "state": "Zamfara",
@@ -3531,12 +3411,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BIRNIN MAGAJI",
-    "ward": "BIRNIN MAGAJI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/03/02/001",
     "pu_name": "BUNTUME I  /  KOFAR MAGAJI",
     "name": "BUNTUME I  /  KOFAR MAGAJI",
@@ -3693,12 +3567,6 @@
     "pu_code": "36/03/02/018",
     "pu_name": "PRIMARY SCHOOL SHAMUSHALLE",
     "name": "PRIMARY SCHOOL SHAMUSHALLE",
-    "lga": "BIRNIN MAGAJI",
-    "ward": "DANFAMI SABON BIRINI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BIRNIN MAGAJI",
     "ward": "DANFAMI SABON BIRINI",
     "state": "Zamfara",
@@ -3948,12 +3816,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BIRNIN MAGAJI",
-    "ward": "GORA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/03/04/001",
     "pu_name": "UNG. GAMJI    /   SHIYAR GALADIMA",
     "name": "UNG. GAMJI    /   SHIYAR GALADIMA",
@@ -4080,12 +3942,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BIRNIN MAGAJI",
-    "ward": "GUSAMI GARI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/03/05/001",
     "pu_name": "MAI KURU    /   KOFAR  GIDAN S/GARI",
     "name": "MAI KURU    /   KOFAR  GIDAN S/GARI",
@@ -4179,12 +4035,6 @@
     "pu_code": "36/03/05/011",
     "pu_name": "PRIMARY SCHOOL MARADAWA",
     "name": "PRIMARY SCHOOL MARADAWA",
-    "lga": "BIRNIN MAGAJI",
-    "ward": "GUSAMI HAYI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BIRNIN MAGAJI",
     "ward": "GUSAMI HAYI",
     "state": "Zamfara",
@@ -4371,12 +4221,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BIRNIN MAGAJI",
-    "ward": "KIYAWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/03/07/001",
     "pu_name": "GIDAN DAN MARAFA    /  GARKAR HAKIMI",
     "name": "GIDAN DAN MARAFA    /  GARKAR HAKIMI",
@@ -4506,12 +4350,6 @@
     "pu_code": "36/03/07/015",
     "pu_name": "ASIBITI KIRI TASHA SHEHU",
     "name": "ASIBITI KIRI TASHA SHEHU",
-    "lga": "BIRNIN MAGAJI",
-    "ward": "MODOMAWA EAST",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BIRNIN MAGAJI",
     "ward": "MODOMAWA EAST",
     "state": "Zamfara",
@@ -4707,12 +4545,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BIRNIN MAGAJI",
-    "ward": "MODOMAWA WEST",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/03/09/001",
     "pu_name": "CHIGAMA I     /   GARKAR HAKIMI",
     "name": "CHIGAMA I     /   GARKAR HAKIMI",
@@ -4842,12 +4674,6 @@
     "pu_code": "36/03/09/015",
     "pu_name": "PRIMARY SCHOOL TSABRE",
     "name": "PRIMARY SCHOOL TSABRE",
-    "lga": "BIRNIN MAGAJI",
-    "ward": "NASARAWA GODAL EAST",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BIRNIN MAGAJI",
     "ward": "NASARAWA GODAL EAST",
     "state": "Zamfara",
@@ -5028,12 +4854,6 @@
     "pu_code": "36/03/10/020",
     "pu_name": "PRIMARY SCHOOL",
     "name": "PRIMARY SCHOOL",
-    "lga": "BIRNIN MAGAJI",
-    "ward": "NASARAWA GODAL WEST",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BIRNIN MAGAJI",
     "ward": "NASARAWA GODAL WEST",
     "state": "Zamfara",
@@ -5232,12 +5052,6 @@
     "pu_code": "36/04/01/022",
     "pu_name": "DHUWA II/PRI. SCHOOL",
     "name": "DHUWA II/PRI. SCHOOL",
-    "lga": "BUKKUYUM",
-    "ward": "ADABKA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BUKKUYUM",
     "ward": "ADABKA",
     "state": "Zamfara",
@@ -5478,12 +5292,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BUKKUYUM",
-    "ward": "BUKKUYUM",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/04/03/001",
     "pu_name": "GWASHI I  /  PRIMARY SCHOOL",
     "name": "GWASHI I  /  PRIMARY SCHOOL",
@@ -5700,12 +5508,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BUKKUYUM",
-    "ward": "GWASHI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/04/04/001",
     "pu_name": "KYARAM / PRIMARY SCHOOL",
     "name": "KYARAM / PRIMARY SCHOOL",
@@ -5895,12 +5697,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BUKKUYUM",
-    "ward": "KYARAM",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/04/05/001",
     "pu_name": "MASAMA/PRIMARY SCHOOL",
     "name": "MASAMA/PRIMARY SCHOOL",
@@ -5976,12 +5772,6 @@
     "pu_code": "36/04/05/009",
     "pu_name": "KASARAWA II/YAMMA",
     "name": "KASARAWA II/YAMMA",
-    "lga": "BUKKUYUM",
-    "ward": "MASAMA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BUKKUYUM",
     "ward": "MASAMA",
     "state": "Zamfara",
@@ -6267,12 +6057,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BUKKUYUM",
-    "ward": "NASARAWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/04/07/001",
     "pu_name": "KURFAR DANYA / K / DANYA",
     "name": "KURFAR DANYA / K / DANYA",
@@ -6426,12 +6210,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BUKKUYUM",
-    "ward": "RUWAN JEMA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/04/08/001",
     "pu_name": "RUWA RANA / RUWA RANA",
     "name": "RUWA RANA / RUWA RANA",
@@ -6507,12 +6285,6 @@
     "pu_code": "36/04/08/009",
     "pu_name": "YASHIN MAKERA II/YASHIN MAKERA",
     "name": "YASHIN MAKERA II/YASHIN MAKERA",
-    "lga": "BUKKUYUM",
-    "ward": "YASHI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BUKKUYUM",
     "ward": "YASHI",
     "state": "Zamfara",
@@ -6735,12 +6507,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BUKKUYUM",
-    "ward": "ZARUMMAI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/04/10/001",
     "pu_name": "ZAUMA / PRIMARY SCHOOL",
     "name": "ZAUMA / PRIMARY SCHOOL",
@@ -6825,12 +6591,6 @@
     "pu_code": "36/04/10/010",
     "pu_name": "TUDUN MANIYA / GARKAR LIMAN",
     "name": "TUDUN MANIYA / GARKAR LIMAN",
-    "lga": "BUKKUYUM",
-    "ward": "ZAUMA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BUKKUYUM",
     "ward": "ZAUMA",
     "state": "Zamfara",
@@ -7098,12 +6858,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BUNGUDU",
-    "ward": "BINGI NORTH",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/05/02/001",
     "pu_name": "KUNGURMI I / BAKIN GIDAN HAKIMI",
     "name": "KUNGURMI I / BAKIN GIDAN HAKIMI",
@@ -7332,12 +7086,6 @@
     "pu_code": "36/05/02/026",
     "pu_name": "KANGON PRI.SCH",
     "name": "KANGON PRI.SCH",
-    "lga": "BUNGUDU",
-    "ward": "BINGI SOUTH",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BUNGUDU",
     "ward": "BINGI SOUTH",
     "state": "Zamfara",
@@ -7686,12 +7434,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BUNGUDU",
-    "ward": "BUNGUDU",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/05/04/001",
     "pu_name": "SABON BIRNIN I /  PRI. SCHOOL",
     "name": "SABON BIRNIN I /  PRI. SCHOOL",
@@ -8016,12 +7758,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BUNGUDU",
-    "ward": "FURFURI/KWAI-KWAI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/05/05/001",
     "pu_name": "SABON BIRIN / PRIMARY SCHOOL",
     "name": "SABON BIRIN / PRIMARY SCHOOL",
@@ -8268,12 +8004,6 @@
     "pu_code": "36/05/05/028",
     "pu_name": "KARAKKAI PRI.SCH II",
     "name": "KARAKKAI PRI.SCH II",
-    "lga": "BUNGUDU",
-    "ward": "GADA / KARAKKAI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BUNGUDU",
     "ward": "GADA / KARAKKAI",
     "state": "Zamfara",
@@ -8535,12 +8265,6 @@
     "pu_code": "36/05/06/029",
     "pu_name": "BAICIN ASIBITI NAHUCE",
     "name": "BAICIN ASIBITI NAHUCE",
-    "lga": "BUNGUDU",
-    "ward": "NAHUCE",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BUNGUDU",
     "ward": "NAHUCE",
     "state": "Zamfara",
@@ -8883,12 +8607,6 @@
     "pu_code": "36/05/07/038",
     "pu_name": "MARERAWA II",
     "name": "MARERAWA II",
-    "lga": "BUNGUDU",
-    "ward": "KWATARKWASHI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BUNGUDU",
     "ward": "KWATARKWASHI",
     "state": "Zamfara",
@@ -9264,12 +8982,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BUNGUDU",
-    "ward": "RAWAYYA/ BELA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/05/09/001",
     "pu_name": "SAMAWA GABAS  /  OFISHIN MAI GARI",
     "name": "SAMAWA GABAS  /  OFISHIN MAI GARI",
@@ -9417,12 +9129,6 @@
     "pu_code": "36/05/09/017",
     "pu_name": "YAR SAMAWA D/MARKE",
     "name": "YAR SAMAWA D/MARKE",
-    "lga": "BUNGUDU",
-    "ward": "SAMAWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BUNGUDU",
     "ward": "SAMAWA",
     "state": "Zamfara",
@@ -9627,12 +9333,6 @@
     "state_code": "36"
   },
   {
-    "lga": "BUNGUDU",
-    "ward": "SANKALAWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/05/11/001",
     "pu_name": "TOFA I    /   PRIMARY SCHOOL",
     "name": "TOFA I    /   PRIMARY SCHOOL",
@@ -9816,12 +9516,6 @@
     "pu_code": "36/05/11/021",
     "pu_name": "KANON HAKI PRI.SCH",
     "name": "KANON HAKI PRI.SCH",
-    "lga": "BUNGUDU",
-    "ward": "TOFA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "BUNGUDU",
     "ward": "TOFA",
     "state": "Zamfara",
@@ -10053,12 +9747,6 @@
     "state_code": "36"
   },
   {
-    "lga": "GUMMI",
-    "ward": "BARDOKI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/06/02/001",
     "pu_name": "SHIYAR KOFA / KOFA DISP.",
     "name": "SHIYAR KOFA / KOFA DISP.",
@@ -10170,12 +9858,6 @@
     "pu_code": "36/06/02/013",
     "pu_name": "GAZURA II /DOGON KARFE",
     "name": "GAZURA II /DOGON KARFE",
-    "lga": "GUMMI",
-    "ward": "BIRNIN MAGAJI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "GUMMI",
     "ward": "BIRNIN MAGAJI",
     "state": "Zamfara",
@@ -10407,12 +10089,6 @@
     "state_code": "36"
   },
   {
-    "lga": "GUMMI",
-    "ward": "BIRNIN TUDU",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/06/04/001",
     "pu_name": "KAN WURI / FALALE DISPENSARY",
     "name": "KAN WURI / FALALE DISPENSARY",
@@ -10512,12 +10188,6 @@
     "state_code": "36"
   },
   {
-    "lga": "GUMMI",
-    "ward": "FALALE",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/06/05/001",
     "pu_name": "JABAKA / PRIMARY SCHOOL.",
     "name": "JABAKA / PRIMARY SCHOOL.",
@@ -10611,12 +10281,6 @@
     "pu_code": "36/06/05/011",
     "pu_name": "YAR GARI / GARKAR MAI GARI",
     "name": "YAR GARI / GARKAR MAI GARI",
-    "lga": "GUMMI",
-    "ward": "FELFELDU / GAMO",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "GUMMI",
     "ward": "FELFELDU / GAMO",
     "state": "Zamfara",
@@ -10794,12 +10458,6 @@
     "state_code": "36"
   },
   {
-    "lga": "GUMMI",
-    "ward": "GAYARI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/06/07/001",
     "pu_name": "GIDAN CHINDO I / KAN WURI",
     "name": "GIDAN CHINDO I / KAN WURI",
@@ -10920,12 +10578,6 @@
     "pu_code": "36/06/07/014",
     "pu_name": "MASONI / BAKIN RIJIYA",
     "name": "MASONI / BAKIN RIJIYA",
-    "lga": "GUMMI",
-    "ward": "GYALANGE",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "GUMMI",
     "ward": "GYALANGE",
     "state": "Zamfara",
@@ -11106,12 +10758,6 @@
     "pu_code": "36/06/08/020",
     "pu_name": "GAMBANDAR D/JAFA II / MAYANKA",
     "name": "GAMBANDAR D/JAFA II / MAYANKA",
-    "lga": "GUMMI",
-    "ward": "ILLELAR AWAL",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "GUMMI",
     "ward": "ILLELAR AWAL",
     "state": "Zamfara",
@@ -11514,12 +11160,6 @@
     "state_code": "36"
   },
   {
-    "lga": "GUMMI",
-    "ward": "MAGAJIN GARI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/06/10/001",
     "pu_name": "MAKERA FARI  /  MAKERA",
     "name": "MAKERA FARI  /  MAKERA",
@@ -11667,12 +11307,6 @@
     "pu_code": "36/06/10/017",
     "pu_name": "MAKERA FARI II /MAKERA",
     "name": "MAKERA FARI II /MAKERA",
-    "lga": "GUMMI",
-    "ward": "SHIYAR RAFI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "GUMMI",
     "ward": "SHIYAR RAFI",
     "state": "Zamfara",
@@ -11871,12 +11505,6 @@
     "pu_code": "36/06/11/022",
     "pu_name": "DADA VI/ MAIBUHU PRI SCH",
     "name": "DADA VI/ MAIBUHU PRI SCH",
-    "lga": "GUMMI",
-    "ward": "UBANDAWAKI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "GUMMI",
     "ward": "UBANDAWAKI",
     "state": "Zamfara",
@@ -12432,12 +12060,6 @@
     "state_code": "36"
   },
   {
-    "lga": "GUSAU",
-    "ward": "GALADIMA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/07/02/001",
     "pu_name": "KATSAURA I   /  GARKAR SARKIN GUSAU",
     "name": "KATSAURA I   /  GARKAR SARKIN GUSAU",
@@ -12756,12 +12378,6 @@
     "pu_code": "36/07/02/036",
     "pu_name": "T/SHIP 1 MODEL PRI. SCH. /GARKAR SARKIN GUSAU  III",
     "name": "T/SHIP 1 MODEL PRI. SCH. /GARKAR SARKIN GUSAU  III",
-    "lga": "GUSAU",
-    "ward": "MADAWAKI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "GUSAU",
     "ward": "MADAWAKI",
     "state": "Zamfara",
@@ -13200,12 +12816,6 @@
     "state_code": "36"
   },
   {
-    "lga": "GUSAU",
-    "ward": "MADA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/07/04/001",
     "pu_name": "SABON GARI I / OLD MARKET",
     "name": "SABON GARI I / OLD MARKET",
@@ -13479,12 +13089,6 @@
     "pu_code": "36/07/04/031",
     "pu_name": "TUDUN WADA III/PRI. SCH.",
     "name": "TUDUN WADA III/PRI. SCH.",
-    "lga": "GUSAU",
-    "ward": "MAGAMI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "GUSAU",
     "ward": "MAGAMI",
     "state": "Zamfara",
@@ -14274,12 +13878,6 @@
     "state_code": "36"
   },
   {
-    "lga": "GUSAU",
-    "ward": "MAYANA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/07/06/001",
     "pu_name": "RIJIYA I / I KAN WURIN SARKI",
     "name": "RIJIYA I / I KAN WURIN SARKI",
@@ -14472,12 +14070,6 @@
     "pu_code": "36/07/06/022",
     "pu_name": "ALMAJIRI SCHOOL",
     "name": "ALMAJIRI SCHOOL",
-    "lga": "GUSAU",
-    "ward": "RIJIYA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "GUSAU",
     "ward": "RIJIYA",
     "state": "Zamfara",
@@ -14721,12 +14313,6 @@
     "pu_code": "36/07/07/027",
     "pu_name": "DAN FILI II/DAN GWARI/MARAKE",
     "name": "DAN FILI II/DAN GWARI/MARAKE",
-    "lga": "GUSAU",
-    "ward": "RUWAN BORE",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "GUSAU",
     "ward": "RUWAN BORE",
     "state": "Zamfara",
@@ -15114,12 +14700,6 @@
     "pu_code": "36/07/08/043",
     "pu_name": "DAN GALADIMA WAZIRI PRI. II",
     "name": "DAN GALADIMA WAZIRI PRI. II",
-    "lga": "GUSAU",
-    "ward": "SABON GARI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "GUSAU",
     "ward": "SABON GARI",
     "state": "Zamfara",
@@ -16431,12 +16011,6 @@
     "state_code": "36"
   },
   {
-    "lga": "GUSAU",
-    "ward": "TUDUN WADA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/07/10/001",
     "pu_name": "GIDAN GABI / GARKAR MAI UNGUWA",
     "name": "GIDAN GABI / GARKAR MAI UNGUWA",
@@ -16719,12 +16293,6 @@
     "pu_code": "36/07/10/032",
     "pu_name": "RUWAN KUNKU /BAKIN DAM",
     "name": "RUWAN KUNKU /BAKIN DAM",
-    "lga": "GUSAU",
-    "ward": "WANKE",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "GUSAU",
     "ward": "WANKE",
     "state": "Zamfara",
@@ -17019,12 +16587,6 @@
     "state_code": "36"
   },
   {
-    "lga": "GUSAU",
-    "ward": "WONAKA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/08/01/001",
     "pu_name": "DANDAMBO  / SH. DANBO",
     "name": "DANDAMBO  / SH. DANBO",
@@ -17208,12 +16770,6 @@
     "pu_code": "36/08/01/021",
     "pu_name": "DAN FILI BANGA",
     "name": "DAN FILI BANGA",
-    "lga": "KAURA NAMODA",
-    "ward": "BANGA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "KAURA NAMODA",
     "ward": "BANGA",
     "state": "Zamfara",
@@ -17454,12 +17010,6 @@
     "state_code": "36"
   },
   {
-    "lga": "KAURA NAMODA",
-    "ward": "DAN - ISA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/08/03/001",
     "pu_name": "GABAKEN MESA / KOFAR HAKIMI",
     "name": "GABAKEN MESA / KOFAR HAKIMI",
@@ -17616,12 +17166,6 @@
     "pu_code": "36/08/03/018",
     "pu_name": "SH. MARAFA GABAKE",
     "name": "SH. MARAFA GABAKE",
-    "lga": "KAURA NAMODA",
-    "ward": "GABAKE",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "KAURA NAMODA",
     "ward": "GABAKE",
     "state": "Zamfara",
@@ -17979,12 +17523,6 @@
     "state_code": "36"
   },
   {
-    "lga": "KAURA NAMODA",
-    "ward": "GALADIMA DAN GALADIMA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/08/05/001",
     "pu_name": "BUNGUDAWA / SHIYAR HAKIMI",
     "name": "BUNGUDAWA / SHIYAR HAKIMI",
@@ -18087,12 +17625,6 @@
     "pu_code": "36/08/05/012",
     "pu_name": "RUTUTU/SH. MAGAJI",
     "name": "RUTUTU/SH. MAGAJI",
-    "lga": "KAURA NAMODA",
-    "ward": "KAGARA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "KAURA NAMODA",
     "ward": "KAGARA",
     "state": "Zamfara",
@@ -18360,12 +17892,6 @@
     "state_code": "36"
   },
   {
-    "lga": "KAURA NAMODA",
-    "ward": "KUNGURKI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/08/07/001",
     "pu_name": "BALANKABE / PRIMARY SCHOOL",
     "name": "BALANKABE / PRIMARY SCHOOL",
@@ -18537,12 +18063,6 @@
     "state_code": "36"
   },
   {
-    "lga": "KAURA NAMODA",
-    "ward": "KURYA MADARO",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/08/08/001",
     "pu_name": "FAMFIFI / PRIMARY SCHOOL",
     "name": "FAMFIFI / PRIMARY SCHOOL",
@@ -18705,12 +18225,6 @@
     "state_code": "36"
   },
   {
-    "lga": "KAURA NAMODA",
-    "ward": "KYAM BARAWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/08/09/001",
     "pu_name": "ABANIYAWA STORE / S/ LABBON I",
     "name": "ABANIYAWA STORE / S/ LABBON I",
@@ -18822,12 +18336,6 @@
     "pu_code": "36/08/09/013",
     "pu_name": "YAMUTSAWA MODEL PRI. SCH",
     "name": "YAMUTSAWA MODEL PRI. SCH",
-    "lga": "KAURA NAMODA",
-    "ward": "SAKAJIKI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "KAURA NAMODA",
     "ward": "SAKAJIKI",
     "state": "Zamfara",
@@ -19311,12 +18819,6 @@
     "state_code": "36"
   },
   {
-    "lga": "KAURA NAMODA",
-    "ward": "S/BAURA/S/MAFARA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/08/11/001",
     "pu_name": "MAJINGI / SHIYAR A. AMBAYE",
     "name": "MAJINGI / SHIYAR A. AMBAYE",
@@ -19428,12 +18930,6 @@
     "pu_code": "36/08/11/013",
     "pu_name": "MALLAMAWA",
     "name": "MALLAMAWA",
-    "lga": "KAURA NAMODA",
-    "ward": "YANKABA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "KAURA NAMODA",
     "ward": "YANKABA",
     "state": "Zamfara",
@@ -19629,12 +19125,6 @@
     "state_code": "36"
   },
   {
-    "lga": "MARADUN",
-    "ward": "BIRNIN KAYA / DOSARA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/09/02/001",
     "pu_name": "SHIYAR TSARA / DAMAGA GARI",
     "name": "SHIYAR TSARA / DAMAGA GARI",
@@ -19746,12 +19236,6 @@
     "pu_code": "36/09/02/013",
     "pu_name": "ZAMAN GIRA/FILIN ZAMAN GIRA",
     "name": "ZAMAN GIRA/FILIN ZAMAN GIRA",
-    "lga": "MARADUN",
-    "ward": "DAMAGA / DAMAGIWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "MARADUN",
     "ward": "DAMAGA / DAMAGIWA",
     "state": "Zamfara",
@@ -20028,12 +19512,6 @@
     "state_code": "36"
   },
   {
-    "lga": "MARADUN",
-    "ward": "FARU / MAGAMI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/09/04/001",
     "pu_name": "YAR TSAIDA / AWALA BABBA",
     "name": "YAR TSAIDA / AWALA BABBA",
@@ -20190,12 +19668,6 @@
     "pu_code": "36/09/04/018",
     "pu_name": "YARTSAIDA AWALA MASU",
     "name": "YARTSAIDA AWALA MASU",
-    "lga": "MARADUN",
-    "ward": "GORA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "MARADUN",
     "ward": "GORA",
     "state": "Zamfara",
@@ -20364,12 +19836,6 @@
     "state_code": "36"
   },
   {
-    "lga": "MARADUN",
-    "ward": "GIDAN GOGA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/09/06/001",
     "pu_name": "SHIYAR MAGAJI / KADARBE",
     "name": "SHIYAR MAGAJI / KADARBE",
@@ -20526,12 +19992,6 @@
     "pu_code": "36/09/06/018",
     "pu_name": "TUNGAR SANI SAULAWA",
     "name": "TUNGAR SANI SAULAWA",
-    "lga": "MARADUN",
-    "ward": "JANBAKO",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "MARADUN",
     "ward": "JANBAKO",
     "state": "Zamfara",
@@ -20754,12 +20214,6 @@
     "state_code": "36"
   },
   {
-    "lga": "MARADUN",
-    "ward": "KAYA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/09/08/001",
     "pu_name": "KOFAR KYARAWA I/ UNGUWAN HAYATU",
     "name": "KOFAR KYARAWA I/ UNGUWAN HAYATU",
@@ -20925,12 +20379,6 @@
     "pu_code": "36/09/08/019",
     "pu_name": "KOFAR KASUWA KOFAR LADAN",
     "name": "KOFAR KASUWA KOFAR LADAN",
-    "lga": "MARADUN",
-    "ward": "MARADUN NORTH",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "MARADUN",
     "ward": "MARADUN NORTH",
     "state": "Zamfara",
@@ -21153,12 +20601,6 @@
     "state_code": "36"
   },
   {
-    "lga": "MARADUN",
-    "ward": "MARADUN SOUTH",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/09/10/001",
     "pu_name": "SHIYAR GAMOJI  / GAMOJI",
     "name": "SHIYAR GAMOJI  / GAMOJI",
@@ -21243,12 +20685,6 @@
     "pu_code": "36/09/10/010",
     "pu_name": "TSOHON BIRNI   /  PRIMARY SCHOOL",
     "name": "TSOHON BIRNI   /  PRIMARY SCHOOL",
-    "lga": "MARADUN",
-    "ward": "TSIBIRI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "MARADUN",
     "ward": "TSIBIRI",
     "state": "Zamfara",
@@ -21561,12 +20997,6 @@
     "state_code": "36"
   },
   {
-    "lga": "MARU",
-    "ward": "BINDIN",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/10/02/001",
     "pu_name": "BINGI /  PRIMARY SCHOOL",
     "name": "BINGI /  PRIMARY SCHOOL",
@@ -21756,12 +21186,6 @@
     "state_code": "36"
   },
   {
-    "lga": "MARU",
-    "ward": "BINGI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/10/03/001",
     "pu_name": "BIYA / GARKAR MAI UNGUWA",
     "name": "BIYA / GARKAR MAI UNGUWA",
@@ -21909,12 +21333,6 @@
     "pu_code": "36/10/03/017",
     "pu_name": "DANGULBI MAKARANTA/MODEL PRI SCH II",
     "name": "DANGULBI MAKARANTA/MODEL PRI SCH II",
-    "lga": "MARU",
-    "ward": "DAN GULBI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "MARU",
     "ward": "DAN GULBI",
     "state": "Zamfara",
@@ -22209,12 +21627,6 @@
     "state_code": "36"
   },
   {
-    "lga": "MARU",
-    "ward": "DAN KURMI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/10/05/001",
     "pu_name": "BAKIN KASUWA / BAKIN TASHA",
     "name": "BAKIN KASUWA / BAKIN TASHA",
@@ -22503,12 +21915,6 @@
     "state_code": "36"
   },
   {
-    "lga": "MARU",
-    "ward": "DAN SADAU",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/10/06/001",
     "pu_name": "GIDAN BARAI I / PRIMARY SCHOOL",
     "name": "GIDAN BARAI I / PRIMARY SCHOOL",
@@ -22734,12 +22140,6 @@
     "state_code": "36"
   },
   {
-    "lga": "MARU",
-    "ward": "KANOMA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/10/07/001",
     "pu_name": "DANDALLA / PRIMARY SCHOOL",
     "name": "DANDALLA / PRIMARY SCHOOL",
@@ -22896,12 +22296,6 @@
     "pu_code": "36/10/07/018",
     "pu_name": "GOBIRAWA KAKUMO / GARKAR HAKIMI",
     "name": "GOBIRAWA KAKUMO / GARKAR HAKIMI",
-    "lga": "MARU",
-    "ward": "KUYAN BANA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "MARU",
     "ward": "KUYAN BANA",
     "state": "Zamfara",
@@ -23214,12 +22608,6 @@
     "state_code": "36"
   },
   {
-    "lga": "MARU",
-    "ward": "MARU",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/10/09/001",
     "pu_name": "TASHAGAMBO/NEAR POLICE STATION",
     "name": "TASHAGAMBO/NEAR POLICE STATION",
@@ -23322,12 +22710,6 @@
     "pu_code": "36/10/09/012",
     "pu_name": "BAKIN KASUWA RUMFAR DOGO II",
     "name": "BAKIN KASUWA RUMFAR DOGO II",
-    "lga": "MARU",
-    "ward": "MAYANCHI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "MARU",
     "ward": "MAYANCHI",
     "state": "Zamfara",
@@ -23532,12 +22914,6 @@
     "state_code": "36"
   },
   {
-    "lga": "MARU",
-    "ward": "RUWAN DORAWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/11/01/001",
     "pu_name": "SHIYAR GALADIMA / BADARAWA PRIMARY SCHOOL",
     "name": "SHIYAR GALADIMA / BADARAWA PRIMARY SCHOOL",
@@ -23640,12 +23016,6 @@
     "pu_code": "36/11/01/012",
     "pu_name": "U.B.E PRIMARY SCHOOL",
     "name": "U.B.E PRIMARY SCHOOL",
-    "lga": "SHINKAFI",
-    "ward": "BADARAWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "SHINKAFI",
     "ward": "BADARAWA",
     "state": "Zamfara",
@@ -23772,12 +23142,6 @@
     "pu_code": "36/11/02/014",
     "pu_name": "BAKIN KASUWA",
     "name": "BAKIN KASUWA",
-    "lga": "SHINKAFI",
-    "ward": "BIRNIN YARO",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "SHINKAFI",
     "ward": "BIRNIN YARO",
     "state": "Zamfara",
@@ -23955,12 +23319,6 @@
     "state_code": "36"
   },
   {
-    "lga": "SHINKAFI",
-    "ward": "GALADI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/11/04/001",
     "pu_name": "JANGERU / PRIMARY SCHOOL",
     "name": "JANGERU / PRIMARY SCHOOL",
@@ -24132,12 +23490,6 @@
     "state_code": "36"
   },
   {
-    "lga": "SHINKAFI",
-    "ward": "JANGERU",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/11/05/001",
     "pu_name": "SHIYAR BARAYA I  / SH/BARAYA AREA",
     "name": "SHIYAR BARAYA I  / SH/BARAYA AREA",
@@ -24267,12 +23619,6 @@
     "pu_code": "36/11/05/015",
     "pu_name": "SH. AUDU/KATURU PRI SCH",
     "name": "SH. AUDU/KATURU PRI SCH",
-    "lga": "SHINKAFI",
-    "ward": "KATURU",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "SHINKAFI",
     "ward": "KATURU",
     "state": "Zamfara",
@@ -24414,12 +23760,6 @@
     "state_code": "36"
   },
   {
-    "lga": "SHINKAFI",
-    "ward": "KWARE",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/11/07/001",
     "pu_name": "SH/MAGAJI / KURYA PRIMARY SCHOOL",
     "name": "SH/MAGAJI / KURYA PRIMARY SCHOOL",
@@ -24540,12 +23880,6 @@
     "pu_code": "36/11/07/014",
     "pu_name": "GANGARA II/PRI. SCH",
     "name": "GANGARA II/PRI. SCH",
-    "lga": "SHINKAFI",
-    "ward": "KURYA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "SHINKAFI",
     "ward": "KURYA",
     "state": "Zamfara",
@@ -24885,12 +24219,6 @@
     "state_code": "36"
   },
   {
-    "lga": "SHINKAFI",
-    "ward": "SHINKAFI NORTH",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/11/09/001",
     "pu_name": "YAR KOFA I / MUDALIA AREA",
     "name": "YAR KOFA I / MUDALIA AREA",
@@ -25071,12 +24399,6 @@
     "state_code": "36"
   },
   {
-    "lga": "SHINKAFI",
-    "ward": "SHINKAFI SOUTH",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/11/10/001",
     "pu_name": "SHIYAR GALADIMA I / SHANAWA DISPENSARY",
     "name": "SHIYAR GALADIMA I / SHANAWA DISPENSARY",
@@ -25134,12 +24456,6 @@
     "pu_code": "36/11/10/007",
     "pu_name": "SHIYAR GALADIMA I / SHANAWA DISPENSARY",
     "name": "SHIYAR GALADIMA I / SHANAWA DISPENSARY",
-    "lga": "SHINKAFI",
-    "ward": "SHANAWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "SHINKAFI",
     "ward": "SHANAWA",
     "state": "Zamfara",
@@ -25272,12 +24588,6 @@
     "state_code": "36"
   },
   {
-    "lga": "TALATA MAFARA",
-    "ward": "GARBADU",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/12/02/001",
     "pu_name": "BOBAWA  /   PRIMARY SCHOOL",
     "name": "BOBAWA  /   PRIMARY SCHOOL",
@@ -25398,12 +24708,6 @@
     "pu_code": "36/12/02/014",
     "pu_name": "BOBO II",
     "name": "BOBO II",
-    "lga": "TALATA MAFARA",
-    "ward": "GWARAM",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "TALATA MAFARA",
     "ward": "GWARAM",
     "state": "Zamfara",
@@ -25635,12 +24939,6 @@
     "state_code": "36"
   },
   {
-    "lga": "TALATA MAFARA",
-    "ward": "JANGEBE",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/12/04/001",
     "pu_name": "GANGARE I   /  SHIYAR LAWUI",
     "name": "GANGARE I   /  SHIYAR LAWUI",
@@ -25779,12 +25077,6 @@
     "pu_code": "36/12/04/016",
     "pu_name": "MALLAMAWA II",
     "name": "MALLAMAWA II",
-    "lga": "TALATA MAFARA",
-    "ward": "KAGARA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "TALATA MAFARA",
     "ward": "KAGARA",
     "state": "Zamfara",
@@ -25971,12 +25263,6 @@
     "state_code": "36"
   },
   {
-    "lga": "TALATA MAFARA",
-    "ward": "MORAI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/12/06/001",
     "pu_name": "SHIYAR YANRUWA   /  GARKAR UBAN DAWAKI",
     "name": "SHIYAR YANRUWA   /  GARKAR UBAN DAWAKI",
@@ -26085,12 +25371,6 @@
     "state_code": "36"
   },
   {
-    "lga": "TALATA MAFARA",
-    "ward": "RUWAN BORE",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/12/07/001",
     "pu_name": "ACI SANNU  /  VILL. HEAD OFFICE",
     "name": "ACI SANNU  /  VILL. HEAD OFFICE",
@@ -26193,12 +25473,6 @@
     "pu_code": "36/12/07/012",
     "pu_name": "KANWURI III",
     "name": "KANWURI III",
-    "lga": "TALATA MAFARA",
-    "ward": "RUWAN GIZO",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "TALATA MAFARA",
     "ward": "RUWAN GIZO",
     "state": "Zamfara",
@@ -26424,12 +25698,6 @@
     "pu_code": "36/12/08/025",
     "pu_name": "SHIYAR YAMMA II",
     "name": "SHIYAR YAMMA II",
-    "lga": "TALATA MAFARA",
-    "ward": "SAUNA R/ GORA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "TALATA MAFARA",
     "ward": "SAUNA R/ GORA",
     "state": "Zamfara",
@@ -26967,12 +26235,6 @@
     "state_code": "36"
   },
   {
-    "lga": "TALATA MAFARA",
-    "ward": "SHIYAR GALADIMA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/12/10/001",
     "pu_name": "TABKIN ASAULA / GARKAR A. KUNGU",
     "name": "TABKIN ASAULA / GARKAR A. KUNGU",
@@ -27360,12 +26622,6 @@
     "state_code": "36"
   },
   {
-    "lga": "TALATA MAFARA",
-    "ward": "SHIYAR KAYAYE/MATUSGI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/12/11/001",
     "pu_name": "SHIYAR YELWA    /   PRIMARY SCHOOL",
     "name": "SHIYAR YELWA    /   PRIMARY SCHOOL",
@@ -27531,12 +26787,6 @@
     "pu_code": "36/12/11/019",
     "pu_name": "MADAGAWA II",
     "name": "MADAGAWA II",
-    "lga": "TALATA MAFARA",
-    "ward": "TAKE TSABA/MAKERA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "TALATA MAFARA",
     "ward": "TAKE TSABA/MAKERA",
     "state": "Zamfara",
@@ -27795,12 +27045,6 @@
     "state_code": "36"
   },
   {
-    "lga": "TSAFE",
-    "ward": "KWAREN GANUWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/13/02/001",
     "pu_name": "BUKE - BUKE I / PRIMARY SCHOOL",
     "name": "BUKE - BUKE I / PRIMARY SCHOOL",
@@ -27939,12 +27183,6 @@
     "pu_code": "36/13/02/016",
     "pu_name": "GIDAN DURUMI",
     "name": "GIDAN DURUMI",
-    "lga": "TSAFE",
-    "ward": "YAN KUZO 'B'",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "TSAFE",
     "ward": "YAN KUZO 'B'",
     "state": "Zamfara",
@@ -28167,12 +27405,6 @@
     "state_code": "36"
   },
   {
-    "lga": "TSAFE",
-    "ward": "YANDOTON DAJI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/13/04/001",
     "pu_name": "SHIYAR KOGO / KOFAR MARAFA",
     "name": "SHIYAR KOGO / KOFAR MARAFA",
@@ -28338,12 +27570,6 @@
     "pu_code": "36/13/04/019",
     "pu_name": "TAKULAWA KAYA",
     "name": "TAKULAWA KAYA",
-    "lga": "TSAFE",
-    "ward": "YANKUZO 'A'",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "TSAFE",
     "ward": "YANKUZO 'A'",
     "state": "Zamfara",
@@ -28593,12 +27819,6 @@
     "state_code": "36"
   },
   {
-    "lga": "TSAFE",
-    "ward": "DANJIBGA/KUNCHIN - KALGO",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/13/06/001",
     "pu_name": "UNG. MAI SAJE /  DANFAKO",
     "name": "UNG. MAI SAJE /  DANFAKO",
@@ -28719,12 +27939,6 @@
     "pu_code": "36/13/06/014",
     "pu_name": "DAUKI GARI II / SABON GARI",
     "name": "DAUKI GARI II / SABON GARI",
-    "lga": "TSAFE",
-    "ward": "DAUKI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "TSAFE",
     "ward": "DAUKI",
     "state": "Zamfara",
@@ -28950,12 +28164,6 @@
     "pu_code": "36/13/07/025",
     "pu_name": "KETA II/ ASIBITI",
     "name": "KETA II/ ASIBITI",
-    "lga": "TSAFE",
-    "ward": "KETA/KIZARA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "TSAFE",
     "ward": "KETA/KIZARA",
     "state": "Zamfara",
@@ -29547,12 +28755,6 @@
     "state_code": "36"
   },
   {
-    "lga": "TSAFE",
-    "ward": "TSAFE",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/13/09/001",
     "pu_name": "UNG. FADA    /   PRIMARY SCHOOL",
     "name": "UNG. FADA    /   PRIMARY SCHOOL",
@@ -29736,12 +28938,6 @@
     "pu_code": "36/13/09/021",
     "pu_name": "BAKIN MANYA DISPENSARY",
     "name": "BAKIN MANYA DISPENSARY",
-    "lga": "TSAFE",
-    "ward": "CHEDIYA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "TSAFE",
     "ward": "CHEDIYA",
     "state": "Zamfara",
@@ -29967,12 +29163,6 @@
     "pu_code": "36/13/10/025",
     "pu_name": "DAN A/GALADIMA/PRI.SCH",
     "name": "DAN A/GALADIMA/PRI.SCH",
-    "lga": "TSAFE",
-    "ward": "YAN WAREN DAJI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "TSAFE",
     "ward": "YAN WAREN DAJI",
     "state": "Zamfara",
@@ -30312,12 +29502,6 @@
     "state_code": "36"
   },
   {
-    "lga": "TSAFE",
-    "ward": "BILBIS",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/14/01/001",
     "pu_name": "T/MADO /  PRIMARY SCHOOL",
     "name": "T/MADO /  PRIMARY SCHOOL",
@@ -30519,12 +29703,6 @@
     "pu_code": "36/14/01/023",
     "pu_name": "GIDAN DUWA",
     "name": "GIDAN DUWA",
-    "lga": "ZURMI",
-    "ward": "BOKO",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "ZURMI",
     "ward": "BOKO",
     "state": "Zamfara",
@@ -30873,12 +30051,6 @@
     "state_code": "36"
   },
   {
-    "lga": "ZURMI",
-    "ward": "DAURAN / BIRNIN-TSABA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/14/03/001",
     "pu_name": "GOBIRAWA KUKA / GARKAR TALANGE",
     "name": "GOBIRAWA KUKA / GARKAR TALANGE",
@@ -30999,12 +30171,6 @@
     "pu_code": "36/14/03/014",
     "pu_name": "GARKAR KUKA VI/P.H.C DOLE",
     "name": "GARKAR KUKA VI/P.H.C DOLE",
-    "lga": "ZURMI",
-    "ward": "DOLE",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "ZURMI",
     "ward": "DOLE",
     "state": "Zamfara",
@@ -31227,12 +30393,6 @@
     "state_code": "36"
   },
   {
-    "lga": "ZURMI",
-    "ward": "GALADIMA/YANRUWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/14/05/001",
     "pu_name": "KANWA GABBAS  /  M.P.S. KANWA",
     "name": "KANWA GABBAS  /  M.P.S. KANWA",
@@ -31422,12 +30582,6 @@
     "state_code": "36"
   },
   {
-    "lga": "ZURMI",
-    "ward": "KANWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/14/06/001",
     "pu_name": "SHIYAR ARDO / ADULT EDUCATION CLASS",
     "name": "SHIYAR ARDO / ADULT EDUCATION CLASS",
@@ -31608,12 +30762,6 @@
     "state_code": "36"
   },
   {
-    "lga": "ZURMI",
-    "ward": "KWASHBAWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/14/07/001",
     "pu_name": "MASHEMA / ADULT EDUC. CLASS",
     "name": "MASHEMA / ADULT EDUC. CLASS",
@@ -31716,12 +30864,6 @@
     "pu_code": "36/14/07/012",
     "pu_name": "MASHEMA II/MPS",
     "name": "MASHEMA II/MPS",
-    "lga": "ZURMI",
-    "ward": "MASHEM",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "ZURMI",
     "ward": "MASHEM",
     "state": "Zamfara",
@@ -31944,12 +31086,6 @@
     "state_code": "36"
   },
   {
-    "lga": "ZURMI",
-    "ward": "KUTURU/MAYASA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/14/09/001",
     "pu_name": "RUKUDAWA  / M.P.S. RUKUDAWA",
     "name": "RUKUDAWA  / M.P.S. RUKUDAWA",
@@ -32130,12 +31266,6 @@
     "state_code": "36"
   },
   {
-    "lga": "ZURMI",
-    "ward": "RUKUDAWA",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "pu_code": "36/14/10/001",
     "pu_name": "YAR TANBUS / M.P.S. YANBUKI",
     "name": "YAR TANBUS / M.P.S. YANBUKI",
@@ -32310,12 +31440,6 @@
     "pu_code": "36/14/10/020",
     "pu_name": "RIMAYE II/DISPENSARY",
     "name": "RIMAYE II/DISPENSARY",
-    "lga": "ZURMI",
-    "ward": "YAN BUKI/ DUTSI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "ZURMI",
     "ward": "YAN BUKI/ DUTSI",
     "state": "Zamfara",
@@ -32631,12 +31755,6 @@
     "pu_code": "36/14/11/035",
     "pu_name": "KADAMUTSA IV/M.P.S",
     "name": "KADAMUTSA IV/M.P.S",
-    "lga": "ZURMI",
-    "ward": "ZURMI",
-    "state": "Zamfara",
-    "state_code": "36"
-  },
-  {
     "lga": "ZURMI",
     "ward": "ZURMI",
     "state": "Zamfara",
