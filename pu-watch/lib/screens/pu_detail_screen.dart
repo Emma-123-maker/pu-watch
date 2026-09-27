@@ -21,13 +21,36 @@ class _PUDetailScreenState extends State<PUDetailScreen> {
   bool isSaving = false;
   bool showAll = false;
 
-  final List<String> allParties = ['A','AA','AAC','ADC','ADP','APC','APGA','APM','APP','BP','LP','NNPP','NRM','PDP','PRP','SDP','YPP','ZLP'];
+  // FINAL INEC 18 - Jan 16, 2027
+  final List<String> allParties = ['AA','ADP','APP','AAC','ADC','APC','APM','BP','DLA','LP','NDP','NRM','NDC','PDP','PRP','SDP','YPP','ZLP'];
+
+  final Map<String,String> candidateMap = {
+    'AAC': 'Sowore',
+    'ADC': 'Atiku',
+    'APM': 'Seyi Makinde',
+    'NDC': 'Peter Obi',
+    'APC': 'Tinubu',
+    'PDP': 'Sandy Onor',
+    'PRP': 'Donald Duke',
+    'SDP': 'Adebayo',
+    'AA': 'Omo-Aje',
+    'ADP': 'Abbas-Bin',
+    'APP': 'Kabiru',
+    'BP': 'Adenuga',
+    'DLA': 'Adebisi',
+    'LP': 'Okereke',
+    'NDP': 'Ada Okwori',
+    'NRM': 'Nkem Okereke',
+    'YPP': 'Agada',
+    'ZLP': 'Nwanyanwu',
+  };
+
   Map<String, TextEditingController> ctrls = {};
 
   @override
   void initState(){
     super.initState();
-    for(var p in allParties){ ctrls[p]=TextEditingController(); }
+    for(var p in allParties){ ctrls[p]=TextEditingController(text:'0'); }
   }
 
   Future<void> pickPhoto() async {
@@ -43,16 +66,31 @@ class _PUDetailScreenState extends State<PUDetailScreen> {
     }
     setState(()=>isSaving=true);
 
-    Map<String,int> results = {};
-    for(var k in allParties){ results[k]=int.tryParse(ctrls[k]!.text)??0; }
-
     var result = ElectionResult(
       puCode: widget.pu['pu_code'].toString(),
       lga: widget.pu['lga'].toString(),
       ward: widget.pu['ward'].toString(),
       stateCode: widget.stateCode,
       accredited: int.tryParse(accredCtrl.text)??0,
-      parties: results,
+      apc: int.tryParse(ctrls['APC']!.text)??0,
+      adc: int.tryParse(ctrls['ADC']!.text)??0,
+      ndc: int.tryParse(ctrls['NDC']!.text)??0,
+      apm: int.tryParse(ctrls['APM']!.text)??0,
+      aac: int.tryParse(ctrls['AAC']!.text)??0,
+      pdp: int.tryParse(ctrls['PDP']!.text)??0,
+      aa: int.tryParse(ctrls['AA']!.text)??0,
+      adp: int.tryParse(ctrls['ADP']!.text)??0,
+      app: int.tryParse(ctrls['APP']!.text)??0,
+      bp: int.tryParse(ctrls['BP']!.text)??0,
+      dla: int.tryParse(ctrls['DLA']!.text)??0,
+      lp: int.tryParse(ctrls['LP']!.text)??0,
+      ndp: int.tryParse(ctrls['NDP']!.text)??0,
+      nrm: int.tryParse(ctrls['NRM']!.text)??0,
+      prp: int.tryParse(ctrls['PRP']!.text)??0,
+      sdp: int.tryParse(ctrls['SDP']!.text)??0,
+      ypp: int.tryParse(ctrls['YPP']!.text)??0,
+      zlp: int.tryParse(ctrls['ZLP']!.text)??0,
+      others: 0,
       photoPath: resultPhoto!.path,
       timestamp: DateTime.now(),
     );
@@ -62,15 +100,14 @@ class _PUDetailScreenState extends State<PUDetailScreen> {
 
     setState(()=>isSaving=false);
     if(mounted){
-      int total = results.values.fold(0,(a,b)=>a+b);
-      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('✅ ${widget.pu['pu_code']} saved: $total votes counted'), backgroundColor: Colors.green[800]));
+      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('✅ ${widget.pu['pu_code']} saved: ${result.totalCounted} votes - NDC(Obi): ${result.ndc} | ADC(Atiku): ${result.adc} | APM(Makinde): ${result.apm}'), backgroundColor: Colors.green[800]));
       Navigator.pop(context);
     }
   }
 
   @override
   Widget build(BuildContext context) {
-    List<String> visible = showAll? allParties : ['APC','PDP','LP'];
+    List<String> visible = showAll? allParties : ['APC','ADC','NDC','APM','AAC','PDP'];
     return Scaffold(
       appBar: AppBar(title: Text(widget.pu['pu_code'].toString()), backgroundColor: Colors.green[800]),
       body: SingleChildScrollView(
@@ -89,7 +126,7 @@ class _PUDetailScreenState extends State<PUDetailScreen> {
                 height: 180, width: double.infinity,
                 decoration: BoxDecoration(border: Border.all(), borderRadius: BorderRadius.circular(12)),
                 child: resultPhoto == null
-                ? Column(mainAxisAlignment: MainAxisAlignment.center, children: [Icon(Icons.camera_alt, size: 40), Text('Tap to snap result sheet')])
+               ? Column(mainAxisAlignment: MainAxisAlignment.center, children: [Icon(Icons.camera_alt, size: 40), Text('Tap to snap result sheet')])
                   : Image.file(File(resultPhoto!.path), fit: BoxFit.cover),
               ),
             ),
@@ -97,19 +134,29 @@ class _PUDetailScreenState extends State<PUDetailScreen> {
             TextFormField(controller: accredCtrl, keyboardType: TextInputType.number, decoration: InputDecoration(labelText: 'Accredited Voters *', border: OutlineInputBorder()), validator: (v)=>v!.isEmpty?'Required':null),
             SizedBox(height: 16),
             Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
-              Text('Party Scores', style: TextStyle(fontWeight: FontWeight.bold)),
-              TextButton(onPressed: ()=>setState(()=>showAll=!showAll), child: Text(showAll?'Show Less ↑':'Show All 18 Parties ↓')),
+              Text('Party Scores - 2027 Final', style: TextStyle(fontWeight: FontWeight.bold)),
+              TextButton(onPressed: ()=>setState(()=>showAll=!showAll), child: Text(showAll?'Show Less ↑':'Show Top 6 + All 18 ↓')),
             ]),
             GridView.builder(
               shrinkWrap: true, physics: NeverScrollableScrollPhysics(),
-              gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 3, childAspectRatio: 2.3, crossAxisSpacing: 8, mainAxisSpacing: 8),
+              gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2, childAspectRatio: 2.6, crossAxisSpacing: 8, mainAxisSpacing: 8),
               itemCount: visible.length,
               itemBuilder: (_,i){
                 var p = visible[i];
-                return TextFormField(controller: ctrls[p], keyboardType: TextInputType.number, decoration: InputDecoration(labelText: p, border: OutlineInputBorder(), contentPadding: EdgeInsets.all(8)));
+                var cand = candidateMap[p]??'';
+                return TextFormField(
+                  controller: ctrls[p],
+                  keyboardType: TextInputType.number,
+                  decoration: InputDecoration(
+                    labelText: '$p - $cand',
+                    labelStyle: TextStyle(fontSize: 11, fontWeight: FontWeight.bold),
+                    border: OutlineInputBorder(),
+                    contentPadding: EdgeInsets.all(10)
+                  )
+                );
               },
             ),
-            if(showAll) Padding(padding: EdgeInsets.only(top: 8), child: Text('A=Action Alliance etc. Full INEC list. Enter 0 if no vote.', style: TextStyle(fontSize: 11, color: Colors.grey[600]))),
+            if(showAll) Padding(padding: EdgeInsets.only(top: 8), child: Text('INEC Final Sept 2026: ADC=Atiku/Amaechi, NDC=Obi/Kwankwaso, APM=Makinde/Daura, AAC=Sowore. Enter 0 if no vote.', style: TextStyle(fontSize: 11, color: Colors.grey[600]))),
             SizedBox(height: 24),
             SizedBox(width: double.infinity, height: 50, child: ElevatedButton(style: ElevatedButton.styleFrom(backgroundColor: Colors.green[800]), onPressed: isSaving?null:saveResult, child: isSaving?CircularProgressIndicator(color: Colors.white):Text('SAVE RESULT 📴 (Offline)', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)))),
           ]),
