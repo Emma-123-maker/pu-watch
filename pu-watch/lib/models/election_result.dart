@@ -1,20 +1,16 @@
-import 'package:hive/hive.dart';
-part 'election_result.g.dart';
-
-@HiveType(typeId: 2)
-class ElectionResult extends HiveObject {
-  @HiveField(0) String puCode;
-  @HiveField(1) String lga;
-  @HiveField(2) String ward;
-  @HiveField(3) String stateCode;
-  @HiveField(4) int accredited;
-  @HiveField(5) int apc;
-  @HiveField(6) int pdp;
-  @HiveField(7) int lp;
-  @HiveField(8) int others;
-  @HiveField(9) String photoPath;
-  @HiveField(10) DateTime timestamp;
-  @HiveField(11) bool synced;
+class ElectionResult {
+  String puCode;
+  String lga;
+  String ward;
+  String stateCode;
+  int accredited;
+  int apc;
+  int pdp;
+  int lp;
+  int others;
+  String photoPath;
+  DateTime timestamp;
+  bool synced;
 
   ElectionResult({
     required this.puCode,
@@ -30,4 +26,19 @@ class ElectionResult extends HiveObject {
     required this.timestamp,
     this.synced = false,
   });
+
+  Map<String, dynamic> toJson() => {
+    'puCode': puCode,
+    'lga': lga,
+    'ward': ward,
+    'stateCode': stateCode,
+    'accredited': accredited,
+    'apc': apc,
+    'pdp': pdp,
+    'lp': lp,
+    'others': others,
+    'photoPath': photoPath,
+    'timestamp': timestamp.toIso8601String(),
+    'synced': synced,
+  };
 }
