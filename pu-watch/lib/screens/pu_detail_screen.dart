@@ -1,165 +1,179 @@
-import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:image_picker/image_picker.dart';
-import 'package:hive_flutter/hive_flutter.dart';
 import '../models/election_result.dart';
+import 'package:image_picker/image_picker.dart';
 
-class PUDetailScreen extends StatefulWidget {
-  final Map pu;
+class PuDetailScreen extends StatefulWidget {
+  final String puCode;
+  final String lga;
+  final String ward;
   final String stateCode;
-  final String stateName;
-  const PUDetailScreen({super.key, required this.pu, required this.stateCode, required this.stateName});
+  final String puName;
+
+  const PuDetailScreen({
+    super.key,
+    required this.puCode,
+    required this.lga,
+    required this.ward,
+    required this.stateCode,
+    required this.puName,
+  });
 
   @override
-  State<PUDetailScreen> createState() => _PUDetailScreenState();
+  State<PuDetailScreen> createState() => _PuDetailScreenState();
 }
 
-class _PUDetailScreenState extends State<PUDetailScreen> {
-  final _formKey = GlobalKey<FormState>();
-  final accredCtrl = TextEditingController();
-  XFile? resultPhoto;
-  bool isSaving = false;
-  bool showAll = false;
-
-  // FINAL INEC 18 - Jan 16, 2027
-  final List<String> allParties = ['AA','ADP','APP','AAC','ADC','APC','APM','BP','DLA','LP','NDP','NRM','NDC','PDP','PRP','SDP','YPP','ZLP'];
-
-  final Map<String,String> candidateMap = {
-    'AAC': 'Sowore',
-    'ADC': 'Atiku',
-    'APM': 'Seyi Makinde',
-    'NDC': 'Peter Obi',
-    'APC': 'Tinubu',
-    'PDP': 'Sandy Onor',
-    'PRP': 'Donald Duke',
-    'SDP': 'Adebayo',
-    'AA': 'Omo-Aje',
-    'ADP': 'Abbas-Bin',
-    'APP': 'Kabiru',
-    'BP': 'Adenuga',
-    'DLA': 'Adebisi',
-    'LP': 'Okereke',
-    'NDP': 'Ada Okwori',
-    'NRM': 'Nkem Okereke',
-    'YPP': 'Agada',
-    'ZLP': 'Nwanyanwu',
+class _PuDetailScreenState extends State<PuDetailScreen> {
+  ElectionType _selectedElection = ElectionType.presidential;
+  final Map<String, TextEditingController> _controllers = {
+    for (var p in ElectionResult.allParties) p: TextEditingController()
   };
-
-  Map<String, TextEditingController> ctrls = {};
+  final _accreditedController = TextEditingController();
+  final _othersController = TextEditingController();
+  String? _imagePath;
+  final ImagePicker _picker = ImagePicker();
 
   @override
-  void initState(){
-    super.initState();
-    for(var p in allParties){ ctrls[p]=TextEditingController(text:'0'); }
-  }
-
-  Future<void> pickPhoto() async {
-    final p = await ImagePicker().pickImage(source: ImageSource.camera, imageQuality: 65);
-    if(p!=null) setState(()=>resultPhoto=p);
-  }
-
-  Future<void> saveResult() async {
-    if (!_formKey.currentState!.validate()) return;
-    if (resultPhoto == null) {
-      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('📸 Take photo of EC8A sheet first')));
-      return;
+  void dispose() {
+    for (var c in _controllers.values) {
+      c.dispose();
     }
-    setState(()=>isSaving=true);
+    _accreditedController.dispose();
+    _othersController.dispose();
+    super.dispose();
+  }
 
-    var result = ElectionResult(
-      puCode: widget.pu['pu_code'].toString(),
-      lga: widget.pu['lga'].toString(),
-      ward: widget.pu['ward'].toString(),
+  Future<void> _pickImage() async {
+    final XFile? file = await _picker.pickImage(source: ImageSource.camera, imageQuality: 70);
+    if (file!= null) {
+      setState(() => _imagePath = file.path);
+    }
+  }
+
+  void _saveResult() {
+    // Build generic partyVotes - NO candidate names
+    final Map<String, int> votes = {
+      for (var p in ElectionResult.allParties)
+        p: int.tryParse(_controllers[p]!.text)?? 0,
+    };
+
+    final result = ElectionResult(
+      puCode: widget.puCode,
+      lga: widget.lga,
+      ward: widget.ward,
       stateCode: widget.stateCode,
-      accredited: int.tryParse(accredCtrl.text)??0,
-      apc: int.tryParse(ctrls['APC']!.text)??0,
-      adc: int.tryParse(ctrls['ADC']!.text)??0,
-      ndc: int.tryParse(ctrls['NDC']!.text)??0,
-      apm: int.tryParse(ctrls['APM']!.text)??0,
-      aac: int.tryParse(ctrls['AAC']!.text)??0,
-      pdp: int.tryParse(ctrls['PDP']!.text)??0,
-      aa: int.tryParse(ctrls['AA']!.text)??0,
-      adp: int.tryParse(ctrls['ADP']!.text)??0,
-      app: int.tryParse(ctrls['APP']!.text)??0,
-      bp: int.tryParse(ctrls['BP']!.text)??0,
-      dla: int.tryParse(ctrls['DLA']!.text)??0,
-      lp: int.tryParse(ctrls['LP']!.text)??0,
-      ndp: int.tryParse(ctrls['NDP']!.text)??0,
-      nrm: int.tryParse(ctrls['NRM']!.text)??0,
-      prp: int.tryParse(ctrls['PRP']!.text)??0,
-      sdp: int.tryParse(ctrls['SDP']!.text)??0,
-      ypp: int.tryParse(ctrls['YPP']!.text)??0,
-      zlp: int.tryParse(ctrls['ZLP']!.text)??0,
-      others: 0,
-      photoPath: resultPhoto!.path,
+      electionType: _selectedElection,
+      accredited: int.tryParse(_accreditedController.text)?? 0,
+      partyVotes: votes,
+      others: int.tryParse(_othersController.text)?? 0,
+      photoPath: _imagePath?? '',
       timestamp: DateTime.now(),
+      synced: false,
     );
 
-    var box = await Hive.openBox('results');
-    await box.add(result.toJson());
+    // TODO: save to local Hive / SQLite
+    // Hive.box('results').put('${result.puCode}_${result.electionType.name}', result.toJson());
 
-    setState(()=>isSaving=false);
-    if(mounted){
-      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('✅ ${widget.pu['pu_code']} saved: ${result.totalCounted} votes - NDC(Obi): ${result.ndc} | ADC(Atiku): ${result.adc} | APM(Makinde): ${result.apm}'), backgroundColor: Colors.green[800]));
-      Navigator.pop(context);
-    }
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(content: Text("Saved ${result.electionType.label} for ${result.puCode} (Offline)")),
+    );
   }
 
   @override
   Widget build(BuildContext context) {
-    List<String> visible = showAll? allParties : ['APC','ADC','NDC','APM','AAC','PDP'];
     return Scaffold(
-      appBar: AppBar(title: Text(widget.pu['pu_code'].toString()), backgroundColor: Colors.green[800]),
+      appBar: AppBar(
+        title: Text(widget.puCode),
+        subtitle: Text(widget.puName),
+      ),
       body: SingleChildScrollView(
-        padding: EdgeInsets.all(16),
-        child: Form(
-          key: _formKey,
-          child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            Text('${widget.pu['pu_name']}', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
-            Text('${widget.pu['lga']}, ${widget.pu['ward']} - ${widget.stateName}', style: TextStyle(color: Colors.grey[700])),
-            SizedBox(height: 16),
-            Text('Result Sheet Photo (EC8A)', style: TextStyle(fontWeight: FontWeight.bold)),
-            SizedBox(height: 8),
-            GestureDetector(
-              onTap: pickPhoto,
-              child: Container(
-                height: 180, width: double.infinity,
-                decoration: BoxDecoration(border: Border.all(), borderRadius: BorderRadius.circular(12)),
-                child: resultPhoto == null
-               ? Column(mainAxisAlignment: MainAxisAlignment.center, children: [Icon(Icons.camera_alt, size: 40), Text('Tap to snap result sheet')])
-                  : Image.file(File(resultPhoto!.path), fit: BoxFit.cover),
+        padding: const EdgeInsets.all(12),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            // 1. ELECTION TYPE SELECTOR - THIS IS NEW FOR ALL ELECTIONS
+            Card(
+              child: Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+                child: DropdownButton<ElectionType>(
+                  value: _selectedElection,
+                  isExpanded: true,
+                  underline: const SizedBox(),
+                  items: ElectionType.values
+                     .map((e) => DropdownMenuItem(
+                            value: e,
+                            child: Text("${e.label} - ${e.ecForm}"),
+                          ))
+                     .toList(),
+                  onChanged: (v) {
+                    if (v!= null) setState(() => _selectedElection = v);
+                  },
+                ),
               ),
             ),
-            SizedBox(height: 16),
-            TextFormField(controller: accredCtrl, keyboardType: TextInputType.number, decoration: InputDecoration(labelText: 'Accredited Voters *', border: OutlineInputBorder()), validator: (v)=>v!.isEmpty?'Required':null),
-            SizedBox(height: 16),
-            Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
-              Text('Party Scores - 2027 Final', style: TextStyle(fontWeight: FontWeight.bold)),
-              TextButton(onPressed: ()=>setState(()=>showAll=!showAll), child: Text(showAll?'Show Less ↑':'Show Top 6 + All 18 ↓')),
-            ]),
-            GridView.builder(
-              shrinkWrap: true, physics: NeverScrollableScrollPhysics(),
-              gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2, childAspectRatio: 2.6, crossAxisSpacing: 8, mainAxisSpacing: 8),
-              itemCount: visible.length,
-              itemBuilder: (_,i){
-                var p = visible[i];
-                var cand = candidateMap[p]??'';
-                return TextFormField(
-                  controller: ctrls[p],
-                  keyboardType: TextInputType.number,
-                  decoration: InputDecoration(
-                    labelText: '$p - $cand',
-                    labelStyle: TextStyle(fontSize: 11, fontWeight: FontWeight.bold),
-                    border: OutlineInputBorder(),
-                    contentPadding: EdgeInsets.all(10)
-                  )
-                );
-              },
+            const SizedBox(height: 8),
+            Text(
+              "Party Scores - ${_selectedElection.label}",
+              style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
-            if(showAll) Padding(padding: EdgeInsets.only(top: 8), child: Text('INEC Final Sept 2026: ADC=Atiku/Amaechi, NDC=Obi/Kwankwaso, APM=Makinde/Daura, AAC=Sowore. Enter 0 if no vote.', style: TextStyle(fontSize: 11, color: Colors.grey[600]))),
-            SizedBox(height: 24),
-            SizedBox(width: double.infinity, height: 50, child: ElevatedButton(style: ElevatedButton.styleFrom(backgroundColor: Colors.green[800]), onPressed: isSaving?null:saveResult, child: isSaving?CircularProgressIndicator(color: Colors.white):Text('SAVE RESULT 📴 (Offline)', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)))),
-          ]),
+            const SizedBox(height: 8),
+            TextField(
+              controller: _accreditedController,
+              keyboardType: TextInputType.number,
+              decoration: const InputDecoration(labelText: "Accredited Voters *", border: OutlineInputBorder()),
+            ),
+            const SizedBox(height: 12),
+            // 2. GENERIC PARTIES - NO TINUBU / ATIKU / OBI NAMES
+            GridView.count(
+              crossAxisCount: 2,
+              shrinkWrap: true,
+              physics: const NeverScrollableScrollPhysics(),
+              childAspectRatio: 3,
+              mainAxisSpacing: 8,
+              crossAxisSpacing: 8,
+              children: [
+                for (var party in ElectionResult.allParties)
+                  TextField(
+                    controller: _controllers[party],
+                    keyboardType: TextInputType.number,
+                    decoration: InputDecoration(
+                      labelText: party,
+                      border: const OutlineInputBorder(),
+                      isDense: true,
+                    ),
+                  ),
+                TextField(
+                  controller: _othersController,
+                  keyboardType: TextInputType.number,
+                  decoration: const InputDecoration(
+                    labelText: "Others / Invalid",
+                    border: OutlineInputBorder(),
+                    isDense: true,
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 16),
+            Row(
+              children: [
+                ElevatedButton.icon(
+                  onPressed: _pickImage,
+                  icon: const Icon(Icons.camera_alt),
+                  label: Text(_imagePath == null? "Capture EC8 Photo" : "Retake Photo"),
+                ),
+                const SizedBox(width: 12),
+                if (_imagePath!= null) const Icon(Icons.check_circle, color: Colors.green),
+              ],
+            ),
+            const SizedBox(height: 20),
+            SizedBox(
+              width: double.infinity,
+              child: ElevatedButton(
+                onPressed: _saveResult,
+                style: ElevatedButton.styleFrom(padding: const EdgeInsets.all(16)),
+                child: const Text("SAVE RESULT (Offline)"),
+              ),
+            ),
+          ],
         ),
       ),
     );
