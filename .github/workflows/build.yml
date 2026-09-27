@@ -3,16 +3,13 @@ on:
   push:
     branches: [ main ]
   workflow_dispatch:
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
   group: "pages"
   cancel-in-progress: false
-
 jobs:
   build-web:
     runs-on: ubuntu-24.04
@@ -25,9 +22,9 @@ jobs:
       - uses: subosito/flutter-action@v2
         with:
           channel: stable
-          flutter-version: '3.24.5'
+          flutter-version: '3.32.5'
           cache: true
-      - name: Build PWA 2027
+      - name: Build PWA
         working-directory: ${{ env.PROJECT_DIR }}
         run: |
           flutter config --enable-web
@@ -53,18 +50,16 @@ jobs:
       - uses: subosito/flutter-action@v2
         with:
           channel: stable
-          flutter-version: '3.24.5'
+          flutter-version: '3.32.5'
           cache: true
       - name: FIX GRADLE + BUILD APK 2027
         working-directory: ${{ env.PROJECT_DIR }}
         run: |
           rm -rf android
           flutter create --platforms=android --project-name=pu_watch --org com.puwatch.app .
-          flutter config --enable-android
           flutter pub get
-          flutter build apk --release
-      - name: Upload APK
-        uses: actions/upload-artifact@v4
+          flutter build apk --release --verbose
+      - uses: actions/upload-artifact@v4
         with:
           name: pu-watch-apk-2027
           path: ${{ env.PROJECT_DIR }}/build/app/outputs/flutter-apk/app-release.apk
