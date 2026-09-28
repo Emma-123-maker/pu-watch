@@ -34,10 +34,22 @@ class HomeShell extends StatefulWidget {
 
 class _HomeShellState extends State<HomeShell> {
   int idx = 0;
-  final pages = [PUSearchScreen(), CheckInScreen(), HelpSupportScreen()];
+  String selectedPU = "";
+
+  void onPUSelected(String code) {
+    setState(() {
+      selectedPU = code;
+      idx = 1;
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
+    final pages = [
+      PUSearchScreen(onPUSelected: onPUSelected),
+      CheckInScreen(initialCode: selectedPU),
+      HelpSupportScreen()
+    ];
     return Scaffold(
       body: pages[idx],
       bottomNavigationBar: BottomNavigationBar(
