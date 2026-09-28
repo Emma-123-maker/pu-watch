@@ -27,7 +27,6 @@ flutter:
     - assets/data/pu_sample.json
     - assets/data/states_index.json
     - assets/data/states/
-    - assets/icon/pu_icon.png
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
