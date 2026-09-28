@@ -2,11 +2,9 @@ name: pu_watch
 description: Every PU becomes a live broadcaster for transparent elections.
 publish_to: 'none'
 version: 1.0.0+97
-
 environment:
   sdk: '>=3.4.0 <4.0.0'
   flutter: '>=3.29.0'
-
 dependencies:
   flutter:
     sdk: flutter
@@ -18,13 +16,11 @@ dependencies:
   hive: ^2.2.3
   path_provider: ^2.1.5
   image_picker: ^1.1.2
-
 dev_dependencies:
   flutter_lints: ^5.0.0
   hive_generator: ^2.0.1
   build_runner: ^2.4.13
   flutter_launcher_icons: ^0.14.2
-
 flutter:
   uses-material-design: true
   assets:
@@ -32,12 +28,8 @@ flutter:
     - assets/data/states_index.json
     - assets/data/states/
     - assets/icon/pu_icon.png
-
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
   image_path: "assets/icon/pu_icon.png"
   min_sdk_android: 21
-  web:
-    generate: true
-    image_path: "assets/icon/pu_icon.png"
