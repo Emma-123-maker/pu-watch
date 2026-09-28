@@ -4,7 +4,8 @@ import 'package:flutter/services.dart';
 import 'pu_detail_screen.dart';
 
 class PUSearchScreen extends StatefulWidget {
-  const PUSearchScreen({super.key});
+  final Function(String)? onPUSelected;
+  const PUSearchScreen({super.key, this.onPUSelected});
   @override State<PUSearchScreen> createState() => _PUSearchScreenState();
 }
 
@@ -15,7 +16,6 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
   bool _isLoading = true;
   String _info = '';
 
-  // Dropdown state
   String? _selectedState;
   String? _selectedLGA;
   String? _selectedWard;
@@ -52,8 +52,7 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
       'ward': _g(raw, ['ward','wardName','ward_name','reg_area']).toUpperCase(),
       'state': _g(raw, ['state','stateName','state_name']).trim(),
       'stateCode': _g(raw, ['stateCode','state_code']),
-    ...raw,
-      // keep normalized copies for filter
+   ...raw,
       'lga_norm': _g(raw, ['lga','lgaName','lga_name','LGA']).toUpperCase(),
       'ward_norm': _g(raw, ['ward','wardName','ward_name','reg_area']).toUpperCase(),
       'state_norm': _g(raw, ['state','stateName','state_name']).trim(),
@@ -100,7 +99,6 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
       } catch (_) {}
     }
 
-    // Build states list
     final stateSet = <String>{};
     for (var pu in all) { if(pu['state'].toString().isNotEmpty) stateSet.add(pu['state'].toString()); }
 
@@ -178,11 +176,9 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
     return Scaffold(
       appBar: AppBar(title: const Text('PU-Watch 2027 - Search PU')),
       body: Column(children: [
-        // FILTERS SECTION
         Padding(
           padding: const EdgeInsets.all(12),
           child: Column(children: [
-            // State dropdown
             DropdownButtonFormField<String>(
               value: _selectedState,
               isExpanded: true,
@@ -221,7 +217,7 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
                 border: const OutlineInputBorder(),
                 isDense: true,
                 suffixIcon: (_selectedState!=null || _searchController.text.isNotEmpty)
-                 ? IconButton(icon: const Icon(Icons.clear), onPressed: _clearAll) : null,
+                ? IconButton(icon: const Icon(Icons.clear), onPressed: _clearAll) : null,
               ),
             ),
           ]),
@@ -234,7 +230,7 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
         if (_isLoading) const Expanded(child: Center(child: CircularProgressIndicator()))
         else Expanded(
           child: _filteredPUs.isEmpty
-         ? const Center(child: Text('No PU matches your filter'))
+        ? const Center(child: Text('No PU matches your filter'))
           : ListView.separated(
             itemCount: _filteredPUs.length > 3000? 3000 : _filteredPUs.length,
             separatorBuilder: (_,__)=>const Divider(height:1),
@@ -245,7 +241,13 @@ class _PUSearchScreenState extends State<PUSearchScreen> {
                 subtitle: Text('${pu['pu_name']}\n${pu['state']} / ${pu['lga']} / ${pu['ward']}'),
                 isThreeLine: true,
                 trailing: const Icon(Icons.chevron_right),
-                onTap: ()=> Navigator.push(context, MaterialPageRoute(builder: (_)=> PUDetailScreen(pu: Map<String,dynamic>.from(pu)))),
+                onTap: () {
+                  if (widget.onPUSelected!= null) {
+                    widget.onPUSelected!(pu['pu_code']?.toString()?? '');
+                  } else {
+                    Navigator.push(context, MaterialPageRoute(builder: (_)=> PUDetailScreen(pu: Map<String,dynamic>.from(pu))));
+                  }
+                },
               );
             },
           ),
