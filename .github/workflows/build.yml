@@ -53,11 +53,19 @@ jobs:
           channel: stable
           flutter-version: '3.32.5'
           cache: true
-      - name: FIX GRADLE + BUILD APK 2027
+      - name: FIX GRADLE + BUILD APK 2027 + GPS PERMISSIONS
         working-directory: ${{ env.PROJECT_DIR }}
         run: |
           if [ ! -d android ]; then
             flutter create --platforms=android --project-name=pu_watch --org com.puwatch.app .
+          fi
+          echo "Adding GPS permissions to AndroidManifest.xml"
+          MANIFEST=android/app/src/main/AndroidManifest.xml
+          if [ -f "$MANIFEST" ]; then
+            if ! grep -q "ACCESS_FINE_LOCATION" "$MANIFEST"; then
+              sed -i '/<application/i \    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />\n    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />\n    <uses-permission android:name="android.permission.INTERNET" />\n    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />' "$MANIFEST"
+            fi
+            cat "$MANIFEST"
           fi
           flutter pub get
           dart run flutter_launcher_icons
