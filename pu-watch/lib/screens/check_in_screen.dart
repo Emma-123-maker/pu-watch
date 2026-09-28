@@ -187,7 +187,7 @@ class _CheckInScreenState extends State<CheckInScreen> {
                 child: SizedBox(
                   height: 180,
                   child: FlutterMap(
-                    options: MapOptions(center: LatLng(_lastPos!.latitude, _lastPos!.longitude), zoom: 16),
+                    options: MapOptions(initialCenter: LatLng(_lastPos!.latitude, _lastPos!.longitude), initialZoom: 16),
                     children: [
                       TileLayer(urlTemplate: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png', userAgentPackageName: 'com.puwatch.app'),
                       MarkerLayer(markers: [Marker(point: LatLng(_lastPos!.latitude, _lastPos!.longitude), width: 50, height: 50, child: Icon(Icons.location_on, color: Colors.red, size: 40))]),
