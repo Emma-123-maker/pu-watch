@@ -209,7 +209,11 @@ class _CheckInScreenState extends State<CheckInScreen> {
                   child: FlutterMap(
                     options: MapOptions(initialCenter: LatLng(_lastPos!.latitude, _lastPos!.longitude), initialZoom: 16),
                     children: [
-                      TileLayer(urlTemplate: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png', userAgentPackageName: 'com.puwatch.app'),
+                      TileLayer(
+                        urlTemplate: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+                        userAgentPackageName: 'com.puwatch.app',
+                        maxZoom: 19,
+                      ),
                       MarkerLayer(markers: [Marker(point: LatLng(_lastPos!.latitude, _lastPos!.longitude), width: 50, height: 50, child: Icon(Icons.location_on, color: Colors.red, size: 40))]),
                       CircleLayer(circles: [CircleMarker(point: LatLng(_lastPos!.latitude, _lastPos!.longitude), radius: _lastPos!.accuracy, useRadiusInMeter: true, color: Colors.blue.withOpacity(0.2), borderColor: Colors.blue, borderStrokeWidth: 2)]),
                     ],
