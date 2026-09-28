@@ -60,6 +60,7 @@ jobs:
             flutter create --platforms=android --project-name=pu_watch --org com.puwatch.app .
           fi
           flutter pub get
+          dart run flutter_launcher_icons
           flutter build apk --release
       - uses: actions/upload-artifact@v4
         with:
