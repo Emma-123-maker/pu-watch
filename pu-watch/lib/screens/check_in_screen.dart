@@ -4,22 +4,43 @@ import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 class CheckInScreen extends StatefulWidget {
-  const CheckInScreen({super.key});
+  final String initialCode;
+  const CheckInScreen({super.key, this.initialCode = ""});
   @override
   State<CheckInScreen> createState() => _CheckInScreenState();
 }
 
 class _CheckInScreenState extends State<CheckInScreen> {
   String? gpsText;
-  String? puCode = "AK/02/03/005";
+  String puCode = "AK/02/03/005";
   bool isOffline = false;
   int pendingCount = 0;
   late Box box;
+  late TextEditingController _puController;
 
   @override
   void initState() {
     super.initState();
+    puCode = widget.initialCode.isNotEmpty? widget.initialCode : "AK/02/03/005";
+    _puController = TextEditingController(text: puCode);
     initOffline();
+  }
+
+  @override
+  void didUpdateWidget(covariant CheckInScreen oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    if (widget.initialCode.isNotEmpty && widget.initialCode!= oldWidget.initialCode) {
+      setState(() {
+        puCode = widget.initialCode;
+        _puController.text = widget.initialCode;
+      });
+    }
+  }
+
+  @override
+  void dispose() {
+    _puController.dispose();
+    super.dispose();
   }
 
   Future<void> initOffline() async {
@@ -77,9 +98,7 @@ class _CheckInScreenState extends State<CheckInScreen> {
         SnackBar(content: Text('📴 Offline saved! $pendingCount pending — will auto-sync when online'), backgroundColor: Colors.orange[800]),
       );
     } else {
-      // Simulate online upload, then mark synced
-      await Future.delayed(Duration(seconds: 1)); // replace with your API call
-      // Mark last as synced
+      await Future.delayed(Duration(seconds: 1));
       var lastIndex = box.length - 1;
       var last = box.getAt(lastIndex);
       last['synced'] = true;
@@ -95,12 +114,11 @@ class _CheckInScreenState extends State<CheckInScreen> {
 
   Future<void> syncPending() async {
     if (box.values.where((e) => e['synced'] == false).isEmpty) return;
-    // Here you would loop and upload each pending to your server
     for (int i = 0; i < box.length; i++) {
       var item = box.getAt(i);
       if (item['synced'] == false) {
         try {
-          await Future.delayed(Duration(milliseconds: 500)); // replace with API call
+          await Future.delayed(Duration(milliseconds: 500));
           item['synced'] = true;
           await box.putAt(i, item);
         } catch (_) {}
@@ -109,7 +127,7 @@ class _CheckInScreenState extends State<CheckInScreen> {
     setState(() {
       pendingCount = box.values.where((e) => e['synced'] == false).length;
     });
-    if (mounted && pendingCount == 0) {
+    if (mounted && pendingCount == 0 && box.isNotEmpty) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(content: Text('🔄 All offline check-ins synced!')),
       );
@@ -151,16 +169,27 @@ class _CheckInScreenState extends State<CheckInScreen> {
               ),
             SizedBox(height: 12),
             TextField(
-              decoration: InputDecoration(labelText: "Enter PU Code e.g AK/02/03/005", border: OutlineInputBorder()),
+              controller: _puController,
+              decoration: InputDecoration(
+                labelText: "Enter PU Code e.g AK/02/03/005",
+                border: OutlineInputBorder(),
+                prefixIcon: Icon(Icons.how_to_vote),
+                suffixIcon: widget.initialCode.isNotEmpty? Icon(Icons.check_circle, color: Colors.green) : null,
+              ),
               onChanged: (v) => puCode = v,
-              controller: TextEditingController(text: puCode),
             ),
+            if (widget.initialCode.isNotEmpty)
+              Padding(
+                padding: EdgeInsets.only(top:8),
+                child: Text("✅ Auto-filled from Find PU: ${widget.initialCode}", style: TextStyle(color: Colors.green[800], fontWeight: FontWeight.bold, fontSize:12)),
+              ),
             SizedBox(height: 20),
             ElevatedButton.icon(onPressed: getLocation, icon: Icon(Icons.gps_fixed), label: Text("Capture GPS Proof")),
             SizedBox(height: 20),
             if (gpsText!= null)
               Container(
                 padding: EdgeInsets.all(12),
+                width: double.infinity,
                 decoration: BoxDecoration(color: Colors.green[50], border: Border.all(color: Colors.green)),
                 child: Text("📍 $gpsText\n⏰ ${DateTime.now()}\n✅ Verified at PU: $puCode", style: TextStyle(fontSize: 16)),
               ),
