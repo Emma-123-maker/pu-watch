@@ -17,6 +17,7 @@ class _CheckInScreenState extends State<CheckInScreen> {
   Position? _lastPos;
   String puCode = "AK/02/03/005";
   bool isOffline = false;
+  bool isLoadingGps = false;
   int pendingCount = 0;
   late Box box;
   late TextEditingController _puController;
@@ -69,16 +70,34 @@ class _CheckInScreenState extends State<CheckInScreen> {
   }
 
   Future<void> getLocation() async {
-    LocationPermission perm = await Geolocator.requestPermission();
-    if (perm== LocationPermission.denied || perm== LocationPermission.deniedForever) {
-      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('❌ Location permission denied')));
-      return;
+    setState(() => isLoadingGps = true);
+    try {
+      bool serviceEnabled = await Geolocator.isLocationServiceEnabled();
+      if (!serviceEnabled) {
+        ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('📡 Please turn ON Location/GPS in phone settings'), backgroundColor: Colors.red[700]));
+        setState(() => isLoadingGps = false);
+        return;
+      }
+      LocationPermission perm = await Geolocator.checkPermission();
+      if (perm == LocationPermission.denied) {
+        perm = await Geolocator.requestPermission();
+      }
+      if (perm== LocationPermission.denied || perm== LocationPermission.deniedForever) {
+        ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('❌ Location permission denied. Go to App Info -> Permissions -> Allow Location'), backgroundColor: Colors.red[700]));
+        setState(() => isLoadingGps = false);
+        return;
+      }
+      Position pos = await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.high, timeLimit: Duration(seconds: 15));
+      setState(() {
+        _lastPos = pos;
+        gpsText = "${pos.latitude.toStringAsFixed(6)}, ${pos.longitude.toStringAsFixed(6)} (±${pos.accuracy.toStringAsFixed(0)}m)";
+        isLoadingGps = false;
+      });
+      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('✅ GPS captured!'), backgroundColor: Colors.green[700]));
+    } catch (e) {
+      setState(() => isLoadingGps = false);
+      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('⚠️ GPS Error: $e'), backgroundColor: Colors.red[700]));
     }
-    Position pos = await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.high);
-    setState(() {
-      _lastPos = pos;
-      gpsText = "${pos.latitude.toStringAsFixed(6)}, ${pos.longitude.toStringAsFixed(6)} (±${pos.accuracy.toStringAsFixed(0)}m)";
-    });
   }
 
   Future<void> submitCheckIn() async {
@@ -110,7 +129,7 @@ class _CheckInScreenState extends State<CheckInScreen> {
       setState(() {
         pendingCount = box.values.where((e) => e['synced'] == false).length;
       });
-      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('✅ Check-in sent! Online mode'), backgroundColor: Colors.green[800]));
+      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('✅ Check-in sent!'), backgroundColor: Colors.green[800]));
     }
   }
 
@@ -129,9 +148,6 @@ class _CheckInScreenState extends State<CheckInScreen> {
     setState(() {
       pendingCount = box.values.where((e) => e['synced'] == false).length;
     });
-    if (mounted && pendingCount == 0 && box.isNotEmpty) {
-      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('🔄 All offline check-ins synced!')));
-    }
   }
 
   @override
@@ -150,7 +166,7 @@ class _CheckInScreenState extends State<CheckInScreen> {
           )
         ],
       ),
-      body: Padding(
+      body: SingleChildScrollView(
         padding: EdgeInsets.all(12),
         child: Column(
           children: [
@@ -169,8 +185,12 @@ class _CheckInScreenState extends State<CheckInScreen> {
             if (widget.initialCode.isNotEmpty)
               Padding(padding: EdgeInsets.only(top:6), child: Text("✅ Auto-filled: ${widget.initialCode}", style: TextStyle(color: Colors.green[800], fontWeight: FontWeight.bold, fontSize:11))),
             SizedBox(height: 12),
-            ElevatedButton.icon(onPressed: getLocation, icon: Icon(Icons.gps_fixed), label: Text("Capture GPS Proof"), style: ElevatedButton.styleFrom(minimumSize: Size(double.infinity, 44))),
-
+            ElevatedButton.icon(
+              onPressed: isLoadingGps? null : getLocation,
+              icon: isLoadingGps? SizedBox(width:16,height:16,child:CircularProgressIndicator(strokeWidth:2)) : Icon(Icons.gps_fixed),
+              label: Text(isLoadingGps? "Searching GPS..." : "Capture GPS Proof"),
+              style: ElevatedButton.styleFrom(minimumSize: Size(double.infinity, 44))
+            ),
             if (_lastPos!= null)...[
               SizedBox(height: 12),
               Container(
@@ -199,7 +219,7 @@ class _CheckInScreenState extends State<CheckInScreen> {
               SizedBox(height: 6),
               Text(_lastPos!.accuracy < 30? "✅ Good accuracy - Verified at PU" : "⚠️ Move outside for better GPS (accuracy ${_lastPos!.accuracy.toStringAsFixed(0)}m)", style: TextStyle(fontSize:11, color: _lastPos!.accuracy < 30? Colors.green[800] : Colors.orange[800])),
             ],
-            Spacer(),
+            SizedBox(height: 20),
             ElevatedButton(
               style: ElevatedButton.styleFrom(backgroundColor: Colors.green[800], minimumSize: Size(double.infinity, 50)),
               onPressed: submitCheckIn,
