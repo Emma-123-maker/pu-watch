@@ -8,7 +8,7 @@ class HelpScreen extends StatelessWidget {
 
   // Change this to your real state lead number
   final String stateLeadNumber = "2348066316416"; // 234 format, no +
-  final String stateName = "Ondo";
+  final String stateName = "Ondo State";
 
   Future<void> openWhatsApp(BuildContext context) async {
     final text = Uri.encodeComponent("Hello State Lead, I need help at PU. My location: Akwa Ibom. Issue: ");
