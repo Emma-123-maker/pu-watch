@@ -4,6 +4,7 @@ import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
+import 'ec8a_capture_screen.dart'; // <-- ADDED FOR ANTI-RIGGING
 
 class CheckInScreen extends StatefulWidget {
   final String initialCode;
@@ -82,7 +83,7 @@ class _CheckInScreenState extends State<CheckInScreen> {
       if (perm == LocationPermission.denied) {
         perm = await Geolocator.requestPermission();
       }
-      if (perm== LocationPermission.denied || perm== LocationPermission.deniedForever) {
+      if (perm == LocationPermission.denied || perm == LocationPermission.deniedForever) {
         ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('❌ Location permission denied. Go to App Info -> Permissions -> Allow Location'), backgroundColor: Colors.red[700]));
         setState(() => isLoadingGps = false);
         return;
@@ -174,7 +175,7 @@ class _CheckInScreenState extends State<CheckInScreen> {
               Container(
                 padding: EdgeInsets.all(10),
                 decoration: BoxDecoration(color: Colors.orange[100], borderRadius: BorderRadius.circular(8)),
-                child: Row(children: [Icon(Icons.wifi_off, color: Colors.orange[800]), SizedBox(width: 8), Expanded(child: Text('Offline Mode — $pendingCount pending', style: TextStyle(fontSize:12)))]),
+                child: Row(children: [Icon(Icons.wifi_off, color: Colors.orange[800]), SizedBox(width: 8), Expanded(child: Text('Offline Mode — $pendingCount pending', style: TextStyle(fontSize: 12)))]),
               ),
             SizedBox(height: 10),
             TextField(
@@ -183,22 +184,21 @@ class _CheckInScreenState extends State<CheckInScreen> {
               onChanged: (v) => puCode = v,
             ),
             if (widget.initialCode.isNotEmpty)
-              Padding(padding: EdgeInsets.only(top:6), child: Text("✅ Auto-filled: ${widget.initialCode}", style: TextStyle(color: Colors.green[800], fontWeight: FontWeight.bold, fontSize:11))),
+              Padding(padding: EdgeInsets.only(top: 6), child: Text("✅ Auto-filled: ${widget.initialCode}", style: TextStyle(color: Colors.green[800], fontWeight: FontWeight.bold, fontSize: 11))),
             SizedBox(height: 12),
             ElevatedButton.icon(
-              onPressed: isLoadingGps? null : getLocation,
-              icon: isLoadingGps? SizedBox(width:16,height:16,child:CircularProgressIndicator(strokeWidth:2)) : Icon(Icons.gps_fixed),
-              label: Text(isLoadingGps? "Searching GPS..." : "Capture GPS Proof"),
-              style: ElevatedButton.styleFrom(minimumSize: Size(double.infinity, 44))
-            ),
+                onPressed: isLoadingGps? null : getLocation,
+                icon: isLoadingGps? SizedBox(width: 16, height: 16, child: CircularProgressIndicator(strokeWidth: 2)) : Icon(Icons.gps_fixed),
+                label: Text(isLoadingGps? "Searching GPS..." : "Capture GPS Proof"),
+                style: ElevatedButton.styleFrom(minimumSize: Size(double.infinity, 44))),
             if (_lastPos!= null)...[
               SizedBox(height: 12),
               Container(
                 padding: EdgeInsets.all(10),
                 decoration: BoxDecoration(color: Colors.green[50], border: Border.all(color: Colors.green), borderRadius: BorderRadius.circular(8)),
                 child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                  Text("📍 $gpsText", style: TextStyle(fontWeight: FontWeight.bold, fontSize:13)),
-                  Text("⏰ ${DateTime.now().toString().substring(0,19)}\n✅ PU: $puCode", style: TextStyle(fontSize:12)),
+                  Text("📍 $gpsText", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13)),
+                  Text("⏰ ${DateTime.now().toString().substring(0, 19)}\n✅ PU: $puCode", style: TextStyle(fontSize: 12)),
                 ]),
               ),
               SizedBox(height: 10),
@@ -221,7 +221,7 @@ class _CheckInScreenState extends State<CheckInScreen> {
                 ),
               ),
               SizedBox(height: 6),
-              Text(_lastPos!.accuracy < 30? "✅ Good accuracy - Verified at PU" : "⚠️ Move outside for better GPS (accuracy ${_lastPos!.accuracy.toStringAsFixed(0)}m)", style: TextStyle(fontSize:11, color: _lastPos!.accuracy < 30? Colors.green[800] : Colors.orange[800])),
+              Text(_lastPos!.accuracy < 30? "✅ Good accuracy - Verified at PU" : "⚠️ Move outside for better GPS (accuracy ${_lastPos!.accuracy.toStringAsFixed(0)}m)", style: TextStyle(fontSize: 11, color: _lastPos!.accuracy < 30? Colors.green[800] : Colors.orange[800])),
             ],
             SizedBox(height: 20),
             ElevatedButton(
@@ -229,7 +229,33 @@ class _CheckInScreenState extends State<CheckInScreen> {
               onPressed: submitCheckIn,
               child: Text(isOffline? "SAVE OFFLINE CHECK-IN" : "CHECK-IN NOW", style: TextStyle(color: Colors.white)),
             ),
-            if (pendingCount > 0) TextButton(onPressed: syncPending, child: Text("🔄 Sync $pendingCount pending now", style: TextStyle(fontSize:12))),
+            if (pendingCount > 0) TextButton(onPressed: syncPending, child: Text("🔄 Sync $pendingCount pending now", style: TextStyle(fontSize: 12))),
+
+            // === ANTI-RIGGING EC8A BUTTON ===
+            SizedBox(height: 16),
+            Divider(),
+            SizedBox(height: 8),
+            ElevatedButton.icon(
+              style: ElevatedButton.styleFrom(backgroundColor: Colors.red[800], minimumSize: Size(double.infinity, 56)),
+              icon: Icon(Icons.shield, color: Colors.white),
+              label: Text("CAPTURE EC8A RESULT - ANTI-RIGGING", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
+              onPressed: () {
+                if (puCode.isEmpty) {
+                  ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Enter PU Code first")));
+                  return;
+                }
+                if (_lastPos == null) {
+                  ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Capture GPS first to prove you are at PU")));
+                  return;
+                }
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (_) => EC8ACaptureScreen(puCode: puCode)),
+                );
+              },
+            ),
+            SizedBox(height: 6),
+            Text("Forced Camera + GPS watermark — No gallery allowed", style: TextStyle(fontSize: 10, color: Colors.grey[600])),
           ],
         ),
       ),
