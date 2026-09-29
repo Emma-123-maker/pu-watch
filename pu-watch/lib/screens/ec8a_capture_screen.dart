@@ -64,7 +64,7 @@ class _EC8ACaptureScreenState extends State<EC8ACaptureScreen> {
                         child: Center(
                           child: ElevatedButton.icon(
                             icon: const Icon(Icons.camera_alt),
-                            label: const Text("TAKE LIVE PHOTO - NO GALLERY"),
+                            label: const Text("TAKE LIVE PHOTO - NO GALLERY", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
                             style: ElevatedButton.styleFrom(backgroundColor: Colors.green, padding: const EdgeInsets.all(20)),
                             onPressed: _takePhoto,
                           ),
