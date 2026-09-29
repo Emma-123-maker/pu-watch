@@ -48,7 +48,7 @@ class _HomeShellState extends State<HomeShell> {
     final pages = [
       PUSearchScreen(onPUSelected: onPUSelected),
       CheckInScreen(initialCode: selectedPU),
-      HelpScreen()
+      HelpSupportScreen()
     ];
     return Scaffold(
       body: pages[idx],
